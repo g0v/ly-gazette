@@ -1,4 +1,5 @@
 院會紀錄
+<img SRC="data:image/gif;base64,R0lGODlhXgCGAPAAAAAA/wD//ywAAAAAXgCGAIf///8AAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAItgABCBxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bNmzhz6tzJs6fPn0CDCh1KtKjRo0iTKl3KtKnTp1CjSp1KtarVq1izat3KtavXr2DDih1LtqzZs2jTql3Ltq3bt3Djyp1Lt67du3jz6t3Lt6/fv4ADCx5MuLDhw4gTK17MuLHjx5AjS55MubLly5gza97MubPnkQEBACH/C1NUQVJESVYgNS4wCQGpCQAAyw0AAAA7" ALIGN="LEFT" HSPACE="12">
 一、立法院第五屆第五會期第十四次會議紀錄
 時　　間　中華民國九十三年四月三十日（星期五）上午十時、五月四日（星期二）上午九時二十分
 地　　點　本院議場
@@ -390,6 +391,7 @@
 休息（十一時五十八分）
 立法院公報　第九十三卷　第二十五期　院會紀錄	29
 繼續開會（九十三年五月四日上午九時二十分）
+<img SRC="data:image/gif;base64,R0lGODlhfwC0APAAAAAA/wD//ywAAAAAfwC0AIf///8AAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI8wABCBxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bNmzhz6tzJs6fPn0CDCh1KtKjRo0iTKl3KtKnTp1CjSp1KtarVq1izat3KtavXr2DDih1LtqzZs2jTql3Ltq3bt3Djyp1Lt67du3jz6t3Lt6/fv4ADCx5MuLDhw4gTK17MuLHjx5AjS55MubLly5gza97MubPnz6BDix5NurTp06hTq17NurXr17Bjy55Nu7bt27hz697Nu7fv38CDCx9OvLjx48iTK1/OvLnz59CjS59OvXrRgAAh/wtTVEFSRElWIDUuMAkBqQkAAMsNAAAAOw==" ALIGN="LEFT" HSPACE="16">
 主席（王院長金平）：現在繼續開會，進行討論事項第一案。
 討論事項
 一、本院衛生環境及社會福利委員會報告審查行政院函請審議廢止「兒童福利法」及「少年福利法」案。
@@ -674,7 +676,7 @@
 （註：國民教育法部分條文修正草案請參閱審查報告所附條文對照表）
 本院委員余政道、林豐喜等三十二人，為國民教育為憲法明定為人民的權利，當然在其學習的教科書，不因所處地域差異而有所差異，要解決此一亂象，爰提案修正「國民教育法」，增列第八條之三，主張將全國國中小教科書的採購，由教育部統籌辦理，是否有當，敬請公決。
 提案人：余政道　林豐喜
-連署人：張秀珍　曹啟鴻　魏明谷陳金德　林育生　蔡啟芳張花冠　陳茂男　林重謨湯金全　陳道明　邱太三李鎮楠　彭添富　賴勁麟唐碧娥　王淑慧　葉宜津蔡煌瑯　陳其邁　杜文卿張清芳　王雪　周伯倫李俊毅　高志鵬　趙永清王幸男　鄭余鎮　侯水盛
+連署人：張秀珍　曹啟鴻　魏明谷陳金德　林育生　蔡啟芳張花冠　陳茂男　林重謨湯金全　陳道明　邱太三李鎮楠　彭添富　賴勁麟唐碧娥　王淑慧　葉宜津蔡煌瑯　陳其邁　杜文卿張清芳　王雪峯　周伯倫李俊毅　高志鵬　趙永清王幸男　鄭余鎮　侯水盛
 「國民教育法」增列第八條之三條文修正草案總說明
 一、教育部在民國八十五學年度逐漸開放國中小教科書由民間編輯，也就是所謂的「教科書鬆綁」，試圖藉由更多元的教科書，培養下一代更多元化的思考，進而逐漸發展出更具活力與創意的社會。依據「憲法」第二十一條規定：「人民有受國民教育之權利與義務。」、第一五九條更進一步規定：「國民受教育之機會，一律平等。」第一六○條也規定：「六歲至十二歲之學齡兒童，一律受基本教育，免納學費。……」更充分揭櫫人民受國民義務教育所需的相關費用，不因學童所在地，而有所不同。
 二、但是，根據調查發現，自從國中小教科書開放由民間編輯，並授權給每個學校的校務會議選定，由於採購的方式不同，造成同一本教科書，但是在各縣市、甚至同一縣市的各學校中，價格會有所不同。主要是因為目前國中小教科書的採購，無法源依據，所以各縣市政府都有不同的採購方式；例如，包括台中縣、基隆市、桃園縣、苗栗縣、新竹縣、嘉義縣及台東縣七個縣市是由縣市政府補助書籍費用，所以是由縣市政府彙辦教科書的採購事宜；除此之外的縣市，大都由各個國中小自行負責採購，所以同樣一本教科書，價格當然會有所不同。
@@ -691,7 +693,7 @@
 一、為確保幼稚教育品質，並減輕家庭負擔，爰提出「國民教育法」草案，將義務教育向下延伸到五歲。
 二、本草案修正條文共六條。
 提案人：周雅淑　唐碧娥　李俊毅
-連署人：郭添財　葉宜津　盧秀燕陳景峻　羅志明　鄭余鎮張花冠　蔡啟芳　吳成典陳其邁　蘇治芬　徐少萍陳根德　周伯倫　周慧瑛陳道明　陳忠信　陳勝宏彭添富　梁牧養　王雪王幸男　郭玟成　李明憲邱永仁　李永萍　鄭朝明林正二　李鎮楠　余政道黃宗源　邱　毅　章仁香柯淑敏　柯建銘　邱垂貞洪奇昌　陳劍松　許舒博高志鵬　廖本煙　洪昭男曾蔡美佐 周錫瑋 魏明谷林豐喜　朱鳳芝
+連署人：郭添財　葉宜津　盧秀燕陳景峻　羅志明　鄭余鎮張花冠　蔡啟芳　吳成典陳其邁　蘇治芬　徐少萍陳根德　周伯倫　周慧瑛陳道明　陳忠信　陳勝宏彭添富　梁牧養　王雪峯王幸男　郭玟成　李明憲邱永仁　李永萍　鄭朝明林正二　李鎮楠　余政道黃宗源　邱　毅　章仁香柯淑敏　柯建銘　邱垂貞洪奇昌　陳劍松　許舒博高志鵬　廖本煙　洪昭男曾蔡美佐 周錫瑋 魏明谷林豐喜　朱鳳芝
 國民教育法部分條文修正草案總說明
 幼稚園是幼兒第一所正式的學習場所，也是幼兒進入團體生活中成長學習的第一站，在童年生活中扮演著非常重要的角色；雖然政府不斷宣示加強幼稚教育決心。但是目前幼稚教育的現況是，幼稚教育的普及率高達九成六，接受幼稚教育的學生佔全體學生數四．五八%，但政府對幼稚教育的預算及經費補助與各級學校比僅佔二．二九%，而就讀幼稚園的學生當中，有六九．七九%就讀私立幼稚園，每年公立幼稚園的名額僧多粥少，對一般受薪家庭而言，負擔非常沉重！
 再者，就目前狀況而言，教育部針對就讀立案私立幼稚園的孩童，每學期發放五千元、一年共一萬元的教育券。然而國內許多幼稚園師資不合格，學生活動空間也未達標準，照樣可以領到幼教券，甚至以低價招攬學生，提供品質低劣的幼稚教育環境，顯見幼教券無法達到提升私立幼稚園水準的目標，以至於幼稚園品質良莠不齊。此外，許多未立案的私立幼稚園以低價招收學生，提供品質低劣的幼稚教育，事實上已經造成幼教品質的貧富差距。
@@ -707,7 +709,7 @@
 （註：國民教育法第六條條文修正草案請參閱審查報告所附條文對照表）
 本院委員余政道、鄭朝明等四十四人，為國民教育是憲法明定人民之權利，邇來卻因教科圖書之輔助教材長期以來皆缺乏管理法令，現今更因政府大力改革教科圖書市場，致使問題流弊叢生，為澈底解決國民中小學之參考用書市價不合理飆漲，且為導正教科圖書及其輔助教材長期被扭曲之觀念，並將之納入管理機制，特提案修正「國民教育法」第八條之二，是否有當，敬請公決。
 提案人：余政道　鄭朝明
-連署人：李鎮楠　謝明源　陳宗義李俊毅　周清玉　李明憲林文郎　杜文卿　邱創進賴清德　趙永清　尤　清周雅淑　盧博基　藍美津王淑慧　曹啟鴻　張川田王雪　邱垂貞　林國華王幸男　張旭成　龐建國陳唐山　卓榮泰　陳其邁唐碧娥　湯金全　何金松彭添富　陳朝龍　侯水盛梁牧養　魏明谷　林忠正陳道明　邱議瑩　邱太三鄭國忠　邱永仁　蔡啟芳
+連署人：李鎮楠　謝明源　陳宗義李俊毅　周清玉　李明憲林文郎　杜文卿　邱創進賴清德　趙永清　尤　清周雅淑　盧博基　藍美津王淑慧　曹啟鴻　張川田王雪峯　邱垂貞　林國華王幸男　張旭成　龐建國陳唐山　卓榮泰　陳其邁唐碧娥　湯金全　何金松彭添富　陳朝龍　侯水盛梁牧養　魏明谷　林忠正陳道明　邱議瑩　邱太三鄭國忠　邱永仁　蔡啟芳
 「國民教育法」第八條之二條文修正草案總說明
 一、教育部在八十五學年度開放國中小教科書由民間編輯，也就是所謂的「教科書鬆綁」，試圖藉由更多元的教科書，培養下一代更多元、更開放的思考，進而發展出更具活力與創意的社會。依憲法第二十一條規定：「人民有受國民教育之權利與義務。」第一五九條更進一步規定：「國民受教育之機會，一律平等。」第一六○條也規定：「六歲至十二歲之學齡兒童，一律受基本教育，免納學費。……」更充分揭櫫國民受義務教育所需的相關經費，不因學童所在地域，而待遇有所不同。
 二、邇來各縣市國中小學教科圖書價格因政府積極介入，促使教科書之全國價格得以統一，並統一標購、以量制價，使得價格得以向下調整，家長學生皆受其益。而教科圖書之輔助教材，因為長期以來皆缺乏管理法令，現今更因政府大力改革教科圖書市場，致使問題流弊叢生。審視其相關問題所在，一為缺乏管理辦法，另一則為市場獨沽。進而衍生出包括「交叉補貼」、及「版權閉鎖」等流弊與問題，造成目前的亂象。為解決目前的亂象，其一為明定教科圖書之輔助教材相關管理辦法故亦需修正「國民教育法」，將其納入政府管理機制當中。另一則為修改「著作權」將教科圖書之著作權，將輔助教材為教育目的得以重製、改作或編輯；希望藉由教科圖書版權的開放，使更多願意參與輔助教材編製者，得以加入此一行列，希望藉由版本數量的增加以抑制居高不下的參考書價格。
@@ -977,7 +979,7 @@
 二、本席以為，該項老人活動中心可結合大譚社區活動中心併案辦理，利用台電大譚廠住宅區內公有地約一千八百坪左右，以興建地下一層、地上四層綜合大樓，其內部設計應除行政中心外，並應設有長青學院教室、休息室、棋藝室、健身室、圖書室、視聽室以及展覽空間等，充分滿足老人之休閒需求。
 三、因此，建請中央有關單位，應重視觀音鄉興建老人活動中心之急迫性，給予充裕經費及行政支援，提供該鄉鎮社區內之老人休閒、育樂、進修、健康諮詢等綜合性服務，做為政府落實推動老人福祉之決心，彰顯政府公信之存在。
 提案人：李鎮楠
-連署人：李明憲　陳景峻　邱創進陳宗義　蔡煌瑯　張學舜王幸男　王　拓　周慧瑛鄭余鎮　王雪　邱永仁郭俊銘　陳勝宏　林育生陳金德　陳建銘　邱垂貞黃宗源　林正二　侯水盛尤　清　鄭三元　彭添富江昭儀　朱星羽　段宜康林益世　湯火聖
+連署人：李明憲　陳景峻　邱創進陳宗義　蔡煌瑯　張學舜王幸男　王　拓　周慧瑛鄭余鎮　王雪峯　邱永仁郭俊銘　陳勝宏　林育生陳金德　陳建銘　邱垂貞黃宗源　林正二　侯水盛尤　清　鄭三元　彭添富江昭儀　朱星羽　段宜康林益世　湯火聖
 主席：本案作如下決定：「函請行政院研處。」請問院會，有無異議？（無）無異議，通過。
 現在進行第六案，請提案人羅委員志明說明提案旨趣。
 羅委員志明：（十七時五分）主席、各位同仁。本席與羅世雄等二十七人，針對「高雄旗津環島海景觀光自行車道暨海岸地景改善計畫」已完成規劃，並向行政院申請補助，但由於規劃用地大部分屬高雄港務局，交通部應針對用地使用權予以協助。另因計畫也規劃在政府挑戰二○○八國家發展重點計畫中，為提升高雄國際觀光都市的實力，因此政府相關單位應依其需求協助，並酌情加以補助，遂助工程順利進行，以利加速完成計畫。是否有當，敬請公決。
