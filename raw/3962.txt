@@ -1346,7 +1346,7 @@ b）身權法第23條提到醫院要設立身心障礙者服務窗口，為身�
 馬總統在「黃金十年」裡提出公義社會的願景，陳院長則在本會期施政報告中提到「富民經濟」，目標不只是要追求金錢與物質方面的富足，更要追求國家整體在「生活品質、文化水準及心靈發展」的全面提升。我非常肯定總統、院長以社會正義、國民幸福為念的想法，更高興知道政府不再只是關心「國內生產總值」GDP，而開始研擬「國民幸福指數」GHP，作為政府各項施政之參考。
 然而，這些論述如果不是唱高調，他們到底該扮演什麼角色？是說在原本經濟掛帥的結構下，突兀地多出兩項平行的新價值，然而，這兩項新價值最好不要侵犯到現存的既得利益與因循多年的遊戲規則？還是說公義社會與國民幸福應作為國家發展的最高綱領，以致我們必須做出改變，必須改革國家現行體制中的不當既得利益、歷史包袱乃至攸關福利社會、租稅制度與經濟發展的諸多舊思維下的政策綱領？
 歐債問題使許多人對福利國家的概念產生懷疑，但芬蘭的公共衛生與社會事務部的國務秘書卡瑞．瓦里馬克在日前的訪談中仍堅定地表示：「福利社會是對經濟的投資，更是對國家永續發展的投資」。我國距離福利國家還非常遙遠，這從我們的租稅制度、社會救助的涵蓋率、公共照護體系的完備性等與北歐完全無法相提並論，便可以一窺全貌。正是因為如此，要帶領國家追求公義社會，並帶領人民追求整體幸福的新政府現在站在歷史的轉捩點上，首先應該想清楚並大膽決定的課題便是：究竟我們該有怎樣的國家發展目標？
-<img SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABUAQAAAAA9+40WAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAA9hAAAPYQB1ayvdAAAABt0RVh0U29mdHdhcmUAQXBlb3NQb3J0IEM2NTUwIEkgSs6jMAAAAUFJREFUOMvF07FOwzAQBuBDDBlNNya8sfMEbh+JFyCtLOGxKwOQ12Bs5CEjrxArLxBvjhJy3NlO2r4AWIr0DWfff04CuC74TxrEJvOAuM/UVzyYXDuVWjMnpYMyNbMHAGHalU1fEoOEbZWYWoQLXjSuzhQIM/DSj7cLASLv4JSIA6ZyboHoc/QAcIM2cQc7jhwLqrXgu3pa2HxuFnbvG7RzmfiMdpJMFymY/s2jDQVz/GCK5VwbYu2WGndpYs7g+tRYeHRt4hHROeYPDYuuTsPTCc7m6IBen5mvmrb1Ra4lipXUN3GWiXvadkW1vuML9mrkDOMwYCs936QfAp4iSVP5Kl3irIzoiHaYXqQomJr4IIuGaPxU3ittiMdhxq8ykleL9cIaW5FZcPbIWayktCGzVzhltrEmsqNHnL/U6o//i199srklx+OPdwAAAABJRU5ErkJggg==" NAME="3333-0001" ALIGN="BOTTOM" WIDTH="22" HEIGHT="23" BORDER="0">
+<img SRC="//media.getchute.com/media/6eP0Qmizs" NAME="3333-0001" ALIGN="BOTTOM" WIDTH="22" HEIGHT="23" BORDER="0">
 我主張，國家應在經濟發展與福利社會之間尋求平衡與雙贏，而這意味著，過去我們太過向經濟發展傾斜，現在，為了追求社會的安全、國家的永續、國民的幸福，我們需要調整方向，按部就班地強化福利社會的制度與內涵。
 此次總質詢，我先從如何強化領導者的同理心開始，然後邀請行政院盤整現有的社福資源，不要只誇口我們的社福經費已佔中央政府總預算最大的比例，而要老老實實地去檢視這些資源是否用在刀口上？是否用在防微杜漸上的多，用在亡羊補牢上的少？是否有勇氣將過去種種因著歷史包袱而有的資源錯置加以檢討與調整？
 其次，社會救助涉及國家安全體系的鞏固及對經濟上最弱勢族群的扶助，目前之社會救助雖在經過改革後已擴大若干涵蓋率（2.2%），但距離理想的10%目標仍相當遙遠。政府是否有決心擴大社會救助的涵蓋率，進一步合理化並降低社會救助的門檻？此外，社會救助也不只是「涵蓋率」的問題。杯水車薪的涵蓋與真正解民於倒懸的涵蓋是完全不同的兩件事。政府的救助如果只是蜻蜓點水的達到某個個人，而不是真正幫助貧苦百姓安貧與脫貧，那麼，再高的涵蓋率，其救助的實質意義也將大打折扣。
@@ -2236,6 +2236,7 @@ ICF即將上路，擺在眼前的卻是重重的危機。轉機不在於寄望�
 說明：
 1.	因停會、加開院會或其他影響總預算案審查時程之事由，本審查日程須配合順延時，授權財政委員會修正日程，並通函其他委員會知照。
 2.	各委員會對於所審查之公務、營業及非營業預算部分，若有提前審查完竣之部分，請先起草該部分之審查報告送財政委員會彙總。
+<img SRC="//media.getchute.com/media/6eP4Mqisk" NAME="156%201" ALIGN="BOTTOM" WIDTH="800" HEIGHT="1181" BORDER="0"><img SRC="//media.getchute.com/media/6ePaHshmi" NAME="156%202" ALIGN="BOTTOM" WIDTH="800" HEIGHT="1181" BORDER="0"><img SRC="//media.getchute.com/media/6ePkZjufw" NAME="156%203" ALIGN="BOTTOM" WIDTH="800" HEIGHT="1181" BORDER="0"><img SRC="//media.getchute.com/media/6ePymlpxd" NAME="156%204" ALIGN="BOTTOM" WIDTH="799" HEIGHT="1181" BORDER="0"><img SRC="//media.getchute.com/media/6ePHcjpsz" NAME="156%205" ALIGN="BOTTOM" WIDTH="799" HEIGHT="1181" BORDER="0">
 伍、營業部分各委員會審查結果
 經濟委員會審查結果
 甲、經濟部主管
@@ -6105,6 +6106,7 @@ ICF即將上路，擺在眼前的卻是重重的危機。轉機不在於寄望�
 說明：
 一、個人或營利事業購入不良債權，嗣後向法院聲請強制執行，因參與拍賣承受而取得債權抵押物，國稅局均依財政部96年7月16日台財稅第09604520160號函及100年1月28日台財稅字第09900518910號函規定，認屬係以持有債權換取抵押物，屬不同資產之交換，於取得抵押物時，應依抵押物時價超過債權取得成本部分，認列處分債權損益，課徵所得稅。
 二、舉一例說明如下：
+<img SRC="//media.getchute.com/media/6ePOfdrus" NAME="graphics1" ALIGN="BOTTOM" WIDTH="782" HEIGHT="199" BORDER="0">
 承受抵押物時，認列處分債權損益，計算個人綜合所得稅如下：
 （8億元-6億元）X40%=0.8億元
 三、依上開例，買入6億元，賣出5億元，發生損失，併年所得。但國稅局於交換時課0.8億元所得稅，遭課徵綜合所得稅之債權人，均向本席強烈反應，綜合所得稅係採現金收付制，今僅係將債權變更為抵押物，並未收取現金；且承受價格與市場價格背離，並非一般時價，國稅局以該時點就承受價格計算處分債權損益並課徵所得稅，造成課稅不合理。
