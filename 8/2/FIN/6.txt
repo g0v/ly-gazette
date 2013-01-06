@@ -1,0 +1,1274 @@
+立法院第8屆第2會期財政委員會第6次全體委員會議紀錄
+時　　間　中華民國101年10月22日（星期一）上午9時
+地　　點　本院群賢樓101會議室
+主　　席　薛委員凌
+主席：出席委員已足法定人數，現在開會。進行報告事項。
+報　告　事　項
+一、宣讀上次會議議事錄。
+<hr>
+立法院第8屆第2會期財政委員會第5次全體委員會議議事錄
+時　　間：中華民國101年10月17日（星期三）上午9時1分至12時11分、下午2時30分至5時29分
+中華民國101年10月18日（星期四）上午9時至11時59分
+地　　點：本院群賢樓9樓大禮堂
+出席委員：許添財　　吳秉叡　　林德福　　賴士葆　　李應元　　薛　凌　　盧秀燕　　李桐豪　　翁重鈞　　費鴻泰　　蔡正元　　曾巨威　　羅明才　　顏清標　　孫大千
+委員出席15人
+列席委員：徐耀昌　　陳歐珀　　江啟臣　　段宜康　　潘維剛　　鄭天財Sra．Kacaw　吳育仁
+蔡煌瑯　　廖正井　　陳亭妃　　林岱樺　　陳淑慧　　邱志偉　　孔文吉　　邱議瑩　　陳明文　　黃偉哲　　邱文彥　　林世嘉　　蔣乃辛　　林正二　　楊瓊瓔　　黃文玲　　蔡其昌　　楊應雄　　徐少萍　　柯建銘　　李貴敏　　葉宜津　　林國正　　趙天麟　　蘇清泉　　王惠美　　管碧玲　　蕭美琴　　張慶忠　　吳育昇　　王廷升　　潘孟安　　徐欣瑩　　楊麗環　　楊　曜　　林淑芬　　簡東明　　陳其邁　　馬文君　　林鴻池　　呂玉玲　　江惠貞　　李俊俋　　李昆澤　　高金素梅　劉建國　　蔡錦隆　　黃昭順　　林佳龍　　呂學樟　　丁守中
+委員列席58人
+<table WIDTH="609" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="217"><col WIDTH="313"><tr VALIGN="TOP"><td WIDTH="66" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td COLSPAN="2" WIDTH="535" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="華康細明體, monospace"><span LANG="en-US">101</span></font>年<font FACE="華康細明體, monospace"><span LANG="en-US">10</span></font>月<font FACE="華康細明體, monospace"><span LANG="en-US">17</span></font>日（星期三）</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財政部部長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張盛和</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">關政司副司長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝鈴媛</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國庫署署長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">凌忠嫄</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">賦稅署副署長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許慈美</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國有財產局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">周後傑</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財稅資料中心主任</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蘇俊榮</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">關稅總局副總局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">饒　平</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處主計長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">石素梅</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">公務預算處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李國興</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部民政司簡任秘書</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">羅瑞卿</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">教育部會計處副會計長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">廖玉燕</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">教育研究委員會專門委員</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">顏寶月</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm; margin-bottom: 0cm">行政院經濟建設委員會</p><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">經濟研究處組長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳明蕙</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm; margin-bottom: 0cm">行政院研究發展考核委員會</p><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">綜合計畫處專門委員</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝偉智</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm; margin-bottom: 0cm">行政院原住民族委員會政務</p><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">副主任委員</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">洪良全</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院農業委員會會計室主任</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">楊順成</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm; margin-bottom: 0cm">行政院勞工委員會勞工保險處</p><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">鄧明斌</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm; margin-bottom: 0cm">行政院人事行政總處組編人力處</p><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">簡任視察</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王崇斌</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm; margin-bottom: 0cm">行政院衛生署全民健康保險小組</p><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">組長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">洪碧蘭</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">中央銀行副總裁</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">嚴宗大</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">法務部參事</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃東焄</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">臺北市政府財政局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">邱大展</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳高燦</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">新北市政府財政局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">呂衛青</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">楊敏瑞</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">臺中市政府財政局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李錦娥</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蔣建中</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">臺南市政府財政處副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">柯惠雄</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">方　盆</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">高雄市政府財政局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李瑞倉</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張素惠</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">桃園縣政府財政局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">歐美鐶</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李榮吉</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">宜蘭縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃崇哲</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳淑歸</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">基隆市政府財政處副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">楊惠鈴</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">新竹縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳素琴</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">新竹市政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李世珍</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">徐岱源</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">苗栗縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">徐榮隆</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處副處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳華福</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">彰化縣政府財政處代理處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳燕慧</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">南投縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許玉鈴</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">雲林縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張永靖</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">嘉義縣政府財政稅務局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">簡世明</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">嘉義市政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">林瑞彥</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">主計處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">房銘輝</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">屏東縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳宗珍</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">臺東縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李素琴</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">花蓮縣政府縣長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">傅崐萁</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財政處代理處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王秋燕</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">澎湖縣政府財政處處長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">盧春田</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">金門縣政府縣長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李沃士</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">連江縣政府財政局局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">林貽德</p></td></tr><tr VALIGN="TOP"><td WIDTH="66" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td COLSPAN="2" WIDTH="535" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="華康細明體, monospace"><span LANG="en-US">101</span></font>年<font FACE="華康細明體, monospace"><span LANG="en-US">10</span></font>月<font FACE="華康細明體, monospace"><span LANG="en-US">18</span></font>日（星期四）</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財政部部長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張盛和</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">關政司司長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王　亮</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">賦稅署署長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許虞哲</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國庫署署長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">凌忠嫄</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財稅資料中心主任</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蘇俊榮</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國有財產局副局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">邊子樹</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">關稅總局副總局長</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">饒　平</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="217" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">法務部參事</p></td><td WIDTH="313" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">覃正祥</p></td></tr></table>
+主　　席：費召集委員鴻泰
+專門委員：黃瑩宵
+主任秘書：李水足
+紀　　錄：秘　書　黃輝嘉　研究員　謝碧珠　科　長　汪治國
+專　員　陳品華
+報　告　事　項
+一、宣讀上次會議議事錄。
+決定：議事錄確定。
+二、本院議事處101年4月19日函，為請本會審查行政院函請審議「財政收支劃分法修正草案」。
+三、本院議事處101年3月28日函，為請本會審查本院委員陳明文等22人擬具「財政收支劃分法第十六條之一條文修正草案」。
+四、本院議事處101年4月11日函，為請本會審查本院委員楊瓊瓔等18人擬具「財政收支劃分法第十六條之一條文修正草案」。
+五、本院議事處101年4月11日函，為請本會審查本院委員李昆澤等26人擬具「財政收支劃分法修正草案」。
+六、本院議事處101年4月24日函，為請本會審查本院委員張嘉郡等22人擬具「財政收支劃分法部分條文修正草案」。
+七、本院議事處101年4月24日函，為請本會審查本院委員李應元等23人擬具「財政收支劃分法部分條文修正草案」。
+八、本院議事處101年5月9日函，為請本會審查本院委員陳亭妃等22人擬具「財政收支劃分法第十二條、第十六條之一及第三十七條條文修正草案」。
+九、本院議事處101年5月9日函，為請本會審查本院民進黨黨團擬具「財政收支劃分法修正草案」。
+十、本院議事處101年5月30日函，為請本會審查本院委員盧秀燕等21人擬具「財政收支劃分法第三十七條條文修正草案」。
+十一、　本院議事處101年6月6日函，為請本會審查本院親民黨黨團擬具「財政收支劃分法部分條文修正草案」。
+十二、　本院議事處101年6月18日函，為請本會審查本院委員楊瓊瓔等28人擬具「財政收支劃分法增訂第十六條之二條文草案」。
+十三、　本院議事處101年10月11日函，為請本會審查本院委員趙天麟等24人擬具「財政收支劃分法修正草案」。
+十四、　本院議事處101年10月11日函，為請本會審查本院委員賴士葆等22人擬具「財政收支劃分法修正草案」。
+十五、　本院議事處101年10月11日函，為請本會審查本院委員楊瓊瓔等17人擬具「財政收支劃分法第八條、第十一條及第三十七條條文修正草案」。
+十六、　本院議事處101年10月11日函，為請本會審查本院委員林岱樺等22人擬具「財政收支劃分法部分條文修正草案」。
+十七、　本院議事處101年10月11日函，為請本會審查行政院函請審議「所得稅法第十七條條文修正草案」。
+十八、　本院議事處101年5月16日函，為請本會審查本院委員陳其邁等20人擬具「所得稅法第十七條條文修正草案」。
+101年10月17日（星期三）
+討　論　事　項
+併案審查行政院函請審議「財政收支劃分法修正草案」暨本院委員李昆澤等26人、民進黨黨團、委員趙天麟等24人及委員賴士葆等22人分別擬具「財政收支劃分法修正草案」、委員張嘉郡等22人、委員李應元等23人、親民黨黨團及委員林岱樺等22人分別擬具「財政收支劃分法部分條文修正草案」、委員陳明文等22人、委員楊瓊瓔等18人分別擬具「財政收支劃分法第十六條之一條文修正草案」、委員陳亭妃等22人擬具「財政收支劃分法第十二條、第十六條之一及第三十七條條文修正草案」、委員盧秀燕等21人擬具「財政收支劃分法第三十七條條文修正草案」、委員楊瓊瓔等28人擬具「財政收支劃分法增訂第十六條之二條文草案」、委員楊瓊瓔等17人擬具「財政收支劃分法第八條、第十一條及第三十七條條文修正草案」計15案。
+民進黨黨團代表委員潘孟安、委員陳明文、楊瓊瓔、李應元、盧秀燕、親民黨黨團代表委員李桐豪、委員趙天麟、賴士葆、林岱樺分別說明提案要旨。
+財政部張部長、行政院主計總處石主計長分別就政府提案說明旨趣。
+金門縣政府李縣長沃士、花蓮縣政府傅縣長崐萁分別發表意見。
+（委員許添財、吳秉叡、林德福、賴士葆、盧秀燕、薛凌、李應元、李桐豪、翁重鈞、費鴻泰、徐欣瑩、鄭天財Sra．Kacaw、廖正井、陳亭妃、陳歐珀、曾巨威、李昆澤、陳其邁、江啟臣、楊瓊瓔、孔文吉、林正二、劉建國等23人提出質詢，均經財政部張部長、行政院主計總處石主計長及相關機關人員予以答復。）
+決定：
+一、報告及詢答完畢。
+二、委員潘維剛、陳淑慧、李俊俋、蔡錦隆、林國正、吳育昇、楊曜、劉建國、徐耀昌、馬文君所提書面質詢，及臺中市政府、南投縣政府、嘉義市政府所提書面資料，均列入紀錄，刊登公報，書面質詢並請相關主管機關以書面答復。
+三、委員質詢未及答復部分，請相關主管機關於1週內以書面答復。
+四、委員質詢中要求提供之相關資料，亦請於1週內送交本委員會，並分送相關委員。
+決議：院會交付審查行政院函請審議「財政收支劃分法修正草案」暨本院委員李昆澤等26人、民進黨黨團、委員趙天麟等24人及委員賴士葆等22人分別擬具「財政收支劃分法修正草案」、委員張嘉郡等22人、委員李應元等23人、親民黨黨團及委員林岱樺等22人分別擬具「財政收支劃分法部分條文修正草案」、委員陳明文等22人、委員楊瓊瓔等18人分別擬具「財政收支劃分法第十六條之一條文修正草案」、委員陳亭妃等22人擬具「財政收支劃分法第十二條、第十六條之一及第三十七條條文修正草案」、委員盧秀燕等21人擬具「財政收支劃分法第三十七條條文修正草案」、委員楊瓊瓔等28人擬具「財政收支劃分法增訂第十六條之二條文草案」、委員楊瓊瓔等17人擬具「財政收支劃分法第八條、第十一條及第三十七條條文修正草案」計15案，另擇期繼續審查（本次會議提案條文宣讀至行政院提案刪除現行法第四條條文）。
+101年10月18日（星期四）
+併案審查行政院函請審議「所得稅法第十七條條文修正草案」暨本院委員陳其邁等20人擬具「所得稅法第十七條條文修正草案」計2案。
+財政部張部長就政府提案說明旨趣。
+陳委員其邁說明提案要旨。
+（委員許添財、吳秉叡、林德福、賴士葆、盧秀燕、薛凌、李桐豪、費鴻泰、楊瓊瓔、曾巨威、翁重鈞等11人提出質詢，均經財政部張部長及相關機關人員予以答復。）
+決定：
+一、報告及詢答完畢。
+二、委員李應元、潘維剛、李昆澤所提書面質詢，列入紀錄，刊登公報，並請財政部以書面答復。
+三、委員質詢未及答復部分，請財政部於1週內以書面答復。
+四、委員質詢中要求提供之相關資料，亦請於1週內送交本委員會，並分送相關委員。
+決議：
+一、「所得稅法第十七條條文修正草案」審查結果，照行政院提案通過。
+二、院會交付審查行政院函請審議「所得稅法第十七條條文修正草案」暨本院委員陳其邁等20人擬具「所得稅法第十七條條文修正草案」計2案，併案審查完竣，擬具審查報告，提報院會討論；本案不須交由黨團協商。院會討論本案時，由費召集委員鴻泰補充說明。
+通過臨時提案2案：
+一、鑑於行政院提出之「財政收支劃分法修正草案」強調已對地方大幅釋出財源，惟與地方政府認知差距頗大；為利立法院日後之審議，爰要求財政部應會同行政院主計總處、相關單位及各地方政府，就現行五都改制後，各直轄市因組織、功能調整與業務移撥等各項相關支出，中央及各地方政府核算之數額（若有差異，請敘明差異原因），及各直轄市、縣市依行政院版財政收支劃分法修正前後淨獲配財源等明細資料於3週內送立法院財政委員會。
+提案人：許添財　　吳秉叡　　賴士葆　　薛　凌　　李桐豪
+二、由於立法院第8屆第2會期財政委員會第5次全體委員會議只處理司法院大法官第六九四號解釋相關條文修正，對於各委員所提所得稅法第十七條有關扣除額其他修正條文，請財政部於整體考量稅收增損、租稅公平及租稅中立原則下，儘速（101年年底前）進行結構性調整與檢討，且將報告送交立法院財政委員會。
+提案人：賴士葆　　曾巨威　　薛　凌　　翁重鈞　　盧秀燕　　費鴻泰　　李桐豪
+散會
+<hr>
+主席：繼續報告。
+二、本院議事處101年10月16日函，本會函送「中華民國102年度中央政府總預算案（含附屬單位預算及綜計表一營業及非營業部分）審查日程」及「中華民國102年度中央政府總預算案（含附屬單位預算及綜計表一營業及非營業部分）審查分配表」案，經提本院第8屆第2會期第4次會議報告後決定：「併102年度中央政府總預算案處理。」。
+三、本院議事處101年10月16日函，為行政院函請本院審議「102年度中央政府總預算案（含附屬單位預算及綜計表一營業及非營業部分）」，經提本院第8屆第2會期第4次會議邀請行政院院長、主計長與財政部部長列席報告編製經過，並答復委員質詢後決定：「中華民國102年度中央政府總預算案（含附屬單位預算及綜計表一營業及非營業部分）交財政委員會依分配表及日程分送各委員會審查。」。
+主席：請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。
+進行討論事項。
+審查中華民國102年度中央政府總預算案有關主計總處。審計部、審計部臺北市審計處、審計部新北市審計處、審計部臺中市審計處、審計部臺南市審計處、審計部高雄市審計處部分。
+主席：請主計總處石主計長報告。
+石主計長素梅：主席、各位委員。今天　貴委員會召開預算審查會議，很榮幸應邀列席報告本總處102年度施政計畫重點及預算編列情形。
+本總處依法掌理政府歲計、會計及統計等業務。茲謹就本總處主管101年度已過期間施政績效及預算執行情形、102年度施政計畫重點及102年度預算編列情形，簡要提出報告。
+一、101年度已過期間施政績效及預算執行情形
+(一)101年度已過期間施政績效
+1.編製完成 102年度中央政府總預算案，送請大院審議
+為使計畫與預算緊密結合，以提升政府資源使用效益，102年度賡續實施中程計畫預算制度，各機關在行政院核定之中程歲出概算額度範圍內，配合當前政府施政重點，審視各項施政計畫之優先順序及實施效益編製概算。本總處並本著經常支出持續精實等原則，經與相關審議機關多次研商審查後，彙核編製完成102年度中央政府總預算案，並於本（101）年8月31日送請　大院審議。
+2.編製完成102年度中央政府總預算案附屬單位預算及綜計表，送請　大院審議
+102年度中央政府總預算案附屬單位預算及綜計表（營業及非營業部分），本總處以落實計畫預算精神，並依基金設置目的，配合政府施政需要，本健全基金財務管理及提升資源使用效率等原則籌編完成，已於本年8月31日隨同 102年度中央政府總預算案送請大院審議。
+3.編製完成100年度中央政府總決算暨附屬單位決算及綜計表、100年度中央政府振興經濟擴大公共建設特別決算、中央政府石門水庫及其集水區整治計畫第2期特別決算，經審計部審定
+100年度中央政府總決算暨附屬單位決算及綜計表（營業及非營業部分）、100年度中央政府振興經濟擴大公共建設特別決算、中央政府石門水庫及其集水區整治計畫第2期特別決算於本年4月30日送監察院，並經審計部於本年7月27日審定。
+有關審計部審核100年度總決算所提審核意見，其中屬重大通案事項，均由行政院所屬管考機關通盤檢討改進，或函請各相關機關切實檢討辦理；至屬個案事項，則由各權責機關依審核通知意見加以檢討改進，相關辦理情形並均應函復審計部。
+4.訂（修）定內部控制制度相關規範及督導檢討強化現有內部控制作業
+為利行政院及所屬各機關持續強化內部控制機制，經訂（修）定「辦理健全內部控制實施方案101年度重點工作」、內部控制制度個別性業務範例與共通性作業跨職能整合範例等，分行各主管機關在案，另責其針對審計部98及99年度中央政府總決算審核報告所列建議改善事項，以及監察院98、99及100年度糾正（舉）、彈劾案件，屬於內部控制缺失者，督導所屬落實檢討現有內部控制作業，並依限設計完成內部控制制度。
+5.精進政府統計品質，發揮支援決策功能
+定期編布各項經社指標，除依國際規範預告發布時間，準時發布外，國民所得統計及經濟預測等重要資料發布前並先經評審委員會縝密審查，確保統計資料公信力；另為持續加強與國際接軌，反映時代趨勢與新興需求，賡續參與亞銀「2011年回合購買力平價國際比較計畫」、研編我國國民幸福指數、辦理100年新基期消費者（CPI）與躉售（WPI）等物價指數改編作業，並增編 CPI「購買頻度別」分類指數，以及展開國民所得統計按聯合國新版（2008年版）國民經濟會計制度改編前置作業。
+6.辦理各項調查，即時提供資訊
+辦理99年農林漁牧業普查初步及總報告統計結果編布、99年人口及住宅普查總報告統計結果編布、100年工商及服務業普查實地訪查及資料處理作業，提供國家建設基本資訊，作為政府推動經濟建設及區域發展計畫之參考；為因應社經環境變遷，即時掌握社經脈動，賡續辦理人力資源、受僱員工薪資等調查，以了解就業、失業、薪資及生產力等狀況，供作人力規劃參考。
+7.推動政府資訊管理，提升資訊服務效能
+因應大院審查需要，完成100年度院編決算及102年度總預算案二級用途別資料庫轉製作業。提供政府機關共通「歲計會計資訊管理系統」維運管理服務，協助各公務機關及205家非營業基金順利使用資訊系統編製102年度總預算。持續推動「縣市公務預算會計暨財政資訊系統」集中維運機制，撙節縣市個別開發及維運成本，並加強地方財主資訊之整合應用。
+8.加強培育主計人員，提升主計人員素質
+賡續辦理主計人員基礎訓練、養成訓練、幹部訓練、領導訓練及專業研習等5類訓練，藉以提升主計人員之人力素質，俾達成提高工作知能與服務品質之目的。
+(二)101年度已過期間本總處預算執行情形
+1.原主計處部分
+101年度歲入預算數134萬6千元，截至本年9月底止累計分配數96萬3千元，累計實收數102萬5千元，較分配數超收6萬2千元；歲出預算數10億2,943萬元，截至本年9月底止累計分配數8億5,725萬2千元，累計支付數8億2,886萬元，占分配數97%。
+2.原電子中心部分
+101年度歲入預算數20萬6千元，截至本年9月底止累計分配數16萬7千元，累計實收數17萬3千元，較分配數超收6千元；歲出預算數2億6,746萬9千元，截至本年9月底止累計分配數1億8,103萬7千元，累計支付數1億4,987萬3千元，占分配數83%。
+以上為101年度本總處主管已過期間預算執行情形，請參閱表1。
+表1、行政院主計總處101年度預算執行簡表
+單位：新台幣千元
+<table WIDTH="611" CELLPADDING="2" CELLSPACING="0"><col WIDTH="141"><col WIDTH="88"><col WIDTH="88"><col WIDTH="88"><col WIDTH="88"><col WIDTH="88"><tr><td ROWSPAN="2" WIDTH="141" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 610px"><hr></span><br></p><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><a NAME="TA8838312"></a>項目</p></td><td ROWSPAN="2" WIDTH="88" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">101</span></font>年度</p><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">預<font FACE="Times New Roman, serif"> </font>算<font FACE="Times New Roman, serif"></font>數</p></td><td COLSPAN="4" WIDTH="366" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">截至<font FACE="Times New Roman, serif"><span LANG="en-US">101</span></font>年<font FACE="Times New Roman, serif"><span LANG="en-US">9</span></font>月止</p></td></tr><tr><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">累計分配數</p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">累計執行數</p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">累計執行數占預算數<font FACE="Times New Roman, serif"><span LANG="en-US">%</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">累計執行數占分配數<font FACE="Times New Roman, serif"><span LANG="en-US">%</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">一、原主計處部分</p><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">(</font></span></font>一<font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">)</font></span></font>歲入</p><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">(</font></span></font>二<font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">)</font></span></font>歲出</p><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">二、原電子中心部分</p><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">(</font></span></font>一<font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">)</font></span></font>歲入</p><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; text-indent: 0.71cm"><span CLASS="sd-abs-pos" STYLE=" top: 0.61cm; left: -0.09cm; width: 610px"><hr></span><font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">(</font></span></font>二<font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">)</font></span></font>歲出</p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,346</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,029,430</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">206</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">267,469</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">963</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">857,252</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">167</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">181,037</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,025</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">828,860</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">173</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">149,873</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">76</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">81</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">84</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm"><font FACE="Times New Roman, serif"><span LANG="en-US">56</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">106</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">97</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><br></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">104</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm"><font FACE="Times New Roman, serif"><span LANG="en-US">83</span></font></p></td></tr></table>
+二、102年度施政計畫重點
+(一)歲計及會計業務
+1.依據施政方針，配合施政計畫，並參考總資源供需估測趨勢與中程歲出概算額度，審酌優先順序，統籌分配財力資源，核編103年度中央政府總預算案；強化中程計畫預算作業制度，促進資源有效運用，杜絕支出浪費，健全政府財政；賡續檢討地方財政問題及提升地方財政資訊透明化；嚴格控制102年度總預算之執行，加強對地方政府預算編製及執行之規範，以達施政目標。
+2.依據施政方針，參酌淨值報酬率等多元指標，合理核列中央政府特種基金盈餘目標及重要投資目標等；核編103年度中央政府總預算案附屬單位預算；密切督促各特種基金102年度預算之執行，以提升特種基金之經費使用效能；推動國營事業導入國際財務報導準則事宜，提升財務報導品質。
+3.審核各機關會計報告，據以辦理總會計事務，核編101年度中央政府總決算暨附屬單位決算及綜計表，彙編年度收支執行情形及政府財務狀況，供決策參考及審計機關審核；賡續強化內部審核機制，以提升政府財務效能及避免不當支出；辦理中央政府各類會計制度之核（修）訂，俾會計事務處理更臻完善。
+(二)內部控制業務
+賡續加強內部控制理論與實務之研究，依我國國情研訂政府內部控制制度自行評估等規制，以應機關實務需要。並將配合內部控制推動進程，建構一長遠可行之內部控制發展策略，以完備政府內部控制制度架構及規範。另將持續督促各主管機關積極督導所屬依內部控制規範改善內部控制缺失，並將檢討結果逐步納入內部控制制度及落實執行內部控制各項工作，以期增進各機關自主管理體質。
+(三)統計與普查及抽樣調查業務
+1.編布物價、國民所得、綠色國民所得、經濟預測、家庭收支調查、國民幸福指數及社會指標等綜合性經社統計，並持續精進各項統計結果之廣度、深度、確度與時效，供作政府施政參據；健全統計法制、研修統計標準分類、加強統計行政管理及充實統計資料庫，提升統計資訊服務品質。
+2.賡續辦理100年工商及服務業普查資料處理及初步總報告編製、辦理農林漁牧業普查中間年主力農家經營概況調查、攤販經營概況調查、人口及住宅普查專題研究分析，建立國家整體基本情勢資訊，發揮統計支援決策功能；辦理人力資源調查、受僱員工薪資調查及其附帶專案調查，編製國富統計及生產力統計，提供釐定人力政策、經建計畫及企業經營規劃等之參據；辦理統計調查計畫審議與管理，強化基層統計調查網管理與運用，精進調查技術，提升統計調查品質與效益。
+(四)主計資訊業務
+1.建置中央機關及地方政府歲計會計資訊管理系統集中維運環境，由本總處提供軟硬體設備維運、系統增修及客服諮詢等整合性資訊服務，並完備決策支援功能，節省中央及地方主計機構系統建置及維運成本，有效整合運用主計資訊資源。
+2.發展主計資訊行動化服務，建置行動載具使用之查詢功能，提供物價指數、國民所得與經濟成長、就業與失業、薪資與生產力等重要統計資訊，俾利各界透過行動化服務查詢政府統計資訊。
+3.配合「行政院內部控制推動及督導小組」有關「人事費－薪給作業」之規定，開發政府機關共通之「內控型公務機關薪資發放系統」。
+三、102年度本總處預算案編列情形
+102年度歲入預算編列122萬9千元，主要係出售統計書刊、統計資料媒體轉錄工本費及借用員工宿舍自薪資扣回房租津貼及管理費等。
+102年度歲出預算編列11億1,296萬7千元，較101年度法定預算12億7,048萬1千元，減少1億5,751萬4千元，主要係減列工商及服務業普查、人口及住宅普查計畫等經費，各業務計畫及經費分別列述如后：
+1.一般行政：8億3,082萬 9千元。
+2.中央總預算核編及執行：450萬元。
+3.特種基金預算核編及執行：200萬元。
+4.會計及決算業務：295萬元。
+5.綜合統計業務：3,300萬元。
+6.國勢普查業務：9,380萬元。
+7.主計訓練業務：1,620萬元。
+8.主計資訊業務：4,436萬 3千元。
+9.一般建築及設備：8,347萬 5千元。
+10.第一預備金：185萬元。
+以上為102年度本總處主管施政計畫重點及預算案主要內容，至於有關各業務計畫預算編列及詳細比較情形，請參閱所附102年度預算案編列簡表（詳表2）以及歲入來源別、歲出機關別預算表。
+表2、行政院主計總處 102年度預算案編列簡表
+單位：新台幣千元
+<table WIDTH="611" CELLPADDING="2" CELLSPACING="0"><col WIDTH="116"><col WIDTH="118"><col WIDTH="118"><col WIDTH="118"><col WIDTH="118"><tr><td ROWSPAN="2" WIDTH="116" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-top: 0.28cm"><a NAME="TA3321300"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 610px"><hr></span>項目</p></td><td ROWSPAN="2" WIDTH="118" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">102</span></font>年度預算案</p></td><td ROWSPAN="2" WIDTH="118" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">101</span></font>年度預算數</p></td><td COLSPAN="2" WIDTH="239" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">比<font FACE="Times New Roman, serif">                </font>較</p></td></tr><tr><td WIDTH="118" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">金額</p></td><td WIDTH="118" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">%</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="116" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">(</font></span></font>一<font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">)</font></span></font>歲入</p><p LANG="" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">(</font></span></font>二<font FACE="Times New Roman, serif"><span LANG="en-US"><font FACE="華康細明體, monospace">)</font></span></font>歲出</p></td><td WIDTH="118" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,229</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,112,967</span></font></p></td><td WIDTH="118" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,552</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,270,481</span></font></p><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">（註<font FACE="Times New Roman, serif"><span LANG="en-US">1</span></font>）</p></td><td WIDTH="118" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-323</span></font></p><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.93cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">0157,514</span></font></p><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">（註<font FACE="Times New Roman, serif"><span LANG="en-US">2</span></font>）</p></td><td WIDTH="118" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-21</span></font></p><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-12</span></font></p></td></tr></table>
+註1.不含移撥行政院研究發展考核委員會2,641萬8千元。
+<hr>
+註2.行政院主計總處102年度歲出預算案與101年度比較減少1億5,751萬4千元，主要係減列工商及服務業普查、人口及住宅普查及增列農林漁牧業普查等經費。
+以上報告，敬請 各位委員指教與支持。謝謝！
+主席：請審計部林審計長報告。
+林審計長慶隆：主席、各位委員。今天　貴委員會召開預算審查會議，慶隆應邀列席報告本部及所屬102年度施政計畫重點及預算編列情形，深感榮幸。
+審計機關主要任務，依據審計法第2條規定，為監督政府所屬各機關預算之執行，審核財務收支，審定決算，考核財務效能，核定財務責任，及稽察財務（物）上違失之行為。目前審計機關設有審計部及所屬教育農林審計處暨交通建設審計處，辦理中央政府及其所屬機關之審計事務；另於直轄市設有臺北市、新北市、臺中市、臺南市、高雄市等5個審計處；於臺灣省各縣市及福建省金門縣，設有16個縣、市審計室，分別掌理各該地方政府及其所屬機關之審計事務及兼辦指定之審計事務。民國101年度依法分別審核中央暨地方政府（含鄉鎮市公所）機關、基金及事業機構共有8,756個機關單位，監督其單位預算、附屬單位預算及特別預算（含債務之舉借與償還）等收支金額18兆5千3百餘億元之執行。茲將101年度已過期間工作績效及預算執行情形、102年度施政計畫重點及預算配合施政計畫之編列情形，簡要提出報告。
+壹、101年度已過期間工作績效及預算執行情形
+一、101年度已過期間工作績效：
+本部暨所屬審計處室民國101年度施政（工作）計畫826項，截至民國101年9月30日止，其中10項（占1.21%）未屆辦理期限外，其餘執行結果，符合預計工作量者553項（占66.95%）；超出預計工作量者163項（占19.73%）；較預計工作量減少者100項（占12.11%）。其中實際工作量超出預計工作量者，主要係各審計單位配合業務需要，增加抽查財務收支、辦理專案調查及財物審計；較預計工作量減少者，係因各機關送審案件較預計減少。各單位年度施政（工作）計畫之執行，由本部審計業務研究委員會負責考核，其有異常或進度落後者，均即時通知改正或督促辦理，年度結束並派員就地查證各單位實際執行情形，深入評核得失，督促檢討改善並列管追蹤，對於各項施政計畫執行之質與量，均有嚴密之控管與考核。
+二、年度決算之審核
+依憲法第105條、審計法第34條暨決算法第26條規定，審計長應於行政院提出總決算後3個月內依法完成其審核，編造最終審定數額表，並提出審核報告於　大院。又依審計法第34條第4項規定，地方政府年度總決算之編造及審核，準用上項規定。本部及所屬審計處室對於政府決算之審核，係依據審計法、決算法所規定應行注意事項，及本部所訂各項審核內規，並設總決算審核委員會為縝密之審計。自平時會計報告之書面審核，以至派員赴各機關就地抽查，各項審核內容，務期嚴謹；考核調查，力求周詳，除為適正性、合法性審計外，並注重效能性審計。
+民國100年度中央政府總決算（含附屬單位決算及綜計表）及振興經濟擴大公共建設（民國100年度）、石門水庫及其集水區整治計畫第2期（民國98至100年度）特別決算，行政院於民國101年4月30日提出於監察院轉行本部，本部已依憲法第105條規定期限完成審核，並於民國101年7月27日提出審核報告送請大院審議。至各級地方政府年度總決算（鄉鎮巿公所除外）亦經各地方審計處室在法定期限內完成審核，分別提出審核報告於各該地方議會。
+本部除依審計法及決算法規定，針對政府各項重要施政計畫之實施結果及預算執行情形等，施予查核，並依據大院決議，就行政院所屬各機關重大公共建設計畫、莫拉克颱風災後重建、各機關單位辦理建國一百年慶祝活動計畫、中央政府各機關（構）民國100年度辦理政策宣導等執行情形，進行專案查核，將查核情形一併納入審核報告有關章節。
+(一)總決算之審核
+民國100年度中央政府計有普通公務機關228個（分預算及所屬單位1,199個），總決算原列歲入決算經審核修正淨減列9,016萬餘元，審定歲入決算為1兆6,713億餘元，較預算超收254億餘元；歲出決算經審核修正淨減列4億餘元，審定歲出決算為1兆7,344億餘元，較預算減支539億餘元；歲入歲出相抵，審定差短為631億餘元，加計債務還本660億元，合計1,291億餘元，經以發行公債及賒借支應。
+(二)營業基金決算之審核
+民國100年度國營事業機關20個（分支機構548個），決算經審核修正淨減列收入1億餘元，淨增列支出3億餘元，審定總收入3兆3,147億餘元，總支出3兆1,283億餘元，審定純益1,863億餘元，較預算增加724億餘元；修正淨減列繳庫股息紅利1億餘元，審定為2,148億餘元，較預算增加68億餘元。
+(三)非營業特種基金決算之審核
+民國100年度非營業特種基金單位105個（分預算及作業單位765個），決算經審核修正淨增列收入（含基金來源）4億餘元，淨增列支出（含基金用途）4億餘元，審定總收入（含基金來源）2兆260億餘元，總支出（含基金用途）1兆9,902億餘元，審定賸餘358億餘元，較預算減少117億餘元，審定解繳國庫232億餘元，較預算減少25億餘元。
+(四)中央政府振興經濟擴大公共建設特別決算之審核
+民國100年度中央政府振興經濟擴大公共建設特別決算審核結果，審定歲入決算數1億餘元；審定歲出決算數1,542億餘元；歲入歲出相抵差短1,541億餘元，全數以舉借債務支應。
+(五)中央政府石門水庫及其集水區整治計畫第2期特別決算之審核
+民國98至100年度中央政府石門水庫及其集水區整治計畫第2期特別決算審核結果，審定歲出決算數100億餘元；歲入歲出相抵差短100億餘元，全數以舉借債務支應，並配合歲出經費之保留，繼續保留債務之舉借預算90億餘元，以支應以後年度需要。
+三、審計綜合績效
+本部暨所屬各審計處室，民國101年度各項審計業務，係依照施政（工作）計畫，持續精進合規性及績效性審計，積極督促各機關落實風險管理，提升施政效能。截至民國101年9月30日止執行結果，獲致審計績效如次：
+(一)稽察財務（物）上之違失
+1.稽察各機關人員財務 (物)上違失之行為，發現涉有重大違失，或處分不當，依審計法第17條或第20條規定，報請監察院處理，或移送檢調機關偵辦者共26案。
+2.稽察發現各機關人員涉有財務（物）上違失，經通知各該機關查明處理，業由各該機關長官按權責處分者106件，處分人員370人。
+(二)適正性、合法性審計及核定財務責任
+1.審核各機關民國100年度決算，對於短、漏、誤列之各項收入款，及收回以前年度經費等，經依法修正增列歲入決算通知繳庫者，共計12億7千4百餘萬元。
+2.審核各機關民國100年度決算，核有違背預算或有關法令之不當支出，委辦、補助或各項計畫經費之結餘款，及保留款與預算項目不合或毋須保留之經費等，經依法修正減列歲出決算通知繳庫者，共計23億9千餘萬元。
+3.民國101年1月至9月審核稽徵機關賦稅捐費徵收納庫，發現法令適用不當或計算錯誤，通知該管機關查明依法處理結果，共計補徵稅款5億6千1百餘萬元、退還稅款5百餘萬元。
+(三)效能性審計
+1.考核各機關之績效，核有未盡職責或效能過低情事，依審計法第69條規定，通知其上級機關妥處，並報告監察院者49案。
+2.考核各機關績效，發現其效能過低係因制度規章缺失，依審計法第69條規定提出建議改善意見於各該機關者91項（中央73項，地方18項）。
+3.依審計法第70條及預算法第28條規定，提供行政院及各級地方政府，作為決定民國102年度施政方針及籌編預算案參考之增進財務效能與減少不經濟支出之建議意見者12項（中央6項，地方6項）。
+4.審計機關監督各機關預算執行、考核各機關計畫實施等情形，提出之重要審核意見，列入民國100年度各該政府總決算審核報告者，共計1,750項（中央政府347項、地方政府1,403項）。其中肇因於機關內部控制機制未臻周全者，計有6類1,665項（中央政府305項、地方政府1,360項）；其他缺失，計有85項（中央政府42項、地方政府43項）。
+四、101年度預算執行情形：
+(一)歲入部分：
+本部及所屬民國101年度歲入預算共編列74萬8,000元，截至民國101年9月份止，預算累計分配數50萬2,000元，累計實收數132萬6,000元，超收82萬4,000元，主要係房租津貼收入、變賣廢舊物資收入較預期增加及廠商逾期違約金等。
+(二)歲出部分：
+本部及所屬民國101年度歲出預算共編列13億7,809萬9,000元，截至民國101年9月份止，預算累計分配數11億2,477萬1,000元，累計支付數10億6,866萬9,000元，執行率為95.01%。
+貳、102年度施政計畫重點
+一、加強審核公務機關財務收支，深入考核施政效能
+監督公務機關預算執行，嚴密審核其財務收支，督促各機關依法支用各項經費；加強考核社會救助及福利服務、環境保護與節能減碳、推動永續綠運輸及觀光、新世代健康領航、文化創意與教育革新、科技發展、促進就業與提升勞工就業環境等計畫辦理情形，積極查察各機關核心業務或重大施政計畫執行之已成與未成，補助及委辦計畫經費等各項經費支用之經濟與不經濟及預算執行結果效益，以防杜浪費及不法支出，提升政府施政效能，並持續關注行政機關內部控制是否完善有效實施及政府會計制度革新推動情形。另賡續加強審計機關決定剔除、繳還或賠償案件之追蹤列管機制，以落實核定財務責任之執行。
+二、加強考核國防、退輔施政績效，促請有效發揮預算效能
+加強審核國防部推動內部控制制度執行情形、國軍募兵制執行情形、國軍動員能量建立與維持情形、中山科學研究院法人化執行情形、國軍退除役官兵退休給付執行情形、國軍退除役官兵安養機構資源運用成效等，加強縱深及橫向間之比較查察，嚴密監督相關預算之執行，就其已成與未成之程度及績效之有無等確實考核，促請有效發揮國防預算效能，達成施政目標。
+三、加強辦理特種公務審計，以增進審計績效
+加強審核非營業特種基金之財務收支，促使各基金依設立目的，妥善經營管理；加強查核賦稅稽徵、欠稅防止及清理，研提健全稅制與改善稅政之建議，提升稽徵效能；加強查核國有非公用財產及珍貴財產之管理、國有非公用財產被占用之清理，以充分發揮財務效能；加強查核國庫事務、國庫調度情形，以強化國庫業務管理；加強查核公共債務之適法性及適當性，以健全政府財政。
+四、加強查核公營事業、公設財團法人及行政法人財務收支，綿密考核事業經營效能及金融監督管理成效
+賡續查核各公營事業業務、財務、會計事務之處理程序，是否依照法令規章辦理，公司治理相關機制是否健全有效實施，並縝密考核產銷（營運）計畫執行情形、資產經營管理及運用情形、營業盛衰之趨勢、財務狀況及經營效能、重大興建計畫執行進度及完成後營運效能、國際財務報導準則（IFRS）導入及實施情形、轉投資民營事業、公設財團法人及行政法人營運績效暨公股代表有無善盡職責等，及促請權責機關積極檢討修訂不合時宜法令，督促健全公營事業經營及金融監督管理效能。
+五、加強政府重大建設計畫之稽察
+賡續加強研析政府採購招標、決標資訊，及稽察各機關以統包、最有利標、限制性招標、次低標決標等例外方式辦理之採購案件，並促請各級政府採購稽核小組及工程施工查核小組加強稽（查）核，以督促健全政府採購作業及制度規章，有效提升財物效能；賡續加強考核重大採購計畫執行績效，側重計畫之擬編審議、可行性評估分析、規劃設計、預算編列、發包、履約驗收、營運管理及管考評核等相關作業辦理情形，依據施政計畫，執行個案或通案稽察，並以風險管理導向，就計畫執行進度落後、變更設計頻繁、大幅追加預算、完工後使用效益欠佳或社會輿論關注之案件，擴大審計廣度與深度，深入調查有無未盡職責、效能過低或財務上違失之情事，以督促提升政府施政效能，確保計畫執行績效。
+六、加強辦理縣（市）財務審計事務
+各縣市審計室賡續監督各縣（市）政府預算之執行，考核施政計畫實施之成效，評估其預算編列及財政情形，有無財務結構趨於失衡、公共債務逐年攀升等情事，並促請改善，查核公營事業及非營業特種基金之財務或經營效能，加強辦理政府採購案件之稽察，及考核重大採購計畫績效，以督促地方政府提升施政效能。
+七、加強辦理鄉（鎮、市）財務審計事務
+各縣市審計室賡續監督各鄉（鎮、市）公所預算之執行，考核施政計畫實施之成效，並依「審計機關辦理鄉鎮縣轄市財務審計辦法」規定，精進審核之技術方法，以抽查方式辦理各鄉（鎮、市）財務審計，督促健全其財務秩序、端正財務風氣、增進財務效能。
+八、加強對立法院及監察院各項審計服務，發揮審計積極功能
+依審計法及決算法等相關規定，配合立法委員問政之需要，積極提供審計相關資料，並透過網路及發布新聞稿方式，適時公布審計成果，以強化資訊公開與課責；賡續推動績效審計，擴大選案層面，加強整體性、共通性或重大施政計畫執行績效之考核與調查，對涉有未盡職責及效能過低情事，依審計法第69條規定陳報監察院，並注意提升查核品質及時效，以發揮監察與審計相輔相成功能。
+九、推展全方位研究發展及訓練工作，迎接變動的審計工作挑戰
+國際最高審計機關組織（INTOSAI）揭示審計機關之價值與意義包括「審計機關應被視為一個獨立之典範機關」及「審計機關應被視為對民眾生活產生正面影響之機關」2個層面，為積極實踐，將持續以核心研究發展為動力，培植優質審計人力並以願景及策略目標為主軸，及時檢視研訂（修）相關審計作業規定及指引，妥善規劃訓練課程，導入新興技術方法與知識，建置及推動整合性策略管理及績效評估機制，期以全方位、創新的理念及作法，提供審計工作堅實之後盾，迎接變動的審計工作挑戰，彰顯審計機關之價值與意義。
+十、規劃及推動審計機關組織改造，以精實有效之組織功能，提升審計服務
+鑑於行政院組織改造對本部審計業務、審計人力配置等有直接的影響，將參據「審計機關組織改造策略之研究」委託研究計畫（民國100年度）辦理結果，積極蒐集相關資料，研議及凝聚審計機關組織改造之共識，結合國內外之理論與實務，推動建構精實有效的組織架構，以提升審計服務。
+參、102年度預算配合施政計畫之編列情形
+一、歲入部分
+本部及所屬民國102年度歲入預算共編列75萬3,000元，主要係出售廢紙等收入，較上年度法定預算數74萬8,000元，增加5,000元。
+二、歲出部分
+本部及所屬102年度歲出預算共編列14億1,214萬7,000元，較上年度法定預算數13億7,809萬9,000元，增加3,404萬8,000元。茲按各機關單位預算分述如下：
+(一)本部單位預算：
+本部102年度歲出預算數10億8,125萬元，較上年度法定預算數10億3,842萬5,000元，增加4,282萬5,000元，主要係續編新建審計人員訓練大樓工程經費及伸算增列人事費等。
+各業務計畫編列情形分述如下：
+1.一般行政：9億7,442萬元。
+2.中央政府審計：3,200萬4,000元。
+3.縣市地方審計：1,092萬5,000元。
+4.一般建築及設備：6,052萬6,000元。
+5.第一預備金：337萬5,000元。
+(二)審計部臺北市審計處單位預算：
+臺北市審計處102年度歲出預算數7,277萬5,000元，較上年度法定預算數7,442萬2,000元，減少164萬7,000元，主要係減列人事費等。
+各業務計畫編列情形分述如下：
+1.一般行政：7,050萬4,000元。
+2.審計業務：213萬5,000元。
+3.第一預備金：13萬6,000元。
+(三)審計部新北市審計處單位預算：
+新北市審計處102年度歲出預算數5,631萬9,000元，較上年度法定預算數6,051萬元，減少419萬1,000元，主要係減列人事費等。
+各業務計畫編列情形分述如下：
+1.一般行政：5,416萬8,000元。
+2.審計業務：204萬9,000元。
+3.第一預備金：10萬2,000元。
+(四)審計部臺中市審計處單位預算：
+臺中市審計處102年度歲出預算數6,137萬8,000元，較上年度法定預算數6,312萬2,000元，減少174萬4,000元，主要係減列人事費等。
+各業務計畫編列情形分述如下：
+1.一般行政：5,960萬2,000元。
+2.審計業務：167萬4,000元。
+3.第一預備金：10萬2,000元。
+(五)審計部臺南市審計處單位預算：
+臺南市審計處102年度歲出預算數6,255萬5,000元，較上年度法定預算數6,260萬7,000元，減少5萬2,000元。
+各業務計畫編列情形分述如下：
+1.一般行政：6,063萬6,000元。
+2.審計業務：181萬7,000元。
+3.第一預備金：10萬2,000元。
+(六)審計部高雄市審計處單位預算：
+高雄市審計處102度歲出預算數7,787萬元，較上年度法定預算數7,901萬3,000元，減少114萬3,000元，主要係減列辦理視聽教室整修工程等經費。
+各業務計畫編列情形分述如下：
+1.一般行政：7,624萬元。
+2.審計業務：153萬8,000元。
+3.第一預備金：9萬2,000元。
+以上係本部及所屬102年度施政計畫重點及預算主要說明，至於有關各業務計畫預算編列及詳細比較情形，請參閱102年度歲入、歲出預算表。
+敬請主席、各位委員女士、先生惠予支持與指教。謝謝！
+主席：現在開始進行詢答，每位委員詢答時間為8分鐘，得延長2分鐘；上午10時30分截止登記。
+首先請許委員添財發言。
+許委員添財：主席、各位列席官員、各位同仁。首先請教石主計長一個大家所關心的時事問題，請問你們所掌握有關9月份失業率的資料是怎麼樣？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。9月份的失業率是4.32%。
+許委員添財：這比8月份的4.4%下降了0.08個百分點。根據報導，現在無薪假的人數飆升，針對無薪假的部分，請問在主計總處的失業率調查當中能夠顯示出來嗎？
+石主計長素梅：放無薪假並不算是失業。
+許委員添財：放無薪假不算是失業？但是他們沒有上班啊！
+石主計長素梅：雖然他們沒有薪水，但是……
+許委員添財：沒有薪水就是沒有上班啊！沒有上班怎麼可以算是就業呢？這方面要不要調整？其實無薪假是貴行政團隊的偉大發明，這和聯合國所通用的失業率調查已經有所不同，本席認為你們應該因地制宜才對，否則就有欺瞞國人之嫌，有欺騙世界所有經濟研究者之慮。
+石主計長素梅：我們是依照就業及失業的定義……
+許委員添財：你們發明了無薪假……
+石主計長素梅：不是我們發明的。
+許委員添財：請問世界各國當中，哪一個國家有無薪假？
+石主計長素梅：跟委員報告，假設無薪休假期間達一個月以上，未領有報酬，且等待恢復工作後開始另找工作者，那就會歸入失業的部分了。
+許委員添財：未領有報酬就應該列入失業了，還要等一個月嗎？
+石主計長素梅：依照定義是這樣子的。
+許委員添財：這是誰定義的？應該是你們自己定義的吧？哪有什麼無薪假！
+石主計長素梅：我們是依照國際的定義。
+許委員添財：失業率的統計應該是在反映經濟的景氣變動，而不是一聽到失業率提高就嚇死，聽到失業率降低就高興，其實不見得絕對是這樣。你們把數字扭曲之後，再騙自己……
+石主計長素梅：這沒有扭曲，我們一直都是這樣統計的。
+許委員添財：季節調整之後的情況呢？請問7月、8月、9月的情況怎麼樣？
+石主計長素梅：季節調整之後的這三個月，失業率有微幅上升，9月份是4.30%，比上個月多0.01個百分點。
+許委員添財：所以實際上還是上升的嘛！
+石主計長素梅：季調後是微幅上升。
+許委員添財：季節調整以後比較能夠反映景氣波動和循環波動，如果沒有季節調整的話，就沒有辦法反映景氣循環，可見現在的循環還是繼續上升當中。因為失業率是落後指標，所以失業率差就表示景氣真的已經很差了；如果失業率改善的話，就表示景氣真的已經有所改善。
+另外，現在公務員已經被污名化，大家認為他們是「要吃又要拿」。本席認為編列預算的時候，該撙節就要撙節，現在國家財政艱難，請問主計長為什麼偏偏要在這一年汰換你的座車？為什麼首長要換新車？原本的車子車齡幾年？已經20年了嗎？
+石主計長素梅：因為已達汰換年限，去年沒有換，所以今年……
+許委員添財：已達汰換年限沒有錯，但應該還可以再拖一下才對。
+石主計長素梅：其實它已經超過汰換年限了。
+許委員添財：這樣不好，如果這個時候還有人在買新車子，社會觀感將會非常不好，而且還是由主計長帶頭。今年應該是財政改革元年，如果今年不啟動，明年會後悔，你卻在這個時候汰換車子。你的車子是每天上下班及開會的時候使用，有需要到中南部巡視之用嗎？
+石主計長素梅：沒有開車到中南部。
+許委員添財：都是近距離的使用，為何要換車子？我想我們同仁都沒有人會同意，會同意才奇怪。這個時候，你還帶頭換車子？
+石主計長素梅：因為已經超過年限……
+許委員添財：依法什麼都可以做，只是這個時候，法不能保障合理性。本席認為主計總處的這一套真的有問題，你說預算減少，那是因為要做的事情減少了；而預算的增加，是你要做的事情並沒有改善，所以本席看到的情形就是預算浮編。
+石主計長素梅：跟委員報告，該減的就要減。
+許委員添財：如何改善財政、健全財政，該花就花，不該花就不要花！這句話三歲小孩也會講啊！這句話是考試用的！預算必須深入細節去考量，建議主席逐目審查預算，否則就對不起國人。
+主席：這是一定的。
+許委員添財：接下來要請教審計部，審計部的業務應該是愈來愈繁重，所以你們的人事經費爆增九百多萬，增幅有1%。又沒有調薪，為何會爆增？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。是為了反映實際情況，主要是因為我們101年的預算嚴重不足，有超過65位的員額沒有薪水可發……
+許委員添財：現在要撙節開支才對啊！為什麼會議系統要改善？會議系統指的是什麼？麥克風嗎？能用就好了！從小處可以看到你們能拿就拿，能加就加。
+其他各審計處都減百萬以上，有的是四百萬，為什麼台南市審計處的年度預算減得最少？
+林審計長慶隆：跟委員報告，增減主要是人事費的部分，依照101年度各審計處實際員額及薪水做了一些調整。部裡面增加的部分，實際上是從各審計處有剩餘或不夠……
+許委員添財：台南縣市合併之後，辦公處所應該會增加，效率應該會提高，結果你還要增加207萬辦公廳舍的經費，這是為什麼？
+林審計長慶隆：跟委員報告，部裡面的各項經費都是照實際需求，有計畫來……
+許委員添財：當然都是這樣講。今天來報告的這兩個單位都是在管人家的，你們要以身作則，政府現在就是要撙節支出，把經常門的費用降下來，資本門自己用的部分也要降下來，促進國家建設的部分要增加，這樣才能算是起碼的開始，如果連這個都做不到，就甭談了！不要因為幾個官員的態度、作法，影響到全體近百萬公務人員的形象，那就得不償失，而且誤己誤人！
+愛台12項建設是馬英九總統當選最正當性的訴求，實施以來已經進入第五年，審計部有沒有針對愛台12項建設提出相關的審核？
+林審計長慶隆：跟委員報告，愛台12項建設是從98年度開始，在101年度的時候，總共編列3,314億的預算，到6月30日為止，它的執行力是91.9%。
+許委員添財：預算編的那麼少，執行力當然高！這部分在8年間要投入3.99兆，都經過兩年了，才編三千多億，這是欺騙！全國第一人這樣做，太離譜了！8年間要投入3.99兆，預計每一年GDP的規模可以增加2.95%，平均每一年可以為台灣創造24.7萬個工作機會。如果愛台12項建設真的實施，今天會這麼慘嗎？審計部對這麼重大、明顯政策的提出，在預算編列及執行決算方面，竟然沒有一個專案的審查。
+林審計長慶隆：跟委員報告，總經費3.99兆是包括民間投資，本部在審核各該年度決算時，對愛台12項建設重大計畫執行情形，我們都有做考核，相關意見也在100年度總決算審查報告中。
+許委員添財：本席將提臨時提案，要求做專案檢討報告。
+林審計長慶隆：謝謝。
+主席：請林委員德福發言。
+林委員德福：主席、各位列席官員、各位同仁。最近大家都在談勞保基金能夠支應到116年的問題，行政院院長也特別指示說，要大家放心，絕對不會讓它倒。以現階段的模式來看，已是入不敷出，因為所有的預算都是主計處在編列，對於院長所做的背書，主計長有什麼樣的看法？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。針對這個案子，院長已經指示勞委會和經建會要從保費費率、給付條件、替代率、基金運作的效率及政府責任等五個層面，研擬因應對策，並請薛政務委員、管政務委員共同督導，希望能夠提出方案。
+林委員德福：所以就現階段來看，一定會研議出一套可長可久的模式，絕對不會讓它倒，是不是？
+石主計長素梅：是。
+林委員德福：因為最起碼要讓勞工能夠安心，本席建議做這樣的宣示，就是要把制度面建立好，這一點很重要。不知審計長有什麼看法？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。因為勞保當初是用精算的方式，預估一個費率，到目前為止，它的潛藏債務已達六兆多，勢必要針對它的財務，包括費率的提存、基金投資績效來做適當的檢討。另外也要讓老百姓安心，在勞保條例裡面有關政府保證的部分，也要確定……
+林委員德福：當初在金融海嘯發生時，因為當時的劉兆玄院長做了宣示，所以很多民眾把錢存在私人銀行，並沒有轉存到公營銀行，才讓這些銀行沒有倒閉。可見政策宣示很重要，政府如果沒有在後面做保證，那些已達退休年齡的勞工一定會去領勞退基金，一次全領，而且是大家擠破頭，所以政府對這個問題要建立好制度。
+接著本席再請教主計長，主計處今天公布有關失業率的數據，台綜院院長預測9月份的失業率雖然不會明顯下滑，但是較8月惡化的機率相當低，可能是朝持平或是降低的方向發展，請問失業率還會不會再往上飆？
+石主計長素梅：我們早上公布的失業率是4.32%，比上個月下降0.08%。
+林委員德福：本來是4.4%，對不對？
+石主計長素梅：對。
+林委員德福：9月屬於第3季，第4季才要開始，請問景氣是不是已經到了谷底？
+石主計長素梅：景氣是否到了谷底，經建會會去認定，關於經濟成長的預測，這個月月底我們會根據國內外經濟情勢作一個修正，上一次是8月17日發布的，我們預測第4季景氣會上來。
+林委員德福：會上來？你們有沒有信心？
+石主計長素梅：是。
+林委員德福：根據媒體報導，景氣燈號在股價、出口的指標好轉下，預期將可終結連10藍，亮出代表景氣轉向的黃藍燈，請問這是否代表失業率還會繼續往下降，不會再往上爬？
+石主計長素梅：我們會逐季公布失業率，依照最新的情況來發布。
+林委員德福：你們只有作統計，無法很有信心地認為景氣會往上爬，不會再往下掉？
+石主計長素梅：依據我們上次在8月17日發布的景氣預測，本來就預計第4季會好轉。至於失業率部分，各國都沒有作失業率的預測，不過我們在每個月都會公布調查的結果。
+林委員德福：結構性的失業是指市場競爭的結果或是生產技術的改變所造成的失業，就業市場並不平衡，請問我國的結構性失業是不是十分嚴重？
+石主計長素梅：勞委會和相關部會都很重視結構性的失業，也都有針對就業和失業的狀況作評估，並研擬因應對策。
+林委員德福：是不是由於國內市場的競爭力不足，所以我國才會面臨這麼嚴重的經濟衰退？
+石主計長素梅：我國出口占GDP的65%，受國際情勢影響很大，所以前面幾季尤其是第2季，出口消費是呈負成長。但是從目前相關數據看起來，第4季應該會上來。
+林委員德福：馬總統說我們的產業結構沒有改變，即使效率高，但是因為創新和加值比較少，利潤也少，老闆當然不願意加薪，請問主計長認為我們的產業結構要如何改變？
+石主計長素梅：其實院裡面相關部會正朝著產業結構的方向在努力。為了提振景氣，行政院已推出經濟動能推升方案，而相關部會也就主管部分研擬方案並且執行。
+林委員德福：你認為哪些產業的結構需要提升？
+石主計長素梅：相關部會都已在密集檢討中。
+林委員德福：所以你並不了解？
+石主計長素梅：相關部會在檢討。
+林委員德福：馬總統說，經濟已有成長，但國內薪資不調漲，關鍵在於產業結構的調整，尤其是關鍵元件、關鍵技術、精密設備製造等3項產業領域。請問你認為這3個產業領域要多久才會有效改善？
+石主計長素梅：對於經濟動能推升方案，各部會會積極處理，例如政府想要改善產業結構來提高薪資水準，對此經濟部已推動若干措施，包括三業四化。
+林委員德福：這一點我知道。瑞士洛桑管理學院針對全世界競爭力的評比，馬總統說我國表現不差，至少是有史以來政府表現最好的一次，有很多很早就該做的還沒有做，必須趕快做好。請問總統認為政府早該做而沒有做好的，到底是哪些？你不要一問三不知啊！
+石主計長素梅：各部會真的在檢討，例如經濟部正在推動好幾項方案，研擬如何優化產業結構、創造產業多元發展。總之，他們會逐項檢討，檢討結果將對經濟成長率的提升有所幫助。
+林委員德福：你認為早該做而沒有做或是沒有做好的，到底是誰要負責？
+石主計長素梅：各部會都在努力，而且密切注意國內外的情況以及相關統計調查數據，找出問題的癥結所在，然後個別提出解決方案。
+林委員德福：國內精密機械在過去3年逆勢成長，目前產值已達到9,920億台幣，預計明年可以突破一兆以上，成為國內另一項兆元產業。請問這項兆元產業會不會像其他兆元產業一樣，到最後變成流星？
+石主計長素梅：我想各部會都會有信心，希望把事情做好。
+林委員德福：主計長還需要再深入了解，才能在委員質詢時把實際數據瞭若指掌地表達出來，這一點很重要，希望你能在這方面好好加強。
+石主計長素梅：謝謝。
+主席：請吳委員秉叡發言。
+吳委員秉叡：主席、各位列席官員、各位同仁。請問主計長，今天早上公布的失業指數是多少？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。9月份的失業率是4.32%。
+吳委員秉叡：有沒有包括大量解僱如壹電視、茂德的統計數字在內？
+石主計長素梅：我們公布的是9月的部分，所以9月的相關數據就會涵蓋在裡面。
+吳委員秉叡：全部都有？
+石主計長素梅：據了解，委員提到的部分是10月發生的，所以會反映在10月份的數據。
+吳委員秉叡：那你們在11月公布10月的數據，可能失業率還會再飆升喔！
+石主計長素梅：如果有解僱的，當然就會減掉。
+吳委員秉叡：在大台北地區包括台北市和新北市，很多房仲業者是靠行的，他們沒有領底薪，有成交才有獎金。報載，這些人中會有一萬人失業，因為不動產交易減少將近30%，請問你們有沒有把他們計算在內？
+石主計長素梅：我們是按月發布數據，一定會反映實況，只要有失業就會算進去。9月份就是9月份的狀況，10月份則要看實際的狀況。
+吳委員秉叡：比如說他們在房仲業掛個名，做靠行的，沒有成交就沒有收入。就像你剛才講的，無薪假是台灣創的，全世界都沒有無薪假。本席在大學教勞動基準法，我認為這是違反勞動基準法的，明明是部分失業，還要美化說成是無薪假。請問公務人員為什麼不放無薪假？如果這麼好的話，為什麼公務人員不放無薪假，而只是要勞工放無薪假？我覺得無薪假這樣的名詞應該要拿掉，這根本不公平。請問誰願意放無薪假？大家都想要放有薪假，誰要放無薪假？剛剛本席在台下聽到主計長說無薪假的定義是按照全世界的標準，我聽了嚇一跳！
+石主計長素梅：關於就業、失業的定義，是按照國際的標準。
+吳委員秉叡：但世界上並沒有哪個國家有無薪假，只有台灣有啊！請問放無薪假到底算不算是失業？
+石主計長素梅：因為我們是按照國際勞工組織的定義……
+吳委員秉叡：我剛剛已經講過了，國際間並沒有無薪假，國際勞工組織哪裡有無薪假的定義？
+石主計長素梅：我剛才有報告過，無薪休假期間如果是在一個月以上未領有報酬，而且等待恢復工作後，開始另找工作者，就會歸入失業者。
+吳委員秉叡：世界上沒有任何一個先進國家有無薪假這樣的名詞，它是沒有薪水、部分時間失業。簡單來講，大企業為了節省人力，所以派遣人員越來越多，這其實都是剝削，當企業需要人力時，他們去做部分工時，當企業不需要人力的時候，他們就只好回家去等，這就是所謂的無薪假。連錢都不給，底薪也沒有，過這種日子的人是很痛苦的，你要知道台灣的淪落速度很快，在日本像這種非典型就業，連房子都租不起，住在動漫屋或網咖的人很多，苦到日子過不下去，甚至餓死的都有，在日本福岡就有這種活生生餓死的案例，希望我們不要變成這麼悲慘的世界。
+本席再問你一個問題，財政委員會是不是曾作過決議，要求每年中央政府債務還本要按照一定比例去進行？
+石主計長素梅：財委會的確有作過決議，在張部長提出報告的時候，是有作過這樣的決議。
+吳委員秉叡：是多少？
+石主計長素梅：是稅課收入的7.5%。
+吳委員秉叡：結果今年的總預算有編列嗎？
+石主計長素梅：今年是按照稅課收入的6%，也就是……
+吳委員秉叡：財委會要求你們編列7.5%，而你們只編列6%，這樣擺明就是瞧不起財委會嘛！主計長面對財委會可以這樣嗎？行政院在編列預算時，你有沒有據理向行政院長說財委會曾經作過這樣的決議？我們是不是要求債務還本要占7.5%？
+石主計長素梅：我們有表達，但是因為102年度的總預算籌編非常困難，所以……
+吳委員秉叡：既然非常困難，大家就應該要撙節啊！
+石主計長素梅：有，有撙節。
+吳委員秉叡：包括主計長和兩位副首長的座車，今年都要汰換，這樣有撙節嗎？
+石主計長素梅：我是指整體來看，因為歲入成長很有限，只有0.02%……
+吳委員秉叡：我當然知道在行政官員的眼中，財委會的決議對你們來講並沒有強制力，你們認為這只是建議而已，但是你知道為什麼要作這樣的決議嗎？它背後的因素是因為我們不能讓世代的不正義繼續無限制的擴大下去，現在政府所欠的錢，都是將來年輕人要還的，我現在走在路上看到小baby都非常尊敬，因為他們是我們的債主，現在的人欠錢，將來都要靠他們來還。所以財委會才會作出這樣的決議，希望能夠用7.5%的稅課收入來清償中央政府已經有的負債，結果你們沒有編足7.5%，而只編列6%，請問相差1.5%差了多少？是170億嗎？
+石主計長素梅：跟委員報告，雖然預算籌編很困難，但我們還是盡力把歲入、歲出的差短往下控制。
+吳委員秉叡：你只說了一句預算籌編很困難，難道財委會作出的決議及其背後的精神，你們以後都不用遵守了嗎？如果明年更困難，難道明年可以只剩下3%嗎？如果後年又更困難的話，難道就都不要編列、不要還，讓它一直累積虧欠嗎？
+石主計長素梅：不行的，法律明定一定要編列5%以上，當然我們也會努力達成財委會所作的建議。
+吳委員秉叡：你要瞭解這項決議的背後是有理由的，而不是要刁難行政機關，你知道嗎？
+石主計長素梅：我瞭解。
+吳委員秉叡：大家不能只是從自己的本位來看事情，如果大家都從自己的本位來看事情的話，可能會覺得很多事情都很理所當然，其實從整個社會的角度來看，不同的工作類別之間，不同的世代之間，都有很大的相對剝奪感，那種感受是很難過的。最近適逢九九重陽節，因為九九重陽都要敬老，所以很多社區的老人會都會舉辦餐會，本席一到現場去，每個人都拉住我，對我說不能讓勞保基金破產，不然他們都活不下去，每個人都很緊張，而且年紀都已經是六、七十幾歲了。
+石主計長素梅：院長已經宣示一定不會讓勞保倒閉。
+吳委員秉叡：本席只是舉這個例子來說明不同的工作類別、各個工作族群、各個年齡層，大家都很緊張，包括年輕人也在問他們的未來在哪裡？現在年輕人一個月領兩萬多塊，將來還要揹那麼多債，真的不知道他們的未來在哪裡？請問這次所要公布的實質收入是不是又倒退了？倒退多久？
+石主計長素梅：關於薪資的部分，一樣還是退回13年前。
+吳委員秉叡：倒退回13年前？
+石主計長素梅：是的，我所說的是實質薪資，就是把物價因素算進去的話，那……
+吳委員秉叡：所以我說現在國民生活痛苦不堪，你們不用再去調查幸福指數了，台灣民眾現在能感受到幸福的人，可能不到20%，本席認為調查幸福指數的預算可以全部刪除，根本不用再調查台灣的幸福指數了。你們應該倒過來調查痛苦指數才對，這樣還比較有實質的意義，是不是？
+石主計長素梅：關於薪資的部分，其實也是政府相關部門一直在努力的，希望政府和民間大家都能有所體認……
+吳委員秉叡：本席翻開預算書來看，你們在理由上面寫著因為要調查國民幸福指數，所以要增加人員統計數字的所需經費，雖然為數不多，只有幾百萬而已，但是本席看了都覺得很難過，現在要對台灣民眾調查幸福指數，其實真的很反諷。大家都很痛苦，在這種情況下，你們還要調查幸福指數，我看這幾百萬的預算應該可以節省起來，這樣至少可以撙節支出，請問這樣可不可以？
+石主計長素梅：跟委員報告，現在很多國家都在進行幸福指數的調查，希望能夠藉此瞭解……
+吳委員秉叡：等到我們和其他國家一樣，民眾能夠有幸福感的時候，我們再來調查，否則現在調查起來一定很難看。
+石主計長素梅：我們希望能夠藉此瞭解我們和國際間的比較。
+關於薪資的部分，如果不含物價因素的話，平均薪資及經常性薪資當然還是有增加，不過在物價因素考慮進去之後，實質薪資確實是……
+吳委員秉叡：針對GDP的預估，請問下次是什麼時候要公布？
+石主計長素梅：10月31日。
+吳委員秉叡：上次你們不是說可以達到1.66%嗎？結果前幾天又被打槍了，某家研究機關的研究結果是只剩下1.53%，請問你們下次公布的時候會再降嗎？
+石主計長素梅：我們當然一定會根據最新的相關資料來……
+吳委員秉叡：只剩下不到幾天的時候，你們預估這部分會下降嗎？
+石主計長素梅：最近國內外的經濟指標表現不一，像出口的部分在9月份就成長滿多的，外銷訂單也不錯，而股票的成交值是減的，因為是有增有減，所以我們還要精算之後，等到10月底才會公布結果。
+吳委員秉叡：更困難的情況要來了，聽說在過年前有很多號子要倒閉，依照現在的成交量來看，屆時恐怕會增加很多失業人口。希望你們能夠好好統計，千萬不要為了美化數據而不照實際情況來作統計。
+石主計長素梅：絕對不會，我們是據實反映，謝謝。
+主席：請賴委員士葆發言。
+賴委員士葆：主席、各位列席官員、各位同仁。今天主計總處所公布的數字是4.4%的失業率是嗎？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。是4.32%。
+賴委員士葆：8月份是4.4%，7月份是4.31%，所以大概是回到7月份的情況，剛才幾位同仁都非常關心這個問題。我看了一下你們預估今年GDP的成長率，還是往下修？
+石主計長素梅：我們8月17日公布的成長率是1.66%，我們下次會在10月31日公布。到目前為止，我們這幾個月的指標，有比較好的，也有比較差的。
+賴委員士葆：比較好的是哪些？比較差的是哪些？
+石主計長素梅：出口算是比較好的。
+賴委員士葆：出口的什麼項目比較好？
+石主計長素梅：像第三季以美元計價的出口值，減幅就縮小到2.23%。
+賴委員士葆：你們再研究一下是什麼出口項目？其實我們以前最強的電子資訊是沒有成長的。所以，是什麼成長了？你看一下是什麼成長了。是礦還是……
+石主計長素梅：汽柴油的出口。
+賴委員士葆：汽柴油的出口，為什麼？是因為去年的基期很低？又基期為什麼很低？是因為六輕燒大火，所以9月份特別低？還是因為去年基期低，所以今年9月份就很高？
+石主計長素梅：是的。
+賴委員士葆：所以實質上要看資訊產品，如果我們的出口主力沒有增加，還是挺令人憂心的。
+石主計長素梅：比較負面的，像上市櫃股票的成交值，就減少滿多的。
+賴委員士葆：減多少？
+石主計長素梅：百分之三十五點多。
+賴委員士葆：證交稅減了35%？
+石主計長素梅：對，股票；而自用小客車的銷售也減少了。所以說有的比較好，有的比較不好。整體來看的話，我們第二季很差，是-0.18%；但第三季綜合看起來，是不會再負成長，只是成長的力道還是滿弱的。
+賴委員士葆：成長力道弱，還是……
+石主計長素梅：從這些數據看起來，還是會成長。
+賴委員士葆：不過看起來都滿辛苦的。在這樣的環境底下，台灣現在有個氛圍，就是大家都往下拉，這點令本席覺得有點難過，因為大家都在比窮，你知道嗎？這叫均貧，就是有一種往下拉的力量；也就是說，台灣整體是往下拉的。但如果大家都能夠賺錢，整體都有錢，大家都能往上加，那不是很好，然而現在大家是往下減，所以在這樣的氛圍下，依本席所了解，我們黨團馬上就要開記者會，所以我們要呼籲，同時，我們也會在預算審查的時候做這樣的事情。就是在公務車的部分，原來首長的公務車是8年可以換，對不對？但我們希望不要換。老實說，你們也沒有常常在跑，頂多就是上下班開，開了8年還是很好用的，因為車子有人用到十二、三年。所以你們編那個預算，當然會被人家打槍，你怎麼沒想到自己是在掐人家預算的？
+石主計長素梅：跟委員報告，依規定是8年，而今年是考量到我們的用車已經10年了，所以才編預算。當然若以整體考量的話，我們也尊重立法院的決定。
+賴委員士葆：規定是8年，但這只是一個規定，而所有的規定都是可以改變。
+石主計長素梅：對。
+賴委員士葆：在今天這樣的時空裡，台灣已經有一股聲音、一股力量，就是希望大家都吃差一點，簡單說就是這樣。所以我們會看到很多政治人物跳出來，要這個刪一點、那個刪一點，就是希望大家都吃差一點！只要是沒有法源保障的費用都可以砍、可以殺，就是變成這樣子。
+石主計長素梅：跟委員報告，您講的沒錯，規定是8年，但我們已經延了兩年，所以是10年；但是，如果希望能更撙節，我們也尊重立法院的決定。
+賴委員士葆：你的意思是人家砍你的預算也沒有關係？
+石主計長素梅：我們尊重立法院的決定。
+賴委員士葆：好吧，既然你不defense，我們就砍了這筆預算。本席本來做球給你，看看你是不是能講出什麼偉大的理由，說一定要換；現在看起來，我們就提案把它砍掉好了，總共有幾百萬吧？我們是主張10年以內的車都不要換，所以今年在審查預算時，是有一條小小的線畫在這裡，就是10年以內的車都不換，10年以上的，再看情況而定，因為現在大家要共體時艱，就是這句話。謝謝主計長。
+另外，本席想請問審計部林審計長。你在審計部很認真，而本席看你的報告，其實你的武器很多，但是我們都沒有看到你強而有力的動作。你的報告裡有寫到：政府增加社會福利支出的時候，大部分都沒有同步籌措財源；政府支出結構僵化，經濟發展經費比率越形縮減。你特別提到的，就是每年社福支出都增加，但是相對沒有財源。其實我們都知道，財劃法第三十八條之一寫得很清楚，要增加支出或減少收入，一定要告訴我們錢從哪裡來，但現在不管是行政部門還是立法部門，大家都帶頭違法。簡單講就是這樣，因為帶頭違法，才會讓我們的財務結構越來越糟糕，你要大刀下去大聲疾呼，不要聽到別人講了還沒有什麼動作。
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。我們在報告中有提這點意見，而且，也提出了警訊。
+賴委員士葆：警訊怎麼樣？你們的工具有這麼多，對不對？
+林審計長慶隆：不過這裡最主要說……
+賴委員士葆：你可以把它移送法辦，或是做什麼都可以。
+林審計長慶隆：這些都已經有經過預算的程序，至於這些財政紀律的部分，我們有提過好幾次，因為根據財政收支劃分法的規定，就是要有財源。
+賴委員士葆：本席問你，你們審計部可以做什麼事？你的工具在哪裡？你可以提糾正、也可以移送法辦，看他們哪一個違法就把他法辦；但你也不敢。
+林審計長慶隆：我們有送到監察院去。
+賴委員士葆：有送監察院？送了哪些？
+林審計長慶隆：我們最重的武器就是送到監察院。
+賴委員士葆：送了哪些，你告訴我。
+林審計長慶隆：就是財政紀律的部分，長年來都沒有符合，很多都與第三十八條之一牴觸。
+賴委員士葆：糾正機關是誰？行政院？
+林審計長慶隆：就是整個政府機關；這部分監察院正在調查。
+賴委員士葆：是誰違法？行政院還是立法院？
+林審計長慶隆：整個預算案是行政院編出來的。
+賴委員士葆：所以主要是針對行政院？
+林審計長慶隆：對。
+賴委員士葆：但他們不理你啊！
+林審計長慶隆：關於這點，我們的審計意見也有引起院裡的重視，委員也很重視這一塊。
+賴委員士葆：本席認為所有的保險制度不是不能檢討，只是檢討的時候，不要變民粹、變政治鬥爭。現在變得怎麼樣？例如勞保問題、公保問題，就已經變成政治鬥爭、變民粹。請問綠色執政的城市有沒有發？早就發了嘛！今年年初就發了，今年初等於發的是去年的年終獎金，發了對不對？
+林審計長慶隆：對，這是目前的情況。
+賴委員士葆：本席認為這一方面有很大的檢討空間，可是不應該是像現在的政治氛圍、社會氛圍，而變成一種鬥爭；本席難過的是在這裡。當初，行政院沒有肩膀，為了討好變成支付很少、領的很多、領得很長，那不倒才怪！這變成世代鬥爭、世代掠奪，這是很簡單的道理。這是可以全面檢討的，但不要變成政治鬥爭，若真的要鬥別人之前，要先看看自己；過去講18%、13%，有多少綠色的一樣在領這些東西，雖然這些東西都有理性探討的空間。當初民進黨執政8年，為什麼沒有處理掉13%？甚至張俊雄院長還把原來的600萬設為500萬。他們也都沒有處理，這代表什麼？代表處理上有它一定的困難度。當然，我們不是說有困難度就不去處理，當然要處理，可是現在的時空是整個社會變窮了，相對剝奪感就變得很高；今天如果政府很有錢、整個國家很有錢，就不是這樣。我們現在看到的是這裡要砍、那裡要砍，大家會變得越來越沒有錢，也就越不敢消費了，如此會形成惡性循環。審計長可否針對本席提到的問題說明？
+林審計長慶隆：各種保險都有其時空背景，也都是一種精算，所以要針對未來負擔的情況，在適當時機做妥善的檢討。
+賴委員士葆：你這話本席不是聽很懂，可以具體再講一下嗎？例如勞保、公保，已經使得整個社會沸沸揚揚的，你的看法如何？
+林審計長慶隆：以勞保來說，目前潛在負債很大；除了勞保之外，退撫基金的部分，也是負擔很重，特別是在政務人員的退撫基金，事實上在101年度已經入不敷出。在軍職的部分，會在108年度發生問題。潛藏在勞保的負債有6兆多元，在軍公教退休金是……
+賴委員士葆：請問你的主張是什麼？
+林審計長慶隆：我的主張是整個費率的部分，可以檢討看看，在適當的時間，來做一個……
+賴委員士葆：對於這個所謂的慰問金，你的主張是什麼？
+林審計長慶隆：慰問金年代已經有點久了，不過我想目前行政院在這件事情上也在檢討；它並非有法律規定的契約關係，目前行政院正在做整個檢討。
+賴委員士葆：其實我們看軍方很弱勢的部分，一個月只有1萬塊不到2萬塊，那種就要繼續發；對於非常弱勢的族群，真的是慰問金的性質要繼續發。其他部分還有檢討空間，但弱勢的這一部分，本席覺得還是要發。謝謝審計長。
+主席：請孫委員大千發言。
+孫委員大千：主席、各位列席官員、各位同仁。這段期間本席都有向主計總處反映，因為我認為主計總處所擔任的工作非常重要，它不僅僅只是一個數據計算的中心，不是定期把每幾個月收到的資訊算一算，套個公式公布一次就算了；本席覺得主計總處本來就應該擔任政府的耳目。就像人有沒有生病，是用溫度計來測量，才會知道他有沒有發燒。
+因為政府的工作很繁雜，很多相關的指標，必須經過精算才能夠知道經濟的景氣是什麼、未來的走向是什麼。如果沒有一些數據做為參考依據，政府的施政就會變成無頭蒼蠅，那麼政治人物的承諾和談話，就會變成隨便亂講了，反正都是憑感覺，感覺可能會覺得好，就好了；感覺可能不好，就不好了。其實應該要有比較科學的方法，主計總處就應該擔任這樣的工作。所以，行政團隊最重要的耳目，就是主計總處，因為各式各樣的數據，無論是價格也好、進出口也好，這些相關的數據，單看一項都看不出整體的情況，這也是為什麼你們要有這麼多指標來計算的原因。用這些計算完之後，就可以來做評估。
+當然這不只是你的問題，而是主計總處長久以來都沒有受到重視，因此久而久之，主計總處就淪為只有在預算會期的時候，各部會的預算是由主計總處來計算到底行政院有多少錢；然後每幾個月就公布一次失業率、GDP的成長率、CPI等等就算了，但其實主計總處可以發揮更大的功能。
+為什麼本席要講這件事情？因為我想回過頭來請教石主計長，總統和院長都對外宣布說我們要在一個月內讓大家都「有感」，這個「有感」其實很抽象。什麼叫做有感？怎麼樣才會有感？既然總統和院長做了這個宣示，不管總統講一個月，還是院長講三個月，總是要有一個依據。這個有感，是個政治承諾，不能到了時間，說「大家感受不同，所以可能有人有感，有人沒感」，那樣就會變成各說各話。所以本席想請教主計總處，眼看一個月就快到了，那麼這一個月，我們不講別的，既然總統都這樣講了，這一個月，主計總處有沒有算一下，到底有沒有什麼數據可以證明說，經濟真的有變好？不管是失業率也好、CPI也好、GDP也好、出口成長率也好，總要有一個數據出來，要不然一個月的時間很快就到了，時間到了就變成各說各話了。到底總統的承諾是做到了、還是沒做到？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。跟委員報告，院裡非常重視這個問題，事實上院長也邀集了相關部會多次開會研商，希望各部會都能就所執掌的部分提出好的方案，讓人民感受到有進步、有改善。當然，我們主計總處會按月、按季公布物價情況、消費者物價、躉售物價、失業率等等。
+孫委員大千：既然總統講了，如果本席今天是主計長，我一定會很緊張，但會很謹慎地開始算這一個月的各種數據，因為所謂的有感與沒感，最後還是要有一個指標。當大家都沒感的時候，至少有個指標可以拿出來說「你看，我們這個指標證明是變好的」。否則既沒有指標又沒感，到最後就很慘了。所以本席才要請教主計長，現在已經快一個月了，到底我們有什麼指標可以證明這一個月拚經濟真的有效果了。你們總要拿出一個數據，讓我們這些執政黨的立委有辦法幫你們講話。
+石主計長素梅：按月公布的，除了方才講到的消費者物價，還有今天早上剛公布的失業率是稍微好一點點。
+孫委員大千：失業率變高了？
+石主計長素梅：變低。
+孫委員大千：變低一點點？
+石主計長素梅：從8月的4.4%降到4.32%。另外，像出口的部分，9月的出口成長了百分之十點多，這是比較好的，外銷訂單也比較好。當然，有的比較好、有的比較不好。
+孫委員大千：CPI呢？
+石主計長素梅：物價指數是每個月5日公布，9月是2.96%，比8月的3.43%略微下降。
+孫委員大千：所以本席要拜託主計總處，既然總統對外宣布說是一個月，而且媒體也很重視，前幾天就開始在倒數了，說時間快要到了。時間到的時候，主計總處至少要拿出一個數據出來告訴大家，說經濟的確有改善了。因為你要讓全國的人民有感很難，所以你只能用科學的方法，拿一些數據出來證明，這一點本席一定要拜託主計總處。這是第一點。
+石主計長素梅：我們會彙整相關部會的統計。
+孫委員大千：第二點是院長講的，不管是一個月還是三個月，時間快到的時候，主計總處應該也要做好準備。第三，不只總統和院長，經濟部長也講了，說CPI不會破2。這個也是大家所關切的問題。總統做承諾，院長做承諾，經濟部長也拿他的烏紗帽來做承諾，但這些承諾都必須要有科學依據。所以本席一定要拜託主計總處，你們數據的提供，對外是每個月5日公布一個指數，然後三個月公布一次GDP等等，那是你們對外的制度；可是對內，我們希望這些數據能更被活化，因為這個數據其實是很有價值的。這些數據必須要儘快地提供給相關的人，讓他們在做決策、做承諾的時候也能看得見，否則如果本席今天是總統，明明未來三個月就是很慘，你的預測就是很慘，如果什麼數據都沒看就站出來講，要「兩個月讓大家有感」，不就是找死嗎？真正的關鍵在哪裡？關鍵在於主計總處有它的功能，這個功能不應該只是變成一種書面的功能，只是定期公布一個數據，行禮如儀、變成一個很制式化的工作。尤其是在這麼關鍵的時刻裡，你做任何的決策，做任何的承諾、任何的宣示，都必須要有依據，而這依據在哪裡？就在主計總處。總統和院長既然做了這個承諾，你就應該配合這個時間點，把該公布出來的數據公布出來。至少要告訴大家說「真的有變好，也許你現在沒有感受到，但很快就能夠感受到了」。畢竟這個感受要經過一個傳達的時間，可能從頂端傳達到基層需要一點時間，但實質上，經濟情況是有好轉，否則到時候變成各說各話，執政黨又要面臨許多不必要的批評。雖然這些政治人物的承諾有沒有兌現是另一個話題，但我覺得那樣對他們也不公平。所以本席還是要再三拜託主計長，本席一直重複同樣的話，就是因為主計總處就是耳目，這個耳目必須做到很靈敏，讓做決策的人，能夠很明確掌握住未來的方向，這樣那些政治人物在對外做宣示或承諾的時候，也不會開空頭支票，這點一定要拜託，好嗎？
+石主計長素梅：我們會據實公布有關的數據，而對內方面，我們也會適時、及早提供有關的資料讓大家妥為因應。
+孫委員大千：你們對內其實不需要侷限在某一個時間點，而是可以一周或一個月提供一次，尤其是重要的指標，你們可能一周就必須送上去一次，讓他們能夠知道實際的狀況是什麼，才不會做出錯誤的判斷，這點要特別拜託主計長，謝謝。
+石主計長素梅：謝謝。
+主席：請盧委員秀燕發言。
+盧委員秀燕：主席、各位列席官員、各位同仁。今天的股市一開盤就大跌了近百點，截至方才為止大約跌了七、八十點，大家都知道，從上周開始政府就不斷地喊出要「救股市」，一般而言，救股市可以採取幾項措施：第一、採取一些金融措施，不過這段時間看起來尚未推行。第二、政府的子彈進場救市，針對這項措施又可細分為幾個方法：首先是國安基金，但是我們知道要使用國安基金救市必須先經過委員開會同意，而這兩天也沒有開會，另外，如果國安基金進場，在眾目睽睽之下，外界也一定會盯著看；另外一個是利用政府的各大基金、政府的公營行庫或四大基金進去救市，其中的四大基金包括勞保、勞退、公務人員退撫基金以及郵政基金，如此看起來好像子彈很多，但是這四大基金扣除郵政基金的部分，在近20年內的財務狀況也岌岌可危，而這兩天政府都不斷在喊話說勞保、勞退的基金還有公務人員的退撫基金都不會倒，政府一定會想辦法救，但是如果他們一方面在救基金、整理財務，另一方面，這些基金的主管者又接到政府的指令，說要把這些勞保、勞退的基金以及公務人員退撫基金的錢拿去救股市，請問主計長您身為國家財務主計的大臣，贊成這項作法嗎？針對這點，您有什麼看法？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。我認為相關的主管機關一定會就當時的情勢，依照優先緩急的順序處理，必要時當然要努力去執行。
+盧委員秀燕：所以您贊成這項作法？如果這兩天政府認為救股市很急、很重要，因此指示將勞保、勞退及公務人員退撫基金投入股市來救市，您贊成這項作法嗎？
+石主計長素梅：我想這幾項基金的管理人員會做審慎地評估，而行政院也很重視這些基金潛藏的負債問題，他們已經請經建會裡的一個小組進行中長期的審慎評估及研究，一定要解決這個問題，讓大家能夠安心。
+盧委員秀燕：請問審計長，你覺得在這個時候執行如此的政策妥當嗎？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。不論是在郵政或是四大基金裡面，都有一部份的資金是作為國內、外的投資，而投資的目的當然是要增加基金的盈餘、彌補其在財務上的短絀，這是它的大目標。
+盧委員秀燕：你們兩位都認為、也部分承認及暗示這四大基金有在進出股市，縱使在這時候也不排除進去，可是四大基金的進出股市無非要以賺錢為目的，來提升經營績效，讓基金可以更有錢支付四大基金的需要，並非為了救股市而成立，尤其在這種情況下更不應該混淆，因此本席強烈地建議及呼籲兩位，在接下來的周三及周四，財政委員會都會召開相關的會議，所以請兩位要依照財政委員會的要求確實地去了解四大基金最近兩天進出股市的狀況，因為這時候進出股市，會讓這些基金的擁有者，包括勞工、公務員及把錢存在郵局的民眾更不安心，因為現今的情勢連法人、個人及散戶都不敢進場，若以基金目前岌岌可危的財務狀況，政府還拼命拿大家的錢下去填補，就像把它們丟在水裡，這樣合理嗎？保證能賺錢嗎？因此本席認為如此的情勢下執行這樣的措施並不合宜，現在不是賺錢的時機。對此，你們兩位是否會勇於反映？
+石主計長素梅：我認為基金的運作一定會經過審慎地評估。
+盧委員秀燕：你們主計總處不只負責公務預算，還設有一個基金預算處，像基金預算、各國營事業公股、行庫，還有這四大基金，你們都要替國家把關這些基金，所以要更確實、積極地有所作為，讓一般的勞工及公務人員安心；你們一方面喊出政府會拿公務預算貼補基金，不會讓它們倒，一方面又把這些錢丟入水裡來救股市，如此會讓勞工及公務人員更不安心。
+另外，主計長是一個很節儉的人，本席看到妳連送給委員的賀卡都是自己用紙來做，捨不得去買卡片；而你的座車已使用超過8年，依法令規定可以換車，但是本席想請問妳的座車目前狀況如何？
+石主計長素梅：依法令規定達到8年可以汰換，而我們已經使用了10年，所以才編列預算；至於委員問到的車況，目前當然是有維修的情況，不過我方才也向賴委員說明過，如果是考量整體的財政狀況，我們當然會尊重大院的決議。
+盧委員秀燕：妳知道妳的車子開了10年下來，總共跑了多少里程？
+石主計長素梅：不好意思，我必須再去了解一下。
+盧委員秀燕：本席為什麼會請教這個議題？因為我覺得許多首長的公務車，其實跑了不少里程，像我們立法院王院長的座車，每天南來北往地奔波於各縣市，因為它跑的里程數非常高，所以可能不到8年車子就會出現很多狀況；但是有些首長的座車只用於上下班、短程開會，例如從主計處開至行政院，因此在這種情況下，他們的座車所使用的里程數就很低。總之，政府所設定的使用年限，基本上來講是正確的，可以讓大家使用到這個年限時，如果認為車況不佳、里程數太多，可以做汰換的動作；不過，也有一些公務車的使用率比較低，但是也不能不配給他們執行公務時使用，因此本席建議，不要只用8年的年限作為公務車汰換的標準，這樣還不夠周全、且缺乏科學依據，不過依然要維持8年的年限，例如王院長及總統的座車，每天在外面到處跑、到全省各地去下鄉走訪，像這種情況，8年的年限一到當然要准予更換。另外，本席寫了個提案，建議應該再加權兩個條件：第一、參考使用里程數，如果使用里程數在8年內只跑了一萬多公里，在這種情況下，是否有換車的必要？第二、在里程數低且車況佳的情況下，就由使用率低且維修、保養得宜的機關自己去做評估，像主計長在8年年限到了並沒有更換，而是用到10年，這樣就還不錯；但是，目前唯一的條件就是8年，所以讓大家有不換白不換的心態，認為年限一到，為什麼不換一部新車？因此，本席今日的提案就是要主計總處全面檢討不要只用年限來進行汰換的制度，應該適當地加權使用里程數及機關內部的評估，如果到了汰換年限，但是使用的里程數很低，或是內部評估的狀況還很好，或是你們認為還有其它的評估條件也可以再加進去。總而言之，經過整體的評估後，有上述那些狀況，可以像主計長方才提出的，雖然已經超過使用年限，但是車況還不錯，所以使用了10年，這種狀況就可以向所屬機關反應車況還可以繼續使用，本席覺得有些首長願意共體時艱，因此建議你們將依年限汰換的制度予以調整，把它做得更周全、條件訂得更完整，讓大家可以參考。
+另外，請你們回去統計一下，全國五院在一年內有多少輛公務車需要汰換，不要讓這些預算散在各個部會，像我們今天審查主計總處和審計部的預算，明天又要審交通部、後天是財政部等等，我們要知道在五院的中央政府裡面有多少輛公務車、如果增加加權條件可以節省多少預算，因為我們立法院也不能糊里糊塗地審查預算，應該要有科學根據，所以請你們統計一下應該要有多少預算，有幾輛公務車到了8年的使用年限，里程數還在3萬或5萬公里以下，是不是可以給我們一份這樣的報告，讓大家可以做參考？你認為做這一份關於中央政府公務車的統計，大約需要花多少時間？
+石主計長素梅：我們會儘快依照委員方才所提的建議進行通盤的檢討，再提供這些資料給委員。
+盧委員秀燕：本席認為檢討的過程中，還是必須呈現使用年限，不然有些車況真的很不好，卻不好意思說，針對這種狀況，即使不到8年我們還是會准予汰換，請問整個制度的調整大約需要多少時間？
+石主計長素梅：一個禮拜。
+盧委員秀燕：這樣很快，謝謝。
+石主計長素梅：謝謝。
+主席：請李委員應元發言。
+李委員應元：主席、各位列席官員、各位同仁。請教石主計長，今年中央政府總預算大約有多少億元？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。102年是1兆9,446億元。
+李委員應元：101年是多少？
+石主計長素梅：1兆9,388億元。
+李委員應元：這樣等於是增加多少？
+石主計長素梅：增加58億元，成長0.3%。
+李委員應元：成長不多。主計總處本身的預算有多少？
+石主計長素梅：我們本身的預算是十一億多元。
+李委員應元：今年度比去年度減少吧？
+石主計長素梅：是的。
+李委員應元：減少多少？
+石主計長素梅：減少12%。
+李委員應元：相對於中央的總體預算，算是減少很多，因為全國的總預算是增加的，雖然也增加不多，但是主計總處的預算卻是減少超過10%，這是不容易的。因此，有關你的座車問題，本席就不再說了，尤其方才已經有人提過了。
+根據你們預算書第79頁有關出國的預算部分，你們增加了多少？你們怎麼會這樣編？去年是多少、今年又是多少？
+石主計長素梅：這部分是有增加的。
+李委員應元：因為主計總處本身是專門在刪人家預算的，所以你們更應該要以身作則；雖然國家總預算增加，你們的預算減少，而且減少的幅度還不小，但為什麼出國的預算會增加這麼多百分比？
+石主計長素梅：因為我們102年度的出國預算包括三大區塊，分別是開會、考察和研習。開會的部分是核實計算的；至於考察與研習的部分，91年度的預算是24萬7,000元，依規定這部分要按照九成來編列，這部分我們有控制在這個數字內。至於增加出來的金額，則是屬於開會的部分。
+李委員應元：目前整體的經濟狀況是如此，而你們的總預算也是減少的，但有什麼樣的會議需要增加這麼多預算？主計長，只要是學會計的大家都會算，何況你是專家；因為如果開會時要核實編列，那麼考察的部分就要減少90%，因此你們就會把所有考察都移去開會，這是很容易的事。就像立法院每一次都做相關的主決議，將有些項目統刪多少、有些項目沒有統刪，大家就會把項目編到那邊去。你們說考察和開會，是有差到多少？那樣你們是否就會經常安排會議？我的用意只是想凸顯一個問題。誠如方才盧委員說主計長是個很節儉的人，尤其你們整個處都已經做這樣的刪減了，但卻在開會這個項目增加26.8%，實已超過四分之一，這是很不可思議的，而這些項目的挪移，本席認為有作帳之嫌。
+石主計長素梅：沒有的，開會部分每一項都有明細可以給委員做參考。
+李委員應元：有的會議可以不用去。我的意思是要強調，大家都可以主觀的說有很多會議要去，所以授權部門主管衡量總預算的編列，但出國有比其他業務項目重要這麼多嗎？國外的業務有超過國內而要增加四分之一的重要性嗎？有需要增加這麼多嗎？我們不需要在這裡爭辯，我們對會計都是內行的。本席現在所要表達的是一種精神，因為你在督導各個部會，你可以說：你不要在這裡跟我裝傻，你們根本就是挪這個移那個、挖東牆補西牆。這種事情我們都知道，只要是合理的，我們就給他；不合理的，就要求主管主動稽查訊問，主管若是要當好人，每一項都順著部屬，國家就不用搞了，有些事該說No就要說No，本席所要表達的就是這種態度，主計長你的看法如何？你願意做一定的調整嗎？因為你在總預算減少10%、出國增加25%，這樣來回就差了30%，雖然總量不多，但是出國有這麼重要嗎？我所要表達的就是這些；至於細節的部分，我就是提供給你參考。
+石主計長素梅：好的，謝謝。
+李委員應元：另外，關於營養午餐預算的部分，教育部現在還有沒有學校缺乏營養午餐的預算？
+石主計長素梅：沒有聽說。
+李委員應元：很好，這就代表已經完全改善了，那是一個很大的進步。上一次在總質詢時，本席有請教過陳院長，當時你也在旁邊，我還特別提出課桌椅預算的事，本席還特別就課桌椅預算的事提出質詢，今天聯合報也就地方的反映、國中小的校長及學生的意見提出了看法，課桌椅這部分所佔的國家總預算，就好比是營養午餐一樣，如果教育部能提出一個專案，分年的把這個部分補足，不要讓都會地區學生的課桌椅不但品質好，還多到可以拿去拍賣，甚至賣個20元、30元或50元不等，然而鄉下地區的課桌椅卻是需要不斷的修修補補。依照我們過去的習慣，能用的東西總是一再的修理再繼續使用，本來也是無妨，但是若真有這麼高的比例是無法使用的話，在編製預算時你是否能向院長建議，未來逐年編列，專案改善這件事情？其實，這部分所占的國家總預算並不是很多，就像之前是在臺東、雲林或是哪個地方的營養午餐不足，聽起來就讓人心情很難過，臺灣並沒有貧窮到這種地步，雖然經濟情況不好，但是沒有普遍窮到活不下去、沒有窮到沒有明天，我們不必將臺灣當作是一個活不下去的國家，雖然有很多需要改革的地方，但是需要繼續去做的還是要繼續去做，你是否能對這件事加以考慮？
+石主計長素梅：主管機關教育部應該先審慎檢討之後，再將它提出來，我們在財力許可範圍內進行。
+李委員應元：本席會在審查它的預算時提出這件事情，主計總處是否支持這樣的一個概念？
+石主計長素梅：這個計畫經過評估後是可行的話，我們當然會在財力許可的範圍內儘量支持。
+李委員應元：再來就是關於公務人員退休法第三十二條的修正，你是否了解這件事的情況？也就是所得替代率不可以超過95%的這條規定？
+石主計長素梅：主管機關是銓敘部，所以由它負責修訂。
+李委員應元：雖然是銓敘部，但它是適用於大家的法令，而且錢是由你這邊負責管控。如果銓敘部已經將相關的軍公教人員年終工作獎金及慰問獎金發給注意事項刪掉，對於人事行政總處黃處長那天所講的話，他認為這件事是依照行政慣例或是合法的慣例，你是否同意這樣的說法？或者如陳院長所言，這件事情要加入排富條件或是以打折的方式處理？
+石主計長素梅：院長已經指示要人事行政總處詳加檢討。
+李委員應元：要詳加檢討？
+石主計長素梅：對，他們已經在進行檢討了。
+李委員應元：在內部的會議中你們會協助處理這件事情？
+石主計長素梅：是。
+李委員應元：基本上，這是一件違法的事情，本席要提醒你，如果所得替代率超過95%的話，就是違反了公務員服務法。
+石主計長素梅：這項法令是由主政機關處理，至於委員剛才提到的退休軍公教人員年終慰問金這個問題，行政院已經指示人事行政總處要詳加檢討。
+李委員應元：要詳加檢討、澈底檢討。
+石主計長素梅：是。
+主席：請李委員桐豪發言。
+李委員桐豪：主席、各位列席官員、各位同仁。今天早上有委員提到有關失業率與薪資的統計結果，依照你個人的判斷，是否滿意目前的失業改善狀況？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。這是按月定期據實公布相關的數字。
+李委員桐豪：本席當然知道這是據實公布的數字，只是你個人是否滿意這樣的結果？你身為執政團隊的一員，而且是直屬於行政院，對於目前的狀況是否滿意？
+石主計長素梅：我們當然希望能持續改善、持續降低。
+李委員桐豪：你認為這是改善嗎？
+石主計長素梅：我們希望能夠持續努力。
+李委員桐豪：所有的統計數字都已經出來，本席相信在你過來立法院之前應該已經看過了？
+石主計長素梅：是。
+李委員桐豪：對於這樣的統計數字，你認為是一個進步嗎？
+石主計長素梅：9月失業的人數減少了11,000人，失業率則是從8月的4.40%降到4.32%，降低了0.08個百分點，不過季調後的失業率4.30%是比上個月增加了0.01個百分點，所以相關的部會還要持續努力，希望能夠有所改善。
+李委員桐豪：季節調整以後，失業率還是上升的。
+石主計長素梅：0.01%。
+李委員桐豪：其實這個統計中有一些是暑假臨時工的離開。
+石主計長素梅：對。
+李委員桐豪：這個部分使得整個勞動力減少34,000人，其中就業者減少了23,000人，失業者減少了11,000人，所以這個統計縱使不經過S12的季節性調整，只要將分子與分母同時減一個數，而且分母減的數字比較大的話，這樣的成果看起來似乎是比較有改善，失業率不需經過季節調整，看起來都會是有改善。但是，事實上它並沒有改善，更讓人覺得沮喪的是首次或平均的失業周數，首次失業周數、尋找工作的周數或是失業者尋找工作的平均周數，都比上個月延長了1.4周，這是讓人感到沮喪的地方。
+還有一個讓人同樣感到沮喪的就是薪資的部分，根據你自己提出來的報告，8月份與9月份相比，每個人工作的平均小時數增加了1個小時以上，但是薪資減少了，而且這個問題一直沒有扭轉。以製造業的勞動生產力指數為例，它與前一個月比較是上升了0.8%，可是製造業的工資只增加了38元，也就是0.09%，僅有十分之一，這個分配的問題還是沒有解決，換句話說，勞動生產力增加的幅度，遠大於它的薪資增加幅度。就服務業而言，與工業合起來之後的薪資反而是下跌，如果製造業是增加的，那就表示服務業是下跌的。本席的女兒大學畢業去找工作，一家專門販賣昂貴商品給大陸客的公司，結果1個月工作25天、薪水是新台幣20,000元，其實那家服務業所賺的錢非常多，這就是今天的問題所在！我們的勞資關係從夥伴關係變成了對立關係，用對立來形容是比較客氣的說法，嚴格講來就是剝削，本席自己也是感同身受，所以就告訴本席的女兒不必去了，老爸養她都可以！
+所以你並不是只負責向院長報告這些統計數字而已，而是要將其中所含的價值意義提出來，今天我們不希望看到因為數字下跌，你們就認為政府已經做了改善，大家都這樣唬弄了事，我們真的要去看inside，這是真的令本席感到憂心的地方。主計長，你是否可以向院長提出詳實的分析報告，真正能夠在政策上有所改進？
+石主計長素梅：我們會提供給院裡以及相關部會作為參考。
+李委員桐豪：詳實的分析，謝謝。
+石主計長素梅：是。
+李委員桐豪：行政院主計總處在101年6月12日，也就是前幾個月的時候，廢除了行政院主計總處公用事業費率審議委員會設置要點，請問你為什麼要在6月12日廢除公用事業費率審議委員會這樣的機制？
+石主計長素梅：因為現在它已經沒有運作，而是由主管機關負責處理。
+李委員桐豪：根據前主計長韋端所言，費率審議委員會自63年開始，成立迄今前後總共召開了33次會議，處理的要務包含電燈、電力及其他電氣事業、電車及市內電話、自來水、媒氣、公共汽車及長途汽車、船舶運輸及航空運輸，究竟是因為你們不做或是因為你們為了因應當時的社會氛圍，因此對於油電雙漲的問題，你們反而自廢了武功？
+石主計長素梅：因為它多年來沒有運作，院裡都是交由主管機關處理。
+李委員桐豪：是誰怠忽職守？這是由誰設立的？
+石主計長素梅：事實上，它已經很多年都沒有運作，院裡都交由主管機關處理，譬如經濟部就有一個小組負責進行分析。
+李委員桐豪：那都是無法無天的小組，完全沒有法源，在尋遍所有的政府機構之後，我們認為主計總處是唯一比較可能有機會處理跨部會相關公用事業費率審議的單位，我們並不希望看到你們將自己的武功廢除。因為時間有限，以後再向你請教其他的問題。
+石主計長素梅：謝謝。
+李委員桐豪：審計長，最近一次的軍公教調薪是哪一年？
+主席（吳委員秉叡代）：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。去年。
+李委員桐豪：調漲了3%，大家都很高興，而調薪的理由是要舒緩物價上漲的壓力，這是合理的作法，因為很久都沒有調整了。另外一個理由則是要帶動民間調薪，但是看過主計處公布的資料後，發現薪資的部分不但沒有調漲，反而還調降了。請問你當初是否做過嚴謹的評估，關於政府所訂的政策、所宣示的效果與實際結果中間的差距？
+林審計長慶隆：當初調整的原因，一方面是物價上漲，而公務員也很久都沒有調整薪資，基於對公務員本身貢獻的調整。相對而言，也是希望帶動企業在獲利之餘也能一起調整員工的薪資，問題是政府對於企業並沒有強制性，只能希望企業發揮企業的社會責任，鼓勵他們對薪資進行調整。
+李委員桐豪：你是否有針對這件事情進行評估？
+林審計長慶隆：在部裡並沒有做過調查，但是無論是從主計總處公布的所得，或是民間的一些人力公司的調查，可以得知民間企業並沒有顯著的薪資調整。
+李委員桐豪：你應該對政府對外宣示的目標所達成的結果進行評估，這也是你們的工作之一，本席希望你們能對這種事情有更嚴謹的報告。
+關於台電與台水的績效獎金，99年與100年都是撥0，但是實際上的決算金額都遠遠超過了0這個數字，你認為該如何處理這個問題？
+林審計長慶隆：在他們編列預算的時候，假使預算有盈餘的話，就會在預算書上編列績效獎金的預算數，但是因為這2年在編列預算時是虧損預算，所以只有編列考核獎金，至於績效獎金則是掛零。可是到年度終了，它依照主管機關經濟部的相關辦法，認為是有政策因素，如果把政策因素考慮進去的話，依照經濟部的規定，只要經濟部核准，再由行政院核定即可。
+李委員桐豪：關於這部分是否有法律依據，請審計部就這件事情提出法律意見及執行落實的方法，如果你們沒有辦法落實，那就交給我們立法院，你能否提出相關的報告？怎麼會有預算是0，而決算時可以放大，竟然是因為主管機關認為可以就可以？
+林審計長慶隆：事實上，在本部的審核與主管機關的核定時，如果認為與事實不符，或是有不合理之處，也是有予以減列的例子存在。
+李委員桐豪：如果你們核列之後，就變成立法院是否要予以核定的責任了，我們是否可以不予認列呢？請你儘快提出相關的報告，好讓我們進行處理，否則到了明年又會是同樣的問題。
+林審計長慶隆：這部分涉及到預算法編列決算，以及主管機關訂定的相關規定。
+李委員桐豪：請你提出解釋與你的觀點看法之後，我們再來進行處置，謝謝。
+主席：請薛委員凌發言。
+薛委員凌：主席、各位列席官員、各位同仁。主計長，馬英九先生表示我們的經濟在30天內會變好，而行政院長陳冲? 則表示要給他時間，在這一季90天內就會將臺灣的經濟帶上另一個境界，他們之所以會提出這樣的期限，是不是從主計長這邊獲得了任何的數據依據，因為概算統編這些工作都是由你負責，如果你有任何訊息，一定會告知你的長官，所以你的兩位長官才會這麼的有信心？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。我們是定期據實發布有關的統計數據。
+薛委員凌：據實以告嗎？
+石主計長素梅：是。
+薛委員凌：針對你這兩位長官所講的話，本席要請教你，目前我們的GDP是多少？
+石主計長素梅：根據8月17日公布的數字，今年是成長了1.66%。
+薛委員凌：CPI是多少？
+石主計長素梅：CPI是1.93%。
+薛委員凌：失業率是多少？
+石主計長素梅：我們沒有做失業率的預測，而是每個月公布。
+薛委員凌：失業率是多少？
+石主計長素梅：根據早上的公布，9月的失業率是4.32%。
+薛委員凌：我們的薪資水準回到幾年前的水準？
+石主計長素梅：平均薪資當然是有持續增加，但是連同物價因素一併考慮之後，大概就是回到13年前。
+薛委員凌：所以就回到13年前的水準？
+石主計長素梅：是。
+薛委員凌：所以臺灣的經濟狀況是如何？
+石主計長素梅：大家當然要持續努力，希望能夠改善經濟。
+薛委員凌：所以就是主計長向那兩位長官表示我們的經濟是持續努力，因此馬先生才會表示只要1個月經濟就沒有問題，而陳冲部長則表示給他90天，也就是3個月的時間，經濟就沒有問題？
+石主計長素梅：總統與院長說的這些話，事先並沒有問過我。
+薛委員凌：因為主計長將這些數字美化，所以他們才會不清不楚的對社會給予這樣的交代！
+石主計長素梅：我們據實反映相關的數字。
+薛委員凌：事實上，現在的臺灣人民是非常的痛苦，但是你的那兩位長官並不知道，才會說出這樣的話，原因當然是出自於你這邊，因為你是負責統編數據的人，當你將那些美化過的數據交出去之後，那兩位長官自然就是說出那樣的話了。已卸任的蕭前副總統曾經表示臺灣的經濟是茫然的、無助的，但是主計長你是屬於富有的人，每個月時間一到薪水馬上就會入帳，無法了解那些勞工眼神空洞、茫然無助的感覺，而蕭前副總統所言可以說是恰如其分，充分表達了臺灣人民的怨懟與生活的苦楚。
+剛才有同仁問到關於你的座車汰換問題，試問，你們的座車是不是要換3部？
+石主計長素梅：對，首長及副首長。
+薛委員凌：看在人民的眼中一定認為你非常的爽，我們的主計長要換車了。
+石主計長素梅：依照規定是8年，但是我們現在是10年才汰換。
+薛委員凌：所以你認為是理所當然的要換、應該要換？
+石主計長素梅：應該是說我們已經延後了2年，不過這件事是可以檢討的。
+薛委員凌：有一部WP-455的車子是怎麼一回事？你是要留下來使用，還是要汰換掉？
+石主計長素梅：它是我們處裡的1部20人座交通車。
+薛委員凌：這部車子要如何處理？你要留下來還是要汰換？依照你們的車輛管理辦法，這部車子要如何處理？依照車輛管理辦法，你要如何處理？
+主席：請主計總處秘書室許代主任說明。
+許代主任炎煌：主席、各位委員。WP-455是我們的20人座交通車，原則上交通車是有修改使用年限……
+薛委員凌：依照你們的車輛管制辦法，這部車要如何處理？或者它是特殊用途、特殊車輛？
+許代主任炎煌：沒有，一般公務轎車達到15年一定要報廢，但是大型交通車在使用年限……
+薛委員凌：你要如何處理？
+許代主任炎煌：確定它已經無法使用的時候，我們自然就會報廢。
+薛委員凌：主計長，在你換了這3部車子之後，接手主計長座車的人非常有福氣！
+石主計長素梅：本來是8年的期限，我們現在延後2年，所以變成了10年，但是我們也尊重立法院的決議。
+薛委員凌：關於派員出國的部分，你們編列了222萬元的預算，增加了26%的幅度？
+石主計長素梅：開會的部分是有增加，其他的兩項考察與研習並沒有。
+薛委員凌：所謂的派員出國開會是要請益什麼？
+石主計長素梅：出國的部分是一項一項都有明細，包括出國的地點及開會的內容等等，我們都可以提供給委員。
+薛委員凌：以台灣目前的狀況，歲出1兆9千多，今年與去年相比是結餘了58億或增加了58億？
+石主計長素梅：增加58億元。
+薛委員凌：歲出增加了58億元，而你們這個部門竟然還要出國去考察、出國去請益，我們不知道你們是不是要出國去度假！
+石主計長素梅：我們是出國開會的部分增加。
+薛委員凌：我們也不知道你們是不是要出國去買仙丹！
+石主計長素梅：開會的部分是有增加，其他項目並沒有。
+薛委員凌：你剛才說有開會的明細項目？
+石主計長素梅：有。
+薛委員凌：根據中央政府總預算編製手冊的規定，其中緊縮經常門支出第8點寫得非常清楚，你可以把第8點的內容念給大家聽嗎？
+石主計長素梅：事實上，我們都會依照規定進行處理。
+薛委員凌：中央政府總預算編製手冊中僅收經常門支出的第8點是什麼內容？第8點的內容是什麼，你應該知道吧？
+石主計長素梅：第8點是國內外旅費、派員出國的教育訓練費應嚴格控管，102年度的國外旅費如屬出席國際會議或談判等，得依需要……
+薛委員凌：不得超過101年的九成。
+石主計長素梅：出席國際會議的話，依實際需要核實編列，其餘均以不超過101年度預算數的九成為原則，而我們也是這樣做的。
+薛委員凌：你們是這樣做嗎？
+石主計長素梅：對。
+薛委員凌：既然如此，26%又是怎麼增加的？
+石主計長素梅：開會的部分……
+薛委員凌：所以你們是將它拆開，拆得很好！
+石主計長素梅：那是據實編列，一項一項都很清楚。
+薛委員凌：據實以告！
+石主計長素梅：我們是據實編列，每個項目都可以提供給委員。
+薛委員凌：所以你們就是將它拆開，因為編列數據就是你的專長。
+石主計長素梅：不是這樣，每一個項目都很清楚，無論哪個機關開會都是同樣的原則。
+薛委員凌：現在的國家經濟這麼困難，你還帶頭做這樣的事？
+石主計長素梅：我們依照通案的原則來處理。
+薛委員凌：通案原則？
+石主計長素梅：對。
+薛委員凌：這項規定寫得很清楚，必須低於九成以下，所以增加的26%是如何產生的？
+石主計長素梅：那部分沒有問題，現在增加的是出去開會的部分。
+薛委員凌：請問102年工友與技工的預算編列是多少？你是否有浮編、濫編或是多編？
+石主計長素梅：沒有，因為工友員額都有控管。
+薛委員凌：員額超過幾個？
+石主計長素梅：工友員額超過的部分是這些年……
+薛委員凌：你們現在的工友員額為19名、技工員額為9名，今年度你們又編列了幾名？
+石主計長素梅：我們都沒有增加，但是……
+薛委員凌：員額都已經出來了，怎麼會沒有增加呢？你們現在總共有14人，主計總處的車子只有13部，卻聘請了14名駕駛，多出1個員額是要準備stand by，還是要做什麼？
+石主計長素梅：這些年的技工及工友都是出缺不補。
+薛委員凌：你們總共是13部車子，卻有14位駕駛，多出了一個人要做什麼？難道是等其他13人休假時再讓這位冗員stand by嗎？
+石主計長素梅：我們都依照出缺不補的規定辦理，其他部會……
+薛委員凌：本席今天要和你探討的就是政府財政這麼的困難，你們竟然還有冗編？還多出1名員額？這些都是從你提的預算書中看到的，並不是本席亂講話。
+石主計長素梅：是。
+薛委員凌：這樣給大家的社會觀感好嗎？
+石主計長素梅：技工及工友出缺不補，我們是依照行政院的規定辦理，事實上，其他部會如果有需要的話，我們也都很希望能夠儘量緊縮，但是那個原本的員額還在，所以我們也只能夠出缺不補。
+薛委員凌：主計長，你總是說依法辦理、據實以告，實際上卻是做一些不能說的事，向你討教一些問題，你就有辦法扯到其他地方去，本席現在也沒時間跟你耗了。
+石主計長素梅：我真的都是據實回答。
+薛委員凌：審計長，最近大家談的都是退休慰問金的問題，你們審計部在100年是1,008萬元、101年是1,094萬元、102年則是編列了960萬元？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。是，我們都照規定編列。
+薛委員凌：就你們審計部而言，有沒有領三節慰問金的人？
+林審計長慶隆：退休人員都照規定，在三節時領2,000元的慰問金。
+薛委員凌：他們也是照領？
+林審計長慶隆：對。
+薛委員凌：你是否認為已經退休領月退俸的人還領這些慰問金是應該的？
+林審計長慶隆：是，這是政府對退休人員的照顧，所以我們都是透過預算，按照行政院的標準編列。
+薛委員凌：你們還是照編、照花，所以在花出去的202億元中，你們也是其中照領的一份子。
+林審計長慶隆：是。
+薛委員凌：你認為這樣合理嗎？
+林審計長慶隆：這是整個政府的制度，當然可以進行檢討。
+薛委員凌：如果政府的制度改變，你們再改嗎？
+林審計長慶隆：對。
+薛委員凌：你的部門負責什麼業務？
+林審計長慶隆：行政院目前已經答應對整個案子進行檢討，所以我們也尊重行政院的決定。
+薛委員凌：從民國60年一路以來就是如此施行，只要政策沒有改變，你們就是照做，至於社會觀感就不予理會？
+林審計長慶隆：目前的制度就是這樣，但是行政院已經答應進行檢討。
+薛委員凌：問題是在那些血汗勞工拼命繳稅給政府的同時，也有那些無恥的領著月退俸或年終問慰問金及三節慰問金的人，而審計長你卻認為這是應該的，因為這是制度的問題？
+林審計長慶隆：是，目前的制度就是如此，但是行政院已經答應對這件事進行通盤的檢討。
+薛委員凌：如果從100年開始，每年實際數都超過預算數的話，這樣還有多少？
+林審計長慶隆：我們都編列在人事費用，依照行政院的規定發放。
+薛委員凌：既然你這樣回答，本席就沒輒了，一切就照行政院的規定，至於社會觀感是如何就不管了！本席認為，你身為審計部的官員，應該要對這件事提出看法，譬如設置落日條款等等？
+林審計長慶隆：依照我們在部裡的職權，針對行政院的預算職權，有些可以增進財務效能，減少不經濟支出的意見，我們會提出來作為參考。
+薛委員凌：既然如此，審計部就應該帶頭去做，本席也希望你能帶頭去做，可以嗎？
+林審計長慶隆：我們每年都提供編列預算的相關意見讓行政院參採。
+薛委員凌：謝謝。
+主席：請翁委員重鈞發言。
+翁委員重鈞：主席、各位列席官員、各位同仁。基本上，本席一直認為給主計或審計多一些預算都沒關係，甚至給你們多一點員額也沒關係，因為你們是真正和我們立法委員一樣在看顧人民的荷包，不讓政府亂花預算的單位。所以從過去到現在在立法院審查預算的這二十多年來，本席個人也在心境上做了一些調整，對於主計和審計單位的預算都不會去碰，只要你們編列出來就全數通過，因為你們和我們一樣是在幫人民看管他們的荷包，避免浪費的產生，其實，最重要的倒是你們是否有盡到責任。
+至於座車的問題，或許是具有新聞性，但是沒有什麼多大的意義，甚至對你們錙銖必較也同樣沒有什麼意義，這些實在是不怎麼重要。本席認為你們是在幫政府的忙，說不定給你們1塊錢就能發揮到100元的效益，所以本席都不會和你們計較這些預算經費，因為重點在於能否發揮最大的效果。
+但是，從另一個觀點而言，只要談到財政的問題，就一定會提到開源與節流這兩個方向，對於節流這個方向，本席的心境也做過調整，並不是一定要去計較那些獎金等等，那些都不是最重要的事，要省就要省大筆的花費，台灣有句俗語：「某死了，不要老是看屎桶」，意思就是不要老是去計較那些芝麻綠豆大的項目。最近本席還有一個想法，所謂的節流未必只有節省才稱為節流，有些該花的就要鼓勵他們去花費，促進消費對經濟成長也有幫助，因此有時真的是不需要去苛刻人家的福利、不需要如此的計較。
+以上是本席首先要表明的兩個立場，因為本席並沒有要刪減你們的預算，也不會和你們計較那些小事，但是本席也不希望你們去刪減人家的預算，所以才要先把本席的立場講清楚。最近本席在院會質詢過2次、在委員會質詢過4次，談的就是調整耕作制度、活化耕地計畫，也就是最近強調的休耕田活化觀念。主計長，聽說農委會在進行簡報時，你們主計總處就提出這樣做並沒有比較節省經費的意見，有這樣的事情嗎？
+主席（薛委員凌）：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。我認為我們的代表應該都會就影響的情況、計畫的實際需要以及經費面提出意見。
+翁委員重鈞：主計長，你知道這件事情嗎？
+石主計長素梅：我知道，他們有在開會。
+翁委員重鈞：有沒有人講這樣的話？
+石主計長素梅：我們的代表應該是會就計畫的必要性以及經費的影響度提出意見。
+翁委員重鈞：剛才本席提到自己心境上的轉變，早期本席都是專門在研究預算的部分，所以也會和你們計較預算編列上的一些小細節，但是二十幾年後本席的心境上有一些調整，如果是該給你們的就不會予以刪減，至於你們該有的福利或是那些小細節，本席認為那些都不重要，只要你們是真正在做事，可以幫政府創造或節省更多的經費即可。但是一些該花錢的部分就未必一定要節流，像本席在院會質詢過2次休耕田活化就是一個例子，假設你今天還是要從節省經費或是預算為何沒有減列的觀點去看待休耕田活化，主計長，你們在心態上可能要作一點調整了。在院會的幾次質詢中，本席講到早期的肥料換穀或低糧價政策，那些都是苛刻農民權益藉以幫助工商業，一直到今天，誠如本席常常說的，我們四、五十歲能做得動的時候，政府希望我們休耕去領補助，經過28年後，我們已經七十多歲做不動了，卻反而要我們繼續去耕種，否則要停止給予補助，本席認為你們這種想法比共產黨更可怕。假設今天是為了節省那一期的經費來達到休耕田活化，本席認為這都是倒果為因，事情不是這樣處理的。
+主計長，本席今天之所以告訴你這些話，無非是希望你們所謂的節流不是要去計較那些經費，因為大家都是在幫忙內閣做事，讓內閣的民調不要再低迷下去，這是非常重要的。不能光是從節省的角度去談要省多少、工友減少幾個或是車輛少花多少錢等等，那些都沒有價值，本席今天要告訴你的大概就是這個意思。本席也希望你一樣能支持我、支持休耕田活化這個案子，請你站在本席的角度去思考，該給人家的或是可以給予支持的，就不要去影響人家的權益，主計長，你認為這樣可以嗎？
+石主計長素梅：我瞭解，因為在總質詢時委員也曾經提過，至於農委會這個案子，院裡面會審慎的評估。
+翁委員重鈞：如果你們真要節省的話，隨便也都可以找到項目，像今年的燃料稅也減少了70幾億元，公務員一次調薪就要好幾百億元，但是本席並不和你們計較這些，也不和你們談論這些問題，若真要節省的話，項目會找不完。就像本席之前也曾經告訴過財政部長，奢侈稅所收的那30億元也可以用來補助農民，因為他們也是弱勢團體，可以算是社會福利，為什麼只放到國民年金？這樣應該也算是違法？如果真要計較的話，根本計較不完；如果真要論法的話，根本也談論不完，因此本席在心態上做了一些調整。既然本席站在你的立場去思考，同樣的，也希望你能支持本席的想法，我們支持休耕田活化計畫，希望不會影響到農民的權益，以上是第一點。
+第二點，既然要節流就應該要抓大筆的支出，而不是去計較那些小數目的花費，譬如嘉義縣水利處的弊端也是勞務採購、限制性招標，這一次環保的採購也是限制性招標，也是勞務採購，如果要分析原因，審計長知道為什麼會這樣嗎？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。採購的招標方式分成限制性招標、選擇性招標和公開招標，限制性招標如果沒有經過公開的評審，那就是特定的廠商會得標，這中間沒有競爭性，政府在價格各方面會居於劣勢。
+翁委員重鈞：這個制度在設計的時候，並不是說限制性招標絕對不好，但是它會讓人有可乘之機，為什麼都是限制性招標發生問題？因為權力都在評審委員手中，譬如他們見面明明就是要談commission（回扣），結果卻說是在請教開發的事情，因為沒有證據，所以他們可以辯論。
+另外還有一個問題，現在這種採購的限制性招標是怎麼樣？一個工程從設計規劃就開始被綁標，包括將來的施工、監工到驗收，包括使用的材料，一開始設計就把這些都綁好了，最可怕的就是這種狀況，為什麼要綁這種標？因為他將來可以把責任都推給得標的設計公司，不但材料是它限定的，監工也是它限定的，驗收也是它去看的，政府官員在這個時候就可以避掉很多責任，把責任都推給設計公司，結果這間設計公司就變成他御用的，其他要標工程的人如果沒和設計公司說好就不敢去標，別人不敢標，自然就是由他的人來做，所以他就可以予取予求，因為他們都說好了，政府的錢就是這樣嚴重的被浪費掉，這些浪費才是「大條」，所以本席剛才用台語說了一句話，「某死了，不要老是看屎桶！」意思就是「大條」的不看，都去看這些「小條」的，本席倒是不會去和你計較這些。
+弊案的發生一定有跡可循，農委會補助的經費為什麼會失敗？它註定要失敗嘛！假設甄審委員有9個人，決標的時候至少要有5個人才算通過，要過半數，這麼簡單的問題連國小三年級生都知道，但他們就故意用4個人，因為用5個人來算的話，他的人就不能得標，所以他們在出席的時候，原本7個人要有4個人以上才能決標，結果他們用3對3就決標了，這樣怎麼會不出問題？一定會出問題，但是審計部有辦法可以抓嗎？你們有沒有表現出什麼作為？
+林審計長慶隆：各機關的採購都有它的主計和政風來監標，在地方政府和中央主管機關也都有採購稽核小組。
+翁委員重鈞：我知道，不然讓你們當審計人員是要做什麼？
+林審計長慶隆：我們有在篩選一些異常現象，發揮嚇阻的作用。
+翁委員重鈞：審計部都沒有發揮功能，本席認為錢給你們沒有關係，但是你們要發揮功能，假設有發揮功能的話，嘉義縣今天這個開發案也不會失敗，不會因為人家在那邊胡搞而延宕，而且後來發生的弊端也不是你們查出來的。本席支持你們的預算，讓你們多花一點都沒關係，因為我的心態有做過調整，但是你們要好好發揮審計和主計的功能，要和民意代表站在同一陣線來看緊人民的荷包，讓每一分錢都用在刀口上。
+林審計長慶隆：謝謝。
+主席：請費委員鴻泰發言。
+費委員鴻泰：主席、各位列席官員、各位同仁。主計長和審計長，今天要審查你們兩個單位的預算，但是大家談預算的時間比較少，主要是在談目前的一些感受，有很多人都談到你們的車輛，本席記得我在台北市議會服務的時候，當時台北市有很多公車業者都希望將車輛的使用年限儘量往後延，因為台北市交通局的規定是8年，我記得交通局長有說不能延，不能延的原因是什麼？台北市的公車都是跑local，它的里程數絕對比跑高速公路的車子少很多，譬如國光號和統聯，它們一天從高雄到台北來回好幾次，里程數當然很高，但是台北市公車的里程數只有人家的三分之一，為什麼要換車？因為交通單位說金屬或是橡膠達到一個年限就會疲勞，如果再繼續開下去就會對乘客造成安全的威脅，我們要相信專家，以本席為例，我不敢說我很節省，我之前的兩部車子，一部開了9年，再前一部開了13年，其實車子的里程數都不高，我為什麼要換車？因為車輛過了6年以後就要經常大量的更換零件。
+本席認為兩位首長應該要抬頭挺胸，雖然大家覺得現在景氣不好，希望你們車子的年限可以延後或是乾脆開100年算了，但是這樣的氛圍未必正確，我覺得不要去搞民粹，當初政府會規定8年一定有它的考量，這不是馬英九上任以後才做的規定，這是在李登輝任內就有規定，在陳水扁任內也有規定，現在國民黨團已經做了決定，希望使用到10年再換車，沒關係，我們就follow這樣的政策，但是兩位首長在回答這種問題的時候，你們要去說明當初設立這個制度的原因以及它的安全性和效益，在國外有很多人在第4年、第5年就會換車，因為再來就要開始大量的換零件，保養費就會增加很多，它的成本效益並不合算，本席不是鼓勵你們提早換車，但是你們要負責，尤其是行政院主計處在編製預算的規定裡面要思考清楚，免得讓這些坐公務車的人好像都變成不公不義，我覺得這樣不好。
+現在社會的氛圍很奇怪，人民的感受好像在認為你比較好，我比較不好，所以就要把你拉下來，這種氛圍真的很不好，我們應該要向上提升，不是大家一道沉淪，社會要追求的是均富，不是追求均貧，官員要去考慮如何讓低收入的人所得增加，而不是把努力工作的人往下拉，這種精神不好，譬如換車，很多民間公開發行的公司，它的股權屬於社會大眾，那些老闆拼命換車，車牌後兩位是數字的那都是租車，他們每兩年、三年就換車，換的都是BMW 7系列或是Benz 500、600的車，那也是人民的錢，所以當有人挑戰或是關心你們這種問題的時候，舉例，審計長可以說：「不是我林慶隆要坐這個車子，我每天騎腳踏車上班都可以，這是在維持一個制度，這個制度的維持經過科學的考量，它是為了安全，為了效益。」兩位同不同意我的看法？要大聲的講出來，不要憋著。
+目前的社會氛圍認為公務員統統不要做事最好，因為不做不錯，可是這種想法是不對的，本席認為寧願付你們高一點的薪水，但是我們要看到效益，譬如新加坡部會級的首長薪水是台灣的十幾倍，他們要求的就是效率和能力。在本席念大學的時候，不是每個人都想要當公務員，因為公務員的待遇相對是比較低的，當時人家都說一流的人才要進企業，到了民國七十幾年快要80年代，那時候股票一片看好，很多公務員硬是退休去轉做那個東西，所以現在不論是公務員或是軍人，本席希望都是第一流的人才在國家的行政體系裡面，公務員的能力要比民間企業的人才更好，這樣對人民才有利，不過在現今社會的氛圍下，尤其有些人好像把公務員統統看成是賊，還說公務員的待遇為什麼那麼好，這樣不好，特別是一些民間企業的負責人，你有種就花自己的錢去買車，是不是這樣子？
+我家的公務員其實不多，本席認識的朋友大概有三分之一是公務員，我覺得公務員不要因為現在的氛圍而垂頭喪氣，好像是過街的老鼠，當社會變成這個樣子的時候，國家就會沒有競爭力，所以兩位首長要去鼓勵你們同仁的士氣，越是在這種時候士氣越是要高昂。本席兩天前看到某個電視台的報導，說大陸10年來的平均所得增加了3、4倍，台灣10年來增加了10%，其實這是很多原因造成的，產業外移那些政策我現在不講，這10年光是我們的工作時數，目前每兩個禮拜約82小時或是84小時，大概減少了八分之一的工作時間，約12.5%；為了讓大家享受健保，政府的支出增加了4%；為了讓CPI（消費者物價指數）降低，政府降低了很多稅，包括降低關稅；另外，政府還投入了許多社會福利，這樣一來一回，我們個人隱藏式的所得至少可以再增加20%以上。台灣實際可支配的薪資在全世界排第15名，日本的薪水大約是台灣的2.3倍，韓國也比台灣多一點，但是日本排第34名，韓國排第35名，所以我們是犧牲了表面的薪資成長，抑制了CPI的成長，社會福利直接投注在個人的部分也增加很多，當然現在社會在搞民粹，政府可能需要調整一下，是不是容許CPI漲一點，薪資所得也漲一點，這些都是可以考慮的，當然這不在兩位的業務範圍內，不過我認為公務員並沒有那麼悲觀，尤其各位絕對是社會菁英中的菁英，拿出你們的能力來，不要被人家講到頭都低著。
+我今天看到一個民意論壇提到以前當老師是大家所欽佩、羨慕和尊敬的職業，但現在的退休老師每個人都低著頭，不敢說自己以前的職業是什麼，社會怎麼會變成這個樣子？我們要大聲的告訴大家這幾個月來當然是有進步的，譬如9月份的景氣燈號從藍燈變成黃藍燈；9月份失業率從4.4%降到4.32%，在陳水扁任內是6點多快到7%；出口在9月份增加了10%，這些都是確實的數據，不是作假，各位在場的公務人員，你們真的是社會的菁英，不要被那些歪風打得大家都低著頭不敢大聲講話，當然我們必須去考慮年輕人的待遇為什麼沒有增加，針對這點確實要想出一些方法。本席真的非常感慨，從換車的角度來看，社會不要去搞民粹，搞民粹全台灣就完蛋，大家可以來檢討制度，但是絕對不要認為你們這種行業的人統統都是肥貓，統統都對不起社會，本席在這裡也呼籲某些人不要再去搞民粹，謝謝。
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。謝謝。
+主席：請曾委員巨威發言。
+曾委員巨威：主席、各位列席官員、各位同仁。本席今天有兩個比較大的問題，兩個比較小的問題，第一個大的問題，在102年度總預算的總說明中，主計處很辛苦的估算出一些潛藏負債，其中當然包含勞工保險，在報告的第41頁提到「勞工保險為勞工、雇主及政府三方共同分攤保費所成立，又勞工保險如有虧損，由政府審核撥補」，接下來是「其未提存準備，未來同時設有費率調整及政府撥補挹注之可能性」，本席是逐字的唸，沒有任何刪減或是篡改，主計長，這是在報告的總說明裡面寫的，最近這幾天勞工保險可能破產的問題引起社會軒然大波，主要原因在於政府一開始的時候不願意很明白的公開表示政府可以撥補，甚至讓社會誤會政府不願意撥補，請教主計長，如果按照總說明這樣的編製方式，政府是不是本來就應該撥補？這裡講得很清楚，如果有虧損由政府來撥補，如果未來的準備沒有提足，政府也有撥補的可能性，那為什麼在面對這件事情的時候，政府對於「撥補」兩個字有這麼大的疑慮，不敢公開的做出承諾？這中間有沒有矛盾？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。在勞工保險條例第六十九條是有規定，不過它指的是在勞工保險局未成立之前，應由中央主管機關審核撥補。
+曾委員巨威：請教主計長，這個寫法是不是很明確的在告訴我們政府有撥補的責任？
+石主計長素梅：事實上不只是這個基金，對於相關的基金，政府最後如果沒辦法從其他方面……
+曾委員巨威：最後政府要承擔這個責任，是不是？
+石主計長素梅：最後當然是政府會承擔。
+曾委員巨威：在這裡可以那麼勇敢明確的寫得這麼清楚，既然是這樣，為什麼要讓整件事情有這樣的演變過程，到最後被逼得沒辦法，還是得出來說政府要負最後責任？我覺得除了法律的規定以外，在面對這件事情的時候，整個行政團隊的反應以及您在專業上都應該要提供這樣的意見，很顯然這中間有了很大的問題，出了很大的落差。
+現在談政府撥補，本席再請問妳，如果未來法律要修正，大家對這個問題都同意了，到最後會用「政府撥補」的文字嗎？還是會用您剛才提到的「政府要負最後的財務責任」？「負最後的財務責任」和「政府撥補」有沒有不同？請主計長直接回答我。
+石主計長素梅：因為這涉及法規用字，還有主管機關的權責，在審慎……
+曾委員巨威：您認為用「政府撥補」比較好，還是用「負最後的財務責任」比較正確？
+石主計長素梅：這個問題現在已經緊鑼密鼓在審慎評估，包括法律面……
+曾委員巨威：主計長很專業，本席希望妳能夠很清楚的知道，如果最後落到是政府的責任，未來在專業的用詞上就要很小心。
+石主計長素梅：是。
+曾委員巨威：如果是「政府撥補」，有問題的話，政府就要二話不說的編預算撥補進去，但是「負最後的財務責任」，這中間就有很大的空間，最後的財務責任我負，但是我可以有很多方式來負，對不對？今天事情鬧得這麼大條，專業的判斷就很重要，尤其是在您的身上，如果照這個趨勢來看，我想大家都有共識要做整體的檢討，未來可能要訴諸法律來釐清政府的責任，到時候請您務必要把關，到底是「政府負最後的財務責任」，還是直接明確的「政府撥補」，這點千萬要小心，千萬要謹慎，好不好？因為兩者的意義完全不同。
+石主計長素梅：好。
+曾委員巨威：假設現在這個狀況持續惡化下去，其實本席最擔心的不是各個基金的結果會如何，如果今天需要政府出面負最後的財務責任，主計長認為以現在的財政狀況，政府可以擔當起這樣的責任嗎？
+石主計長素梅：目前的財政狀況是有……
+曾委員巨威：不可能，對不對？
+石主計長素梅：對。
+曾委員巨威：政府本身的財政就負荷不了。
+石主計長素梅：所以這要審慎的評估，要去檢討。
+曾委員巨威：這一點要讓社會大眾知道，審計長覺得呢？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。目前政府的財政狀況不是很充裕，要大額撥補是有困難的。
+曾委員巨威：很難，對不對？
+林審計長慶隆：對。
+曾委員巨威：所以就要讓社會大眾知道啊！大家今天願意來檢討這個問題，但是在檢討的時候不能把所有焦點都放在期待政府能負最後的責任或是撥補，這根本不是解決問題的方式，現在政府本身的財政都要垮了，如果要解決社會安全基金這些問題不從本身的體制來做檢討，而是期望政府來撥補，那最後的結果會是全民皆輸，所以兩位，本席真的很期待你們在專業上要很努力的做建言，讓這個問題不要因為這次的事件更加的惡化，惡化的結果就是財政狀況會更糟糕。
+第二個，最近常常提到這次的預算編製有所謂的債務還本，強制還本，主計長剛才特別提到編製預算很困難，所以只能編6%，這個數額如果從整體預算這麼困難的角度來看，妳認為編多編少有差別嗎？編多或編少都是來自於借錢才能夠達到還本的結果，是不是？
+石主計長素梅：那當然，要舉新還舊。
+曾委員巨威：既然是舉新還舊，那財委會決議要編7.5%還是6%，您覺得有差異嗎？編7.5%也是舉新還舊啊！
+石主計長素梅：因為這方面的限制條件很多，譬如當年度舉債流量的部分要占歲出的15%，在均量也有限制。
+曾委員巨威：但是舉新還舊不算入年度舉債，所以根本沒有影響。
+石主計長素梅：有影響，因為它的流量占歲出的15%，而我們的歲入財源有限，所以歲出沒辦法編那麼多。
+曾委員巨威：主計長是很專業的，如果大家今天計較的是7.5%或6%，而妳告訴我們的答案是編不到7.5%，只能編6%，因為編製預算的時候有困難，但是那個困難在哪裡？妳沒有說出在編製的背後有一些專業的結果，所以我們就誤會既然都是借錢來還，只是借多借少的問題而已，為什麼有7.5%和6%的差別？然後妳因為不能編7.5%而違反了財委會的決議，沒有必要造成這樣的誤會，是不是？
+石主計長素梅：是。
+曾委員巨威：我希望在這個部分您務必要講清楚真正的困難點在哪裡，好不好？
+石主計長素梅：是。
+曾委員巨威：接下來本席要請教兩個比較小的問題，第一個問題要請教審計長，我看了貴單位的預算編製，最終的數字增加比較多的部分在於你們蓋的審計人員訓練大樓，它在前兩年已經編了預算，是延續性的計畫，既然已經開始做了，本席對這個硬體工程並沒有太大的意見，不過我想請教你，這個大樓蓋完以後，它後續的維護性費用，審計部有沒有預估過？
+林審計長慶隆：這棟大樓是在99年奉行政院的核定，今年是編第3年的預算，將來的維護費是照政府每平方公尺的修繕費來計算。
+曾委員巨威：你有沒有預估過一年大概要多少錢？
+林審計長慶隆：將來蓋好新大樓之後，舊的訓練大樓我們會交回國產局，所以總面積有增加也有減少，至於經費，在我們的額度內還是可以容納。
+曾委員巨威：本席認為教育訓練這方面的資源在目前的公部門體系中應該要認真的重新澈底檢討，現在主計總處有訓練中心，財政部也有，審計部也有，對不對？以公部門體系來講，這的確是一個滿大的資源在使用上的效益問題，麻煩審計長就這個部分提供詳細的評估報告給本席，好不好？
+林審計長慶隆：可以。
+曾委員巨威：讓本席能瞭解舊大樓的處理以及新大樓的後續狀況，包括從審計部的立場該如何加強資源的有效使用，對這種公部門設立的訓練機構應該如何更進一步的改善，好不好？
+林審計長慶隆：可以。
+曾委員巨威：最後要請教主計長，在預算編製裡面有一筆預算很重要，就是中央政府對地方一般性的補助，大概有1,466億，其中特別提到根據現行「政府計畫及預算考核要點」，未來在補助的時候會依據每個地方政府以前的表現，包括財政績效和執行的狀況，然後根據考核要點來評分，本席看了以後覺得主計處做得很好，一方面要補助，二方面希望地方能夠認真使用每一分錢，這部分其實是需要經過這樣的考核的，不過本席發覺你們提供的是考核的結果表，內容有權數和項目，最後有一個總分的標準，但是我希望看到的是再往下的答案，那個答案是什麼？今天中央編製了一千多億的預算資源給地方使用，經過這樣的考核辦法之後，最後哪個地方多了多少錢，哪個地方少了多少錢，這才是這個考核辦法真正實施的結果，這個部分本席沒有看到，從網站上也看不到，我相信主計總處一定有詳細的資料，可不可以提供給本席，讓我知道這個考核辦法對地方發揮的制約成效在哪裡？
+石主計長素梅：我們會提供資料給委員。
+曾委員巨威：好，謝謝。
+石主計長素梅：謝謝。
+主席：現在休息10分鐘。
+休息
+繼續開會
+主席：現在繼續開會。請林委員佳龍發言。
+林委員佳龍：主席、各位列席官員、各位同仁。大家都很關心現在行政院要推的財劃法通過後的財源分配問題，當然也涉及各種補助款等等。財政部送來財劃法修法後的試算表，我好不容易要到，主計長應該也知道修法前和修法後試算表的資料吧？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。對，就是以100年度決算數估算的那張表，財政部有送來。
+林委員佳龍：如果新版財劃法通過了，你們現在對外講會增加438億分配款，對不對？
+石主計長素梅：那時候財委會希望財政部能提出來，所以當時就用100年度的決算去試算，事實上有很多假設的條件。如果財劃法經過立法院審議通過，有關的設算，財政部在答詢時都有說明，他們還會找各縣市政府衡量看看怎麼分配。
+林委員佳龍：這數字也是很有參考性，因為這是你們就可以掌握的資訊的推估。外界以為新版會增加438億分配給地方，但是我要特別指出來，如果把勞健保改由中央負擔的數額扣除（也就是618億），新版通過後，618億減438億，其實是少掉180億。換言之，這部分不增反減。
+石主計長素梅：不是這樣，勞健保的部分已經考慮進去了。
+林委員佳龍：你們把勞健保的部分當作地方新增的收入，有嗎？
+石主計長素梅：勞健保用同基礎比較，這個從100年7月開始改由中央負擔。
+林委員佳龍：那部分已經是立法通過了，所以不能把這部分再算進來，除了這部分之外，本來是由中央承擔……
+石主計長素梅：中央負擔。
+林委員佳龍：這個不能算進去補助地方，當時台北市的問題而引發成全國性……
+石主計長素梅：不是，不是那個問題。97年財政部提出財劃法修正案時有向立法院報告，如果那時候法通過的話，地方就會增加982億，這982億包括地方原應負擔的勞健保費改由中央負擔的304億，中央業務移撥估計的289億，以及地方實質新增財源389億，當時財政部在立法院有作報告。當時財政部是用100年度的決算去試算，100年7月1日開始，地方的勞健保經費已經改由中央負擔了，所以要用相同基礎來比較。大家記得有個982億，那有含勞健保費改由中央負擔的部分。
+林委員佳龍：現在這438億呢？
+石主計長素梅：用同基礎比較之後會增加438億，但是這438億包含業務移撥的經費在內。
+林委員佳龍：對嘛！所以事實上沒有增加438億這麼多嘛！
+石主計長素梅：財劃法修正很重要一部分就是錢和權要同時作一個調整。
+林委員佳龍：我不管這個。你們對外宣稱新版的財劃法會增加地方438億的分配款，值事實上並沒有增加438億這麼高。
+石主計長素梅：上次在財委會也有報告，438億是含業務移撥的經費。上次財委會也作決議，財政部跟我們局處必須在三週內提供更詳細的相關資料給委員會參考。
+林委員佳龍：我只是拿到這張表，並沒有很詳細的資料。從數字上看，除了新北市增加一些、台北市沒什麼減少之外，其實其他都都減少。
+石主計長素梅：會增加。
+林委員佳龍：會增加嗎？
+石主計長素梅：對，一定不能減，這有保障。
+林委員佳龍：麻煩你們提供我更細的資料。
+石主計長素梅：會。財委會上次有作決議，我們三個禮拜內會把詳細的資料送來。
+林委員佳龍：也送一份給本席。
+石主計長素梅：好。
+林委員佳龍：孫處長，台中有一個水湳經貿生態園區開發案，市政府對外說土地徵收和先期作業相關經費138億，開發總經費是460億，包括大家一直在討論的臺灣塔。胡志強市長認為水湳開發案是台中市400年來最重要的開發案，土地標售可以賣到一千億，扣掉成本大概盈餘624億，所以他主張如果市議會給60億，他就會賺進600億，還能清還台中所有的債務。你站在審計處的立場，你覺得這樣的數字正確嗎？你要背書嗎？
+主席：請審計部臺中市審計處孫處長說明。
+孫處長天生：主席、各位委員。水湳經貿園區臺灣塔的部分，他們在100年年底把資料送到議會，議會也同意了，從101年度到107年……
+林委員佳龍：這個我知道，你不要講背景內容，我是問效益的評估，這些土地開發的成本……
+孫處長天生：台中七期重劃是市地重劃，那個有賺。
+林委員佳龍：他們說可以賺600億。
+孫處長天生：台中七期有賺，如果比照七期重劃的情況來看……
+林委員佳龍：七期所有開發的利益也沒有那麼大，這個數字是怎麼算出來的？你知道嗎？
+孫處長天生：這個我們沒辦法去推估。
+林委員佳龍：你覺得這個數字是不是有點誇張？
+孫處長天生：要看實際的情況。
+林委員佳龍：水湳開發案已經開始了，因為預算已經在執行了。
+孫處長天生：我們還沒有看到他們編預算。
+林委員佳龍：那他們土地徵收和前期的相關規劃經費呢？
+孫處長天生：我們還沒有看到資料，我們事後會加以考核。
+林委員佳龍：已經開始執行前期的規劃了，去年度的預算已經開始編列了，只是有些大的項目還沒有納入，因為這是一個好幾年的計畫。有關這部分，我沒有看到資料，請你提供審計部的意見。
+孫處長天生：可以。
+林委員佳龍：有關台中花博，雖然還沒有發生，但是台中市政府說總預算是115億，他們要向中央爭取35億，市府編列25億。中央的部分，我已經問過農委會，農委會沒有承諾，而市政府的部分則涉及到議會。地方政府提出來的主張是說台北花博很成功，有800萬人次參與，所以他們希望台中能達到1,000萬人次，可以帶來400億到500億的經濟效益。也許這應該問審計長，不過是不是請審計處也幫我們調查、瞭解這數字是怎麼來的，他們說可以賺500億的經濟效益。
+孫處長天生：我們事後來處理一下。
+林委員佳龍：台北花博到底有沒有講800萬人次參與，效益超過500億？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。台北花博是由台北市政府辦理，花博在台北市算是一個重大的建設，照規定他們要有一個施政計畫，然後依照預算法第三十四條規定要有一些成本效益的分析資料……
+林委員佳龍：你跟我講數字就好了，成本投入多少、效益多少、你們審計的意見是什麼？這對台中花博有影響，因為胡志強一直說台北花博有800萬人次，效益有四、五百億，台中會更高。
+林審計長慶隆：有關這方面，台北市審計處也提了滿多意見，我們會後可以請他們把相關的考核意見送給委員。
+林委員佳龍：好。這個很重要，因為台中市建立在台北市的經驗上，台中市政府認為會很成功，而外界認為要花那麼多錢，社會對這問題的看法是有共識的。
+主席：請羅委員明才發言。
+羅委員明才：主席、各位列席官員、各位同仁。審計長，我一直覺得審計部這個機關非常重要，你們今年歲出多少？
+主席：請審計部林審計長說明。
+林審計長慶隆：主席、各位委員。整個審計部102年度的預算是14億1,214萬7,000元。
+羅委員明才：人事費占多少？
+林審計長慶隆：人事費超過10億以上。
+羅委員明才：我們一直說要組織再造，可是我看很多部門和各部會的人事費好像都節節高升。希臘、義大利的人事成本占結構比例非常高，你有沒有算過你們每年人事結構成本大概多少？
+林審計長慶隆：審計部的員額在政府的控管內，也受到人事行政局整個總員額的控管，預算數也是照政府的規定，不過就整個審計來講，我們是人少事緩，因為我們的審核經費抽查百分比目前大概只有20%到30%，我們只能從審計的技術和方法掌握一些重要性和風險性來做一些抽查的工作。我們每年雖然花了14億的預算，可是就績效的統計來講，我們幫政府省的錢或增加的收入大概有6倍到7倍的投資報酬率。
+羅委員明才：所以有具體的量化數字？
+林審計長慶隆：有。
+羅委員明才：我們看到有些地方縣市是天高皇帝遠，有些是蚊子館，有些人行道明明沒有壞，但是卻挖挖補補，永遠都是在「施工中」，所以有些老外以為「施工中」是臺灣的名人。他們覺得很奇怪，在中南部看到「施工中」，在台北市也都是「施工中」，他們很想認識這個人。這種情形就是不斷的浪費，為了消化預算而做，你們有沒有具體的提出意見，要求他們改？歐洲的道路做了後，幾十年都不用再挖，而台北市卻老是在挖，而且路還是不平。捷運通車後，我們本來是很開心，我前幾天去信義路那邊走了一下，那路況好像坐碰碰車一樣。面對這樣的情況，你們有什麼具體作為？
+林審計長慶隆：政府的公共建設如果沒有事先非常實在的評估，完工後就會造成蚊子館。審計部這十年來不斷的努力，我們從94年全面普查並建議行政院，行政院也成立一個活化小組，包括馬總統和吳副總統都感覺蚊子館造成浪費，所以他們幾次公開宣示任內不容許再出現新的蚊子館。
+羅委員明才：有沒有懲處？
+林審計長慶隆：有。我們如果發現蚊子館，會呈報監察院，由監察院糾正，並且追究行政責任。
+羅委員明才：糾正都沒有用，因為考績被打丙的沒幾個。
+林審計長慶隆：新的公共建設方面，我們提出警訊後，他們就縮小規模或延後建設年限，所以在防止重大建設浪費這一塊，看得到政府的努力。
+羅委員明才：一個是開源，一個是節流啦。
+林審計長慶隆：對。
+羅委員明才：拜託你們針對方面多加強把關的工作。
+林審計長慶隆：我們會。
+羅委員明才：經濟動能推升方案有一些爭議的廣告，審計部後續要怎麼處理？
+林審計長慶隆：就廣告來講，各機關有編列文宣費用，另外，預算法第六十二條之一對廣告也有一些原則性的約束，經濟動能推升方案的廣告剛推出，我們會注意他們報銷的情況和他們自己評估的效益。
+羅委員明才：有關營業基金和特種基金等等，因為時間的關係，我改天再特別請教一下。我覺得公設財團法人、公營事業單位的效益和民間差太多了，他們的經營管理等各方面實在是太不足了，多數公務人員是好的，但少數抱持反正是公家鐵飯碗的心態，沒有積極與時俱進的改變，針對這部分，我改天再跟你好好討論。
+林審計長慶隆：好。
+羅委員明才：我比較關心失業率的問題，主計長，你最新的數據是多少？
+石主計長素梅：今天早上新公布9月失業率是4.32%。
+羅委員明才：又提高了嗎？
+石主計長素梅：比上個月的4.40%下降0.08%。
+羅委員明才：下降的原因是什麼？因為有感的經濟作為還是……
+石主計長素梅：主要是暑期工讀生退離和暑期臨時性工作結束影響……
+羅委員明才：我看到你們有很多數據，我希望這些數據不要失真。
+石主計長素梅：據實反映。
+羅委員明才：從102年預算中，我們看到一個真正根源的問題，就是奢侈稅、證交稅都沒有符合預期，差那麼多。如果真的要拚經濟，你們是不是可以建議取消奢侈稅和證所稅？也可以調整為如果股市在9,500點以上，增加千分之一的證交稅。
+石主計長素梅：稅制是財政部主政，張部長有在立法院說明。
+羅委員明才：你覺得他們這樣做沒有影響主計的稅收嗎？整個數字的情況變化這麼多？本來預計可以收1,200多億。
+石主計長素梅：證交稅當然是有影響，是短收的。
+羅委員明才：對，這生意怎麼那麼不會做呢？是什麼原因？每天的成交量剩不到500億，怎麼辦？不是要黃金十年嗎？你這樣要怎麼推？
+石主計長素梅：我想相關部會都會密切注意……
+羅委員明才：現在還沒實施，你若不方便提，我們來提。真正要有感的拼經濟，就把奢侈稅廢掉，把證所稅廢掉，當證交稅在9,500點以上再調高千分之一，大家也不用去報稅，報稅報到現在不敢報，乾脆不要買，整個市場，包括房屋仲介業倒了一堆人，接下來證券公會、證券業的從業人員有5萬多人，大概要裁員1萬多人。這個數據你們可否統計一下？然後提供給可以做決策的人重新加以省思。
+石主計長素梅：剛剛相關的數據，我們有的部分，當然可以提供。而主政的機關是財政部，我想他也會收集有關的資料再密切注意這個事情。
+羅委員明才：你們掌管主計也可以管到財政部，要跟他們講。
+石主計長素梅：是。
+羅委員明才：數據都偏離了，而且當初說塵埃落定，先求有再求好，過了之後，交易量馬上就會恢復。私底下也說，玩股票的人手會癢，忍不住多久就會進場，可是現在也沒進場啊！這樣一個錯誤的政策誰來負責？
+石主計長素梅：我想財政部是主管機關，他們應該都會密切注意相關的情勢。
+羅委員明才：注意了半天，勞保準備要倒，健保出問題，等一下財政部也跟著倒，那怎麼辦？
+石主計長素梅：不會的，我想各主管機關都會審慎評估……
+羅委員明才：這很簡單，你就把市場好好開放，讓龍頭的房市往前衝，台灣的股票上2萬點，那個勞保、勞退、退輔通通不會倒，怎麼會倒呢？再這樣看下去的話，我們的心會怕怕，土地資產也不活化，像空軍總部那邊的土地就拿出來標售，出租也可以，國防部一定要有人在那邊上班嗎？中油一定要在101旁邊上班嗎？把那棟大樓租出去，101大樓一年也收不少錢，中油就在旁邊，不但不收錢，反而還要倒貼，這生意是怎麼做的，我都搞不懂？
+石主計長素梅：相關部會事實上都在檢討，總之，整個目標都是希望景氣能夠提振。
+羅委員明才：不是，執政黨已經不是新手上路了，當初選的時候，跟大家說：準備好了沒？奢言說：我都準備好了，現在我們這些由第一線選出來的，都不敢到地方跑，因為天天被罵，選民不是搖頭，要不然就拉我過去說，你們怎麼搞成這樣子，然而民進黨他們也不批評，因為他們坐享其成，你看我們主席就好了，快快樂樂的，對不對？他就坐享其成，他們都不費一兵一卒……
+主席：羅委員，你怎麼談到我身上呢？我現在在服務大家。
+羅委員明才：現在這種氛圍，我真的要講給大家了解一下，他們就是坐享其成，過14年、16年怎麼選，就是怎麼……
+主席：羅委員就是預祝我們民進黨執政了，謝謝。
+羅委員明才：這樣下去很有可能。
+主席：非常感謝。
+羅委員明才：你不用感謝，因為不是你們的功勞，是因為執政黨所做的一些事情沒有得到民心，對不對？如果做得好，民調就會高，也不用怕在野黨，所以拜託主計長，你們這個數字一定要精準的告訴決策單位，不要數據一大堆，結果做出來的決策都是錯誤的，被人一路罵，或者是你們有辦法的話，數字會說話，只要讓大家可以信服的話，大家會覺得你們的政策是對的；如果錯的話，現在懸崖勒馬為時不晚，還可以再調整，對不對？反正一屆四年，第一年趕快調整一下，說不定後面還可以扳回一城，好不好？
+石主計長素梅：是。
+羅委員明才：反正編了半天，這都沒有什麼用，沒有太大的效用……
+石主計長素梅：我們會繼續提供有關資料，也希望大家共同努力，希望明年整個景氣都能夠變好。
+羅委員明才：謝謝。
+石主計長素梅：謝謝。
+主席：我們今天的會議到這裡告一段落，下午2時30分繼續開會，剛剛羅委員的肺腑之言，本席希望我們台灣人民要醒過來，什麼叫做民主？什麼叫做政治？什麼叫做經濟？所以羅委員的期許，我們都非常感謝，謝謝。
+休息（12時25分）
+繼續開會(14時30分)
+主席：現在繼續開會。
+接下來登記發言的段委員宜康、許委員忠信、鄭委員天財、孔委員文吉、陳委員明文、廖委員正井、顏委員清標、林委員世嘉、紀委員國棟、劉委員櫂豪、李委員昆澤、管委員碧玲、陳委員亭妃、林委員明溱、楊委員麗環、黃委員偉哲、吳委員育仁、盧委員嘉辰、蔣委員乃辛、林委員正二、陳委員歐珀、江委員惠貞、李委員貴敏、徐委員耀昌、簡委員東明、吳委員育昇及邱委員文彥皆不在場。
+請邱委員志偉發言。
+邱委員志偉：主席、各位列席官員、各位同仁。請教石主計長，印象中好像第一次跟你討論主計處的業務，上午剛剛公布9月份的失業率，現在失業率的表現符合你的期待嗎？
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。我們據實反映。
+邱委員志偉：依您之前的評估，跟今天早上公布的數據，您覺得是維持1個高檔呢？還是你會有點失望、你覺得應該可以更好？還是數據出來你覺得很失望、很擔憂？
+石主計長素梅：因為失業率的部分我們沒有做預測，所以我們每個月就是把實際的狀況發布出來。
+邱委員志偉：如果變成季調的失業率，那還是比8月份增加一點點。
+石主計長素梅：是。
+邱委員志偉：所以這樣就是連續3個月季調失業率都是上升，那這種數據所表現的，是不是臺灣的就業情況並沒有獲得改善、還是很嚴峻？
+石主計長素梅：這個部分事實上還是要密切注意，所以我們相關的主管機關事實上對於就業市場……
+邱委員志偉：照理說對照於去年同期，去年同期大概是多少？去年的9月份？
+石主計長素梅：去年的9月份是4.28%。
+邱委員志偉：4.28%？去年8月份呢？
+石主計長素梅：去年8月份是4.45%。
+邱委員志偉：4.45%。
+石主計長素梅：是。
+邱委員志偉：所以9月份drop很明顯─去年同期的時候，9月份失業率比8月份改善很多。
+石主計長素梅：去年。
+邱委員志偉：今年你們8月份是4.4%，9月份才4.32%。
+石主計長素梅：是。
+邱委員志偉：所以只有0.08%。
+石主計長素梅：是。
+邱委員志偉：所以是相當微幅的進展，如果跟去年同期的基期做個比較，顯現出臺灣的失業率還是非常嚴峻。對於這種數字上的表現，請問主計長你有沒有什麼建議？你有什麼解讀嗎？
+石主計長素梅：誠如委員講的，我們的失業率確實是9月份有比8月份下降，但是季調……
+邱委員志偉：照理說應該是要很明顯，但是這不明顯，季調之後還成長。
+石主計長素梅：季調後的是微幅……
+邱委員志偉：去年同期季調之後也是下降的。
+石主計長素梅：是。
+邱委員志偉：所以這代表臺灣目前所面臨的就業環境是相當嚴峻的。
+石主計長素梅：所以各部會還是會密切注意來……
+邱委員志偉：最主要的問題出在哪裡？
+石主計長素梅：剛剛就是……
+邱委員志偉：最主要的問題出在哪裡？你們負責主計、統計嘛。
+石主計長素梅：是。
+邱委員志偉：統計業務算是主計總處的重要業務，你們知道問題到底出在哪裡？
+石主計長素梅：當然這整個景氣的問題、就業市場都有相關聯。
+邱委員志偉：你不要只提供數據，你要做分析。
+石主計長素梅：是。
+邱委員志偉：問題出在哪裡？為什麼9月份應該要大幅度地下降的，為什麼還是微幅？而且季調之後它的數據還是那麼不漂亮、還是連續3個月都是成長！到底問題出在哪裡？你不只是要分析、要有數據，還要把數據背後的分析提供出來，給大家做參考，特別是針對決策部門，你要提供院長一個建議啊！
+石主計長素梅：我們早上的新聞稿都有說明，對於失業人數下降但就業人數也下降等相關數據和原因，大概都有做一些說明。
+邱委員志偉：你今天早上有做說明嗎？
+石主計長素梅：不是，早上我們同仁……
+邱委員志偉：你只是發新聞稿而已。
+石主計長素梅：早上同仁的記者會。
+邱委員志偉：那本席請你再做個說明。
+石主計長素梅：是。
+邱委員志偉：到底是什麼原因造成9月份的失業率不如預期的下降那麼多？而且是連續3個月在調整之後失業率都是成長的，原因請你大概分析一下。
+早上已經開過記者會，你的同仁也做過分析啦，主計長怎麼說不出來？
+石主計長素梅：我們同仁有把實況做說明，比方9月份就業人數減少，是受到暑期工讀生退離及暑期臨時性工作結束的影響，我們9月……
+邱委員志偉：這不是每年都會發生的嗎？
+石主計長素梅：但是每年情況還是會不見得一樣。
+邱委員志偉：今年特別嚴重啊！
+石主計長素梅：每一年的情況還是不一樣，調查出來的數據我們就據實反映。
+邱委員志偉：投入就業市場的人數雖然有增加，9月份比8月份有增加，但增加不如預期。應該是這樣講沒有錯喔！
+石主計長素梅：就業人數是減少的。
+邱委員志偉：總體就業人數是減少的？
+石主計長素梅：就業人數是減少，剛才報告的就是暑期工讀生退離還有暑期臨時性工作結束的影響，這個部分的就業人數減少了2萬3,000人，失業人數減少了1萬1,000人，所以失業率的部分才能夠酌予……
+邱委員志偉：所以就業人數減少？
+石主計長素梅：對，對，但是……
+邱委員志偉：代表工作機會還是很少喔？
+石主計長素梅：剛才報告……
+邱委員志偉：那失業人數也減少？
+石主計長素梅：是，減少的人數跟幅度不一樣，所以造成失業率的部分酌予下降0.8%。
+邱委員志偉：所以從這個數字來看，這個訊息是很嚴峻的。如果從區域別來分析，南部的情況比起北部會不會更加嚴重？
+石主計長素梅：各縣市失業的部分我們是半年發布1次，每半年發布1次。
+邱委員志偉：半年是什麼時候呢？
+石主計長素梅：每次就是在6月、12月，半年會發布1次各縣市的失業率。
+邱委員志偉：那為什麼不針對各縣市的失業情況每個月同樣做1次公布呢？這個在技術上有困難嗎？
+石主計長素梅：因為地方的樣本比較少，過去我們也曾經按縣……
+邱委員志偉：我們要瞭解到底失業問題是出現在臺灣哪個區域，是南部、中部或北部？因為這些區域有不同的產業特性，南部也許很多製造業在那邊，北部則比較多服務業，所以你要按照各縣市、最起碼要按照區域嘛，比如說南部地區、雲嘉南地區、高屏地區或者是桃竹苗地區等等，以1個區域做為1個範圍。你要看總體失業率的狀況是出現在製造業或服務業？哪個區域比較嚴重？針對那個區域的問題去改善。
+石主計長素梅：是，我們過去也曾經做過每個縣市的統計，不過後來也是地方政府大家反映……
+邱委員志偉：我不會要求一定要做到縣市，你說樣本數太少，那我們可以用區域啊，我剛剛就說雲嘉南、高屏澎或桃竹苗，因為這些鄰界區域的產業結構都是類似的，你才能從這些數據中發現到底是哪一個產業出現問題─是製造業比較嚴重呢？還是服務業比較嚴重呢？這個部分以後能不能改善？也就是說按照本席的建議，對於失業率的調查，能不能每個月揭露區域別的數字？你不要只是全國1個數字而已，沒有辦法從這個數字中去看出是哪一個區域的失業比較嚴重、哪一種產業的失業率比較嚴重。我認為你提供的數據是有問題的，它是沒有辦法去解讀的；既然你沒有辦法正確解讀，就沒有辦法擬訂1個客觀有效的政策嘛。
+石主計長素梅：我請我們普查處的黃處長向委員說明。
+主席：請主計總處國勢普查處黃處長說明。
+黃處長吉實：主席、各位委員。我們每半年發布1次縣市別的失業率資料。
+邱委員志偉：為什麼要每半年？剛剛主計長說是樣本數太小。
+黃處長吉實：對，樣本太小。
+邱委員志偉：所以我就建議你們用區域，如桃竹苗區，這樣樣本數就會擴大嘛。
+黃處長吉實：區域的話半年……
+邱委員志偉：執行上有沒有困難？
+黃處長吉實：半年期間我們一樣從縣市……
+邱委員志偉：每個月公告有沒有困難？在你們執行的技術面有沒有困難？
+黃處長吉實：因為我們現在縣市部分，都是由縣市的訪問員逐月在調查……
+邱委員志偉：這可以要求啊。
+黃處長吉實：因為一下子……
+邱委員志偉：是你要不要做而已！
+黃處長吉實：用增加樣本來處理。
+邱委員志偉：你增加樣本……
+黃處長吉實：對。
+邱委員志偉：樣本數要多，我建議你們增加區域，如把雲嘉南設為1區，而不是單一縣市，這樣樣本數就夠，就可以從這個數據中發現問題在哪裡，是你們不做而已。
+黃處長吉實：目前我們可以從縣市別按半年發布1次這個……
+邱委員志偉：你還是沒有回答我的問題。
+黃處長吉實：先把它彙總成區，按區域別來……
+邱委員志偉：這半年的週期太長了，我們的要求是最起碼每個月要知道哪一個區域失業的問題比較嚴重、哪一種產業失業的問題比較嚴重，畢竟每一個區域有它不同的產業特性嘛。從每個月的數字變化，我們才能精準地掌握失業率的情況，而不是全國或者每半年公布1個縣市的失業率情況。
+黃處長吉實：這個將來我們可以來研究。
+邱委員志偉：你不要每次都研究或考慮，要有具體的承諾跟作法嘛，你覺得本席這樣要求不合理嗎？這樣的建議你覺得不合理嗎？
+黃處長吉實：我們可以跟縣市來……
+邱委員志偉：執行上有沒有困難嗎？
+黃處長吉實：跟縣市我們……
+邱委員志偉：處長，執行上面有沒有困難嗎？
+黃處長吉實：我們現在每一個縣市配置的調查員……
+邱委員志偉：你們的數據很難精準去判斷，因為我剛剛問了主計長半天，她也說不出個所以然，為什麼失業率還是沒有辦法下降；沒有辦法從這個數字中分析出問題所在，這代表你們統計的技巧或者統計的樣本有問題。所以我才建議說你不要回去只是研究，而是要具體地承諾。請問主席，我可不可以要求主計總處……
+黃處長吉實：就是我們增加樣本，我們的經費、我們的人……
+邱委員志偉：從明年度開始，針對失業率的調查，如果縣市部分每一個月公布有困難，最起碼按區域每一個月都要公布！譬如說雲嘉南8月份的失業率情況怎麼樣、桃竹苗的情況怎麼樣、北基宜的情況怎麼樣，你應該可以做這樣的公告才對。
+黃處長吉實：我們明年度積極來……
+邱委員志偉：明年度開始，朝向這個目標來定期、按月來公告各區的失業情形，可以嗎？
+黃處長吉實：首先在整個預算上，我們希望能夠……
+邱委員志偉：這個建議那麼好，你們也要參考一下，不要每次都是「研究」，研究到最後是石沉大海，每個都這樣，回去之後、沒有質詢了，你們就我行我素；來這邊讓我們問的時候你們就說研究、研究，回去之後就是石沉大海嘛，我真的很失望！
+黃處長吉實：主計處的研究都非常有效果。
+邱委員志偉：你要拿出效果，不要隨便說說喔，處長！主計長，可以嗎？
+石主計長素梅：會研究，因為還要評估嘛，包括地方的整個的……
+邱委員志偉：技術上可行的嘛，而且執行上也不困難耶。
+石主計長素梅：調查的人力、經費等等。
+邱委員志偉：好不好？
+石主計長素梅：是，謝謝。
+邱委員志偉：謝謝。
+主席：邱委員您剛剛是要主計長……
+邱委員志偉：（在台下）從明年度開始。
+主席：從明年度開始就是……
+邱委員志偉：（在台下）失業率的公布要採區域別，例如雲嘉南1區、北基宜1區、桃竹苗1區，因為每一區的產業結構是類似的……
+主席：是。
+邱委員志偉：（在台下）然後要能夠按月來公告，但是她說有困難啦……
+主席：主計長應該是沒問題吧？
+邱委員志偉：（在台下）執行上面沒有困難，而且經費也沒有問題啊！
+主席：那麻煩好不好？應該是沒問題喔，好不好？謝謝！
+接著登記發言的許委員智傑、張委員慶忠、林委員國正、蘇委員清泉、黃委員文玲、何委員欣純、蔡委員錦隆、蔡委員其昌、葉委員宜津、王委員惠美、林委員滄敏、楊委員應雄、王委員進士、呂委員學樟、楊委員瓊瓔、呂委員玉玲、高委員金素梅、江委員啟臣、陳委員淑慧及黃委員昭順皆不在場。
+剛剛鄭委員天財因為慢了10秒鐘所以錯過發言，我們現在就請鄭委員天財發言，時間5分鐘。
+鄭委員天財：主席、各位列席官員、各位同仁。請教主計長，根據監察院在去年10月的調查報告，原住民最大的問題，關鍵是在失業的問題；而原住民的失業率，在今年6月所做的調查是5.02%。剛剛講到調查，你們都沒有在調查原住民的部分，對不對？主計總處沒有在調查原住民的部分！我不用問就知道，你們都是交給原民會啦。很多、很多的調查統計，主計總處都沒有做！原住民的部分都是交給原民會，但事實上你又沒有給原民會那麼多的經費去做相關的調查統計，而且也沒有這個人力。等一下你回去之後問問你們的同仁，行政院原民會的會計室人少、事情多，還要辦很多你們不要辦的調查統計業務！當然我們今天不是談這個部分。
+失業、失業率在監察院的調查報告中，是原住民最大的問題，如果以一般的失業率來講，8月份是4.4%，9月份的我還不知道……
+主席：請主計總處石主計長說明。
+石主計長素梅：主席、各位委員。4.32%
+鄭委員天財：這中間就有這樣的差距。
+石主計長素梅：是。
+鄭委員天財：而跟原住民會有很多直接關係的，以現在來講，我們會清楚瞭解的是外勞！因為政府、國家為了要拚經濟，提出了一些方案-國內新增投資案、臺商回臺新增投資案要增加八萬多的外勞！而原住民的就業者從事的行業中，製造業占17.44%、營造業占16.49%，2個加起來是33.93%，而外勞進來後主要的工作就是製造業跟營造業，所以第一個衝擊的就是原住民！在這樣的情況之下，主計處匡列給原民會的相關就業預算，這幾年來是不斷地減少，這3年來，從100年的4億4,000萬，到101年的3億8,000萬，再到102年的2億8,000萬，這是逐年減少，而且減少得很多！而且按照原住民就業基金的管理辦法，第一個來源應該是政府撥款的預算，這幾年都沒有啊！所謂的政府撥款，你們現在都把公益彩券盈餘列為政府撥款的預算，事實上不是！
+石主計長素梅：跟委員報告，剛剛委員關心原住民的就業問題，這個問題當然很重要，事實上，原住民族綜合發展基金102年度編列了9.81億，其中，原住民就業服務經費是5.9億，經濟產業和青年創業貸款是9,000萬，原住民微型經濟活動貸款和信用保證是3億，整個加起來是9億8,100萬。
+鄭委員天財：實際上投入就業的就不是那麼多。
+石主計長素梅：我是說這些全部加起來是9億8,100萬。
+鄭委員天財：那是綜合發展基金，另外有一個就業基金，在綜合發展基金之下的就業基金。既然你們已經預期有引進許多外勞，你們要如何加強相關就業機會？主計處應該多一些支持給行政院原民會，至於勞委會的就業安定基金，你也要跟勞委會說，就業安定基金也要投入相當經費在原住民就業的部分，可不可以？
+石主計長素梅：原住民就業是很重要的。
+鄭委員天財：我是說你要要求勞委會的就業安定基金也要增加投入原住民的部分。
+石主計長素梅：好，我們會轉達。
+鄭委員天財：不是轉達，你要要求。
+石主計長素梅：我們會把委員的意見……
+鄭委員天財：你是基金、整個行政院的主管機關。
+石主計長素梅：我們會洽主管機關，我們會跟勞委會溝通、說明，希望能夠盡力支持這部分。
+鄭委員天財：如何強化這部分？其實很快就可以看得出來，已經知道有八萬多名外勞了，直接會影響原住民的就業，原本是五點零幾，恐怕還會再往上升了，根據9月份的調查，一般的失業率是往下，原住民的失業率則是往上，所以請主計處繼續跟勞委會協調，謝謝。
+石主計長素梅：好，謝謝委員的指教。
+主席：本日報告及詢答完畢，潘委員維剛所提書面質詢列入紀錄、刊登公報，並請相關主管機關以書面答復。
+委員質詢未及答復部分，請相關主管機關於1週內以書面答復。委員質詢中要求提供之相關資料，亦請於1週內送交本委員會，並分送相關委員。
+潘委員維剛書面意見：
+審計部的功能應該要加強審核非營業特種基金之財務收支，促使各基金依設立目的，妥善經營管理；加強查核賦稅稽徵、欠稅防止及清理，研提健全稅制與改善稅政之建議，提升稽徵效能；加強查核國有非公用財產及珍貴財產之管理、國有非公用財產被占用之清理，以充分發揮財務效能；加強查核國庫事務、國庫調度情形，以強化國庫業務管理；加強查核公共債務之適法性及適當性，以健全政府財政。
+此外針對查核各公營事業業務、財務、會計事務之處理程序，是否依照法令規章辦理，公司治理相關機制是否健全有效實施，並縝密考核產銷 (營運)計畫執行情形、資產經營管理及運用情形、營業盛衰之趨勢、財務狀況及經營效能、重大興建計畫執行進度及完成後營運效能、國際財務報導準則（IFRS）導入及實施情形、轉投資民營事業、公設財團法人及行政法人營運績效暨公股代表有無善盡職責等，及促請權責機關積極檢討修訂不合時宜法令，督促健全公營事業經營及金融監督管理效能。
+本席希望審計部應該要積極蒐集相關資料，研議及凝聚審計機關組織功能如何發揮之共識，積極有效負起審計之相關功能，做好把關及督導之功能，在各界針對政府預算浮濫及效能提升之呼應下，審計部應該利用此一機會做出績效，以提升審計功能。
+主席：現在進行處理。歲入部分按款處理，歲出機關別按項處理。請議事人員宣讀，並請一併宣讀委員之提案。
+行政院主計總處歲入預算部分：
+第2款　罰款及賠償收入
+第6項　主計總處無列數
+第1目　賠償收入無列數
+第3款　規費收入
+第7項　主計總處928千元
+第1目　使用規費收入928千元
+第4款　財產收入
+第7項　主計總處195千元
+第1目　財產孳息無列數
+第2目　廢舊物資售價195千元
+第7款　其他收入
+第7項　主計總處106千元
+第1目　雜項收入106千元
+行政院主計總處歲出預算部分：
+第2款　行政院主管
+第2項　主計總處1,112,967千元
+第1目　一般行政830,829千元
+第2目　中央總預算核編及執行4,500千元
+第3目　特種基金預算核編及執行2,000千元
+第4目　會計及決算業務2,950千元
+第5目　綜合統計業務33,000千元
+第6目　國勢普查業務93,800千元
+第7目　主計訓練業務16,200千元
+第8目　主計資訊業務44,363千元
+第9目　一般建築及設備83,475千元
+第10目　第一預備金1,850千元
+有關政事別歲出預算隨同以上機關別審查結果調整。
+審計部及所屬歲入預算部分：
+第2款　罰款及賠償收入
+第59項　審計部無列數
+第1目　賠償收入無列數
+第60項　審計部新北市審計處無列數
+第1目　賠償收入無列數
+第61項　審計部臺中市審計處無列數
+第1目　賠償收入無列數
+第3款　規費收入
+第69項　審計部603千元
+第1目　使用規費收入603千元
+第70項　審計部臺北市審計處8千元
+第1目　使用規費收入8千元
+第71項　審計部新北市審計處無列數
+第1目　使用規費收入無列數
+第72項　審計部臺中市審計處8千元
+第1目　使用規費收入8千元
+第73項　審計部臺南市審計處無列數
+第1目　使用規費收入無列數
+第74項　審計部高雄市審計處16千元
+第1目　使用規費收入16千元
+第4款　財產收入
+第68項　審計部80千元
+第1目　廢舊物資售價80千元
+第69項　審計部臺北市審計處25千元
+第1目　廢舊物資售價25千元
+第70項　審計部新北市審計處1千元
+第1目　廢舊物資售價1千元
+第71項　審計部臺中市審計處10千元
+第1目　廢舊物資售價10千元
+第72項　審計部臺南市審計處2千元
+第1目　廢舊物資售價2千元
+第7款　其他收入
+第62項　審計部無列數
+第1目　雜項收入無列數
+第63項　審計部臺北市審計處無列數
+第1目　雜項收入無列數
+第64項　審計部高雄市審計處無列數
+第1目　雜項收入無列數
+審計部及所屬歲出預算部分：
+第6款　監察院主管
+第2項　審計部1,081,250千元
+第1目　一般行政974,420千元
+第2目　中央政府審計32,004千元
+第3目　縣市地方審計10,925千元
+第4目　一般建築及設備60,526千元
+第5目　第一預備金3,375千元
+第3項　審計部臺北市審計處72,775千元
+第1目　一般行政70,504千元
+第2目　審計業務2,135千元
+第3目　第一預備金136千元
+第4項　審計部新北市審計處56,319千元
+第1目　一般行政54,168千元
+第2目　審計業務2,049千元
+第3目　第一預備金102千元
+第5項　審計部臺中市審計處61,378千元
+第1目　一般行政59,602千元
+第2目　審計業務1,674千元
+第3目　第一預備金102千元
+第6項　審計部臺南市審計處62,555千元
+第1目　—般行政60,636千元
+第2目　審計業務1,817千元
+第3目　第一預備金102千元
+第7項　審計部高雄市審計處77,870千元
+第1目　一般行政76,240千元
+第2目　審計業務1,538千元
+第3目　第一預備金92千元
+有關政事別歲出預算隨同以上機關別審查結果調整。
+委員提案：
+一、行政院主計總處與審計部，分別為我國預算編製與決算審核的重要單位，政府機關決策者及施政計畫主管人員，為了達成使命或施政計畫，需要有效控制達成使命的因素，積極建置內部控管機制，並持續追蹤。行政院主計總處與審計部應擔任領頭羊角色，評估將「財務報導內部控制確認聲明書」納入兩單位102年度總決算書的可行性，同時逐步要求政府其餘各機關加以落實，以對政府內部控制良窳，進行覆核及確認，以此考核單位和主管的施政績效。
+提案人：費鴻泰　　賴士葆　　林德福　　盧秀燕　　翁重鈞　　羅明才
+二、會計法、審計法與預算法等法律，對政府各機關預算、決算、審計等會計審計業務之規定互有連動及關聯，有鑑於本質相同之事物應為一致性規定，且會計法已數十年未全面審視全文增修調整，行政院主計總處應與審計部研商設置專案小組，就會計法、預算法、審計法等相關法律條文，儘速檢討並提出修正草案之工作進度時程，以使相關業務之定義歸於一致。
+提案人：費鴻泰　　賴士葆　　盧秀燕　　林德福　　羅明才　　翁重鈞
+三、鑑於主計總處對於中央挹注地方專案補助之監管及考核不確實，且未確切掌握無薪假實行情形，怠忽主計總處應有職責。爰針對主計總處除人事費與法定支出外，其餘預算酌予刪減10%，並凍結10%，俟主計總處定期公布及彙整「事業單位實施勞雇雙方協商減少工時累計資料」資料，且建置於主計總處「中華民國統計資訊網」的統計資料庫；並將102年度上半年度主計總處對實際專案補助彙整、監管及考核實際執行情況，向本院財政委員會提出報告並經同意後，始得動支，以彰顯主計總處其法定職權。
+提案人：薛　凌　　李應元　　吳秉叡
+四、鑑於國庫困窘，且依據102年預算編列原則，非確有必要應撙節支出。為避免壓縮施政之財政空間，應裁減虛增之預算。爰針對主計總處歲出所編列國外旅費預算數，因逐年增加與理不合，予以刪除「國外旅費」預算數20%。刪減主計總處新增首長座車壹台、副首長座車兩台之預算，即刪減「一般建築及設備」預算數2,280千元。主計總處技工及工友預算數，予以刪除「技工及工友待遇」超出設置基準員額之待遇，以撙節公帑。
+提案人：薛　凌　　吳秉叡　　李應元
+五、本院李委員應元，針對主計總處102年度預算編列駕駛員額14人、公務車輛13輛（含21人座中型交通車1輛，首長副首長座車3輛，預算書P.73、74），駕駛比車多之閒置人力情形，不符經濟效益。在超額駕駛情勢下，主計總處編列又以業務費進用臨時人員與勞力外包公司之派遣人員2,196萬7千元（預算書P.71），比101年預算2,103萬6千元，增加93萬2千元，有悖預算籌編原則更有失身為預算主管機關之典範。因此，為撙節支出符合規定，故該筆預算應減列二分之一。
+說明：
+主計總處於101年度預算編列駕駛員額14人、公務車輛（以下均不包含機車）10輛，該處駕駛員額超逾車輛數，造成駕駛比車多之閒置人力情形，不符經濟效益。依中央各機關學校事務勞力替代措施推動方案所定，駕駛人數不僅超過車輛數，更遠超於其可配置駕駛之車輛數。在此存在超額駕駛情勢下，主計總處甚且編列以業務費用臨時人員24人及勞力外包公司之派遣人員25人，預算金額2,196萬8千元，比101年預算2,103萬6千元，增加93萬2千元，有悖預算籌編原則，知法犯法，更有失預算主管機關應有之典範。該處宜先以超額駕駛協助資料處理等事務性工作，不足人力始進用臨時人力。因此，為撙節支出，故該筆預算應減列二分之一。
+提案人：李應元　　吳秉叡　　薛　凌
+六、本院李委員應元，針對主計總處102年度預算編列水電費1,083萬元（預算書P.62）。考量政府油電雙漲政策，造成民怨，政府機關應帶頭節能減碳，節約水電。爰提案刪減水電費1成108萬3千元。是否有當，敬請公決。
+提案人：李應元　　吳秉叡　　薛　凌
+七、本院李委員應元，針對主計總處102年度預算編列派員出國計畫104萬8千元（預算書P.79）。按中華民國102年中央政府總預算編製作業手冊，「中央各主管機關編制102年概算應行注意辦理事項」（中華民國101年5月10日，行政院授主預彙字第1010101033號函訂定），四（二）8規定，國內外旅費與派員出國教育訓練費，如屬出席國際會議或談判者，得依實際需要核實編列，其餘均以不超過101年度預算數之9成為原則。經查，從行政院主計總處歷年出國計畫編列類別，及上述統刪情況與預算緊縮控管規定交叉比較，似乎呈現以開會代替考察情事，恐有規避本院統刪決議及國外旅費控管之疑慮。該筆預算有24萬7千元非屬參加國際會議或談判之出國研究計畫費，按前述規定應以101年18萬2千元之九成為原則，故應刪減8萬3千元。是否有當，敬請公決。
+提案人：李應元　　吳秉叡　　薛　凌
+八、主計總處歲出第2款第2項第1目一般行政項下費用830,829千元減列1,474千元。
+理由：本年度內部控制規劃及督導經費較上年度增加部分，績效不彰不應予以增加。
+提案人：吳秉叡　　許添財　　李應元　　薛　凌
+九、主計總處執掌全國歲計、會計、統計事宜，亦負責中央政府總預算編製所依據之全國總供需估測模型之設計及估測之分析，理應時時檢討與改正，謀求合宜的財經預測作為，惟面對失業率、消費者物價指數（CPI）持續攀高，痛苦指數持續飆升，經濟成長率更遭主計總處連8度下修，無感的經濟數字預估，預測失真，更與民間感受落差甚大，顯非一句：「據實以報」足以彌補，明顯怠忽職守，又主計總處對中央挹注地方的補助監管及考核不確實，有違主計總處組織法所賦予職責，爰針對第1目「一般行政」項下「人員維持費」之「獎金」（預算書p.32）中有關首長之「年終獎金」及第1目項下「基本行政工作維持」之「特別費」1,260千元，予以全數刪除。
+提案人：薛　凌　　吳秉叡　　李應元
+十、鑑於軍公教退休人員已領有月退休金，且在於法無據，於理不合情況下，又逢國庫困窘，潛藏債務逐年遽增，政府舉債度日，若執意發放，無疑帶頭製造社會對立，為避免加深人民之間相對剝奪感，並考量國家財政困難、社會觀感，應共體時艱，爰針對第1目「一般行政」項下「人員維持費」之「獎金」（預算書p. 32）中有關退休退職人員之年終工作獎金及三節慰問金部分予以全數刪除，以撙節公帑。
+提案人：薛　凌　　吳秉叡　　李應元
+十一、本院李委員應元，針對主計總處102年度預算編列退休職人員三節慰問金159萬元（預算書P.76-77）。經查，退休職人員三節慰問金編列之法源，原94年10月17日公務人員退休法施行細則第26條第2項規定「領月退休金者，遇有臨時加發薪金時，月退休金亦得按比率支給。」，已於99年11月10日修正時，以該規定「不合時宜」為由刪除。故該筆預算屬違法編列，應全數刪除。是否有當，敬請公決。
+提案人：李應元　　吳秉叡　　薛　凌
+十二、主計總處歲出第2款第2項第4目會計及決算業務項下費用2,950千元，減列215千元。
+理由：財政困難，政府會計之研究與推動經費，不應增列出席費，增列部分應予刪除。
+提案人：吳秉叡　　李應元　　許添財　　薛　凌
+十三、主計總處歲出第2款第2項第5目綜合統計業務項下33,000千元，減列1,744千元。
+理由：1.國幸生活痛苦不堪，國民幸福指數無庸調查，減列600千元。
+2.綠色國民所得統計經費1,144千元不需再行統計，減列1,144千元。
+提案人：吳秉叡　　李應元　　許添財　　薛　凌
+十四、主計總處第2款第2項第6目國勢普查業務項下93,800千元經費，減列700千元。
+理由：國民生活痛苦不堪，國民幸福指數無庸調查，故調查之訪查費、審核費及複查費700千元應不予增列。
+提案人：吳秉叡　　李應元　　許添財　　薛　凌
+十五、鑑於國庫困窘，政府預算編列應以撙節開支為重點。爰針對主計總處歲出所編列主計訓練業務，本年度預算數較上年度預算數增加98萬9千元，因逐年增加與理不合，應予以刪除。爰此，102年度主計總處單位預算「主計訓練業務」編列1千6百20萬元，刪減98萬9千元。
+提案人：許添財　　吳秉叡　　薛　凌　　李應元
+十六、本院賴委員士葆等5人，針對行政院主計總處102年度「單位預算」中將高排氣量之首長座車調整為一般公務轎車，並增購首長與副首長座車，不符經濟效益且與規定不符，並經立法院預算中心指出將原有之首長及副首長座車調整為一般公務轎車而未報廢徒增養護及稅費，且該單位掌管全國公務預算之編列，不但公然違反預算編列之相關規定，且嚴重影響民眾社會觀感，爰提案將交通及運輸設備項下設備及投資科目之運輸設備費2,280千元全數刪除。是否有當？敬請公決。
+提案人：賴士葆　　盧秀燕　　林德福　　羅明才　　薛　凌
+十七、主計總處第二款第二項第九目第一節交通及運輸設備項下列2,328千元經費，減列2,280千元。
+理由：國家財政困難，首長及副首長座車3輛2,280千元應予刪除，來年再行汰換。
+提案人：吳秉叡　　許添財　　薛　凌
+十八、102年度行政院總處交通及運輸設備，編列2百32萬8千元，部分計畫內容為汰換油氣雙燃料車三台，為目前政府財政困難，政府應為撙節開支之表率，爰此，建議刪除102年度行政院總處交通及運輸設備工作計畫0305運輸設備費編列2百28萬元。
+提案人：許添財
+連署人：吳秉叡　　薛　凌
+十九、本院李委員應元，針對行政院主計總處102年預算編列編列購置首長車1輛（2,400 CC）86萬元、副首長座車2台共142萬元，相當於1輛（2,000 CC）71萬元。將原有之首長及副首長座車調整為一般公務轎車，鑑於原有之首長及副首長座車均為92年度購置之3,000立方公分排氣量車種，所需油料、養護費、牌照稅、燃料費及保險費等費用，均較該總處現有2,000立方公分1之公務轎車為高，經查車輛相關支出主要包括：油料：依行政院主計總處所定預算共同性費用編列標準表，其中油料編列標準為，中小型汽車每月輛139公升、大型汽車每月輛190公升。車輛養護費：購置滿6年以上公務汽車，每年輛5萬1,000元。牌照稅：排氣量1,801－2,400立方公分每年1萬1,230元、排氣量2,401－3,000立方公分每年1萬5,210元。燃料費：排氣量1,801－2,400立方公分之汽油車每年6,210元、排氣量2,401－3,000立方公分之汽油車每年7,200元。且公務上對車輛之使用需求得另以計程短程車資報支，基於撙節預算原則，刪除新購首長座車142萬元及相關車輛支出費用36萬3千元，是否有當，敬請公決。
+說明：
+一、該總處於概算應編書表格式及注意事項中，對各機關公務車輛明細表要求「本年度汰換車輛應以原車輛編列於現有車輛欄，並於備註欄說明擬汰換車輛之車種、預計購置年月。」
+二、該注意事項明確規定，如屬本年度汰換車輛，應以原車輛編列於現有車輛欄，並於備註欄說明擬汰換車輛之車種、預計購置年月；惟該總處卻未如此編列，不以原車輛編列於現有車輛欄，而係於現有車輛末端加填首長及副首長座車，看似新增車輛而非汰換。有鑑於預算籌編原則對車輛配置有較嚴謹之規範，該總處現行編列方式有欠妥適。
+提案人：李應元　　吳秉叡　　薛　凌
+二十、本院李委員應元，針對主計總處102年度預算編列公務車輛13輛（含21人座中型交通車1輛，首長副首長座車3輛，預算書P.73），其中其他費用編列46萬元，均未說明用途，且漫無標準，有悖預算籌編原則，且違反共同性費用編列標準表之規定。為撙節支出符合規定，該筆預算應全數刪除。
+提案人：李應元　　吳秉叡　　薛　凌
+二十一、本院李委員應元，針對行政院主計總處102年預算編列購置首長車1輛（2,400 CC）86萬元、副首長座車2台共142萬元，相當於1輛（2,000 CC）71萬元。將原有之首長及副首長座車調整為一般公務轎車，鑑於原有之首長及副首長座車均為92年度購置之3,000立方公分排氣量車種，所需油料、養護費、牌照稅、燃料費及保險費等費用，均較該總處現有2,000立方公分之公務轎車為高，經查車輛相關支出主要包括：油料：依行政院主計總處所定預算共同性費用編列標準表，其中油料編列標準為，中小型汽車每月輛139公升、大型汽車每月輛190公升。車輛養護費：購置滿6年以上公務汽車，每年輛5萬1,000元。牌照稅：排氣量1,801-2,400立方公分每年1萬1,230元、排氣量2,401-3,000立方公分每年1萬5,210元。燃料費：排氣量1,801-2,400立方公分之汽油車每年6,210元、排氣量2,401-3,000立方公分之汽油車每年7,200元。且公務上對車輛之使用需求得另以計程短程車資報支，基於撙節預算原則，應報廢高排氣量車種之方式，避免高排氣量車款繼續徒增支出，故刪除3輛公務車相關費用支出45萬1千元，是否有當，敬請公決。
+說明：
+一、該總處於概算應編書表格式及注意事項中，對各機關公務車輛明細表要求「本年度汰換車輛應以原車輛編列於現有車輛欄，並於備註欄說明擬汰換車輛之車種、預計購置年月。」
+二、該注意事項明確規定，如屬本年度汰換車輛，應以原車輛編列於現有車輛欄，並於備註欄說明擬汰換車輛之車種、預計購置年月；惟該總處卻未如此編列，不以原車輛編列於現有車輛欄，而係於現有車輛末端加填首長及副首長座車，看似新增車輛而非汰換。有鑑於預算籌編原則對車輛配置有較嚴謹之規範，該總處現行編列方式有欠妥適。
+提案人：李應元　　吳秉叡　　薛　凌
+二十二、主計總處第二款第二項第九目第二節其他設備項下81,147仟元經費，減列46,868仟元。
+理由：該節預算說明(9)既已表上年度購買電腦軟硬體及印表機設備預算業已編竣，不應再編提升政府歲會計資訊系統效能及建置系統整合環境等經費，故所列46,868仟元經費應予刪除。
+提案人：吳秉叡　　李應元　　薛　凌
+二十三、102年度行政院總處主計資訊業務，編列4,436萬4千元，為激勵主計總處建置智慧型手機對外服務行動化App應用程式，並以經濟學人（The Economist）建構之APP程式「World in Figures」為藍本，爰此，建議102年度行政院總處主計資訊業務編列4,436萬4千元預算凍結10%（443萬6千4百元），做為主計總處資訊業務開發計畫之具體實踐，俟應用軟體程式經立法院財政委員會認定核可後，始得動支。
+提案人：許添財
+連署人：吳秉叡　　薛　凌
+二十四、中央政府可依直轄市與縣（市）政府施政計畫之執行效能、年度預算編製或執行情形、相關開源節流績效等進行監督考核，並可依考核結果增加或減少年度一般性補助款。惟現行行政院主計總處對於各直轄市及縣市財政績效與年度預算編製及執行情形，缺乏具體考核內容及建議改進事項。行政院主計總處應於網站中適度公開對地方政府之各項補助情形，包括補助規定、審查核定排列優先順序之計畫、管考查核結果等，以促進補助款編製、執行及考核之公平性。
+提案人：費鴻泰　　賴士葆　　林德福　　盧秀燕　　翁重鈞　　羅明才
+二十五、目前政府各種公務車輛，均依一定年限淘汰換。然部分公務車，尤其首長座車僅供上下班及短程使用，至汰換年限仍然完好如新，而且使用里程數也極低，卻仍依年限汰換，形成極大浪費。
+主計總處應檢討該制度，加就公務車「使用里程數」及「機關內部評估」，汰換年限雖屆期，但如使用里程數偏低，且機關內部評估車況仍好，則可延期使用。
+提案人：盧秀燕　　翁重鈞　　薛　凌　　李桐豪　　羅明才　　費鴻泰　　李應元
+決議
+二十六、9月份失業率雖較8月份失業率下降0.08%，惟仍是亞洲四小龍之末。且查無薪假人數及通報廠商仍在增加當中。可見現有失業率無法確切反映勞動市場情形。為避免失真，爰要求主計總處將勞委會「事業單位實施勞雇雙方協商減少工時累計資料」列入主計處定期公布資料及彙整外，並定期公布於主計總處「中華民國統計資訊網」的統計資料庫。
+提案人：薛　凌　　李應元　　吳秉叡
+二十七、案由：鑑於軍公教退休人員已領有月退休金，且在於法無據，於理不合情況下，又逢國庫困窘，潛藏債務逐年遽增，政府舉債度日，若執意發放，無疑帶頭製造社會對立，為避免加深人民之間相對剝奪感，並考量國家財政困難、社會觀感，應共體時艱，爰針對審計部及所屬各審計處「人員維持費」之「獎金」中有關退休退職人員之年終工作獎金及三節慰問金部分，予以全數刪除，以撙節公帑。
+提案人：薛　凌　　吳秉叡　　李應元
+二十八、鑑於審計部對於營業基金決算中之績效獎金部分，未能依法覈實審定，造成國營事業不但未編列於預算反而超額併入決算，規避立院審議，無疑有放水之虞，明顯無積極作為，爰針對審計部除人事費與法定支出外，其餘預算酌予刪減10%，並凍結10%，俟102年度上半年度審計部對國營事業之績效獎金審定情況，向本院財政委員會提出報告並經同意後，始得動支，以彰顯審計部其法定審定職權。
+提案人：薛　凌　　吳秉叡　　李應元
+二十九、審計部第六款第二項第一目一般行政項下經費974,420仟元經費，減列9,307千元。
+理由：人員維持費不應較上年度增加，故增列人事費9,307千元部分應予刪除。
+提案人：吳秉叡　　李應元　　薛　凌
+三十、鑑於中央政府總決算附屬單位決算中之營業基金（如國營事業）決算，其中績效獎金部分，存有巨額超支併決算的情形，國營事業在預算中故意不編列，規避立院審議，直接在決算中併入巨額獎金，而審計部也沒有針對績效獎金數額於予以依法審定，形同放水；且監委也直指國營事業提報政策因素「寬濫粗算」，以提高領取績效獎金，此一情況，未見審計部採取積極作為，明顯怠於工作，又無擅盡其職責，彰影其職權，爰針對第1目「一般行政」項下「人員維持費」之「獎金」（預算書p.30）中有關首長之「年終獎金」元及第1目項下「基本行政工作維持」之「特別費」2,000千元（預算數3,216千元），予以刪除。
+提案人：薛　凌　　吳秉叡　　李應元
+三十一、本院賴委員士葆等人，為強化中央政府所屬各單位之國有閒置或低度利用之公用與非公用土地之管理效益，爰提案要求審計部自明年（102年）起，每年6月及12月公布中央政府所屬各機關坐落於各縣市之國有閒置或低度利用之公用與非公用土地之清理與使用效益改善情況，針對清理與改善效率低落之各機關提出必要之檢討或糾正，以加速國有土地資產之使用效益。是否有當？敬請公決。
+提案人：賴士葆　　盧秀燕　　費鴻泰　　翁重鈞　　林德福　　羅明才　　薛　凌
+決議
+三十二、本院委員許添財等人，有鑑於行政院依據馬總統競選政見具體規劃，於98年12月2日核定實施內含284項細部計畫之「愛臺12建設」計畫，預計自98年至105年之8年期間，投入總經費約新臺幣3.99兆元1，執行便捷交通網、高雄港市再造、中部高科技產業新聚落、桃園國際航空城、智慧臺灣、產業創新走廊、都市及工業區更新、農村再生、海岸新生、綠色造林、防洪治水、下水道建設等12項優先建設計畫，預期藉該計畫之執行，可使我國實質GDP規模年平均較未推動之情況提高2.95%2，且平均每年增加24.7萬個工作機會。該計畫為行政院跨部會3之分年性重大施政計畫，預算編列金額頗為龐鉅，審計部依法辦理行政院各機關決算之審碑，未就該項重大施政計畫預算執行情形及績效提出整體性審核報告，爰此，建請審計部三個月內提出整體性審核計畫，並向財政委員會提出報告。說明：
+一、審計部對鉅如「愛臺12建設」之重大施政計畫，並未提出整體性審核報告暨意見
+「愛臺12建設」計畫所涉預算金額龐大，行政院並就該計畫訂有如首段所述之預期經濟效益目標，且自98年度起，每年度均列為總預算案「預算籌編重要相關事項」之一，可見其特殊性及重要性。但對鉅如「愛臺12建設」之重大施政計畫預算執行情形，並未個別提出整體性審核報告暨意見，恐有違前揭決算法及審計法規定之精神。
+綜上，「愛臺12建設」為行政院近年耗資最鉅之重大施政計畫，行政院為此自98年度起，即將其預算編列情形列為總預算案「預算籌編重要相關事項」之一，尤顯其特殊性及重要性。審計部允宜依審計法及決算法規定，就該計畫預算執行情形及相關效益產生之良窳等，提出整體性審核意見彙列於年度總決算審核報告中，俾利立法院審議。
+提案人：許添財　　吳秉叡　　薛　凌
+1其中政府預算（含公務預算、特別預算及特種基金預算）為2.79兆元，約占總經費70%；民間投資為1.20兆元，約占30%。
+2依行政院核定之「愛臺12建設總體計畫」：「2009至2016年在投資的動態累積效應發揮下，推動愛臺12建設促使實質GDP規模累計相對較『未推動』愛臺12建設之基準方案，增加3兆4,430億元，實質GDP規模年平均較未推動之情況提高2.95%。」其中，「2009至2012年實質GDP規模累計增加1兆8,264.4億元，實質GDP規模每年平均提高3.39%」;「2013至2016年實質GDP規模累計增加1兆6,165.6億元，實質GDP規模每年平均提高2.52%」。
+3所涉部會包括交通部、國家科學委員會、經濟部、內政部、教育部、農業委員會、文化部、國家通訊傳播委員會、研究考核委員會、經濟建設委員會、財政部、環境保護署、衛生署、體育委員會、公共工程委員會、原住民族委員會等。
+主席：現在進行協商。
+（進行協商）
+主席：現在宣讀協商結論。經協商，第一案，照案通過；第二案，照案通過；第三案第四行「其餘預算」以後文字修正為：其餘預算凍結10%，主計總處應定期公布及彙整「事業單位實施勞雇雙方協商減少工時累計資料」資料，且建置於主計總處「中華民國統計資訊網」的統計資料庫；並將102年度上半年度主計總處對實際專案補助彙整、監管及考核實際執行情況，向立法院財政委員會提出報告後，始得動支，以彰顯主計總處其法定職權。其餘照原提案通過；第四案，刪減交通及運輸設備項下設備及投資之運輸設備費228萬元；第五案，撤案；第六案，撤案；第七案，撤案；第八案，撤案；第九案，撤案；第十案，保留，送院會處理；第十一案，保留，送院會處理；第十二案，照案通過；第十三案，修正為：凍結國民幸福指數調查60萬元，俟向財政委員會報告後，始得動支；第十四案，修正為：凍結國民幸福指數調查70萬元，俟向立法院財政委員會報告後，始得動支；第十五案，修正為：凍結98萬9,000元，俟向立法院財政委員會報告後，始得動支；第十六案至第二十一案併入第四案處理，所以就不再處理。第二十二案，撤案；第二十三案，照案通過；第二十四案，照案通過；第二十五案併入第四案處理；第二十六案併入第三案處理，所以就不再處理。第二十七案，保留，送院會處理；第二十八案第五行「其餘預算」以後文字修正為：「其餘預算凍結10%，俟102年度上半年度審計部對國營事業之績效獎金審定情況，向立法院財政委員會提出報告後，始得動支，以彰顯審計部其法定審定職權。」；第二十九案，撤案；第三十案，撤案；第三十一案第三行「6月及12月」等字刪除，其餘照原提案通過；第三十二案倒數第二行「建請審計部三個月內提出」修正為「建請審計部提出」，其餘照原提案通過。
+中華民國102年度中央政府總預算案有關主計總處。審計部、審計部臺北市審計處、審計部新北市審計處、審計部臺中市審計處、審計部臺南市審計處、審計部高雄市審計處部分。歲入及歲出預算照列後照協商結論通過。決議及臨時提案照協商結論通過，請問各位，有無異議？（無）無異議，通過。有關政事別歲出預算隨同以上機關別審查結果調整。
+本日議程已處理完畢，現在散會。
+散會（16時19分）

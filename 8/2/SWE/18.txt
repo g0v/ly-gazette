@@ -1,0 +1,1042 @@
+立法院第8屆第2會期社會福利及衛生環境委員會第18次全體委員會議紀錄
+時　　間　中華民國101年11月7日（星期三）下午2時34分
+地　　點　本院群賢樓801會議室
+主　　席　劉委員建國
+主席：出席委員已足法定人數，開會。進行報告事項。
+報　告　事　項
+一、宣讀上次會議議事錄。
+<hr>
+立法院第8屆第2會期社會福利及衛生環境委員會第17次全體委員會議議事錄
+時　　間：101年11月5日（星期一）上午9時5分至12時43分
+下午2時38分至6時2分
+地　　點：本院群賢樓801會議室
+出席委員：陳歐珀　　林世嘉　　陳節如　　江惠貞　　吳育仁　　蘇清泉　　蔡錦隆　　趙天麟　　徐少萍　　王育敏　　楊　曜　　田秋堇　　楊玉欣　　劉建國　　鄭汝芬
+（委員出席15人）
+列席委員：陳明文　　吳秉叡　　許忠信　　廖國棟　　薛　凌　　許添財　　林德福　　李桐豪　　盧秀燕　　林佳龍　　陳亭妃　　李昆澤　　黃昭順　　黃偉哲　　江啟臣　　楊麗環　　林正二　　賴士葆　　鄭天財　　劉櫂豪　　廖正井　　李貴敏　　邱文彥　　簡東明　　蕭美琴　　邱志偉　　林滄敏　　蔡其昌　　李俊俋　　葉宜津　　徐耀昌　　徐欣瑩　　呂學樟　　潘維剛　　黃文玲　　高金素梅　孔文吉　　蔣乃辛　　林淑芬　　楊瓊瓔　　顏清標
+（委員列席41人）
+上午
+<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="94"><col WIDTH="445"><col WIDTH="261"><tr><td WIDTH="94" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院環境保護署署長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">沈世宏</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">環境督察總隊總隊長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳咸亨</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">綜合計畫處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">葉俊宏</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">空氣品質保護及噪音管制處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝燕儒</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">水質保護處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許永興</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">廢棄物管理處副處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">賴瑩瑩</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">環境衛生及毒物管理處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">袁紹英</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">管制考核及糾紛處理處專門委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃輝榮</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">環境監測及資訊處專門委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">詹志銘</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">溫室氣體減量管理室組長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳奕霖</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">永續發展室組長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張宣武</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">土壤及地下水污染整治基金管理會副執行秘書</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳峻明</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">資源回收管理基金管理委員會副執行秘書</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳孟兒</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">法規委員會執行秘書</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">郭子哲</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">環境保護人員訓練所所長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳麗貞</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">環境檢驗所主任秘書</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蘇國澤</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">秘書室簡任視察</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">周金塗</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">會計室主任</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">駱慧菁</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">人事室主任</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝松熏</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">統計室主任</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張惠菁</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院衛生署署長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">邱文達</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">副署長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">賴進祥</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">醫事處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許銘能</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">護理及健康照護處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">鄧素文</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">企劃處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">石崇良</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">國際合作處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許明暉</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">全民健康保險小組參事</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">曲同光</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">法規委員會參事</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">高宗賢</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">醫院管理委員會執行長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李懋華</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">人事室主任</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">徐秀暉</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">會計室主任</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">高正本</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">秘書室簡任視察</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蔡壽</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">衛生教育推動委員會執行秘書</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">廖崑富</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">疾病管制局局長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張峰義</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">國民健康局局長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">邱淑媞</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">中醫藥委員會主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃林煌</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">食品藥物管理局局長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">康照洲</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">中央健康保險局副局長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蔡  魯</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院勞工委員會主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">潘世偉</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">副主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">郭芳煜</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">職業訓練局局長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">林三貴</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞退基金監理會主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃肇熙</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工安全衛生研究所所長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">林進基</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工保險處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">石發基</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">會計室主任</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李秋月</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部次長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">曾中明</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">社會司司長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">簡慧娟</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">會計處副會計長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">季志平</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">兒童局局長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張秀鴛</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">家庭暴力及性侵害防治委員會執行秘書</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李美珍</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院行政院主計總處公務預算處研究委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃耀生</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院人事行政總處專門委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳碧蓮</p></td></tr><tr><td WIDTH="94" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: 0.19cm">下午</p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm"><br></p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><br></p></td></tr><tr><td WIDTH="94" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院勞工委員會主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">潘世偉</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">副主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">郭芳煜</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">職業訓練局局長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">林三貴</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工保險局代總經理</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">羅五湖</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞退基金監理會主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃肇熙</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工保險監理委員會主任委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">高寶華</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞資關係處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">劉傳名</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞動條件處副處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝倩蒨</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工福利處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">孫碧霞</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工保險處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">石發基</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工安全衛生處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">傅還然</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">勞工檢查處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳世雄</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">綜合規劃處處長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李來希</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">統計處統計長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">鄭文淵</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.93cm; margin-right: 0.19cm">法規委員會執行秘書</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王尚志</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">法務部參事</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">覃正祥</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財政部國庫署副署長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳雪香</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院金融監督管理委員會證券期貨局副組長</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蔡媛萍</p></td></tr><tr><td WIDTH="94" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="445" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處基金預算處專門委員</p></td><td WIDTH="261" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃鴻文</p></td></tr></table>
+主　　席：劉召集委員建國
+專門委員：鄭光三
+主任秘書：楊夢濤
+紀　　錄：簡任秘書　戴文堅
+簡任編審　鄭翔勻
+科　　長　王曉蘭
+薦任科員　馬華玫
+報　告　事　項
+宣讀上次會議議事錄。
+決　定：議事錄確定
+邀請行政院環境保護署署長沈世宏、行政院衛生署署長邱文達、行政院勞工委員會主任委員潘世偉、內政部部長李鴻源（次長曾中明代）等就「102年度預算各項歲入歲出之法律授權依據及101年度各項預算執行率」列席報告，並備質詢。
+（委員陳歐珀、林世嘉、陳節如、江惠貞、吳育仁、蘇清泉、蔡錦隆、趙天麟、楊曜、王育敏、徐少萍、田秋堇、劉建國、許忠信、許添財、邱志偉、葉宜津、李俊俋、楊麗環、孔文吉及鄭汝芬等21人提出質詢，均經行政院環境保護署署長沈世宏、行政院衛生署署長邱文達、行政院勞工委員會主任委員潘世偉及內政部次長曾中明等即席答復。）
+決　定
+一、本日報告及詢答完畢。
+二、委員鄭汝芬及李昆澤等所提書面質詢列入紀錄，刊登公報，並請相關機關於2週內以書面答復本會與本會委員及質詢委員。
+三、本日會議委員所提質詢未及答復部分（含委員質詢中要求提供之相關資料）亦請相關機關於2週內（但委員另行指定者，從其指定）以書面答復本會與本會委員及質詢委員。
+另通過臨時提案3項：
+(一)鑑於行政院環境保護署與雲林縣政府，就有關六輕揮發性有機物排放總量爭議不斷，爰要求本委員會針對此議題，於行政院環境保護署與雲林縣政府會議檢討後未獲共識時，召開公聽會加以釐清。
+提案人：徐少萍　　江惠貞
+連署人：蘇清泉　　楊玉欣　　吳育仁　　鄭汝芬
+(二)根據我國憲法之規定，實施全民健康保險乃國家的責任，所有社會保險制度都必須具備社會福利意涵。任何一位因經濟因素而無法繳納健保費之民眾，都應該由政府承擔其就醫的權利。目前行政院衛生署正進行全國健康保險欠費鎖卡清查，如查證非惡意欠費，行政院衛生署將依續開卡。但任何一位非惡意欠費之民眾，其健康權與醫療權是憲法保障之權益，不容侵害，故行政院衛生署應在進行全國鎖卡清查作業之同時，針對目前鎖卡之民眾，立即暫時全面開卡，並同步進行清查，如查證為惡意欠費者，再追溯施以欠費罰款或其他行政措施，不宜在清查之前就針對欠費者全面施以鎖卡措施，以確保弱勢民眾之就醫權益。
+提案人：楊玉欣　　田秋堇
+連署人：王育敏　　徐少萍　　吳育仁　　蔡錦隆　　劉建國
+(三)針對行政院環境保護署及地方政府近日屢以廣告形成中央與地方政府對立，爰建議自即日起，行政院環境保護署與地方政府就有關六輕揮發性有機物排放總量應停止再刊登是類廣告。
+提案人：徐少萍
+連署人：蘇清泉　　王育敏　　蔡錦隆　　楊玉欣
+討　論　事　項
+併案審查本院委員高志鵬等18人、委員林世嘉等23人分別擬具「勞工保險條例第六十六條條文修正草案」及委員高志鵬等22人擬具「勞工保險條例第六十七條條文修正草案」等3案。
+（委員徐少萍、陳節如、江惠貞、王育敏、田秋堇、高志鵬、鄭汝芬及蔡錦隆等8人提出質詢，均經行政院勞工委員會主任委員潘世偉等即席答復。）
+決　議
+併案審查本院委員高志鵬等18人、委員林世嘉等23人分別擬具「勞工保險條例第六十六條條文修正草案」及委員高志鵬等22人擬具「勞工保險條例第六十七條條文修正草案」等3案，結果：
+一、本3案，報告及詢答完畢，另定期繼續併案審查。
+二、委員楊玉欣及鄭汝芬所提書面質詢列入紀錄，刊登公報，並請相關機關於2週內以書面答復本會與本會委員及質詢委員。
+三、本日會議委員所提質詢未及答復部分（含委員質詢中要求提供之相關資料）亦請相關機關於2週內以書面答復本會與本會委員及質詢委員。
+散會
+<hr>
+主席：請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。
+進行討論事項。
+討　論　事　項
+繼續審查中華民國102年度中央政府總預算案有關內政部（社會司、國民年金監理會、家庭暴力及性侵害防治委員會）及兒童局單位預算案。（預算處理）
+主席：今天的議程是繼續審查中華民國102年度中央政府總預算案有關內政部（社會司、國民年金監理會、家庭暴力及性侵害防治委員會）及兒童局單位預算案。
+本日審查之預算，歲入科目以「項」為處理單位，歲出科目以「目」為處理單位；預算審查時，提案委員說明以3分鐘為原則，提案委員不在場，該提案就不予處理。
+因為很多委員是第一次審查預算，本委員會以前審查預算的慣例是先請議事人員宣讀委員提案，接著請被刪減單位說明，之後再請提案委員表示能否接受行政單位的解釋，在第一輪審查的時候，如果大家還有意見，我們就保留，等到所有提案處理完畢後再進行第二輪的處理，保留的提案在第二輪就一定要處理完畢，這時就要看行政單位的說明功力到什麼程度了，絕對沒有第三輪。
+今天有關內政部及兒童局的相關預算共有委員提案87案，其中主決議提案占三分之一以上，如果內政部、兒童局對於主決議提案有不一樣的看法，請儘快私下跟委員溝通，主決議提案就不需要進行第二輪討論了。
+現在進行102年度中央政府總預算案關於內政部（含社會司、國民年金監理會、家庭暴力及性侵害防治委員會）及兒童局收支部分一、內政部社會司、兒童局收支部分(一)歲入部分，進行第2款第71項。
+第2款　罰款及賠償收入
+第71項　兒童局無列數
+主席：第2款第71項無委員提案，預算照列。
+進行第3款第75項。
+第3款　規費收入
+第75項　內政部（社會司）1,634千元
+主席：第3款第75項無委員提案，預算照列。
+進行第84項。
+第84項　兒童局無列數
+主席：第84項無委員提案，預算照列。
+進行第4款第81項。
+第4款　財產收入
+第81項　兒童局70千元
+主席：第4款第81項無委員提案，預算照列。
+進行第7款第65項。
+第7款　其他收入
+第65項　內政部（社會司）108,000千元
+主席：第7款第65項無委員提案，預算照列。
+進行第74項。
+第74項　兒童局72,421千元
+主席：第74項無委員提案，預算照列。
+進行(二)歲出部分，進行第7款第1項第10目
+第7款　內政部
+第1項　內政部（含社會司、國民年金監理會、家庭暴力及性侵害防治委員會）95,864,792千元
+第10目　社會保險業務　86,602,480千元
+主席：針對本目有委員提案12案，進行第一案。
+一、依《農民健康保險監理委員會組織章程》第二條規定：農民健康保險監理委員會隸屬內政部，置主任委員一人，由內政部政務次長兼任；委員十五人，除主任委員外，其名額分配包括專家四人、農民代表五人、機關代表五人（包括內政部、行政院農業委員會、行政院勞工委員會、行政院主計處、直轄市政府各一人）。然查102年度內政部預算書第116頁社會保險業務項下03「農民保險監理業務」，其說明欄下表示：所需業務費1,571千元，含農保監理委員會聘任兼任醫師按件審查費150千元，部外委員26人兼職費936千元，部外委員8人國內旅費104千元，合計1,040千元，核予上開規定不符。基此，102年度內政部「社會保險業務」中有關「農民保險監理業務」業務費之「兼職費」、「國內旅費」部分，應予以全部刪除（合計1,040千元）。
+提案人：劉建國
+連署人：陳節如　　田秋堇
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。這個部分主要是農保監理委員會與爭議審議委員會部外委員的兼職費支出，農保監理委員會有15名委員，其中部外委員13名，爭議審議委員會有15位委員，其中部外委員有13名，總共30位委員，其中26位是部外委員，這些相關的兼職費及來開會的出席費、旅費等都包含在這筆預算內，如果全部刪除，農保監理委員會與爭議審議委員會可能就無法召開，所以請委員不要刪除這部分的預算。去年審查預算經過統刪後，今年11月就已經不足以支應相關經費了，所以懇請委員支持行政部門編列這部分的費用。
+主席：這是本席的提案，本席就直接請教司長。監理委員會的委員名單有15人，其中主任委員是簡次長，還包括專家代表、農民代表及機關代表，為什麼還要有部外委員？我們在明細表中沒有看到所謂的部外委員。
+簡司長慧娟：不是部裡的人就都稱為部外委員，部裡面就只有二位，一位是我，一位是簡次長，其他的都是部外委員。
+主席：部外委員有包含專家代表，對不對？
+簡司長慧娟：對，有專家代表。
+主席：有一位專家代表的現職是中央健康保險局的研究員，健保局已經是公務機關，為什麼還領取這些費用？
+簡司長慧娟：他是以專家的身分來做意見表述，我們會徵詢他一些相關意見，因為這兩個委員會還是需要有專家的意見。
+主席：所以他來這裡還是可以支領相關費用。
+簡司長慧娟：這是依照行政院兼職費與講座鐘點費支給要點來做……
+主席：支給要點的法源依據在什麼地方？
+簡司長慧娟：行政院的支給要點……
+主席：在星期一的會議中，包括本席在內的很多委員都要求你們要提供這些要點的法源依據給委員參考，你們有沒有提出來？如果你們說不清楚就表示沒有法源依據！
+簡司長慧娟：有，這是96年9月12日行政院院授人給字第0960063509號函修正的，基本上是針對我們所邀請的學者專家，如果有出席，我們給出席費用或兼職費的……
+主席：我問的是法源依據。
+簡司長慧娟：農民健康保險條例第四條規定要組成農民健康保險監理委員會，並且要聘有關機關代表、農民代表及專家等相關單位的人員來組成。
+主席：這是組成人員的法律依據，本席問的是兼職費這個支給要點的法律依據。
+簡司長慧娟：農民健康保險監理委員會組織規程第八條規定，相關的本會委員、兼任人員及爭議審議委員會委員可以依照規定支給車馬費或研究費等相關兼職費用。
+主席：車馬費與研究費？
+簡司長慧娟：對。
+主席：有所謂國內旅費嗎？
+簡司長慧娟：國內旅費就是他們來的車馬費。
+主席：所謂國內旅費就是車馬費？
+簡司長慧娟：對。
+主席：項目一樣但名稱不一樣？
+簡司長慧娟：是，車馬費是掛在國內旅費項下。
+主席：好，本席的這個提案先保留，請你把法源依據的資料提供給我。
+簡司長慧娟：好。
+主席：第二案至第五案是針對同一科目預算的刪減提案，我們一併討論。
+進行第二案至第五案。
+二、102年度內政部單位預算中「社會保險業務」項下「國民年金保險業務」，編列業務費11,853千元，其中辦理國民年金各項宣導工作宣導費9,000千元。惟經查，內政部與勞保局每年編列國民年金宣導費，自96年至101年底投入宣導費已達3億餘元，惟納保人數流失、各年度繳費率成長有限且平均繳費率滑落，宣導效果大不如前，然投入宣導成本約如往年，不符成本效益。爰此，提案刪減國民年金各項宣導工作宣導費6,000千元。
+提案人：田秋堇
+連署人：劉建國　　趙天麟
+三、有鑑於102年度國民年金保險業務之宣導經費，分別編列於內政部公務預算之國民年金宣導工作經費900萬元，且國民年金保險基金附屬單位預算又再編列印刷裝訂與廣告費5,192萬9千元，共計編列國民年金宣導經費高達6,092萬9千元。惟納保人數流失、各年度繳費率成長有限及平均繳費率滑落，顯見宣導效果大不如前；且依據勞保局99年9月委託財團法人臺灣綜合研究院之研究報告「國民年金被保險人未繳納保險費原因之調查分析」，未繳納保險費原因為「家庭經濟狀況不佳，繳不起保險費」、「認為國保給付項目偏少及金額偏低」等，另尚包括國民年金定有10年緩繳期，由此可知，前述原因方為國民年金繳費率無法大幅提升之主因。內政部應檢討國民年金繳費率不佳之結構性問題，並應會同勞委會檢討宣導費用運用之效能，爰刪除本項預算二分之一。
+提案人：王育敏
+連署人：徐少萍　　吳育仁
+四、內政部102年度預算案於「社會保險業務」之「國民年金保險業務」項下，編列辦理國民年金各項宣導工作宣導費900萬元，用於辦理宣導國民年金。惟，一、依國民年金法第4條規定，國民年金保險業務由內政部委託勞保局辦理，內政部及勞保局按年編列宣導費合計約5千餘萬元以上。截至102年度，內政部及勞保局投入國民年金宣導費累計高達3億8,420萬餘元（詳如，附表）；二、現今物價飆漲、民眾經濟狀況不穩定、無多餘的預算繳納，經查最近3年，繳費率的成長幅度逐年下降，如97年度保費繳費率於100年8月較上期增加2.36%，至101年8月僅較上期增加1.19%，平均繳費率大大滑落，宣導效果遞減50%，顯見宣導效益不如預期，內政部102年度卻依然編列大筆經費宣導。基於上述，且為促使內政部及勞委會提出具體且有效之改善辦法，爰提案刪減該項預算3,000千元。
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="96"><col WIDTH="96"><col WIDTH="96"><col WIDTH="96"><col WIDTH="96"><col WIDTH="96"><col WIDTH="96"><col WIDTH="99"><tbody><tr><td COLSPAN="8" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm; margin-bottom: 0.19cm">◆<font FACE="華康楷書體W5, cursive"><font SIZE="4">附表：內政部（含勞保局）編列國民年金宣導費表</font></font></p><p LANG="" CLASS="cjk" ALIGN="RIGHT" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA4697176"></a>單位：新臺幣千元</p></td></tr><tr VALIGN="TOP"><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>機　關</p></td><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">96</span></font>年</p></td><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">97</span></font>年</p></td><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">98</span></font>年</p></td><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">99</span></font>年</p></td><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">100</span></font>年</p></td><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">101</span></font>年</p></td><td WIDTH="99" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">102</span></font>年</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">內政部</p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,727</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">32,056</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">15,042</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">9,995</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">8,000</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">9,500</span></font></p></td><td WIDTH="99" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">9,000</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">勞保局</p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">0</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">75,452</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">44,993</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">44,208</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">42,292</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">45,470</span></font></p></td><td WIDTH="99" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">44,470</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">小計</p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,727</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">107,508</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">60,035</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">54,203</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">50,292</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">54,970</span></font></p></td><td WIDTH="99" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">53,470</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: 0.61cm; left: -0.09cm; width: 820px"><hr></span>累計</p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,727</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">110,235</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">171,270</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">225,473</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">275,765</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">330,735</span></font></p></td><td WIDTH="99" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">384,205</span></font></p></td></tr></tbody></table>
+提案人：劉建國
+連署人：陳節如　　田秋堇　　楊　曜
+五、內政部102年度預算案於「社會保險業務」之「國民年金保險業務」項下，編列辦理國民年金各項宣導工作宣導費9,000千元，惟國民年金納保人數流失、各年度繳費率成長有限及平均繳費率滑落，宣導效果大不如前，成本效益有待斟酌，故建請本項預算刪除450千元。
+提案人：趙天麟
+連署人：陳節如　　陳歐珀
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。國民年金基本上是個很年輕的年金保險制度，對於民眾來講，我們還是要持續加強宣導，讓民眾對於納保資格、納保好處及整個國民年金制度的規劃都能更為瞭解。委員提案中提及納保人數流失的部分，其實納保人數降低的原因滿多，例如有工作就會改加勞保、領有相關其他保險就必須退出國保等，至於繳費率成長有限且平均繳費率滑落的部分，因為國保的繳費有10年的緩衝期，我們97年度的繳費率達到68%，98年度也達到62%，因為國保有比較寬限的繳費期限，如果民眾繳納國保年金的保費，就會優先補繳前面年度的欠費，所以會造成看起來的平均繳費率稍微下降，但是這與宣導並不是有那麼直接的關連，我們加強宣導是要讓民眾知道有國民年金這個制度，如果納保，未來年紀超過65歲以後是會有很多的好處，我們希望民眾能夠如期繳納保費，避免影響權益，有關納保人數或繳費率降低的原因真的滿多，以上先跟委員做這樣的說明。
+主席：接下來請提案委員說明，首先請王委員育敏說明。
+王委員育敏：主席、各位列席官員、各位同仁。這個案子很多委員都有共同的意見，有關這部分，上次在委員會中本席也曾提出過質詢，而我今天要特別出來的是，這當中不只是內政部編列國民年金宣導工作經費900萬很驚人，勞工保險局也編列印刷裝訂與廣告費4,470萬元，國民年金保險基金附屬單位預算又再編列印刷裝訂與廣告費5,192萬9,000元，若把這幾個單位的預算加起來，國民年金的宣導費高達1億539萬9,000元，大家都知道政府財政拮据，今年很多費用都是要向下遞減的，這種廣告費用卻高達1億元，這樣是不是合理，這個部分可能真的需要好好檢討。
+另外一個我想要特別指出來的是，現行的國民年金制度已經可以精確掌握哪些人是納保對象，都會主動寄發繳費通知單，這就等於是提醒通知他們要加入國民年金，所以是不是適合再花這麼多錢透過電視廣告或其他方式去宣傳？本席是覺得沒有必要，所以我主張要刪除二分之一。
+主席：請趙委員天麟說明。（不說明）趙委員不說明。
+有關國民年金保險業務的預算，王委員提案刪減二分之一、本席提案刪減300萬、趙委員提案刪減45萬，司長認為要刪多少？
+請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。方才王委員提到勞保局與國民年金保險基金附屬單位都有編列高額廣告經費，其實這是同一筆經費，所以實際上的業務宣導費用是4,447萬元，印製相關書表、表單文件等印刷費編列745萬9,000元，所以是編列5,192萬9,000元。
+國民年金真的是很年輕的保險制度，國民是不是能夠完全認識、瞭解國民年金對於未來老年年金給付的好處，還是需要我們持續的宣導，委員是不是能讓我們繼續維持所編列的預算，因為內政部只編列900萬，也是有相關費用要來加強宣導。
+主席：就是內政部要先刪，勞委會才能刪更多。
+司長，王委員的提案是刪減二分之一、田委員的提案是刪減600萬、本席的提案是刪減300萬、趙委員的提案是刪減45萬。
+簡司長慧娟：是不是可以小刪100萬？
+主席：王委員，司長說刪減100萬，可以嗎？
+王委員育敏：（在席位上）100萬太少，這邊如果只刪100萬，勞委會那邊就要刪更多。
+主席：那就刪300萬，好嗎？
+簡司長慧娟：跟委員報告，因為國民年金是內政部開辦的年金，我們一定要去加強宣導，或許我們的角度會跟勞保局那邊不一樣，因為們要從政策面去向民眾說明與宣導，並且鼓勵民眾認識國民年金制度，包含加保的條件及加保後的權益，所以拜託委員可不可以再支持？
+主席：請王委員育敏發言。
+王委員育敏：主席、各位列席官員、各位同仁。其實我在意的是內政部編列國民年金宣導費，勞保局那裡也編列印刷裝訂及廣告費，在宣導方面，難道不能二個部會集中火力一起去做嗎？剛剛司長說內政部的角度不一樣，有什麼不一樣？同樣都是國民年金，有什麼好不一樣的？內政部與勞保局不是合作無間嗎？去收費的不都是勞保局嗎？目前有些部分都已經上軌道了，我問過年輕朋友，他們在就學中如果符合國保資格者都會收到通知，今天我提案主張刪減二分之一是認為錢要花在刀口上，宣導當然要去做，但二邊都編列了相關經費，有必要編列這麼多錢嗎？既然都是為了宣導國民年金，不能整合力量一起做嗎？
+主席：請林委員世嘉發言。
+林委員世嘉：主席、各位列席官員、各位同仁。本席希望簡司長能說明得更清楚，你們編列的依據是什麼？為什麼需要花這麼多錢？方才王委員也提到，你們與勞保局的宣導有什麼不一樣？如果這是你們既定要去做的工作，不做會不行到什麼程度？因為你剛才說內政部與勞保局的角度不一樣。其實大家對年金是不夠清楚的，所以在教育民眾上是有必要的，但你們有沒有與勞保局先談好定位要如何分工？你們編列這筆預算又是以什麼為依據？例如每次需花費多少錢，一年舉辦幾次活動等等，最後才會得出這個數字，你可不可以做更清楚的說明？
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。基本上我們與勞保局本來就是一起合作，他們做相關宣導時，也會把一些計畫送到我們這裡，我為什麼會說二者的角度不一樣，因為我們畢竟是政策規劃單位，而他們是執行單位，他們會通知民眾繳費或是宣導有關執行面的事情，而我們則會從政策面進行整體規劃，例如對於某些人有哪些法令與限制，我們就必須去告訴民眾這些法令與限制的意義在哪裡、年金給付對民眾有什麼好處、未來幾年間可能會有什麼變化、又要如何維護自身權益等，這一塊是內政部必須要去做的，而勞保局負責的是執行面，例如什麼時間要繳費，所以二者在層次上是有一些不同。
+主席：請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。司長，宣導費與業務費在你們的使用上有什麼不同？
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。這是在業務費項下，我們從裡面抽出來做宣導細項科目。
+江委員惠貞：你們既然編列900萬，而且之前就有過這方面的經驗，畢竟這已經推動幾年了，你們一年打CF廣告有幾支、刊登報紙廣告幾次、做多少量的海報，如果你能把這個講清楚，沒有人會刪你一毛錢，你不要再說什麼宣導的角度不同，哪有這麼簡單就讓你唬弄的！
+簡司長慧娟：我們會運用電視、報紙、戶外媒體、跑馬燈等多重宣導方式，有關這方面的數字，我在會後再提供給委員，因為現在我手邊沒有整理出來那些檔次的資料。
+主席：請趙委員天麟發言。
+趙委員天麟：主席、各位列席官員、各位同仁。看起來我提案刪減45萬是太客氣了，因為其他委員的提案都刪減那麼多。有關這個部分，既然他們自己提議刪100萬，並且要拿出相關的數據，我建議我們就同意刪減100萬，請他們補完整的資料給我們，讓我們瞭解。謝謝。
+主席：我們沒有說要刪100萬，我跟王委員是刪100萬再加100萬。
+請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。我先跟委員說明到底有多少民眾參與及我們如何辦宣導的，我們為了貼近年輕族群，所以用活動方式辦理吉祥物的徵選，因為我們要吸引的是年輕民眾，他們從25歲開始就要納保，我們希望他們對於國民年金能夠認識多一點，所以我們有作品的徵選，他們要參與作品徵選就必須先認識國民年金，我們是透過這樣的方式來宣導，這裡有319件作品被選出來，其中選出8件優秀作品，我們會運用這些作品來做後續的宣導，同時我們也舉辦相關有獎徵答活動，透過有獎徵答讓民眾認識國民年金制度，這個活動有46萬人次的民眾參與，另外，我們也辦理預繳保費送公仔的獎勵制度，鼓勵民眾儘快繳納國保的保費，有獎徵答吸引了253萬人次上網瀏覽，除了上述活動外，我們還有宣導單張的印製，有關宣導單張的印製，我會後再查一下印製了多少單張，我們還會透過戶外媒體、跑馬燈、報紙等平面媒體的廣告，這個部分我們會後也可以提供更詳細的數字給委員參考。
+主席：請田委員秋堇發言。
+田委員秋堇：主席、各位列席官員、各位同仁。我們覺得國民年金的問題是制度性的問題，靠宣導是沒有用的，因為勞保的條件比國民年金好，這是沒辦法的，剛開始勞保送來審查也是1.3%，因為與軍公教的相對剝奪感太大，後來變成1.55%，但立法院都有踩煞車，沒有讓它以2%來通過。正所謂「人兩腳錢四腳」，大家都很清楚，所以大家都想盡辦法加入勞保，如果這個問題不解決，你們編列的宣導費能做什麼宣導？除非你能宣導參加國保比勞保好，這有可能嗎？不可能嘛！所以你到底要宣導什麼？你說你們要做政策面的宣導，你要怎麼宣導？你們舉辦摸彩、抽獎有用嗎？因為我們看到的是納保人數不斷流失、各年度繳費率成長有限，而且平均繳費率是滑落的，所以你的宣導成果到底在哪裡？是不是可以說給我們聽聽？
+主席：第二案至第五案等四案併案，減列200萬元，好嗎？內政部這個部分的預算在100年是800萬，101年是950萬，102年減少一些剛剛好。
+好，第二案至第五案併案減列200萬元通過。
+第六案至第八案是針對同一科目預算的刪減提案，我們一併討論。
+進行第六案至第八案。
+六、內政部於102年預算「社會保險業務─國民年金保險業務」中對辦理國民年金各項宣導工作宣導費合計900萬元，惟觀之近三年國民年金平均繳費率明顯偏低，顯見其宣導成效不彰，爰刪除「社會保險業務─國民年金保險業務」下「業務費」經費二分之一，計592萬6,500元，並請內政部檢討其宣導措施，將執行情形與改善方法以書面向立法院社會福利及衛生環境委員會報告。
+提案人：蔡錦隆
+連署人：蘇清泉　　徐少萍　　王育敏
+七、國民年金保險業務費編列11,853,000元，其中工作宣導費9,000,000元佔大多數，近來倒閉、負債、漲價等負面傳聞不斷，造成社會人心惶惶，宣導成效不佳，爰提案凍結業務費預算三分之一，待進一步說明後再行解凍。
+提案人：陳歐珀
+連署人：劉建國　　楊　曜
+八、內政部辦理國民年金保險相關業務，負責給付老年基本保證年金。審計部100年度中央政府總決算審核報告中揭露：內政部所辦理之老年基本保證年金發放業務，因請領人不符合領取資格條件，導致需收回溢發津貼之情形，截至100年度，內政部需回收之溢領老年基本保證年金數額為2,556萬元，會計帳列之溢發數卻為605萬元，短列1,951萬元。而與地方重複發放、未回收之津貼金額達322萬，顯然未善盡追繳責任，頗有失職之處。
+爰凍結「社會保險業務」－國民年金保險業務－業務費100萬元，待內政部完成國民年金給付之清理及列帳管理，送交立法院社會福利及衛生環境委員會報告，經同意後得以動支。
+提案人：楊　曜
+連署人：陳節如　　陳歐珀
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。這整個業務費項下包括資訊服務費、宣導費、辦理相關費用、通訊費、業務租金、按日計件酬金、物品、一般事務費、國內旅費等，業務費項下有比較多的項目，剛剛業務費的宣導費已經刪200萬了，委員是不是可以同意這整個業務費刪200萬就好了，因為這都是我們推動國民年金相關業務執行面部分的費用，希望委員能夠支持。謝謝。
+主席：接下來請提案委員說明，首先請蔡委員錦隆說明。
+蔡委員錦隆：主席、各位列席官員、各位同仁。有關國民年金的宣導，每年的廣告費都在成長，我質詢時就曾經提過這個部分的業務成效不彰，投保率都沒有提升，現在只要年滿25歲，有工作、沒工作，甚至在讀書都被通知要去繳費，但誰會去繳？制度是大問題嘛！更何況你們現在用不同科目、名目去編列廣告預算，這是不合理的，司長剛剛說勞保局編列的4,470萬與國民年金保險基金附屬單位預算的5,192萬是同一筆，是重疊的，其實並不是，這兩筆預算都有，所以這1,183萬的業務費，本席砍一半、砍592萬是剛剛好，真的是剛好而已。現在各種保險是岌岌可危，什麼都不保，這個時候還要編列這麼多的廣告費，其實所有的人都知道我們有國保，每年編列越來越多的錢去做廣告有什麼意義？哪個人不知道我們有國保，問題是國保制度有沒有吸引人，成效能不能提升？你們大筆廣告費花下去，但這三年來並沒有提升任何的投保率，花這些錢有什麼意義？把錢花在廣告上有什麼意義？所以本席堅持刪一半。
+主席：請陳委員歐珀說明。
+陳委員歐珀：主席、各位列席官員、各位同仁。說實話，本席不忍心砍社會司的預算，所以本席是提案將宣導工作的預算凍結三分之一，其實這個提案只是要看你們的成效，如果跟以前不一樣，我認為要稍做處理，其實我很少針對社會司的部分提出提案，但是我認為這個部分至少要凍結，如果你們宣導有利，我們再考慮恢復。
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。因為這592萬6,500元還含有系統維護費，包括國民年金被保險人所得未達一定標準比對及審核管理資訊系統、國民年金被保險人所得未達一定標準的入口網都包含在內，剛剛委員很關心宣導費用的部分，在前面的提案已經刪減200萬了，因為我知道委員都滿關心宣導的成效，因為那筆宣導費是在業務費項下，是不是可以整個業務費就刪減200萬，包含之前的宣導費，因為委員還是滿關心宣導部分，我們在前面的提案同意刪減200萬，懇請委員支持。
+主席：蔡錦隆委員的提案是要刪一半，蔡委員，你堅持刪一半？
+蔡委員錦隆：（在席位上）刪一半！
+主席：陳歐珀委員要不要堅持凍結三分之一？楊委員的提案是要凍結100萬，還是你們要併案後刪減一半？
+蔡委員錦隆：（在席位上）如果我們二個併案刪減300萬，我就同意。
+主席：是三個案子併案啦。
+曾次長中明：（在席位上）包括前面的200萬？
+蔡委員錦隆：（在席位上）沒有啦。
+主席：請內政部曾次長說明。
+曾次長中明：主席、各位委員。這1,185萬是整個的業務費，剛剛討論的宣導費用就包含於這1,185萬裡面，這裡已經刪減200萬，等於只剩下900多萬，所以懇請委員支持，要不然就是看要凍結多少。
+蔡委員錦隆：（在席位上）印刷裝訂與廣告費還有5,000多萬！
+曾次長中明：不是，預算書我可以向委員報告一下……
+蔡委員錦隆：（在席位上）這個廣告費真的要刪啦！
+曾次長中明：委員，廣告費剛剛已經刪過了，宣導費已經刪了200萬了。
+主席：請蔡委員錦隆發言。
+蔡委員錦隆：主席、各位列席官員、各位同仁。你們每年的廣告費都成長，而且你們在國民年金保險基金附屬單位預算又編列了印刷裝訂與廣告費5,000多萬，你們是在各種項目裡重複編列，如果只是凍結，本席反對，我覺得應該適當減少，因為你們沒有成效，投保率沒有增加，如果你們有成效，表示廣告有效，那我們同意多編一點，讓所有的人都來參與，但這三年來你們投保率沒有成長啊，每年就是把錢花掉，這樣的意義何在？感覺就是二個單位在競相花錢，這哪有道理！
+主席：請內政部曾次長說明。
+曾次長中明：主席、各位委員。剛剛蔡委員提到的那二個部分，一個是編列在內政部的公務預算，至於勞保局的那個部分則是編列在國保基金的部分，我們這個部分是整個一大筆，業務費就是1,185萬，剛剛在宣導費的部分已經刪減200萬，也就是業務費已經刪減200萬了，我們部裡面負責的宣導費用已經刪200萬了。
+蔡委員錦隆：從這裡就可以看出來，各單位競相用不同科目在不同地方編列廣告預算，這裡編列、那裡也編列，大家競相編列預算，有錢花就儘量花，怎麼可以這樣！最後一句話，你要刪多少？反正這一筆一定要刪！
+曾次長中明：已經刪200萬了，這一筆已經刪200萬了。
+蔡委員錦隆：最後一句話，我徵求陳委員的意思，刪200萬，要不要就一句話，這筆預算再刪200萬，這樣我已經少刪很多，也退很多了，你們在各個地方都編列廣告費！再刪200萬，我堅持！
+曾次長中明：剛剛已經刪200萬了，整個大項都含在這裡頭了！
+蔡委員錦隆：（在席位上）我現在再刪200萬！
+主席：請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。國民年金保險業務的業務費總共是1,185萬3,000元，而剛剛的宣導費是在這1,185萬3,000元中的900萬，是嗎？
+主席：請內政部曾次長說明。
+曾次長中明：主席、各位委員。對，沒錯。
+江委員惠貞：剛剛刪減200萬後，現在業務費的總數只剩下985萬？
+曾次長中明：對。
+江委員惠貞：剛剛司長說還可以再刪200萬，不是嗎？
+曾次長中明：沒有，我們沒有這樣說　。
+簡司長慧娟：我是說整個宣導費，因為整個宣導費都編列在業務費項下。
+江委員惠貞：如果是這樣的情況，那剛才就應該第二案至第八案合併討論，這樣才是同一個科目一起討論。
+曾次長中明：就是因為這樣，所以我們才一再跟委員說明，這整個大項是編列1,100多萬元。
+江委員惠貞：是整個科目1,100多萬元，不是編列900萬又另外再編列1,000多萬，所以這部分要小心處理。請問主席，因為這是在同一科目，是否應該第二案至第八案併案一起討論？
+主席：沒有。
+江委員惠貞：這是同一個科目業務項下，它只是編列在業務項下。
+主席：我知道啦。
+江委員惠貞：就像是一個科，科下面還有目，是這樣子的差別，所以再砍下去就不只刪掉200萬，就刪掉400萬以上了。我的意思是整個科目……
+主席：謝謝江委員提醒。其實第一案也是同目，可是它的內容是不一樣，第二案至五案已經處理完畢，現在是處理第六案至第八案。
+蔡委員錦隆：（在席位上）刪200萬，一句話。
+康會計長勝松：主席、各位委員。1,185萬扣掉宣導費900萬以後只剩下200萬，現在再刪200萬就沒有經費了，所以結構是這樣。
+主席：你怎麼現在才在解釋？
+曾次長中明：所以還是要拜託委員支持，因為整個大項1,100多萬已經刪除200萬了，那是不是可以……
+蔡委員錦隆：（在席位上）你們真的不懂科目，這兩者是不同的科目，這是900萬的那一筆。
+康會計長勝松：報告委員，只有剩下280幾萬。
+主席：我知道啦，那你怎麼沒有早一點說明？現在才在解釋，你剛才可能是睡著了？
+陳委員歐珀：（在席位上）主席，刪除歸刪除，我提案凍結還是要照樣凍結。
+蔡委員錦隆：（在席位上）一定要刪200萬。
+主席：要不要併案統刪，現在陳委員的提案還要繼續凍結。處長，刪100萬如何？刪掉後你們再自行調整，不然怎麼辦？那你們3位委員的提案就併案刪除100萬。
+進行第九案。
+九、內政部國民年金監理會102年度於「社會保險業務」預算分支計畫「07國民年金監理業務」預算項下之「業務費」編列3,347千元，其中編列1,008千元作為「召開例次監理委員會議及爭議審議委員會議委員兼職費」。惟查，監理會議委員成員包含內政部所屬職員與政務人員，且委員以代理人出席會議情形普遍，顯見預算編列浮濫，故提案刪除該項經費半數，共計504千元。
+提案人：楊　曜
+連署人：陳節如　　陳歐珀
+主席：請內政部國民年金監理會溫執行秘書說明。
+溫執行秘書源興：主席、各位委員。報告委員，有關監理會的兼職費有四點報告，第一、我們是根據國民年金法第五條第一項及第三項的規定所訂定的設置要點和審議辦法來編列兼職費，兼職費的支出和農保一樣是根據軍公教人員的兼職費及講座費的支給要點來支給，這是法源的部分。第二、本會從成立到現在已經4年多，每年的預算都在遞減，所以經費非常的吃緊，甚至連各縣市的協調業務都已經停辦，研討會也已經停辦，兼職費的部分我們部內的委員是不能支領，代理人也不能支領，這是我們監理會的決策機關，所以如果預算刪減一半，100萬8,000元刪減一半剩下5萬4,000元，這對我們監理業務的功能會產生非常大的影響，懇請委員支持維持照列，這已經是非常有限的經費，也是維持運作所必需的預算額度，謝謝委員。
+主席：請提案委員楊委員曜說明。
+楊委員曜：主席、各位列席官員、各位同仁。各項基金的監理會功能不彰，因為本委員會是第一個審查國民年金，你們監理會的成員總共有幾位？
+溫執行秘書源興：監理會委員有13位，次長和司長不支薪。
+楊委員曜：外聘有多少？
+溫執行秘書源興：外聘有13位，兩個委員會總共是26位。一個是爭議審議委員會，有2,000多件案子都是我們在審理的。
+楊委員曜：這不是錢的問題，而是各個監理會的功能根本就很差。
+溫執行秘書源興：報告委員，本會的功能還是很好，例如我們的資產配置，一開始是非常沒有績效，經過本會的研究督促勞保局……
+楊委員曜：你們一年開幾次會？
+溫執行秘書源興：我們每個月都要開會，因為所有的資產配置、資產政策還有操作的各種情況，都在我們審議的範圍之內。
+楊委員曜：每個人開12次會？
+溫執行秘書源興：一年開12次會，所以這個錢非常有限。
+楊委員曜：其實本席主張要刪除這項預算，最主要的原因是監理會的功能實在太差了。
+溫執行秘書源興：如果委員要了解本會的功能，我可以向委員作報告。
+楊委員曜：我認為如果不刪減預算是沒有辦理提高監理會的功能，不只國民年金的監理會是如此，各個基金會……
+溫執行秘書源興：這是學者專家的出席費，如果連請他們的出席費也刪除了，實在難以推動監理會的業務，這點特別向委員報告。
+楊委員曜：如果改成先凍結一半，請你們把監理會各項的成績提報本委員會後再解凍，你們可不可以接受？
+溫執行秘書源興：可以啦，因為我們的工作是非常有功能的，如果凍結預算我們願意來報告，謝謝。但是我們現在如果馬上支用，可是預算凍結不能執行，我們要怎麼提……
+楊委員曜：你們不是今年才成立的，你們就報告今年的各項執行業務。
+主席：他是凍結明年的預算，不是這個月的。
+溫執行秘書源興：那就是向委員報告今年的績效，謝謝。
+主席：改成凍結，然後把今年執行的狀況向委員會作報告，要不要經過委員會同意後始得動支？這樣會很吃力，比較麻煩。原提案減列50萬4,000元改為凍結50萬4,000元，待國民年金監理會向3位提案委員報告同意後始得動支。
+溫執行秘書源興：報告委員，向委員會報告我們沒有意見，因為我們的績效確實是很好，我們一定會向3位提案委員做詳細的報告並提供書面的資料，如果這樣的方式可以獲得委員的諒解同意，希望就可以動支；如果還要經過委員會安排時間等各方面的程序，可能會非常不方便，我們同意一定會非常詳細的向3位委員作報告，請委員支持，謝謝。
+主席：這樣同意嗎？他們沒有意見了，這樣好啦。
+江委員惠貞：我要說明清楚，預算的解凍案絕對不是只跟提案及連署的委員作報告，一定是向委員會作報告，而且是要安排預算解凍的正式會議，這真的不知道要等到什麼時候，所以你不要隨便就答應凍結，你應該說是不是等一下再處理或是利用今天會議結束前好好跟委員溝通，此案就先暫擱，等一下再回頭來處理，趁這個時候向3位委員說明清楚，等一下請主席再針對這一案，大家再幫忙想辦法，這樣是不是更好一點，不要隨便就答應要凍結，老實說這樣後續很麻煩。
+主席：請楊委員曜發言。
+楊委員曜：主席、各位列席官員、各位同仁。跟提案委員作報告後就解凍，這樣確實是不妥，應該向本委員會報告後再解凍，反正我們是凍結二分之一，每年的上半年一定會安排預算解凍案，就這樣子處理好不好？
+溫執行秘書源興：我們是希望向3位提案委員做詳細的報告，如果這樣可以的話，程序上會節省很多的時間。
+楊委員曜：這樣子今天就沒有辦法審完，因為預算保留一半，你們運作6個月一定沒有問題。
+溫執行秘書源興：保留一半，另外一半凍結？
+楊委員曜：對，下個會期就趕快送解凍案。
+主席：原提案的減列二分之一改為凍結二分之一，同意嗎？
+溫執行秘書源興：可以。
+主席：他同意我就沒意見。第九案改為凍結二分之一，待國民年金監理會將執行狀況、執行進度等相關報告提送委員會，經本委員會同意後解凍。
+進行第十案及第十一案。
+十、內政部102年度預算案於「社會保險業務」之「農民保險業務」項下，編列「宣導及相關業務費」760千元，用於辦理農民健康保險條例規定之農民保險業務。惟，一、農民健康保險早在78年7月1日即實施，由於未建立完善建全之制度化，故，自試辦起財務收支即不平衡，歷年來造成鉅額虧損；二、經查，截至100年底累積虧損1,342億餘元，國庫已撥補1,303億餘元，待撥補虧損尚有39億餘元，爰102年度編列經費彌補。然，截至101年7月底累計虧損達1,368億餘元，農保長期虧損已造成全民的沉重負擔（目前每年仍虧損近40億元）；三、又，據監察院99年5月糾正案文指出：「為解決農保長期嚴重虧損問題，內政部歷次修法重點均偏重於農保主管機關改隸議題，未妥思解決虧損之方案；對於農監會之依法召開又不予重視，形成虛設，無從發揮應有之功能…」。綜上所述，顯然長期下來的宣導效益有待斟酌，若再投入宣導及相關業務費，實有浪費公帑之虞。爰此，內政部102年度預算案於「社會保險業務」之「農民保險業務」項下，編列「宣導及相關業務費」部分，應予以刪除二分之一。
+提案人：劉建國
+連署人：陳節如　　田秋堇　　楊　曜
+十一、第7款第1項第10目　科目名稱：農民保險業務，本年度預算數：760千元，建議凍結100千元。
+增刪理由：
+農民健康保險條例雖未明列定期進行精算報告條文，唯農民健康保險仍產生虧損狀況，累計虧損高達1,368億餘元，每年虧損近40億。內政部應定期進行保險精算，並公布精算報告。
+爰凍結業務費用100千元整，待社會司公布精算報告並提供本委員會，再予解凍。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。報告委員，劉委員提案「農民保險業務」項下「宣導及相關業務費」刪除二分之一，報告委員這部分總共才編列76萬元，為什麼要做宣導工作？主要是因為101年1月29日有關身障的給付標準有作一些調整，另外我們最近為了清查農民的資格，對於戶籍和地籍也都有作了一些清理，但是有些民眾還不是很清楚，所以我們必須向民眾說明，讓他們更清楚相關的法律規定，希望各位委員儘量予以支持。另外陳委員提案要凍結10萬元，待社會司公布精算報告以後再予以解凍，因為我們整個精算報告，除了涵蓋精算的部分以外，還有一些規劃政策研議的部分，是不是可以提供陳委員精算摘要的節錄版，因為其他政策的部分還沒有定案，依照資訊公開法還不宜對外發布，所以這兩個案子我們建議委員凍結十分之一，那我們來做一個整體的報告，是不是可以這樣？
+主席：請提案委員陳委員節如說明。
+陳委員節如：主席、各位列席官員、各位委員。本席請你們提供資料，你們一直都不願意提供，你們說政策尚未確定的改革方案……
+簡司長慧娟：報告委員，因為那個委託研究案裡有一部分是我們去研究政策規劃的區塊，另外一個區塊是精算的部分，那我們是說如果委員需要……
+陳委員節如：跟你們要資料，你們都不願意提供。
+簡司長慧娟：因為它沒有辦法切割，如果委員需要這份資料，我們就提供摘錄版。
+陳委員節如：有什麼辦法可以看到你們詳細的內容？
+簡司長慧娟：如果精算的部分，我們可以提供節錄版，就把精算的部分提供給委員。
+陳委員節如：你的意思是你把資料提供本席，我的提案解凍？
+簡司長慧娟：對，我們把資料提供給委員。
+陳委員節如：什麼時候可以提供？我們跟你們要資料，你們都不願意提供。
+簡司長慧娟：兩星期內提供給委員。
+陳委員節如：現在要凍結預算你們就說兩星期可以提供，不然你們資料都不願意拿出來。
+主席：兩個星期提供資料給你，你的提案就解凍？
+陳委員節如：（在席位上）我看到資料才能解凍，不然要怎麼樣？
+主席：兩個星期後，要撤案？還是解凍？
+簡司長慧娟：我們資料兩週內一定會提供委員。
+陳委員節如：（在席位上）兩星期內看到資料，就同意撤案。次長有什麼意見？
+主席：請內政部曾次長說明。
+曾次長中明：主席、各位委員。這個部分我們答應陳委員，兩週內我們把有關財務精算的部分提供給委員，請委員也同意撤案。
+主席：那就你們協調好，原則上現在就撤案不予處理，不然兩週後為了撤案又要開會。但是我的提案還沒有解決，我還是要減列二分之一，因為你們的理由並沒有說服我。第一、清查農民的資格不是從這項預算動支。第二、身障的宣導也不應該從「社會保險業務」之「農民保險業務」項下動支，所以司長這樣的解釋我不同意。
+簡司長慧娟：因為那是針對農保的部分來做。
+主席：有身障的資格也有農保的資格？
+簡司長慧娟：對，它的一些審查標準有異動。
+主席：那清查農民資格為什麼會編列在這邊？
+簡司長慧娟：因為我們農民保險的部分需要有從農的事實，所以要清查這些農民的資格，不要讓假農民來占用農保的資源，我們目前是用戶籍清理和地籍清理的方式，有些民眾會有擔憂和疑惑，所以必須製作宣導單張或相關的說明單張，讓農民理解祛除他們心中的疑慮，這部分還是需要向農民進行宣導，避免他們會焦慮擔心因為地籍清理或戶籍清理而喪失保險資格。
+主席：76萬要執行這麼多工作。
+簡司長慧娟：所以大多數是用宣導單張，因為我們農保費用真的編得非常少。
+主席：第十案是本席的提案，先保留，不要耽誤大家時間。第十一案撤案。
+進行第十二案。
+第7款第1項10目　科目名稱：低收入戶健康保險費補助：7,757,763千元，建議凍結1,100,000千元
+增刪理由：
+全民健康保險法第27條第1項第5款規定，由中央政府全額補助低收入戶成員健保費。經查99年四月以前，低收入健保費為1,099元，99年四月以後調整為1,249元。101年預算書中呈現，健保費率4.91%（預計101年7-12月以此費率收取）時社會司編列預算每人1,307補助，5.17%時社會司編列每人1,376元補助。同期第六類地區加保民眾為1,249元。
+102年預算社會司以低收入戶每人1,684元編列預算，如同樣以5.17%費率計算，全民健保低收入戶保費成長率為22.3%，況且102年費率以4.19%計算，保費理應下降而非成長。其次，健保基金保費收入部分第六類地區加保民眾於102年保費仍定在1,249元，第五類低收入戶卻高出第六類非低收入戶保費435元。綜上理由，低收入保費訂在1,684元有違反健保新制新增補充保險費，一般保費應下降的政策宣示，健保局恐有慷社會司之慨之疑慮。
+為避免社會福利預算因健保費用補助產生排擠，爰依每人扣除成長部分300元計，凍結預算11億（300元*314,282人*12月=1,131,415,200），待社會司與健保局協調低收入戶保費計算機制，並於本委員會提出合理說明後始得動支。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。這部分可否先請健保局就其計算基礎作說明。
+主席：請陳委員節如說明。
+陳委員節如：主席、各位列席官員、各位同仁。健保局有列席嗎？社會司和健保局一起上台，社會司先說明，然後健保局再說明。
+簡司長慧娟：基本上，依照法律的規定，低收入戶的健康保險費，我們要予以補助，一般的計算基準都是請健保局提供，我們依照計算基準來編列預算。
+陳委員節如：現在低收入戶繳的費用比一般戶還多，健保局是慷社會司之慨，請健保局解釋一下。
+主席：請衛生署中央健保局財務組鄧組長說明。
+鄧組長世輝：主席、各位委員。跟委員報告，這部分基本上是法律義務，依照健保法的規定來編列，就是我們提供一個參考數據給內政部。
+陳委員節如：是啊！你們都是推估，明年你們要用4.19%還是5.17%？
+鄧組長世輝：明年102年的預算，目前照原來的預算書提供的數據每人平均保險費1,684元是按照4.91%的費率來預估的。
+陳委員節如：你低收入戶從1,376元調到1,684元，增加了22.3%，為什麼多那麼多？
+鄧組長世輝：因為它的根據不一樣，原來的1,376元是根據現在一代的健保法，他的平均保險費是用一到六類……
+陳委員節如：你今年也沒有編足啊？
+鄧組長世輝：它是用一到六類全體保險對象的平均保險費來推估，但是二代健保法自102年1月1日實施，根據第二十三條規定，必須改用一到三類保險對象的平均保險費來估，一般一到三類的平均保險費會比全體一到六類的平均保險費要高，這是因為法律規定不同的關係，而不是在同一個基礎下自然成長的情形。
+陳委員節如：前幾年都沒有完全用一到三類被保險人保費的平均數來計算，五到六類被保險人的保費為何明年就一定要完全反映這個金額呢？
+鄧組長世輝：1,376元就是四、五類，這是98年調的，後來因為96年修法，當時對於要用家戶總所得或其他方式還在修法，等於要依照修法的結果一起處理，是因為這個原因，其實四類、五類都有按照那個來編。
+陳委員節如：其實你之前也沒有編足，你們現在都用推估，現在低收入戶保費反而比一般戶多，你以為低收入戶是政府全額補助，你們就可以這樣處理嗎？你們健保局反而要向社會司拿錢，我建議這部分凍結一半。
+鄧組長世輝：跟委員報告，因為這是政府的法律義務，沒有編足的話，政府還是要處理。
+陳委員節如：對啊！你之前也沒有編足啊！我知道你這是預估，但是低收入戶跟一般戶在區公所繳的跟你們補助低收入戶的，低收入戶反而繳那麼多？對不對？你這樣乘下來，健保局是慷社會司之慨嗎？社會司對於這部分要怎麼處理？
+簡司長慧娟：還是懇請委員支持，因為這些都是低收入戶健保費的補助。
+陳委員節如：我知道，我是說你們以為政府全額補助，就編這麼多，那一般戶呢？一般在區公所投保的，60%的保費要自己負擔，對不對？所以你們這樣編，我覺得比這些在區公所繳的還多，你們這樣的預估，我認為不太合理，是不是先凍結，等你們向委員會提出合理的說明後，始得動支。現在編列77億元，我現在先凍結11億元，等說明之後，我們再來解凍。
+鄧組長世輝：報告委員會，剛才司長也有說明，基本上這是依法的法律義務來編列，對象又是低收入戶，並沒有所謂的慷他人之慨，因為是完全依照法令規定編列，法令規定怎麼算，就是根據計算平均保費的對象，就是按照法律編列，因為縱然沒有編足的話，到決算的時候，因為這是政府的法律義務，還是一樣要做，否則政府就違法。因為對象是低收入戶，希望委員會能夠支持這項預算。
+簡司長慧娟：是不是凍結5億元，然後我們提書面報告來作一個報告。
+主席：修正為凍結5億元，待提供書面報告，本委員會同意後，始得動支。
+進行第11目。
+第11目　社會救助業務1,707,105千元
+主席：針對本目，有委員提案1案，現在進行第十三案。
+十三、第7款第1項第11目　科目名稱：社會救助業務，本年度預算數：19,291千元，建議增刪數5,000千元。
+增刪理由：
+依據社會救助法第五條之一關於家庭總收入之計算，其中第一項第三款規定，為「其他收入：前二款以外非屬社會救助給付之收入。」而該款收入由直轄市、縣（市）主管機關認定之。
+非屬社會救助給付項目及金額種類繁多，有些項目被計算為家庭收入，有些項目卻被排除在家庭總收入之外。
+舉例來講，由退輔會編列預算補助的榮民院外就養金就不計入家庭總收入，但其他民眾領取各項社會保險老年給付就要計入，有違公平原則。
+為避免常因身分別而產生的制度性不公平，請社會司通盤檢討各項非屬社會救助之給付，各直轄市及縣（市）政府排除和納入家庭總所得現況，公平檢討家庭總所得計算制度，在未完成制度檢討並研擬統一解釋函令前，爰凍結社會救助業務費用5,000千元整。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。有關委員所關心的榮民院外就養金的部分，只要是屬於我們對於社會救助給付的收入範圍，就是以核發目的、資格限制跟審核規定具有社會救助性質，就是政府核發的社會救助金，這部分不會算入家庭總收入，這部分是不是請委員參考。
+主席：請陳委員節如說明。
+陳委員節如：主席、各位列席官員、各位同仁。我看你也不用說明了，我覺得非常不合理。社會救助法裡面你把全部總額都算入，為什麼只有榮民的1萬3,000元不用算入？那身障的生活補助也不要算啊！國民年金的重殘、老人津貼都不用算啊！你們還是有算入，對不對？是不是和各縣市檢討一下，否則這不公平。1萬3,000元的收入不用算入家戶總所得？我現在才看到，這已經是好幾年來的不合理現象。老年給付就要計算在內？為什麼唯獨榮民不用算？榮民一個月領1萬3,000多不用算入社會救助的家戶總所得，全國各項經費就只有它不用算，為什麼？我們要全部拿出來檢視一下。
+簡司長慧娟：基本上，我們曾經做過一個統一的解釋，這部分都有統一，榮民院外就養金是依照國軍退除役官兵輔導條例第十六條發給的。
+陳委員節如：我知道，他每個月領一萬三，為什麼不算入社會救助法規定的家庭總收入？為什麼要排除？我相信也不是你們規定的，問題是要有公平性，現在是不是全面來檢討？
+簡司長慧娟：我們會來檢討，是不是建議委員讓我們跟退輔會針對榮民院外就養金跟保險給付及各類津貼的給付是不是屬於社會救助性質進行檢討，可是因為這些錢都是中低收入社會救助的性質，是不是不要凍結，我們會來檢討。
+陳委員節如：我要刪除，什麼凍結。
+簡司長慧娟：委員的提案是凍結。
+主席：陳委員的提案是凍結500萬元。
+陳委員節如：對，是凍結，我覺得要公平，現在社會救助法核定所得都有算，連身心障礙生活津貼也算入，唯獨榮民院外就養金不用算入，一個月一萬三，為什麼不用算入？怪不得這麼多人領不到錢。
+簡司長慧娟：基本上我們這些低收的津貼都不會算進去。
+陳委員節如：國民年金重殘和老人津貼有沒有納入？
+簡司長慧娟：那是屬於社會保險，如果不是社會救助的話，就會算進去。它是屬於社會保險，因為它是屬於年金性質。
+陳委員節如：對啊！就是有算進去，唯獨榮民沒有算進去，你們檢討一下，我先凍結，你們發文給各縣市調查一下，好不好？看有多少這樣的情形，這是不公平的，你們跟退輔會檢討一下。社會救助法已經講得那麼清楚了，你們一紙公文就把榮民每個月一萬三不算入家庭總收入，到底有多少縣市是這樣的情形？，
+簡司長慧娟：因為依照國軍退除役官兵輔導條例第十六條規定，發給榮民院外就養金是年老、貧困、生活無著的這些人，是屬於臨時濟助的性質，所以對於發放的這些人也都是年老孤苦無依，是不是請委員考量一下這個情形？
+陳委員節如：別人就納入，唯獨這一萬三的收入沒有納入？
+主席：本案先保留。
+進行第12目。
+第12目　社會行政業務41,866千元
+主席：針對本目，有委員提案3案。
+先進行第十四案。
+十四、內政部於102年預算編列「社會行政業務－健全職業團體組織」492萬6,000元，其中包含辦理勸募管理業務。國人熱心公益捐款踴躍，勸募活動成效可觀，然而勸募規範未臻周延、監督功能不足，導致實際運作上出現使用率低落之情形，恐有辜負捐款民眾美意之虞。爰凍結「社會行政業務－健全職業團體組織」經費四分之一，待內政部檢討公益勸募條例執行與修法並報送立法院後，始得動支。
+提案人：蔡錦隆
+連署人：蘇清泉　　徐少萍　　楊玉欣
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。公益勸募條例的修正草案已經送到院裡面，院裡面請我們再就大概四個面向進行檢討，我們現在已經積極召開相關的研商會議，尤其是針對委員所關心的這個部分，我們會持續、儘快將相關的意見修正後送院，是不是懇請委員支持，改為凍結十分之一，我們會積極進行相關的研商。
+主席：請蔡委員錦隆說明。
+蔡委員錦隆：主席、各位列席官員、各位同仁。其實凍結這個項目的目的很簡單，就是你們的條例修法內容要趕快送來，我們很多勸募的機會都辜負了捐款的熱心人士的熱情，這應該有必要趕快進行檢討，所以本席同意改為凍結十分之一，但是我們希望趕快提出一個辦法，讓社會大眾、熱心人士在將來將愛心擴及到整個社會。
+主席：改為凍結十分之一，待提出報告經本委員會同意後，始得動支。
+進行第十五案及第十六案。
+十五、「輔導社會福利慈善事業基金會健全發展」原列1,208千元，建議除獎補助費200千元保留，其餘凍結1,008千元。
+說明：
+國內貧富差距擴大，內政部身為社會安全體系很重要的部會，但缺少制度創新讓社會民間團體可以參與整個國家安全網的建構，諸如平民銀行、志工銀行、食物銀行等，欠缺制度面的創新、價值觀與願景與協助民間參與，長期疏於扮演法令、政策制定與協調角色，爰提案凍結「輔導社會福利慈善事業基金會健全發展」行政業務支出，待提積極作為後方研議解凍與否。
+提案人：劉建國　　林世嘉
+連署人：陳歐珀　　田秋堇　　林佳龍
+十六、內政部102年度預算「社會行政業務」之「輔導社會福利慈善事業基金會健全發展」項下，編列輔導社會福利慈善事業基金會會務、業務、財務健全發展所需業務費1,008千元。惟經查，自94年度辦理評鑑以來，19家財團法人社會福利慈善事業基金會連續獲得丙或丁等，迄今內政部對渠等基金會之處理方式僅為函請研提改善情形及舉辦人員研習訓練等，顯未落實內政部100年度評鑑實施計畫第10點規定，輔導限期改進，並得停止委辦業務或補助；經複評後仍未改善者，廢止其設立許可。
+復查，渠等基金會依所得稅法第17條第2項規定係符合綜合所得稅扣除額之受贈對象，倘若運作狀況不佳或不當利用為節稅工具，恐濫用民眾愛心並損及國庫稅收。爰此，提案凍結業務費700千元，待內政部依上開規定停止相關補助、委辦業務或廢止設立許可，並向本委員會報告經同意後，始得動支。
+提案人：田秋堇
+連署人：劉建國　　趙天麟
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。第十五案的部分是劉建國委員及林佳龍等委員所提，希望我們可以考量社會貧富差距的擴大，因為我們有持續進行相關機制的建構，這兩案是不是可以請委員同意凍結五分之一。
+主席：請田委員秋堇說明。
+田委員秋堇：主席、各位列席官員、各位同仁。凍結五分之一我還可以接受，但是我有個附帶條件，就是你們從94年辦理評鑑到現在，有19家的基金會長期獲得丙等、丁等，我知道有些可能是很早就成立，不諳現代化管理，這個我們都還可以諒解，但是有一些可能牽涉到斂財或作為私人家族節稅的，我們覺得這完全不可取，所以應凍結五分之一，但是要待內政部研擬輔導辦法及上開19家財團法人依規定停止補助、委辦業務或廢止設立許可及為什麼長期被你們評為丙、丁等的報告，然後我們才解凍。
+簡司長慧娟：就是就輔導改善的機制進行檢討。
+田委員秋堇：我再唸一次，待內政部研擬輔導改善機制及依規定針對上開19家財團法人社會福利慈善事業基金會，停止相關補助、委辦業務或廢止設立許可之方案。
+簡司長慧娟：我們其實現在對丙、丁等都沒有任何補助。
+田委員秋堇：我知道，我的意思是應該要讓這19家知道，當然，這19家有可能沒有人會被廢止許可，但是要把強度寫清楚。
+簡司長慧娟：好。
+田委員秋堇：從94年開始連續都是丙、丁等，我覺得這不對勁。
+簡司長慧娟：我們再來檢討。
+主席：以上二案併案凍結五分之一，檢討完之後，報告送委員會，委員會同意之後，始得動支。
+進行第13目。
+第13目 社會福利服務業務 7,513,341千元
+主席：針對本目，有委員提案15案。
+進行第十七案。
+十七、內政部於去年總統及立委二合一選舉期間，違反行政中立原則，於年底大動作發送信件予今年度可獲調整八大社福津貼民眾，並在信中特別註明為「在馬英九總統指示下」，此舉不僅遭到各家媒體同聲撻伐，馬政府為了選票不擇手段、無所不用其極，濫用行政資源為「馬、吳」二人進行宣傳，事後經過調查統計，有關八大社福津貼民眾之信函發送約177萬7千份，共耗費印刷費及郵寄費共約247萬6千元，尚不包括其他人事及作業費用。基此，102年度內政部「社會福利服務業務」中有關「印刷費及郵寄費」部分，應予以刪除247萬6千元。
+提案人：劉建國
+連署人：趙天麟　　楊　曜　　田秋堇
+主席：上一屆老農津貼從6,000元漲為7,000元，我們要比照辦理，軍公教調薪3%也要比照辦理，否則你只宣導八大社福津貼，你當大家都不懂八大社福津貼嗎？
+請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。其實我們印刷費和郵寄費不是只有用在這部分，因為我們可能還有很多相關業務要用到印刷費及郵寄費，例如我們要向民眾宣導法令調整的情形，我們希望能夠把相關訊息傳達到已經鎖定的對象，所以懇請委員支持這項預算，如果把整筆預算247萬元全數刪除，影響相當大，懇請委員是不是不要刪？當然，我知道委員關注的點，我們一定會把它運用到業務的執行面。
+主席：那要刪多少，你自己講。我還沒有精算你們發這些印刷與郵寄的人事費和作業費
+簡司長慧娟：因為有些真的是需要運用到。
+主席：我知道需要，那不需要的有多少可以刪掉？你自己講。
+簡司長慧娟：10萬元可以嗎？因為這些都是我們相關行政的費用，真的是我們自己的行政費用。
+主席：你們這個發到177萬份，真的嚇死人。改為刪除27萬6,000元。
+進行第十八案。
+十八、民國102年度內政部預算社會福利服務業務下編列1,069千元資訊服務費，按預算書說明為配合電子化政府推動方案，加強社會福利網頁及經費管理系統維護等，惟目前國家財政困難，宜撙節預算，故建請該項預算刪除535千元。
+提案人：趙天麟
+連署人：陳節如　　陳歐珀
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。跟委員報告，這是社會福利的網頁及相關管理系統的維護，第一，社會司因為碰到組改，所以我們是外掛。再加上我們整個社會福利的網站裡面放的東西真的非常多，內政部擔心會干擾到，所以也是一個外掛的系統，所以相關的維護費用相當高，例如相關福利津貼的比對都在裡面，影響相當大，所以懇請委員支持。
+主席：請趙委員天麟說明。
+趙委員天麟：主席、各位列席官員、各位同仁。我之所以提這個案是因為內政部先前設置一個實價登錄網站就花了500萬元，後來幾位年輕人花了500元就建起來，你這只是維護而已，不是做新的網站，每年花了一百多萬元，未來在衛生福利部成立之後，是怎麼樣的介面也不清楚，因為你們和廠商是長年簽約，不應該每年花一百多萬元只是作系統程式的維護，所以我們才提案將給付減半，要求你們與廠商進行更有效率的談判和撙節，否則光是維護就要花1百多萬元，變成你每年都要給後台維護的廠商這些固定的經費，我們認為經費應該可以做更有效的運用。
+簡司長慧娟：跟委員報告，其實我們的系統非常多，大概有三、四個系統一起運作，可能有些地方政府會有實務上的需求，我們也要做一些欄位的新增或相關的系統的調整，所以，我們是好幾個系統放在同一個經費項下，攤起來其實不多。
+趙委員天麟：如果你是一家很大型的公司，每年告訴公司負責審查預算的人說要花一百多萬元去審查這些已經既定、形成的網站資料、既定形成的系統，你只是進行維護的工作，你可能是買它的空間或虛擬的空間等等，可是每年固定花這樣的預算，沒有因為跟這家公司長期合作而增加談判的空間，我認為這個效率有檢討的空間。或者，是否我們有酌予凍結的空間，讓你們有機會跟廠商講我們關切到這一點，因為你們這部分如果被關切到，其實很多其他小的單位，搞不好同步去找這家廠商，共同都有撙節的可能性，你這樣講我知道了，刪除一半很難維持，可是酌予凍結的話，讓你們去跟廠商談判。
+簡司長慧娟：跟委員做報告嗎？
+趙委員天麟：對，酌予凍結，讓你們去跟廠商談。
+簡司長慧娟：因為這都是依照政府採購法招標，其實相關經費有對廠商做了很多的要求，例如他們要能夠隨時因應我們地方實務上遭遇到的狀況，都要能夠及時處理，所以這部分其實我們都有向他們作一些要求。
+趙委員天麟：我可以接受不刪除，改用凍結的方式，讓你們可以提供更完整的資料。
+簡司長慧娟：我們再提供書面資料向委員報告，好不好？
+主席：改為凍結五分之一，你去跟廠商溝通完之後，往後的成果……
+簡司長慧娟：可否改為凍結十分之一，因為如果凍結太多，我們有些分期程給付的部分可能會出現狀況。
+趙委員天麟：沒關係啦！你們一般給付給廠商的錢都沒有那麼有效率，主席講的五分之一應該是可行的。
+簡司長慧娟：好，我們再向委員提書面報告。
+主席：本案改為凍結五分之一，待委員會同意後，始得動支。
+進行第十九案。
+十九、內政部102年度預算案於「社會福利服務業務」之「推展家庭暴力、性侵害及性騷擾防治業務」業務費項下編列6,428萬6,000元，其中辦理家庭暴力安全防治及113保護專線之宣導推廣計畫經費計有1,066萬元。然依據家庭暴力及性侵害防治委員會公布之家庭暴力事件通報單位次數統計表，約八成之通報案件為責任通報，一般民眾透過113保護專線通報家庭暴力事件之比率未達20%，足見保護專線於90年啟用以來，雖經多年宣導，民眾之家暴防治意識仍未落實，爰刪除「推展家庭暴力、性侵害及性騷擾防治業務」下「辦理家庭暴力安全防治及113保護專線之宣導推廣計畫」經費四分之一，計266萬5,000元，並請內政部檢討其宣導措施，將執行情形與改善方法以書面向立法院社會福利及衛生環境委員會報告。
+提案人：蔡錦隆
+連署人：楊玉欣　　蘇清泉　　徐少萍
+主席：請內政部家庭暴力及性侵害防治委員會李執行秘書說明。
+李執行秘書美珍：主席、各位委員。事實上這樣的宣導有兩個目的，一個目的是鼓勵通報，更重要的一個目的是這種家暴或性侵害或兒少保的議題，是要來教育改變觀念，因為我們國內採責任通報制，所以在目前的通報案件中，113佔我們第三大案源的來源，第一個是警政，第二個是衛政，目前我們行銷的方式裡面，尤其在102年，因為我們的經費不是很多，所以我們會針對特別重要的議題進行宣導，例如目睹家暴的孩子，他未來成為加害人的可能性有10倍高，所以我們未來宣導會擺在這一塊。還有一塊就是現在的加害人很多都是男性，九成都是男性，所以我們會對男性的加害人和難關的部分加強宣導，我們的宣導費其實非常少，請委員予以支持，謝謝。
+主席：請蔡委員錦隆說明。
+蔡委員錦隆：主席、各位列席官員、各位同仁。我們都同意防止家暴和性侵，其實多編一點經費，減少一點社會暴力，我們也都同意，但是我對113這個通報系統有疑慮，坦白講，多數人不知道113是什麼東西，對不對？有誰知道113的真正內容是什麼？所以你們自己的說明也很清楚，從90年到現在，業務連兩成都沒有，什麼第二大來源？隨便講講，我認為防治家暴和性侵確有必要，而六千多萬元的經費也不是很多，我看現在家暴和性侵的案件還是非常多，這個預算是有必要，但是113的功能不彰，我們是遲疑的，所以在這個項下砍你四分之一是剛好而已。
+李執行秘書美珍：還是懇請委員惠予支持，因為我們都是議題式的宣導，不單是針對113，113是一個求助的管道、窗口，事實上，113對很多婦幼而言，每一個人在發生家暴、性侵、兒少保的時候，其實都是猶豫的、徘徊的，讓他不斷地知道有113，尤其當他發生了，他開始不斷地去注意這個議題，有些人在事情沒發生時，並不會注意到這個電話，等他發生事情時，他就會覺得原來有這個電話，趕快去打電話，所以還是懇求委員惠予支持這部分的預算，這真的非常重要。
+蔡委員錦隆：看蘇委員有沒有意見，我沒有意見了。
+主席：請蘇委員清泉發言。
+蘇委員清泉：主席、各位列席官員、各位同仁。請問113一年的通報量有多少？
+主席：請內政部家庭暴力及性侵害防治委員會李執行秘書說明。
+李執行秘書美珍：主席、各位委員。目前一年的來電量有20萬通，因為國內法令規定採責任通報，也就是所有的網絡，包括警政、社政、衛政，今天你不通報的話，我們就裁罰，在民眾的部分，我們有兩個目的，一是鼓勵他通報，但是更重要的是我們要做教育和宣導，這才是我們最主要的目的。
+蘇委員清泉：你是說在線上就可以做宣導？
+李執行秘書美珍：是。
+蘇委員清泉：我們也是怕被害人將來會變成加害人，所以我建議把266萬5,000元先凍結，有績效、有成效時，可以隨時向我們報告後，始得動支，好不好？
+李執行秘書美珍：是不是容許我們寫報告後就解凍？
+蘇委員清泉：本來蔡召委要刪除的這一筆，我們改為凍結，等你們有成效跟我們報告後送委員會，我們再同意動支。
+主席：減列四分之一改為凍結四分之一，等他提出相關報告，待委員會同意後，始得動支。
+進行第二十案及第二十一案。
+二十、內政部社會福利業務中，「推展家庭暴力及性騷擾防治業務」－業務費項下之「0293國外旅費」費用89千元，用於赴荷蘭考察家庭暴力、性侵害、及性騷擾防治體系。同一考察目的，已連續四年編列國外旅費，前往芬蘭（99）、紐約（100）、挪威（101）、荷蘭（102），多年考察卻未見成效，也未見報告提供。故刪除社會福利業務－推展家庭暴力及性騷擾防治業務－「業務費」項下之「國外旅費」89千元。
+提案人：楊　曜
+連署人：陳節如　　陳歐珀
+二十一、內政部102年度預算案於「社會福利服務業務」之「推展家庭暴力、性侵害及性騷擾防治業務」項下，編列「國外旅費」89千元，即「赴荷蘭考察家庭暴力、性侵害及性騷擾防治體系與相關配套措施費用」。惟，一、根據內政部資料顯示，101年1至8月家庭暴力通報案件計7萬6,773件，較100年同期增加7,203件或增10.4%，尤以婚姻、離婚或同居關係暴力案件增加3,998 件最多，兒少保護案件亦增加3,974件次之多，由此顯見家庭暴力及性侵害防治委員會之功能和成效不彰，未能有效協調整合部內之橫向聯繫溝通，導致案件有增無減，未見遠赴國外考察之實質性效益；二、當前我國國庫困窘，政府舉債嚴重，財政日益惡化，政府無疑必須力行撙節。爰此，內政部102年度預算案於「社會福利服務業務」之「推展家庭暴力、性侵害及性騷擾防治業務」項下，編列「國外旅費」部分，應予全數刪。
+提案人：劉建國
+連署人：陳節如　　田秋堇　　楊　曜
+主席：請內政部家庭暴力及性侵害防治委員會李執行秘書說明。
+李執行秘書美珍：主席、各位委員。報告委員，事實上，就國內整個家暴的議題，我們很多經驗是參採國外的作法，在我們國內法入家門以後，很多是這樣，我們這89,000元的目的是102年預計到荷蘭考察，主要的原因是因為我們發現現在很多的專家和婦權的團體一直要求我們對於一些多元的族群、多元性別的族群，例如同志、男性，還有一些性別人權的議題，希望能夠出去參採他們的經驗，所以我們今年特別擇定荷蘭，我們這筆89,000元其實是低編的，是由我們的同仁帶領民間的團體一起出國，因為中央如果沒有人去，未來如何形塑成政策？所以我在此懇求委員多支持。
+主席：請楊委員曜說明。
+楊委員曜：主席、各位列席官員、各位同仁。就這一筆89,000元的預算，我認為你們確實是少列，可是你們每一年都重複地做，我覺得這變成一筆例行性的旅遊開銷，而這筆預算可能還要搭配等一下第二十三案的200萬元，亦即，有關家庭暴力或性侵害的防治，到底有沒有必要每一年都到國外進行考察？你們帶了那麼多人去取經，到底我們得到了多少東西？或者，我們換另外一個角度來看，要獎勵有功人員，只有出國旅遊一途嗎？這是我們當初提刪減案的主要理由，原因就在這裡，沒有人會反對你們，就像剛才蔡委員講的，多列一些都沒有人有意見，假如當這些預算已經變成例行性的旅遊支出，我是覺得不妥。
+李執行秘書美珍：報告委員，容許我作個說明。基本上，現在家暴和性侵害的議題幾乎都是頭版頭條，是一個廣義的社會治安，不容否認地，我們這幾年來所有出國以後的議題，其實參採之後，我們回來都形塑成政策，包括我們去年去的，回來以後變成一個網絡合作的馬瑞克會議，就是讓一些親密關係暴力的人，當我們透過評估之後發現他有危機了，所有的網絡進來，事實上都形塑進來。
+楊委員曜：你們考察回來的東西，在國內實施？
+李執行秘書美珍：是，我們用本土化做了一些修正。
+楊委員曜：實施的效果怎麼樣是一回事，問題在於是不是很多制度的參考都非得要到國外實地看？或者你們在很短的時間內帶了很多人，對於性侵害或家庭暴力的有功人員並不見得就是專家，可能有心的人才做得好，這樣的考察，其目的和用意及對於整個臺灣社會的助益在哪裡？
+李執行秘書美珍：這次去的除了公部門外，還有民間團體，公務門的部分一定是社會福利績效考核優的，民間團體也是配合度很好的才能過去，事實上這些成員，甚至公部門和民間團體有些人也很希望自己花錢去，所以在此懇求委員多支持。
+楊委員曜：現在是因為我和劉建國委員注意到這筆預算，你們才一直強調收穫很多，你們每一年都出國考察，可是回來的報告……
+李執行秘書美珍：委員可否容許我把我們歷年出國考察的成效作成書面來向委員報告？也請委員支持我們的預算，我可以跟委員保證，我們這些出去的成員真的非常非常認真，以這次出國為例，8天有7個參訪行程，可見成員都非常認真，我覺得這樣的學習加上本土化的修正，其實對國內有很大的助益和幫助。
+楊委員曜：坦白講，因為我們不在場，我們也不敢說你們不認真，只是你們一直沒有向委員會提出實質上的書面或你們的報告，對不對？所以我認為連同等一下第二十三案的200萬元都先刪掉。
+李執行秘書美珍：懇求委員是不是給我們機會，讓我們寫報告。
+主席：請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。針對第二十一案，我希望兩位提案委員能夠斟酌，因為在國內的家庭事務中，法入家門這個觀念是這幾年才有積極的作為，包括修法、立法、執行，這些的經驗和做法，其實在很多歐美國家，尤其是歐洲國家，其實做得非常好，當然，除了一些論文、期刊、報告之外，我認為如果只花8萬多元，而且和國內已經有良好績效的團體共同去考察和研討的話，其實這個花費的成本非常低，而且絕對是值得的，尤其出國參與這樣的會議，也宣達我們國內對於這個議題的尊重，對於受害者保護的措施，這是一個國際性的重要的標竿議題，不要說他們去考察回來那麼辛苦，光是能夠代表國家出席，給他們出國旅費都應該，而且都值得，所以我希望這部分是不是可以不要刪除，而且如果績效都不錯的話，以後都可以一兼二顧，能夠表達我們國內對這些議案的重視，並且對於未來很多制度、結構面需要進行改善時，有一些具體參照的作為出來，最重要的是對於國內一些相關團體從事這樣的事務時，有官方的參與，世界各國相對比較能夠拿出看家的東西與我們交流，也作為我們未來修法、立法很重要的依據。簡單講，我國要學習人家的東西還很多。
+主席：請王委員育敏發言。
+王委員育敏：主席、各位列席官員、各位同仁。對於楊委員和劉委員針對國外考察費用的提案，我認為應該要看其目的性何在及其成效。就主管機關來講，我們也很希望他們不是只有關在臺灣這個島上，就他們各項專業型的業務，其實他們的視野和眼光應該要多跟其他國家作一些比較和吸收，因為這個案子還包括第二十三案楊曜委員提案的200萬元，一樣都是獎補助，其實一樣是出國考察，只是這邊編列的是補助內政部工作人員一個人的費用。
+那另外還有這200萬，其實是由民間跟各縣市……
+李執行秘書美珍：對，公部門跟民間。
+王委員育敏：總共大概多少人？
+李執行秘書美珍：目前我們規劃這一團大概是17人。
+王委員育敏：有17個人，是不是？
+李執行秘書美珍：對。
+王委員育敏：對於這種出國考察，個人覺得滿有必要的，但就整體人數的規模以及每一次考察是否都應該抓出一個重點，而不僅僅是每年例行性的考察，應該針對你們目前掌握到國際上在整體家暴業務上有什麼新的趨勢與作法或者重要的國際研討會，特別是有一些重要的國際研討會，我覺得到那個場合你能認識的不僅是那個國家，還有其他國家的人，像這種研討會很有必要參與。針對這部分，我覺得可以處理的第一點是人數規模是否需要這麼多？我覺得應該要去，但人數規模是否需要這麼多人？另外，主題性是否應該更強化？所以，能否徵求兩位委員的意見，請家防會每年出國前先把參訪的重點跟主題讓委員會，特別是這兩位提案委員知道，然後回國後也讓委員瞭解你們參訪行程有何重要收穫。我建議是不是可以透過這個方式來處理？全刪……
+李執行秘書美珍：好，我們會把出國報告檢送給所有委員，我們每次出國回來都要辦研討會，不是出國就結束了，回來還要辦研討會，到時候我們會邀請委員……
+王委員育敏：對，這就是很好的接軌，回來後把看到的東西分享給更多國內的人，讓參訪的效益極大化。
+李執行秘書美珍：對，屆時也邀請委員一起來給我們指導。謝謝。
+主席：謝謝兩位委員的建議。有關我跟楊委員的提案，我的角度可能跟楊委員不太一樣，我是看數字在提案的。我記得上一屆在處理性侵害犯罪防治法的時候，那是發生在我故鄉的慘案－葉小妹妹的案件，所以我對此事特別重視，我看到內政部的資料，今年1至8月家庭暴力通報案件總共有7萬6,773件，較100年度同期增加了7,203件，增加將近10%，這是第一點；兒少保護的案件亦增加3,974件之多，所以我才覺得是不是家庭暴力及性侵害防治委員會的功能成效不彰？這一點稍後再讓你解釋。我看到你的報告是很有自信、很誠意的，我也可以支持不刪除這筆預算，但是統計數據為何會是如此？你是否有必要針對這一項說明清楚。楊委員會提案是認為如果你們只是例行性的出國考察就有待商榷。衛環委員會的委員若出國考察，應該多數的委員都很認真，而且我自己去看日本或其他國家時，我們幾乎都在行軍，應該不亞於你們的認真態度，原本動用人民的納稅金來考察，我們就是應該要戰戰兢兢。請家防會李執行秘書針對數據部分再說明一下，我們再酌情決定該如何處理。
+李執行秘書美珍：好，謝謝主席。有關數據的部分，我們確實也很擔心家暴及兒少保護的案件變成黑數，所以通報案件增加是把黑數凸顯出來，一方面也凸顯透過宣導之後民眾願意來通報，「法入家門」是很難得的，這表示有人願意雞婆出來通報，我覺得這是非常重要的，特別向委員說明。
+主席：你不能講通報的數量增加就代表原本不敢通報的人去通報所致，如果你要這樣歸因，必須要有一個對照的資料給我們做參考，否則你不能就這樣歸因。
+請楊委員曜發言。
+楊委員曜：主席、各位列席官員、各位同仁。其實本席這個提案是跟另外那筆200萬對照來看的，另外那筆200萬的出國旅費，你們說是獎補助給有功人員？
+主席：請內政部家庭暴力及性侵害防治委員會李執行秘書說明。
+李執行秘書美珍：主席、各位委員。對，地方政府跟民間團體。
+楊委員曜：那就表示事實上你們編列預算的目的跟考察主題並無直接關連，如果真正要考察或是出席會議，應該是由其他的人去。我想每一個人都知道這筆預算真的很少，不過是50萬元的預算，有什麼好說的呢？只是本席也藉此提醒各位官員，真正的考察沒有人反對，出席國際會議，讓台灣在家暴或性侵害防治領域的能見度提高，這個也沒有人反對，只是對照另外那200萬的經費是給有功人員，這跟考察的目的顯然不相符合。如果那筆預算是可議的，那現在這筆預算也一併是可議的。
+李執行秘書美珍：謝謝委員的提醒，委員所提醒的事項也是我們在意的，因為出國的預算很有限，我們希望他們出去能夠確實學一些東西、取經回來，所以我們每一次出去確實都有考察的議題；至於所謂的獎勵績優人員，那是為了鼓勵他們在這個職場上好好地勇於表現，這樣才能讓我們的工作持續地往前推。
+主席：請江委員惠貞發言。第二輪發言結束後就處理。
+江委員惠貞：主席、各位列席官員、各位同仁。現在委員們最大的疑慮在於，看來這件事已經箭在弦上，你們今天將這部分定義為獎補助績優有功人員，等於是一兼二顧，但我們會疑慮這部分將來會不會成為輪流制，今年有績優人員去考察，明年還要再表揚績優人員去考察，這樣就不符合我們鼓勵你們多去交流或參加國際性會議的初衷。你們自己內部對這部分有沒有默契？就是每一年都要辦理所謂的獎勵出國，如果是這樣，那就不可，這部分可能要次長出來說明一下。請問次長，你們內部有這種社會工作績優人員每年輪流出國的默契嗎？請問你們已經舉辦幾次績優人員出國考察了？只要這部分交代清楚，我相信大家都不會刪你們的預算。
+主席：請內政部家庭暴力及性侵害防治委員會李執行秘書說明。
+李執行秘書美珍：主席、各位委員。不是輪流的，我們事實上……
+江委員惠貞：請問獎勵績優有功人員出國考察已經幾回了？
+李執行秘書美珍：我們現在已經有潛力股，像離島的這一次也是在我們裡面去的。
+江委員惠貞：不是，我現在講的是你要減緩委員對你們的疑慮。照理說，若是針對某特定議題，然後由做這個業務的人出國去考察或參加國際會議，這樣我們同意，如果把它轉化成是獎勵有功人員，那這個部分我們就不同意。楊曜委員是不是這樣？我們不希望你們型塑成每年獎勵有功人員出國，而是應該按照考察目的去找人參加會議或考察，如果這樣即使每年都編列出國考察預算，我相信委員應該也會同意，但是如果變成獎勵，那就不同了。你們獎勵有功人員出國考察或許是好意，希望一兼二顧，但我們現在的疑慮是擔心這樣會形成慣例，這樣我們就不能同意。
+主席：現在休息5分鐘，請官員溝通一下。
+休息
+繼續開會
+主席：現在繼續開會。我們總共有87案，現在進行不到三分之一，請各位要有心理準備。第二十案及第二十一案併案改為主決議，請行政單位寫完後趕快給楊委員及本席簽名。
+進行第二十二案。
+二十二、內政部102年度預算案於「社會福利服務業務」之「推展家庭暴力、性侵害及性騷擾防治業務」項下，編列「設備及投資費」228千元，用於硬體設備、淘汰個人電腦六台等。惟，一、根據內政部資料顯示，101年1至8月家庭暴力通報案件計7萬6,773件，較100年同期增加7,203件或增10.4%，尤以同居關係暴力案與兒少保護案皆持續增加，顯然家庭暴力及性侵害防治委員會成效不彰，未能防制，以致於案件有增無減；二、經查，該項經費與「業務費」項下的「辦公器具養護費」（10千元）之編列，顯有互違矛盾之處；三、當前政府舉債度日，財政日益惡化，政府無疑必須力行撙節，應多避免有浪費公帑之虞。爰此，內政部102年度預算案於「社會福利服務業務」之「推展家庭暴力、性侵害及性騷擾防治業務」項下，編列「設備及投資費」部分，應予以刪除二分之一。
+提案人：劉建國
+連署人：陳節如　　楊　曜　　田秋堇
+主席：請內政部家庭暴力及性侵害防治委員會李執行秘書說明。
+李執行秘書美珍：主席、各位委員。委員提案中提到的辦公器具1萬元，那部分其實是整個辦公器具，包括影印機、傳真機等等的維護費。我們這次編列汰換經費是因原有電腦設備已經超過年限，尤其這部分是用於113跟男性關懷專線，113專線是24小時使用的，所以我們特別編列這個預算。
+主席：你就是要淘汰六台電腦？
+李執行秘書美珍：是，男性關懷專線那部分還有購置辦公桌椅跟儲藏的資料檔案櫃，本來沒有，這次打算要購買。
+主席：可是你們的說明上只有淘汰電腦而已，哪有什麼辦公桌椅？沒有啊！
+李執行秘書美珍：對，還有軟硬體設備，就是電腦的軟體。
+主席：這一案先保留，請你等一下說明。
+進行第二十三案。
+二十三、內政部社會福利業務中，「推展家庭暴力及性騷擾防治業務」－獎補助費項下之「0476其他補助及捐助」費用200萬元，用於捐助性騷擾防治網絡之績優人員出國考察。此經費與家庭暴力及性侵害防治委員會所編列之「考察家庭暴力、性侵害、及性騷擾防治體系」之國外旅費目的相同。
+為求撙節政府預算，刪除「社會福利業務」－推展家庭暴力及性騷擾防治業務－獎補助費中「0476其他補助及捐助」費用200萬元。
+提案人：楊　曜
+連署人：陳節如　　陳歐珀
+主席：第二十三案改為主決議。
+進行第二十四案及第二十五案。
+二十四、「推展社會福利綜合工作」原列16,748千元，建議除獎補助費4,929千元保留，其餘凍結11,819千元。
+說明：
+國內貧富差距擴大，內政部身為社會安全體系很重要的部會，但缺少制度創新讓社會民間團體可以參與整個國家安全網的建構，諸如平民銀行、志工銀行、食物銀行等，欠缺制度面的創新、價值觀與願景與協助民間參與，長期疏於扮演法令、政策制定與協調角色，爰提案凍結「推展社會福利綜合工作」行政業務支出，待提積極作為後方研議解凍與否。
+提案人：林佳龍　　劉建國　　林世嘉
+連署人：陳歐珀　　田秋堇
+二十五、內政部102年度預算「社會福利服務業務」項下「推展社會福利綜合工作」編列16,748千元，其中辦理綜合性社會福利政策、法規、措施之研究與試辦及其他聯繫會議或座談會等相關工作，編列業務費11,819千元。惟現行社會救助法中，將財產認定標準下放至各地方政府主管機關審核，其戶籍所在地之主管機關，全台就有七個地方核定機關。此規定看似能依各地生活水平劃分不同的最低生活費額度，實際上卻造成離鄉背景在都會區生活的貧民受限於戶籍地之最低生活費標準而無法獲得適切補助與服務。爰此，提案凍結600萬元業務費，待綜合考量戶籍地、城鄉發展不均衡對所得、物價與就業機會之影響，全面檢討現行中低及低收入戶補助暨相關服務項目之申請資格等標準之適用性，提具檢討報告向本委員會報告並經同意後，始得動支。
+提案人：田秋堇
+連署人：劉建國　　趙天麟
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。這兩個案子，其中一個是林佳龍委員跟劉建國委員所提，因為食物銀行的部分，提議凍結我們行政業務支出經費；另外一案則是凍結600萬元的業務費，建議委員，這兩個案子就是凍結十分之一，等我們提出報告後再予以解凍。
+主席：好，第二十四案及第二十五案併案凍結十分之一。
+進行第二十六案。
+二十六、102年度內政部社會司預算「長期照顧十年計畫」項下「辦理居家服務方案」編列1,601,570千元。經查，100年度預算缺口達3億3千萬元，服務成長數由26.8%下降為16.8%，預計今年101年度將持續下滑。在預算不足的情況下，造成服務單位低估服務需求，經常出現類似有中度需求（每月40小時）民眾被核定為輕度需求（每月20小時）的情況。以及在編列居家服務員規定時薪雖然已達150元，但仍遠低於實際上居家服務組織負擔的人事成本，造成居家服務組織經營困難，有礙於國內長期照護體系之建立，應儘速檢討重新規劃預算。爰建議凍結該預算二分之一，待相關單位提出檢討報告後予以解凍。
+提案人：林世嘉
+連署人：田秋堇　　陳節如
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。這部分主要是補助非營利組織及失能老人需求的照顧服務費用，這部分是居家服務的補助款，懇請委員支持預算，不要再凍結。後面的第二十七跟二十八案也是一樣，可不可以凍結內政部的業務費，不要去凍結這些居福單位及失能老人的補助經費。請示主席，第二十七案跟第二十八案是不是也可一併討論？
+主席：請林委員世嘉發言。即使是服務經費我也敢凍，我可以接受挑戰。
+林委員世嘉：主席、各位列席官員、各位同仁。司長，你沒有進入狀況，剛才你們科長有來報告啊！那部分你要講，不然第二十七案跟第二十八案也不會解套啊！
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。因為居家服務這部分使用的都是非常受到大家的……
+林委員世嘉：我替你講。因為你欠居家服務單位5億元，請問蘇委員，你們醫院被欠多少，欠很多吧？而且欠了三、四個月了。
+簡司長慧娟：現在主計處已經同意了。
+林委員世嘉：對，重點就在這裡，剛才科長報告最新進度，表示現在已經簽到副主計長。我們提出這些案子無非就是要給你們壓力，你們要讓主計單位知道這個預算不夠要編足，主要目的在此。
+簡司長慧娟：對，其實這個部分主計單位也很幫忙，目前已同意在第二預備金的部分給我們五億多。
+林委員世嘉：上次我質詢過，你們每年編列的預算都不足，主計處怎麼處理這件事？本席提案的主要目的是希望主計處要足額編列，其實我是在幫你們。
+簡司長慧娟：是，謝謝委員。
+主席：其實這個案是為蘇委員提的，這部分應該全數凍結，然後好好討論。
+請蘇委員清泉發言。
+蘇委員清泉：主席、各位列席官員、各位同仁。我贊成全部凍結，然後再來好好討論。
+主席：對啊。請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。這樣不好，真的拜託委員，因為這些經費都是給第一線實際服務的單位。
+主席：你就給不夠，人家都要倒了。
+簡司長慧娟：主計處已經很幫忙了，今年都有幫忙要到二備金。
+蘇委員清泉：年年都如此，實在讓我們這些社福團體情何以堪。每一年差不多9月過後就沒有錢了，沒有錢我們也一樣要繼續服務，結果只能慢慢縮減服務時間，因為都沒有錢了，基金會還得付錢給居家服務員，結果就是倒貼。這樣一直倒貼，如果沒有人幫忙，服務機構真的會倒，像我常常都從口袋中掏錢出來給他們用，否則真的會倒店。一旦服務機構倒閉崩盤，你們怎麼辦？所以不能每年都去動用第二預備金兩億、三億，有時候有，有時候又沒有。請問司長，你聽得懂嗎？
+簡司長慧娟：我知道。很感謝委員幫忙內政部爭取預算，我們也很積極跟主計處爭取預算，主計處往年也都很幫忙，今年度也同意從二備金中撥給我們五億多做長照業務。我們剛才也跟林世嘉委員做過說明，林委員也瞭解並認同這部分就不予凍結。
+蘇委員清泉：有什麼辦法可以讓你們及行政院感受到壓力？
+簡司長慧娟：他們已經有感受到壓力了。
+主席：全凍才會有壓力。陳委員你不發言嗎？你是提案委員耶。現在在討論第二十六案、第二十七案及第二十八案。
+請趙委員天麟發言。
+趙委員天麟：主席、各位列席官員、各位同仁。我們是跟劉建國委員一起提案凍結二分之一，若要全凍，我覺得也無妨，你知道為什麼？因為我們高雄也有感受到這個壓力，我也質詢過了，無論是司長或部長也都從善如流，都講得很好，可是結果還是一樣啊！你剛才說已經在簽了，現在都11月了，拿到錢的時候搞不好都明年了，這個好意就打了很大的折扣。所以，我真的建議主席，凍結二分之一是最起碼的，唯有兵臨城下，才會讓整個行政院重視這件事。這件事動用第二預備金我還不滿意，我後面還有一個提案是要求用正式預算來處理的。
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。我們現在都是用正式公務預算。
+趙委員天麟：不夠啊，就是因為不夠才要跟主計處要第二預備金。你既然有這個好意就要做到足，不然你想想看，長照保險法還要兩、三年以後才會處理，現在每一年公務預算編列都不足，這樣下去，搞不好除了一些大財團支持的社福機構外，其他會倒掉一片。倒掉一片應該不是你們的原意，你們的報告是說要等大家做到很順利、很熟悉，人手也都足夠了再來制訂法律，結果卻背道而馳。我真的滿強烈支持要把此事變成一個事件，就是大幅凍結預算，如此行政院才會關心這件事。要不然我看屏東、高雄、雲林、台北都一樣，這是全台灣性的，很多財團無法支應或者公司不夠大的都讓居服員先吸收，很多人好幾個月領不到薪水，我覺得這樣很不妥當。所以，我真的認為應該大幅凍結預算，這樣做不是針對你們，而是要讓行政院的層次來關心這件事。謝謝。
+簡司長慧娟：向委員報告，如果凍結我們的業務費十分之一，我們承辦單位可以自己來努力；可是如果凍結補助的經費，真的會影響到第一線提供服務的單位。
+主席：請王委員育敏發言。
+王委員育敏：主席、各位列席官員、各位同仁。今天各位委員都是很善意地要幫內政部，但是我認為幫的方法要對，若幫的方法不對，一刀下去恐怕既傷了內政部，又傷了民間團體，所以要審慎為之，既然是要幫內政部，我們可不可以討論出一個如何幫忙的方法。本席過去也是從民間團體出身，我也覺得一直積欠民間單位經費不太合理，民間團體都很辛苦。所以，我覺得如果本委員會各位委員想幫內政部，內政部是不是可以提出一套我們真的可以幫上忙的方法，我真的覺得全數凍結這個手段有點太激烈了。我認為委員會可以去找主計處來，今天主計處有沒有來？請主計處上來說明一下。不要光是內政部在那邊一直講，主計處也要說明一下，為什麼預算都編列不足，都要動用到第二預備金，導致民間團體有一直被積欠的情況？
+主席：請行政院主計總處公務預算處許專門委員說明。
+許專門委員永議：主席、各位委員。因為102年度的歲入，全部只增加4億元，所以整個財源的安排非常困難。其實預算的編列分為兩個階段，第一個階段是我們先給額度，額度內由部會先去安排，如果安排不下，他們會提出額度外的需求。這個部分還有部裡提出的額度外需求，可是我們手邊所握有能分配的財源其實沒有那麼多，我們也盡力在額度外核了一部分。我們知道不足，所以今年度的第二預備金我們已經算了，大概是5.4億元。
+王委員育敏：都已經通過了嗎？
+許專門委員永議：已經送到主計長那邊了，應該是沒問題。基本上，依法要給的我們都支持。
+王委員育敏：本席認為，現在真的是人口老化，長期照護這部分的預算年年在增加。我覺得主計處也要看到這樣的情況，雖然我知道你們在整體編列上會覺得這個部分很緊，但是有些部會的額度可以少一點，這邊的額度多一點，這不能做嗎？而且這還涉及委外的部分，甚至會欠到民間團體，讓政府的聲譽下降。政府欠錢，這傳出去實在不太好。你們可不可以回去向主計長報告，關於這個部分，應該要有檢討的空間，而不是年年都是這樣子。
+許專門委員永議：這個部分可以，就是類似這樣，等於幾乎是依法要給的錢，我們盡力編夠。
+王委員育敏：對，而且這都是有法源依據的。長照也是我們要推動的重要政策，我覺得這個部分應該優先補足，好不好？麻煩主計處回去研議。
+許專門委員永議：好，可以。
+王委員育敏：本席要呼籲各位委員，凍結這個部分可能不是最好的方式，但是怎麼樣讓主計處去做結構性的改變，我覺得這是大家可以幫內政部去爭取的，也幫民間團體爭取，謝謝。
+主席：請鄭委員汝芬發言。
+鄭委員汝芬：主席、各位列席官員、各位同仁。既然今天主計處有來，我們要給你們一點壓力，這樣你們回去才有辦法幫地方做事。關於長照的部分，目前政府並沒有真正在執行，甚至連法都還沒通過，現在都是地方在執行這個業務，由中央來埋單，成為一個不成文的規定，就是這樣在做，我們每年都在追加這樣的預算，累計到今年為止已經追加到5.4億元了，這筆錢一直在追加，如果能逐年編齊，才能讓地方在做事時，將地方的福利做好。
+本席知道你們的錢真的不夠，這個部分你們是不是可以從長計議，因為社會福利是必須做的，現在社會救助法已經通過了，再來就是要做這樣的工作，希望主計處能關注這個部分。剛才聽你們講一年增加了多少錢，如果不夠的話，希望你們回去跟部長、署長反應這樣的事情，好不好？
+主席：請行政院主計總處公務預算處許專門委員說明。
+許專門委員永議：主席、各位委員。可以，因為這樣的經費，經常動用第二預備金也不是好事。
+鄭委員汝芬：這不是一個好辦法，對不對？
+許專門委員永議：我們認為不是好事。
+鄭委員汝芬：這樣地方在做事情時也沒安全感，雖然沒安全感，這部分還是要做的，就讓他們放手好好執行這項業務，好不好？
+許專門委員永議：可以，我們會盡力。
+鄭委員汝芬：謝謝。
+主席：請陳委員節如發言。
+陳委員節如：主席、各位列席官員、各位同仁。其實所有的預算只有這一項是直接由中央補助下去，其他都是地方額度編列的，所以內政部應該極力爭取。為什麼這筆預算到那裡會被砍掉？你們兩邊都要說明，不應該只有一邊來說明。就是你們答應人家可以這樣，所以主計處才砍預算，現在第二預備金發出來了嗎？現在已經是11月了，今年的發下來了，明年是不是又不夠？
+簡司長慧娟：（在席位上）明年有增加1億3,000萬元。
+主席：但是不夠。
+陳委員節如：我知道，明年有增加1億3,000萬元，所以這個部分內政部要堅持啊！明年還會增加，因為人口老化越來越嚴重，需要服務的人越來越多，這個問題你們要怎麼解決？主計處還是會等到明年年底才給人家嗎？是不是在半年前就要給人家了？
+主席：請行政院主計總處公務預算處許專門委員說明。
+許專門委員永議：主席、各位委員。如果他們確定不夠，應該可以提早。
+陳委員節如：你們在半年前就要給人家了，不要等到11月、12月才給人家，民間都要周轉金，沒有周轉金整個社會福利服務就完蛋了。現在不只這一筆，還有很多都是這樣搞的，所以主計處應該要來聽一聽內政部的說明，如果聽不下去，你們要聽聽民間的意見，我們都是代表民間啦！叫你們主計長以後不能這樣子，內政部自己要堅持，對不對？
+主席：請內政部曾次長說明。
+曾次長中明：主席、各位委員。謝謝各位委員的關心，因為這個部分，部裡絕對會極力爭取。我們每年編列的額度都是照實際需要的部分編列，假如沒有在核定的額度內，我們也爭取額度外的預算。當然，我們也體認到有時候行政院主計總處也是很幫忙，但是預算額度沒有辦法足額提供，所以我要在此提出建議，因為第二十六案、第二十七案及第二十八案都是相同的議題，能不能以主決議的方式處理，而且後面的第三十二案、第三十三案都有主決議，我們只要在後面，譬如在第三十二案主決議的後面再加一句話，因為它除了排除預算的統刪之外，我們再加一句話「請行政院主計總處給予足夠的預算額度」，這樣的話就可以處理了，不知這樣是否妥適？
+主席：我再強調一次，陳委員一直講第二十八案是不一樣的，所以你們不要把它混在一起，否則她會生氣。
+請林委員世嘉發言。
+林委員世嘉：主席、各位列席官員、各位同仁。我接受以主決議的方式處理，其實我們是要給主計處壓力。
+主席：好，你可以接受以主決議的方式處理。你要請他們提出，還是要在後面加一句話？
+林委員世嘉：給他們提。
+主席：好，你們再提出一個主決議。其實後面有一個主決議是一樣的，你們增加文字之後就請林委員連署，併案改為主決議，然後主決議的內容再修改。
+第二十六案與後面的主決議併案修正內容後，改為主決議通過好不好？
+趙委員天麟：（在席位上）我的第三十八案也是一樣統統併在一起對不對？
+主席：對，趙天麟委員的第三十八案也一併作文字修正。
+第二十六案、第三十二案及第三十八案併案改為主決議，修正後文字如下：「內政部推動我國長期照顧10年計劃歷年編列經費均不敷支應，從99年度起，更每年動用第二預備金，102年度雖已增編1億3,000萬元，仍是杯水車薪，為使長期照顧10年計劃不斷炊，爰要求本院應自審查中央政府102年度預算案起，應將長期照顧10年計劃相關預算排除統刪，並請行政院主計總處覈實配賦額度。」提案人是林委員世嘉、趙委員天麟、鄭委員汝芬、江委員惠貞、楊委員玉欣；連署人是蘇委員清泉、蔡委員錦隆、王委員育敏、陳委員節如及陳委員歐珀。
+第二十案、第二十一案、第二十三案改為主決議，文字如下：「內政部102年度『推展家庭暴力、性侵害及性騷擾防治業務』編列『國外旅費』8萬9,000元及『捐助防治網絡績優人員出國考察』費用200萬元，出國計劃應有目的性，出國人員應與出國計劃業務內容相關，俾返國後協助相關政策措施之推動。請於兩週內檢送近三年家庭暴力、性侵害及性騷擾防治出國考察報告予本委員會各委員。」提案人為楊委員曜、劉委員建國；連署人為趙委員天麟、林委員世嘉、陳委員節如、陳委員歐珀及田委員秋堇。
+進行第二十七案。
+二十七、我國自97年度開始實施長期照顧十年計畫，在各項服務項目中，「居家服務」與「日間照顧服務」為最核心之服務項目，服務量超過9成，惟自99年度起預算即已不足，其中居家服務預算從99年起短少7,832萬8千元，100年短少3億3,028萬9千元，101年預估至少短少3億2千萬元，102年度卻僅比101年度預算多編1億3千萬，光是應付101年度的費用已不足，將是連續第四年預算短少；日間照顧服務預算100年短少5,267萬7千元，101年度編列預算比100年度為少，短少經費將更嚴重，在連續兩年經費短少情況下，102年度居然只編列與101年相同預算，還比100年度為少！
+在預算短少的情況下，政府年年以動用第二預備金的方式支應，因為預算的不確定性，造成我國長期照顧體系建立緩慢，失能民眾照顧需求無法獲得滿足，依賴外籍看護工情況日益嚴重，也造成民間第一線推動長期照顧服務之非營利組織陷入財務風險。
+基此，內政部需編足長期照顧預算，不得再等待年底第二預備金有結餘時才動用補足！在內政部未提出具體方案前，凍結102年度「社會福利服務業務」項下「推展老人福利服務」之業務費31,396千元二分之一，待內政部提出具體改進方案並向本委員會報告經同意後，始得動支。
+提案人：劉建國　　趙天麟
+連署人：楊　曜　　田秋堇
+主席：第二十七案應該不需要再解釋了，直接凍結二分之一。簡司長不用再報告了，剛才你自己說的，我按照你的意思處理。
+簡司長慧娟：主席、各位委員。十分之一啦！我剛剛是講十分之一。
+主席：不行。
+簡司長慧娟：這是我們的業務費……
+主席：16億的部分已經改為主決議了，這個不能再改了。
+簡司長慧娟：因為實際上推動的業務面還是需要一些經費，所以要拜託委員支持，不然就凍結四分之一。
+主席：你就提出具體的改進方案，並向委員報告，同意後就讓你動支。
+簡司長慧娟：可不可以凍結四分之一，因為這會影響我們的業務推動。
+鄭委員汝芬：（在席位上）主席，她說四分之一，就四分之一。
+主席：內政部很可憐，這些居服也很可憐。這些居服那天來抗議，不知各位有沒有看到一個畫面，他們抗議時還把衣服脫起來，然後丟在內政部前面，結果是好好折起來放在地上。從頭到尾社會司都沒有主動與他們聯繫過一通電話，都是這些團體主動跟社會司聯絡。然後社會司又推翻幾年前自己委託銘傳大學做的調查報告。社會司在3年前委託銘傳大學計算居服的成本，計算出來每小時約為240餘元。社會司自己委託人家的，現在卻說那些東西是假的。此事越來越嚴重，我覺得他們的態度有問題，針對這個部分，你們要說明一下嗎？你們要他們加班，又不能多給他們一點錢，實在很複雜，你們要馬兒好，又要馬兒不吃草。
+簡司長慧娟：其實內政部對這些實際上提供服務的第一線的居服單位，真的是很感謝，也很感恩，因為他們幫忙政府做滿多事情。方才委員提到的委託研究案的部分，因為那是幾年前做的，當時的資料在呈現上可能有一些還不夠精確，因為剛開始做的時候可能數據不夠精確，所以這個部分我們會努力做業務上的檢討。我們要拜託委員，因為內政部社會司的業務費其實很少，希望就凍結四分之一，讓我們儘快做相關業務的全面性檢討。
+主席：你說3年前做的研究報告是大家可以來討論的，但是你們不能說那不是真實的。
+簡司長慧娟：我沒有講不真實，我是說可能……
+主席：就是有人這麼講。你們又跟他們說，政府在居服預算中編列給居服單位的經費占整體經費47%，居服單位已經要很多了。怎麼要很多？本席這裡有幾點，我快速的唸一唸：第一、照顧服務費每小時180元，此部分社會司已經正式定調為聘僱居服員的費用，故不屬居服單位。你們說要給他們，但是他們也拿不到。第二、補助居服員勞健保單位不負擔部分之費用80%，單位必須再另外墊款20%。勞健保的費用要他們負擔嗎？這原本也是你們要負擔的，現在為什麼要他們負擔20%。第三、督導費每名個案每月550元，一個督導最多負擔60個個案，故每名督導每月最多是3萬3,000元，這包含勞健保、勞退等所有成本，以此計算扣除法定用人成本後，每名督導只剩下2萬6,000餘元，1年來年薪僅30萬元，然後根本也無法聘僱到人，所以居服單位必須再另外墊款，而且社會司要求督導必須為專任，不得與其他補助方案重疊，故此筆也是給督導員，不算給居服單位。第四、另外還有補助聘僱一名社工人員人力的70%費用，每月是2萬2,000餘元，但此人不得與督導員重疊，也不能與其他方案重疊人力，居服單位一樣必須再墊30%。第五、專案管理費5%，必須檢據核銷，這筆費用算是給居服單位，但經常無法領足。第六、每月補助房屋1萬5,000元，如果房子是自己的就不能領。
+事實上，這六項加起來，第二、三、四、五、六之費用，除了第五、第六是給實際居服單位，其他都不是。我還要繼續唸下去嗎？這裡還有一大堆資料，再唸下去就要唸到明天了。我要凍結這個部分一定是有原因的，否則我為什麼要凍結？那天部長來備詢，還說他要處理。
+請陳委員節如發言。
+陳委員節如：主席、各位列席官員、各位同仁。其實這裡面有很多都提到長照的問題，事實上我也跟次長提過，不管是長照、臨托、家托等等，不管是什麼「托」，反正你們委託民間做的，有的有補助勞健保，有的沒有，對不對？這些事情都還沒解決，請問雇主是誰？問社會局，社會局說不是他們，難道是這些承接單位嗎？本席的意思是行政費就是行政費，把它分開，不要給250元再讓他們自己處理行政費，有的團體就會先扣下50元，這樣就變得亂七八糟，你們應該先分別匡列好，服務員的居家服務費到底是多少，勞、健保費又是多少，是不是就源扣繳？要不要扣補充保費？其中的問題非常多，可是你們都沒有好好討論過。這其實就是錢的問題，如果能多給一些錢，這些都可以處理，但是必須由你們提出，行政費和服務費等每個項目都要分開，否則會變成有些服務員一小時拿150元，有些則拿120元或130元不等，變得很亂。可能台北市的服務員拿得多一點，每小時可以有150元，但有些甚至沒有勞健保，請問他們的雇主到底是誰？職業傷害由誰負責？發生職災時誰去處理？相關問題該如何解決？到底這些服務員的雇主是誰？請內政部說明。
+主席：請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。雇主的部分需依照勞基法規定認定。
+陳委員節如：所以你們都不做處理，放著讓民間團體亂作一團。
+簡司長慧娟：我們都很理解居服單位的辛苦。
+陳委員節如：如果想要長照制度執行下去，內政部必須挺身而出解決這些問題，否則對服務員非常不公平，民間團體也不知道該怎麼處理啊！
+簡司長慧娟：我們都有跟居服單位及相關單位進行一些討論和研議，也會積極檢討，不過還是要拜託委員支持。
+陳委員節如：這裡面問題很多，不只是劉委員剛才說的那些而已，比如雇主是誰？補充保費怎麼扣？就源扣繳的單位是哪一個？
+主席：雇主就是政府，政府向MDA團體借牌僱工。
+請王委員育敏發言。
+王委員育敏：主席、各位列席官員、各位同仁。本席認為這個議題的確值得討論，因為未來的長照體系要委託這麼多單位團體，提案委員其實是在為這些團體發聲，我們真的不希望因為中央預算不足而變成剝削這些團體，團體再去剝削受僱的人，結果變成惡性循環。其實本席也針對這部分提出主決議提案，因為包括社工人員及長照措施下的居服員該如何給予合理的工作條件，的確需要有系統性的討論，但是如果刪減或凍結預算的話，勢必會更動彈不得，情況更糟。我們可以要求內政部對此做通盤檢討並提出報告，像劉委員剛才那份報告就很好，清楚點出很多具體的問題，請內政部針對這些問題，和受委託單位做系統性的討論，再視討論結果作處理，比如錢不夠可不可以用回饋金挹注等。至於一些不合理的行政措施也應檢討，比如不聽取居服單位的意見，行政經費限縮得太嚴格，能否給予受委託單位一些彈性，上次新北市的列席代表也問到到底政府的立場為何，要嘛就管得很緊，政府負所有的責任，給的經費就要到位，要嘛就放寬，讓他們有自由呼吸的空間及調整的權限，本席認為這方面真的該做處理。
+主席：請蘇委員清泉發言。
+蘇委員清泉：主席、各位列席官員、各位同仁。第二十六案到第三十一案大概都是有關長照和身心殘障部分，本席要告訴大家一個事實，現在那些長照或居服的基金會或NGO團體都自行吸收意外險的保費，因為他們也很擔心這些服務員出事情，比如說本席在鄉下騎摩托車跑來跑去，常常都會「犁田」，摔得一身都是傷，你們現在是給一小塊布，卻要求人家又要做衣又要做褲，給這麼點錢，要人家要有鼓吹又要有布袋戲，實在是亂來！剛才主席說的那幾點每一點都切中要害，本席的想法是如果真的沒有其他方法，恐怕要以一些基金來貼補，端視政府是否真的重視此事而已。
+主席：本席的提案是凍結1/2，你們要改為凍結1/4，那就凍結1/3，不要再說了。
+進行第二十八案。
+二十八、第7款第1項第13目　科目名稱：社會福利服務業務－推展老人福利服務，本年度預算數：31,396千元，建議增刪數5,000千元。
+增刪理由：
+推展老人福利服務分支計畫中，「辦理老人福利及相關福利機構之措施規劃、評鑑、考核、獎勵、研議規劃老人多層次經濟安全體系，檢討與研修相關法規等」共編列31,396千元。
+據查，內政部於102年度預算書中，於績效衡量暨達成情形分析中，有關關鍵績效指標「長期照顧服務成長率」方面，曾提及：「……為發揮照顧資源之有效運用，爰依老人失能程度及家庭經濟狀況，提供不同的補助比率與額度。、、失能者在補助額度內使用各項服務時，除低收入者外，均需部分負擔費用；部分負擔的費用則與失能者之經濟狀況有關，收入愈高者，部分負擔的費用愈高。」
+事實上，補助時數內，除低收入戶由政府全額負擔外，須部分負擔者，也僅有中低收入戶負擔較低（自行負擔10%），其餘非低收或中低收入之一般戶，則不分收入多寡，皆需自行負擔30%；也就是說，即便是台灣首富使用長期照顧十年計畫之服務，亦與一般升斗小民同樣負擔30%之自負額，內政部所言之「收入愈高者，部分負擔的費用愈高」絕非事實！甚者，目前之補助規定，形同使經濟能力越高者負擔越低，經濟能力越低者負擔越高，根本違背社會公平正義。
+據上，爰凍結「辦理老人福利及相關福利機構之措施規劃、評鑑、考核、獎勵、研議規劃老人多層次經濟安全體系，檢討與研修相關法規等」之經費500萬元，待內政部針對一般戶研訂並施行「依家庭經濟狀況給予不同級數補助額度」之方案，並向立法院社會福利及衛生環境委員會報告經同意後，始得動支。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+陳委員節如：（在席位上）這個案子已經講好了，改為凍結1/10。
+主席：陳委員同意本案改為凍結1/10，本案修正通過。
+進行第二十九案。
+二十九、第7款第1項第13目　科目名稱：社會福利服務業務－業務費，本年度預算數：79,782千元，建議增刪數5,000千元。
+增刪理由：
+內政部已經公告「身心障礙手冊核發辦法」其中關於需求評估，需依「身心障礙者福利與服務需求評估訪談表」就七十二個問題進行訪談，訪談後如有需求則再核對「身心障礙者福利與服務標準表」看該身心障礙者可以符合哪些服務可以提供的標準。
+目前在身心障礙者權益保障法依據需求評估提供服務的條文有50、51、56、58、59和71條。
+不過身心障礙者的需求不全然都只有規定在身心障礙者權益保障法的範圍內，也會產生醫療、法律、住宅、營建（無障礙）等需求。需求評估之後呈現的需求，應該是包括但不限於身心障礙者權益保障法範圍的概念。
+請社會司於三個月內邀請身心障礙需求評估各直轄市、縣（市）主管機關及身障團體、專家學者代表分障礙類別，深入檢討需求評估是否有遺漏障礙者相關需求以及後續服務提供之聯繫是否確實。未完成檢討並向本委員會提供報告前，凍結業務費用5,000千元整。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+陳委員節如：（在席位上）本案已經講好改為主決議。
+主席：第二十九案改為主決議，請內政部提出文字，讓陳委員簽署。
+現在進行第三十案。
+三十、內政部102年度預算「社會福利服務業務」之「推展社區發展工作」項下，依據社區發展工作綱要之規定，推動各項社區建設工作，建構社會福利社區化基礎，編列業務費及獎補助費27,881千元。惟經查，自94至100年，我國社區發展協會數增幅8.13%，然全國社區發展協會依內政部推展社會福利補助作業要點，申請辦理各項社會福利服務活動計畫數減幅28.18%，致永續發展指標之社會福利社區化參與率大幅下降，顯示輔導社區發展協會辦理社會福利方案成效不彰。爰此，提案凍結1,000千元，待提具檢討報告及改進方案，向本委員會報告經同意後，始得動支。
+提案人：田秋堇
+連署人：劉建國　　趙天麟
+主席：本案已經和田委員溝通過了，請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。我們已經就本案和田委員講過了，改為凍結獎補助費，不動業務費部分，相關文字等一下會提出來。
+主席：本案俟內政部提出修正文字後再處理。
+第三十一案提案委員不在場，本案不處理。
+現在開始處理主決議部分，第三十二案已經處理過，現在進行第三十三案。
+三十三、父母未就業家庭育兒津貼實施計畫，101年編列預算29億元已不敷使用，正爭取動支行政院第二預備金支應，而第102年度預算亦編列29億元，可預見該計畫預算仍將緊縮不足，為使該計畫不斷炊，爰要求本院應自審查中央政府102年度預算起，應將該計劃相關預算排除統刪。
+提案人：鄭汝芬　　江惠貞
+連署人：蘇清泉　　蔡錦隆　　王育敏　　楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+現在處理第三十案，修正為凍結獎補助費100萬元，得就加強社區發展協會輔導及社區人才培育提具檢討報告及改進方向後，向本委員會報告，經同意後始得動支，本案修正通過。
+請鄭委員汝芬發言。
+鄭委員汝芬：主席、各位列席官員、各位同仁。希望內政部各局處人員就委員提案儘速積極與在場委員溝通，我們有八十七個案子，難道要處理到晚上十一、二點嗎？你們趕緊去溝通。
+主席：進行第三十四案。
+三十四、「發展遲緩兒童早期療育服務及療育補助」102年預算比101年減列了1,131萬3千元，為避免發展遲緩兒童之早療受到影響，爰要求本院應自審查中央政府102年度預算起，應將「發展遲緩兒童早期療育服務及療育補助」預算排除統刪。
+提案人：鄭汝芬　　江惠貞　　楊玉欣
+連署人：蘇清泉　　蔡錦隆　　王育敏
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+第三十五案、第三十六案及第三十七案提案人不在場，以上三案均不處理。
+第三十八案已經處理過了。
+第三十九案提案人不在場，本案不處理。
+進行第四十案。
+四十、有鑑於目前實際從事社區式及機構式（均含長照型、身障型及失智型3類）暨居家式服務（長照型）之護理人員、物理治療人員及職能治療人員等醫事人員數，相較於「我國長期照顧十年計畫（核定本）」內推估之上述長照人力需求數分別明顯不足。是以，現有職能治療人員恐不敷所需，護理人員及物理治療人員有充實人力之需要。爰建請衛生署應強化培訓課程，強化長照所需人力，並研擬具體完整獎勵制度，以因應我國未來長照政策之發展。
+提案人：徐少萍
+連署人：王育敏　　楊　曜
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十一案。
+四十一、有鑑於現行內政部中低收入家庭之兒童及少年經濟安全給付措施，有中低收入家庭兒童及少年生活扶助、特殊境遇家庭扶助條例之子女生活津貼及弱勢家庭兒少緊急生活扶助計畫之生活扶助措施，名稱容易混淆且複雜，補助對象雷同，皆為主管機關評估無力撫育及無扶養義務人或扶養義務人無力維持其生活之兒童及少年；且除特殊境遇家庭扶助條例之子女生活津貼之經濟條件較寬鬆為最低生活費2.5倍外，中低收入家庭兒童及少年生活扶助、弱勢家庭兒少緊急生活扶助計畫之生活扶助措施，經濟條件為最低生活費1.5倍。因此，內政部中低收入家庭之兒童及少年現金給付措施，名稱類似，補助對象雷同，家戶財力限制亦相近，惟法源不同，呈現混淆複雜情事，有礙申請、受理及審核，建請內政部應予以整合，以提升社會福利給付效能。
+提案人：徐少萍
+連署人：趙天麟　　蔡錦隆　　王育敏　　楊　曜
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十二案。
+四十二、有鑑於96年實施長期照顧十年計畫以來，由於服務量能日益增加，致99年度經費不足而動用第二預備金7,800萬元，100年度原編預算亦因不敷使用，動用第二預備金3億8,228萬3千元；101年度迄6月底，老人營養餐飲服務、日間照顧、失智症日間照顧、家庭托顧、交通接送、失智老人團體家屋等方案之預算執行率已逾100%，預估尚需經費5億6千萬元。因此，「十年長照」已成為國人尋求照顧的重要渠道，建請內政部應檢討歷年均動用第二預備金之因，並妥為因應以維護民眾應有之權益。
+提案人：徐少萍
+連署人：趙天麟　　蔡錦隆　　王育敏　　楊　曜
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十三案。
+四十三、102年度「社會保險業務」「國民年金保險業務」項目下，編列了國民年金宣導工作費用900萬元。自96年度至101年度內政部與勞保局針對國民年金一共投入了3億3千多萬元，但各年度的納保人數卻逐漸下滑，自97年422多萬人，降為100年底378萬多人，減少了43萬多人。惟同時間我國失業人口自97年底44萬9千人，增加為98年底63萬8千人，99年底57萬6千人，100年底49萬1千人。按照國民年金設計原理看，失業人數與國民年金納保人數應該要成正比，但結果顯然與理論相衝突。雖然有的人可能加入公會參加勞保，另外有些人則沒有納保國民年金，也沒有受到勞保保障，形成自外於社會保險制度的一群人。如今內政部不思考納保人數下滑原因，102年仍要再編900萬宣導費，越宣導納保人數越少，未能達到預期效果。本席建請內政部應針對國民年金納保人數逐年下滑原因研擬因應方案，以讓國民年金能永續經營。
+提案人：江惠貞
+連署人：蘇清泉　　楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十四案。
+四十五、102年度於「社會福利服務業務」項目下，編列「推展社區發展工作經費」包括業務費、獎補助費共2,788萬1千元，根據預算中心提供的資料指出，社區發展協會數逐年增加，從94年的6,150個增加到100年的6,650個，成長率為8.13%；但是依據《內政部推展社會福利補助作業要點》中規定，申辦的各項社會福利服務活動數量，卻從958件降到688件，減幅達28.18%。（詳如附表一）
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="72"><col WIDTH="202"><col WIDTH="221"><col WIDTH="302"><tbody><tr><td COLSPAN="4" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA6394922"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">附表一</font></font></p></td></tr><tr><td WIDTH="72" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-top: 0.28cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.05cm; left: -0.08cm; width: 820px"><hr></span>年度</p></td><td WIDTH="202" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">辦理各項社會福利服務活動計畫數</p></td><td WIDTH="221" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">社區發展協會數</p></td><td WIDTH="302" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">社會福利社區劃參與率</p></td></tr></tbody><tbody><tr><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">94</span></font></p></td><td WIDTH="202" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">958</span></font></p></td><td WIDTH="221" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">6,150</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">15.58</span></font>（<font FACE="Times New Roman, serif"><span LANG="en-US">958/6,150</span></font>）</p></td></tr></tbody><tbody><tr><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">95</span></font></p></td><td WIDTH="202" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">744</span></font></p></td><td WIDTH="221" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">6,275</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">11.86</span></font>（<font FACE="Times New Roman, serif"><span LANG="en-US">744/6,275</span></font>）</p></td></tr></tbody><tbody><tr><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">96</span></font></p></td><td WIDTH="202" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">816</span></font></p></td><td WIDTH="221" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">6,402</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">12.75</span></font>（<font FACE="Times New Roman, serif"><span LANG="en-US">816/6,402</span></font>）</p></td></tr></tbody><tbody><tr><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">97</span></font></p></td><td WIDTH="202" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">732</span></font></p></td><td WIDTH="221" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">6,410</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">11.42</span></font>（<font FACE="Times New Roman, serif"><span LANG="en-US">732/6,410</span></font>）</p></td></tr></tbody><tbody><tr><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">98</span></font></p></td><td WIDTH="202" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">903</span></font></p></td><td WIDTH="221" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">6,443</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">14.02</span></font>（<font FACE="Times New Roman, serif"><span LANG="en-US">903/6,443</span></font>）</p></td></tr></tbody><tbody><tr><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">99</span></font></p></td><td WIDTH="202" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">817</span></font></p></td><td WIDTH="221" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">6,518</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">12.53</span></font>（<font FACE="Times New Roman, serif"><span LANG="en-US">817/6,518</span></font>）</p></td></tr></tbody><tbody><tr><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">100</span></font></p></td><td WIDTH="202" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">688</span></font></p></td><td WIDTH="221" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">6,650</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">10.35</span></font>（<font FACE="Times New Roman, serif"><span LANG="en-US">688/6,650</span></font>）</p></td></tr></tbody><tbody><tr><td COLSPAN="4" WIDTH="814" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1.50pt solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">資料來源：內政部統計年報及內政部社會司</p></td></tr></tbody></table>
+以「生產福利建設」中推動「社會福利工作」為例，板橋目前總共有36個社區發展協會，但有設置「社區關懷據點」有14個，比率僅38.8%，許多社區發展協會只一年開一、兩次會，徒具形式，完全沒有達到推展社會福利工作的目的。本席建請內政部應針對如何提升與輔導社區發展協會參與社會福利服務活動數量與協助社區發展協會多設置「社區關懷據點」研擬獎勵方案，以讓社會福利服務工作順利推展。
+提案人：江惠貞
+連署人：蔡錦隆　　楊玉欣
+主席（陳委員節如代）：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十五案。
+四十五、決議：根據內政部統計，100年度符合長照計畫服務對象人數計27萬9,411人，惟實際使用照顧服務者（含居家服務、日間照顧及家庭托顧）為3萬4,463人，實際使用比率僅12.33%，顯見長照資源使用率偏低。由於部分失能老人及其家庭因資訊不足，未能提出長照服務申請，且內政部未研擬相關配套措施，無法提高民眾使用長照服務之意願。據上，內政部應針對長期照顧服務欠缺配套措施且宣導不足，以致實際服務使用人數偏低之問題，於3個月內研提檢討改善報告，送交立法院社會福利及衛生環境委員會。
+提案人：王育敏
+連署人：徐少萍　　楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十六案。
+四十六、決議：有鑑於現行內政部社會福利相關方案補助，並不補助勞健保費，但行政院原住民族委員會推動相類之方案則有補助，明顯不公。且目前內政部補助社工人事費，不論年資長短均同酬，導致社福機構留不住資深社工，造成實務經驗傳承發生斷層，社工服務品質日益低落。據上，內政部應於6個月內統一相關人事費用補助標準，將專業等級對待、社工保險、人力發展、人事費統籌自用等細項，均列入「內政部推展社會福利補助作業要點」之修正檢討範圍，以利社工專業發展。
+提案人：王育敏
+連署人：徐少萍　　楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十七案。
+四十七、決議：依據內政部資料顯示，97至99年度任職於居家服務與老人福利機構之照顧服務員人數，約僅佔領有照顧服務員結業證明書總人數之四分之一，其中從事居家服務者之比率偏低，其各年占領有結業證明書總人數之比率，分別僅有7.4%、7.7%及8.4%。主要原因在於居服員之平均薪資較醫院陪病員低，且工作時間地點不固定，導致大多數照顧服務員領取結業證明書後，並未投入居家服務。據上，內政部應加強改善居家照顧服務員薪資不足之問題，並加強宣導居家服務之範圍及內容，以保障居家照顧服務員之合理工作條件，增加照顧服務員投入居家服務之意願，俾利我國建置充足之照顧服務人力。
+提案人：王育敏
+連署人：徐少萍　　 楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十八案。
+四十八、主決議：健保新制將於民國102年1月1日實施，為社會司針對補充保費之收取，並未編列預算，依法對身心障礙者、中低收入老人予以進行保費補助，除違反各領域社會福利相關法律規定外，並嚴重影響社福需求者權益。請社會司於三個月內積極研議將各種身分別社福需求者之全民健保補充保費納入保費補助範圍，並向本委員會進行專案報告。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+主席（劉委員建國）：請問各位，對本案有無異議？（無）無異議，通過。
+進行第四十九案。
+四十九、主決議：關於「身心障礙者托育養護費用收費原則」，目前因為現在身心障礙照顧服務類型已經日益繁多，所以要改為「身心障礙者日間照顧與住宿式照顧費用收費原則」。因應身心障礙鑑定新制於民國101年七月十一日實施，身障機構或服務的補助標準均已頒定，不過收費原則卻遲遲無法定案。
+為避免身障家屬因補助制度不一產生不依需求而依據繳費多寡選擇服務模式，造成服務錯置現象；並解決機構照顧成本問題，請內政部朝向以下兩個方向進行收費原則之研議：
+一、建議將輕度身心障礙者併入中度，收費只分兩個等級。只有重度極重度和中度輕度兩級。
+二、社區居住服務和住宿機構收費應該一致。如果考量住宿機構的立案以及評鑑成本，應該從其他服務費方面進行補助。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第五十案。
+五十、主決議：有鑑於「發展遲緩兒童早期療育服務及療育補助」102年度預算比101年度減列1,131萬3千元，為保障發展遲緩兒童之權益，爰要求內政部能按季公布預算之執行內容。
+提案人：鄭汝芬
+連署人：蔡錦隆　　楊玉欣　　蘇清泉　　江惠貞
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第五十一案。
+五十一、主決議：內政部未依本院審查101年度預算案決議，將102年度依社會救助法規定辦理之中低收入戶全民健保保險費補助約17億元，納入內政部單位預算，爰要求內政部103年度應予改善。
+提案人：鄭汝芬
+連署人：蔡錦隆　　楊玉欣　　蘇清泉　　江惠貞
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第五十二案。
+五十二、主決議：居家服務為政府長期照顧十年計劃之核心項目，由政府委託民間非營利組織推動辦理，政府理應支付給民間足額費用，除能鼓勵民間投入協助政府推動長期照顧工作外，亦能逐步健全長期照顧體系，奠定未來因應高齡化危機基礎，但政府無支付給民間居家服務單位的各項委託費用嚴重不符合成本，服務費、督導費均不足用人成本，而專案管理費亦被限縮使用用途，造成民間居家服務單位必須募款補政府委託費用之不足，多年下來已難支應虧損，傷害了民間對政府之信任，更對我國長期照顧體系之建立危害嚴重。故政府應全面提升居家服務之各項委託費用，包括服務費、督導費、勞健保費，補貼管理成本與交通費，放寬專案管理費用途等。
+提案人：劉建國
+連署人：趙天麟　　楊　曜　　田秋堇
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第五十三案。
+五十三、主決議：據內政部統計，101年1至8月家庭暴力通報案件計7萬6,773件，較100年同期增加7,203件或增10.4%，以婚姻、離婚或同居關係暴力案件增加3,998件最多，兒少保護案件增加3,974件次之，案件增加顯示家庭暴力及性侵害防治委員會之功能及績效不彰，未能積極協調整合部內包括警政機關、兒童局等單位，進行橫向聯繫積極展現防治效果，導致案件有增無減，故家庭暴力及性侵害防治委員會應於兩個月之內提出檢討方案報告，發揮應有預防功能，以降低家庭暴力及兒少保護案件。
+提案人：劉建國
+連署人：陳節如　　田秋堇
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第五十四案。
+五十四、主決議：國內身心障礙鑑定與福利服務需求評估（ICF）新制已於今年七月十一日上路，地方政府亦配合中央進行開會宣導ICF新制，然而部分地區身心障團體仍存有疑慮與不解，質疑「政府邊做邊修」，不看好新制，甚至認為問題不少，因身心障礙者最大的問題在於服務機制的提供、安置，尤其是服務機構的提供，故爰要求主管機關內政部應在新制上路六個月之後提出相關檢討報告，包括優缺點及所面臨之問題等，以協助身心障礙者。
+提案人：劉建國
+連署人：陳節如　　田秋堇
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+第五十五案及第五十六案提案人不在場，均不處理。
+現在回頭處理第三十五案。
+三十五、主決議：內政部102年度預算於「社會救助業務」之「辦理急難救助工作」項下，編列預算4億6,628萬3,000元，然目前卻存在以不同計畫名稱實施急難救助的現象，形成多軌急難救助系統，不利民眾瞭解、通報或申請。另外，依據司法院釋字第614號解釋文：「……給付行政措施……如涉及公共利益或實現人民基本權利之保障等重大事項者，原則上仍應有法律或法律明確之授權為依據，主管機關始得據以訂定法規命令。……」據此，內政部以「馬上關懷急難救助作業要點」、「內政部急難救助金申請審核及撥款作業規定」等，規範急難救助相關涉及公共利益、人民權利等重大事項，卻無明確法律授權依據，不符法律保留原則，爰請內政部儘速通盤檢討法規，並有效整合急難救助運作機制，以確實發揮急難救助功能，並符依法行政原則。
+提案人：蔡錦隆
+連署人：蘇清泉　　徐少萍　　王育敏　　楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第三十六案。
+三十六、主決議：內政部於102年度預算編列「社會福利服務業務－推展老人福利服務」27億8,674萬7,000元。我國因高齡化及少子化影響，對長期照護的需求極為迫切，然而政府建置長期照護資源成效不彰：97年至99年照顧服務（含居家服務、日間照顧、失智症老人日間照顧、家庭托顧）的目標服務人數達成率皆僅六成；98-100年提供各項長期照顧服務的單位數量未有大幅成長，甚至某些縣市、某些項目機構數量不增反減。因此屢屢出現民眾申請長照服務媒合成功、服務時數亦獲得核可後，卻得不到任何服務之情況。爰請內政部檢討長期照顧十年計畫，提出增加長期照護服務量之具體策略。
+提案人：蔡錦隆
+連署人：蘇清泉　　徐少萍　　王育敏　　楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+進行第三十七案。
+三十七、主決議：內政部於102年預算編列「社會福利服務業務－規劃建立社會工作專業」1億22萬4,000元，其中包括辦理強化專業知能訓練、教育訓練、職前及在職訓練等業務。當發生家暴及性侵害等重大案件時，由於受害者可能因不熟悉法律規範導致權益受損，往往必須仰賴社工人員第一時間的協助，提醒受害者法律權利義務，儘量避免其權利受損。為強化社工人員法律專業能力，爰請內政部辦理社工相關知能訓練時應納入一定時數之法治教育。
+提案人：蔡錦隆
+連署人：蘇清泉　　徐少萍　　王育敏　　楊玉欣
+主席：請問各位，對本案有無異議？（無）無異議，通過。
+現在時間還差23秒就到下午5時30分，請問各位委員是繼續處理還是擇期再審？
+蔡委員錦隆：（在席位上）擇期再審。
+王委員育敏：（在席位上）繼續審好了！
+主席：你們的改變也太大了吧！那就繼續審查。
+第二十九案改為主決議，其內容如下：
+「內政部已經公告「身心障礙手冊核發辦法」其中關於需求評估，需依『身心障礙者福利與服務需求評估訪談表』就七十二個問題進行訪談，訪談後如有需求則再核對『身心障礙者福利與服務標準表』看該身心障礙者可以符合哪些服務可以提供的標準。目前在身心障礙者權益保障法依據需求評估提供服務的條文有第五十案、第五十一案、第五十六案、第五十八案、第五十九案及第七十一案，不過身心障礙者的需求不全然都只有規定在身心障礙者權益保障法的範圍內，也會產生醫療、法律、住宅、營建（無障礙）等需求。需求評估之後呈現的需求，應該是包括但不限於身心障礙者權益保障法範圍的概念。
+請內政部於三個月內邀請身心障礙需求評估各直轄市、縣（市）主管機關及身障團體、專家學者代表分障礙類別，深入檢討需求評估是否有遺漏障礙者相關需求以及後續服務提供之聯繫是否確實，將檢討報告提送本委員會。
+請問各位，有無異議？（無）無異議，修正通過。
+現在進行兒童局的部分。
+第10項 兒童局 7,167,496千元
+第1目 一般行政 77,382千元
+主席：第1目共有3項提案。進行第五十七案。
+五十七、有鑑於退休人員已領取優渥之月退休金外，卻仍比照在職軍公教領取年終慰問金，每年需支應經費超過200億元。民國54年公務人員退休法施行細則所定「領月退休金者，遇有臨時加發薪金時，月退休金亦得按比率支給」已在民國99年刪除，繼續發放年終慰問金，適法性不足，於理不合，且國庫困窘，政府舉債度日，執意發放，無疑由政府帶頭製造社會對立，再度加深軍公教人員與一般勞工間的相對剝奪感，爰此，102年度內政部兒童局「人事費」之「獎金」中有關「退休人員年終慰問金」部分，應予全數刪除。
+提案人：劉建國
+連署人：趙天麟　　楊　曜　　田秋堇
+主席：第五十七案、第五十八案及第五十九案原本應該併案處理，但因第五十八案及第五十九案的提案人均不在場，所以我們就只處理第57案。
+請問各位，對第五十七案通過有無異議？
+徐委員少萍：（在席位上）保留協商。
+主席：請內政部曾次長說明。
+曾次長中明：主席、各位委員。有關年終慰問金的部分，應該要通案處理，所以本案應該保留送朝野協商。
+第六十案及第六十一案因提案人不在場，不予處理。
+進行第六十二案。
+張局長秀鴛：（在席位上）第六十二案、第六十三案、第六十四案、第六十五案、第六十六案及第六十九案是同樣性質的提案。
+主席：除第六十二案外，其餘各案的提案人均不在場，所以我們僅處理第六十二案。進行第六十二案。
+六十二、102年度內政部兒童局預算「一般行政」項下「基本行政工作維持」編列2,855萬1千元，兒童局因接收國民健康局辦公空間，102年度衍生增加水電費、養護費等行政支出1,342萬元，惟兒童局業務及人員配合幼托整合而均有縮減，恐未符撙節原則，且平均每人辦公面積超過標準甚多，應儘速妥善規劃運用。爰建議刪除該預算二分之一。
+提案人：林世嘉
+連署人：田秋堇　　陳節如
+主席：請問各位，對第六十二案通過有無異議？
+請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。這幾個案子的性質都相同，建議將文字改為：「建議凍結5,000千元，並俟衛生福利部組織法通過後始可動支。」
+主席：請林委員世嘉發言。
+林委員世嘉：主席、各位列席官員、各位同仁。本席的提案是基於幼托整合後，你們的人員有減少，可是卻編列很多水電費、養護費，支出增加一千多萬元，你們的辦公地點是在黎明路二段503號，那是很好的地方，有需要編列這麼多預算嗎？
+主席：請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。我們原先是在6樓，因為組織法也許明年就會上路了，所以5樓部分在國健局離開後，我們就會接管他們的辦公處所，將來社家署成立後，中部辦公室會用到那邊，所以我們先編列預算，將來組織法通過後就可以動支這筆錢，所以才會建議做這樣修正。
+林委員世嘉：你剛才說要凍結多少？
+張局長秀鴛：500萬元。
+林委員世嘉：不能這樣做啦！其實這個問題是預算中心提出來的，否則我們根本不可能知道這麼細，而且這麼多位委員都提出同樣的提案，但你卻建議僅將預算凍結，仍然可以使用，沒那麼好康啦！
+張局長秀鴛：我的意思是說，如果組織法沒有通過、沒有上路的話，凍結的部分就不能動了。
+林委員世嘉：組織法沒有通過，三千多萬的預算就全刪啦！
+張局長秀鴛：如果組織法沒有通過，這筆錢的確不能使用。
+林委員世嘉：現在國健局的東西你們都不能用，一定要重新做裝潢，很漂亮才能夠用嗎？
+張局長秀鴛：應該這樣說，有些部分我們在11月時就已經接管了，所以包括維修費用、水電費、管理費等費用，即便我們沒有搬下去……
+林委員世嘉：請問單層的面積是多少？
+張局長秀鴛：一層大概是328坪左右，將來衛福部中辦有部分檔案必須放在這裡，所以即便我們現在沒有下去使用，還是有一些開銷是必須支付的，包括基本的水電費、管理費、維護費等。
+林委員世嘉：所以本席的提案只刪一半啊！
+張局長秀鴛：建議是不是凍結500萬，因為萬一將來組織法通過，刪掉後我們就沒有錢可以使用了。
+林委員世嘉：就算我們同意凍結一半，如果組織法沒有通過，你們也不需要花那麼多錢，因為你們接收國健局的樓層不是只做資料儲存嗎？
+張局長秀鴛：即便組織法沒有通過，那個空間的管理費還是要支付。
+林委員世嘉：本席要刪的是維持費，你們根本不需要花到一千多萬，全部的預算才2,855萬1,000元，就算我們同意凍結一半，但另一層樓的改裝費如果需要花費一千多萬，我覺得還是不對的，所以應該是凍結一半……
+張局長秀鴛：我們是編980萬元，其他都是原來的基本開銷。
+林委員世嘉：如果組改沒有通過，改裝的費用就不能夠使用，另外，那個樓層如果只是拿來儲存資料，就不應該花這麼多裝修費用，因為沒有理由說原來的東西全部都不能用，必須全部裝修啊！
+張局長秀鴛：絕對沒有，如果組改……
+林委員世嘉：那個空間總共花多少錢？
+張局長秀鴛：在新的組織法上路後，那個空間我們只有編列980萬元的預算，其他都是兒童局原來的行政開銷。
+林委員世嘉：980萬已經可以在台中買一間透天厝了！
+張局長秀鴛：那是一層樓328坪空間的改裝費用，另外，除了購置裝備外，可能還有一些電線、會議室的設施設備需要購買，並不會像委員說的，如果組織法沒有通過，980全部都不會使用到，因為有一些基本的水電費還是要支付，即便我現在人沒有搬進去，我們還是要支付那些管理費。
+林委員世嘉：有需要這麼多嗎？這些錢都是民脂民膏，這樣花是沒有道理的。
+主席：請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。局長，這部分目前是租用的嗎？
+主席：請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。不是。
+江委員惠貞：那為什麼還要付管理費？整棟樓不是都是你們所有嗎？
+張局長秀鴛：因為大樓還是有一些管理人員。
+江委員惠貞：那個地方本席沒有去過，那棟大樓並不是全部都是兒童局所有？
+張局長秀鴛：不是。
+江委員惠貞：歷年來都有編列管理費嗎？
+張局長秀鴛：都有編，這一次多編的980萬元就是為了要因應組改必須搬到樓下去。
+江委員惠貞：所以這筆錢是辦公廳舍在搬遷過程中所需的費用，因為包括管線在內，一定要利用這個時候去做處理，這些都是必要的支出，所以你剛才那句話必須補上去，組織法必須通過始得動支，對不對？
+張局長秀鴛：是。
+江委員惠貞：如果組織法沒有通過，那筆錢是不能夠用的。
+張局長秀鴛：對。
+江委員惠貞：所以林委員不需要擔心這個問題，但除了這筆錢之外，你們能夠被刪的額度是多少，局長必須說清楚。
+張局長秀鴛：我們建議凍結500萬。
+江委員惠貞：其餘部分必須等到組織法通過後始得動支？
+張局長秀鴛：這500萬是組織法通過後才會動支。
+江委員惠貞：你剛才不是講980萬嗎？
+張局長秀鴛：980萬裡面有一部分是即便組織法沒有通過，我們還是要支出的費用。
+江委員惠貞：維持那間房子的所有開銷，例如：水電費？
+張局長秀鴛：是。
+江委員惠貞：因為這個樓層本來不是你們的，移交後就成為你們必須支付的必要費用。
+張局長秀鴛：對。
+江委員惠貞：所以我們必須去看國健局有沒有編列這筆預算，如果國健局沒有編列，這邊就一定要編列。
+林委員世嘉：（在席位上）那一層300多坪的空間是要做什麼用途？
+張局長秀鴛：目前是空在那邊。
+林委員世嘉：（在席位上）如果不馬上維修，電線或其他設施就不能夠用了？
+江委員惠貞：不是，組織法通過後，他們才能去使用那500多萬，其餘的300、400萬其實是常年必須支付的管理費、水電費，那是300多坪房屋所需的必要開銷。
+林委員世嘉：（在席位上）如果沒有在使用，需要花到那麼多錢嗎？
+張局長秀鴛：這有一點像是我們跟人家租房子，即便我們沒有搬進去，管理費及基本的水電費還是要支付。
+江委員惠貞：所以現在應該去對照國健局編列的預算，因為兒童局應該是以國健局過去編列的預算為基礎去編的，另外就是將來必須要做簡單的裝潢及整理所需的費用，既然組織法通過後才能夠動支，那就凍結500萬元。
+張局長秀鴛：麻煩委員支持，文字修正部分，我們稍後會提供給記錄人員。
+主席：本案先保留，等兒童局提出修正文字後再做處理。
+第六十三案、第六十四案、第六十五案及第六十六案提案人均不在場。進行第六十七案。
+六十七、「特別費」之法令依據主要有三：一、中央政府總預算編製作業手冊之「用途別預算科目分類定義及計列標準表」(一)定義：凡各機關、學校之首長、副首長等人員因公務所需，並經核定有案之特別費屬之。(二)預算計列標準：依實際需要按規定標準計列；二、中央政府各機關單位預算執行作業手冊之「中央政府各機關用途別科目分類及執行標準表」。執行標準：1.依照預算按規定標準執行。2.各機關特別費之支用，依行政院95年12月29日院授主忠字第0950007913號函及98年4月23日院授主忠字第0980002467號函規定辦理：三、中央政府各機關單位預算執行要點：各機關編列之特別費，應切實依行政院頒標準及支用規定覈實辦理，不得超支。其次，特別費使用範圍包括：1.贈送婚喪喜慶之禮金、奠儀、禮品、花籃（圈）、喜幛、輓聯、中堂及匾額等支出。2.本機關及所屬機關人員之獎（犒）賞、慰勞（問）及餐敘等支出。3.外部機關（即本機關及所屬機關以外之機關）、民間團體與有關人士等之招待、餽（捐）贈及慰問等支出。綜上所述，「特別費」之法源基礎薄弱，屬於權宜措施性法律，加上當前經濟成長疲軟及國家財政日益惡化之際，各機關、學校之首長、副首長等人員之特支費應力行撙節，爰此，102年度內政部兒童局「一般行政」之「首長特別費」部分，應予刪除二分之一。
+提案人：劉建國
+連署人：趙天麟　　楊　曜　　田秋堇
+主席：請問各位，對第六十七案通過有無異議？
+張局長秀鴛：（在席位上）建議保留協商，併通案討論。
+主席：本案保留協商。
+進行第2目。
+第2目　兒童及少年福利業務5,884,140千元
+主席：第2目共有4項提案。進行第七十一案。
+七十一、第7款第10項第2目　科目名稱：兒童及少年福利業務－福利服務，本年度預算數：5,774,541千元，建議凍結5,000千元。
+增刪理由：
+兒童局公告兩個計劃「保母托育管理與托育費用補助實施計畫」和「父母未就業家庭育兒津貼實施計畫」，一般戶的排富資格，改為以所得稅稅率未達20%者可以獲得補助和津貼。
+我們來看保母托育管理計畫。一家三口來計算，家有一個小孩，夫妻都在工作，繳12%家戶最高淨所得為113萬，加上免稅額，標準扣除額，薪資所得特別扣除額，所以家戶所得至少可以達到1,736,000元，平均家戶每月收入為144,667元。反觀如果是一般戶，剛好未能符合中低收入戶（以台灣省為例），他的家戶年所得為553,176元，平均月收入為46,098。
+繳12%的家戶淨所得在1,130,000可以有
+●免稅額82000*3=246,000
+●標準扣除額夫妻兩人152,000
+●薪資所得特別扣除額104000*2=208,000
+合計他們的所得可以扣除606,000元，家戶所得可達1,736,000元。
+以台灣省最低生活費1.5倍來看，（10,244*1.5=15,366；15,366*3*12=553,176）
+如果保母費用平均價每月15,000來計算，一般家庭補3,000，須自負12,000元，最窮的一般戶保母費用占家戶所得的26%；而最有錢的一般戶只佔其家戶所得8.3%。
+況且未符合中低收入戶的一般戶，還有可能是因為有家戶人口被設算所得而不能符合者；而最有錢的一般戶甚至有些未納入所得稅的所得。一般戶不分級不公平更加深。
+父母未就業家庭育兒津貼實施計畫的發放津貼標準亦有同樣問題，爰凍結兒童及少年服務業務經費5,000千元，請兒童局研訂並施行「依家庭經濟狀況給予不同級數補助額度」之方案後，使得解凍。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+主席：請問各位，對第七十一案通過有無異議？（無）無異議，通過。
+第七十二案及第七十三案因提案人不在場，不予處理。
+進行第3目。
+第3目　兒童托育業務　989,903千元
+主席：第3目共有3項提案。進行第七十四案。
+七十四、第7款第10項3目　科目名稱：兒童托育業務－托育服務，本年度預算數：989,903千元，建議凍結20,000千元。
+增刪理由：
+兒童局為兌現馬總統競選時的爺奶津貼政策，從101年七月一日起將爺奶津貼納入保母托育管理與托育補助計畫中增列親屬保母制度。
+在兒童及少年福利與權益保障法第二十五條第二項規定「前項所稱居家式托育服務，指兒童由其三親等內親屬以外之人員，於居家環境中提供收費之托育服務。」同法第二十六條規定「提供居家式托育服務者，應向直轄市、縣（市）主管機關辦理登記後，始得為之。同條第二項規定：居家式托育服務提供者應年滿二十歲並具備下列資格之一：一、取得保母人員技術士證。二、高級中等以上學校幼兒保育、家政、護理相關學程、科、系、所畢業。三、修畢保母專業訓練課程，並領有結業證書。」
+爺奶屬於直系血親二親等，且納入保母管理制度後須符合第二十六條第二項第三款規定須上課126小時取得結業證書，他的孩子才能申請托育補助。
+更嚴重的是，納管後各縣市為因應爺奶上保母課程，不斷加開每人8,000元自費班保母課程，甚至出現夜間部等怪象；也出現奶奶照顧孫子、爺爺去上課卻無從管理的問題。另依據「保母托育管理與托育費用補助實施計畫」每60名保母須配置有一名訪視督導員，親屬保母數量大幅成長後，訪視督導員的人力配置卻未見相應成長；且如訪視督導員發現爺奶的居家環境和照顧能力有問題，根本無法提出改善計畫或終止爺奶保母業務。
+綜上，爺奶（親屬）保母納入保母托育管理與托育費用補助實施計畫，不僅違反兒童及少年福利與權益保障法第25條之規定，政策執行上也出現許多資源錯置問題，恐造成原社區保母系統之崩潰。爰此，凍結托育服務業務20,000千元，待兒童局通盤檢討親屬保母制度之問題，並提出具體解決辦法，向本委員會提出專案報告，始得解凍。
+提案人：陳節如
+連署人：田秋堇　　趙天麟
+主席：請問各位，對第七十四案通過有無異議？
+請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。懇請委員刪掉1個0，因為如果凍結2,000萬元，將會影響托育費用的補助，家長就會拿不到錢，建議改為凍結200萬元。
+主席：本案改為凍結200萬元。
+進行第七十五案。
+七十五、100年11月11日《兒童及少年福利與權益保障法》立法院三讀後，第25條「居家式托育登記制」將於103年施行，並整合現行之「保母托育管理與托育費用補助實施計畫」（102年保母管理預算約2億元、未滿2歲幼兒之托育補助約7億元）。然而本法三讀已屆一年，相關配套子法尚未制定完成，恐造成新制與舊制無法順利整合，直轄市、縣（市）政府準備不及。爰凍結「兒童托育業務」項下「托育服務」業務費10,371千元二分之一，待兒童局於102年7月前整合子法與現行制度，並向立法院社會福利及衛生環境委員會報告經同意後始得動支，以求保母托育制度無縫接軌。
+提案人：劉建國
+連署人：趙天麟　　楊　曜　　田秋堇
+主席：請問各位，對第七十五案通過有無異議？
+請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。懇請委員改為凍結四分之一。
+主席：好，併案凍結四分之一。
+進行第七十六案。
+七十六、有鑑於內政部兒童局近年來用於托育服務政策之宣導經費，其預算金額、宣導方式與執行成效，均有待檢討改進之處；惟該局102年度用於各項業務宣導之預算金額合計達891萬元，額度較前一年度不減反增，適切性有待商榷。相形之下，該局102年度補助辦理高風險家庭關懷輔導處遇服務之獎補助費，預算金額較101年度減列，恐影響法定兒少保護服務業務之推展。當前政府財政困難，用於各項兒少福利「服務」之預算，優先性理應高於兒少福利政策宣導費用。爰此，凍結「兒童托育業務」項下之「托育服務－業務費」預算三分之一，待內政部兒童局提出102年度托育服務政策宣導費用之細部執行計畫，並針對高風險家庭關懷輔導處遇服務之預算遭減編後，如何確保各承辦民間團體之運作經費無虞，向立法院社會福利及衛生環境委員會報告，經同意後，始得動支。
+提案人：王育敏
+連署人：徐少萍　　吳育仁
+主席：併案凍結四分之一。
+進行第4目。
+第4目　保護服務業務　215,801千元
+主席：第4目無委員提案，照列。
+進行第5目。
+第5目　第一預備金　270千元
+主席：第5目無委員提案，照列。
+繼續處理主決議提案，共有11案。
+第七十七案及第七十八案因提案人不在場，不予處理。
+進行第七十九案。
+七十九、決議：有鑑於97年度開辦之保母托育管理與托育費用補助計畫，至101年7月底止，受益幼童2萬5,948人，占2歲以下幼童人數比率為6.71%；相較101年度起開辦之父母未就業育兒津貼計畫，迄今年7月底止，該計畫受益幼童達15萬6,336人，占2歲以下幼童比率達40.44%。查渠等計畫均為減輕家有未滿2歲幼童父母之育兒負擔，惟保母托育管理與托育費用補助計畫，歷經4年多之辦理成效仍屬有限。內政部兒童局應就渠等計畫之性質、目的、補助對象、補助方式、補助額度、執行成效等，於3個月內研提檢討改善報告，送交立法院社會福利及衛生環境委員會。
+提案人：王育敏
+連署人：徐少萍　　 楊玉欣
+主席：請問各位，對第七十九案通過有無異議？（無）無異議，通過。
+進行第八十案。
+八十、決議：102年度內政部兒童局共編列2.1億元用於執行「保護服務業務」，為落實兒童及少年福利與權益保障法第54條之1所定兒虐早期預防查訪機制，請內政部兒童局主動彙整司法院、法務部檢察司、內政部警政署、法務部調查局、國防部憲兵司令部、海岸巡防署等單位擬定之查訪作業流程，避免各單位出現重複查訪或疏於查訪之情形。另針對前開單位未依規定查訪毒犯家中十二歲以下兒童之生活與照顧情形，即逕行通報各縣市社政單位者，亦請內政部兒童局予以關切和記錄，每半年至少召開一次檢討會議，並於該條文施行滿1年後，由內政部兒童局彙整各單位之執行成效與檢討報告，送交立法院社會福利及衛生環境委員會。
+提案人：王育敏
+連署人：徐少萍　　楊玉欣
+主席：請問各位，對第八十案通過有無異議？
+請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。建議倒數第3行後半段修正為：「每半年提報內政部兒童及少年促進會追蹤列管」，其餘文字不做修正。
+主席：請問各位，對第八十案照張局長所提建議修正意見通過有無異議？（無）無異議，修正通過。
+進行第八十一案。
+八十一、主決議：鑒於行政院內政部兒童局辦理「父母未就業家庭育兒津貼實施計畫」，鑑於該計畫與各地方政府發放之生育津貼及育兒津貼，其目的與性質雷同，宜整合運用，以利區域均衡發展與福利資源配置。爰以要求內政部針對中央政府與地方政府發放之生育津貼與育兒津貼之整合，與各地方政府商討提出整合計畫報告。
+說明：
+1.據審計部統計，100年度92個地方政府發放生育津貼預算編列計13億7,852萬餘元，又臺北市政府編列「助妳好孕－生育獎勵金」經費4億6千萬元、「助妳好孕－育兒津貼」經費25億元，是以，各地方政府100年度至少投注43億元於補助國人生養子女津貼，以減輕父母育兒負擔。基此，鑑於補助性質及用意相同，且福利資源有限，內政部宜整合中央與地方發放之生育津貼及育兒津貼，以利區域均衡發展，並避免福利資源錯置。
+2.鑑於「父母未就業家庭育兒津貼實施計畫」與各地方政府發放之生育津貼及育兒津貼，其目的與性質雷同，宜整合運用，以利區域均衡發展與福利資源配置。爰以要求內政部針對中央政府與地方政府發放之生育津貼與育兒津貼之整合，與各地方政府商討提出整合計畫報告。
+提案人：林世嘉
+連署人：田秋堇　　陳節如
+主席：請問各位，對第八十一案通過有無異議？
+請林委員世嘉發言。
+林委員世嘉：主席、各位列席官員、各位同仁。本席要做修正，修正為請兒童局於6個月內提出報告，否則這個案子對兒童局就沒有拘束力了，既然各縣市的資源需要做整合、協調，請兒童局於6個月內提出報告。
+主席：請問各位，對第八十一案照林委員世嘉所提建議修正意見通過有無異議？（無）無異議，修正通過。
+進行第八十二案。
+八十二、主決議：「居家式托育登記制」子法與舊制「保母托育管理與托育費用補助實施計畫」整合時，應考量財政可行性、民眾需求與經濟負擔，納入以下條文：
+一、應比照舊制，由中央依比例補助地方政府（各地方經費自籌比例為台北市50%、新北市等40%、台南市等30%、雲林縣等20%、嘉義縣等10%）。避免弱勢地區因財源不足，被迫取消或縮減居家式托育輔導管理服務。
+二、參照「社區保母系統」管理方式，明訂保母輔導單位有定期與不定期訪視、危急個案管理、托育媒合、評鑑考核之責任，並提供保親申訴溝通管道，強化幼兒托育之社會可信度。
+三、新制之「托育收費及保母人員薪資基準」，應根據青壯年（25~34歲）受雇者平均薪資所得、一般家庭合理育兒成本審訂之。
+提案人：劉建國
+連署人：趙天麟　　楊　曜　　田秋堇
+主席：請問各位，對第八十二案通過有無異議？（無）無異議，通過。
+進行第八十三案。
+八十三、主決議：依據歷年度我國托育機構概況（詳附表），公立托兒所與私立托兒所之數量比例，差距越來越懸殊，即平均每12.5所私立托兒所始有一間公立托兒所；而所招收之人數比例也從1：1.1到今天的1：3.38，公私立托兒所明顯失衡。其次，據統計，在常態收托「起訖時間」方面，私立者很明顯地比公立者較早開始卻較晚結束服務。故內政部應研議並制定「友善兒童照顧政策」，包括：居家式托育服務（例如三娃保母）、托嬰中心教保服務，以及因應不同地理位置（弱勢優先區域）、不同族群需要的另類托兒照顧服務，並建構完整及健全的友善兒童照顧系統，讓年輕家庭可以安心生育。
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="111"><col WIDTH="111"><col WIDTH="111"><col WIDTH="111"><col WIDTH="111"><col WIDTH="111"><col WIDTH="114"><tbody><tr><td COLSPAN="7" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm; margin-bottom: 0.19cm"><font FACE="華康楷書體W5, cursive"><font SIZE="4">歷年我國托育機構概況</font></font></p><p LANG="" CLASS="cjk" ALIGN="RIGHT" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA5532873"></a>單位：所、人</p></td></tr><tr VALIGN="TOP"><td WIDTH="111" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>年度</p></td><td COLSPAN="2" WIDTH="228" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">公立托兒所</p></td><td COLSPAN="2" WIDTH="228" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">私立托兒所</p></td><td COLSPAN="2" WIDTH="230" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">托兒所總計</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><br></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">所數</p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">人數</p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">所數</p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">人數</p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">所數</p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">人數</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">85</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">674</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">112,310</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,548</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">122,657</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">2,222</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">234,967</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">90</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">384</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">105,068</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,216</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">213,850</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,600</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">318,918</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">95</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">341</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">74,233</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,872</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">191,996</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">4,213</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">266,229</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="CENTER" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: 0.61cm; left: -0.09cm; width: 820px"><hr></span><font FACE="Times New Roman, serif"><span LANG="en-US">100</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">271</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">55,835</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,402</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">188,586</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3,681</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">244,421</span></font></p></td></tr></tbody></table>
+資料來源：1.內政部兒童局官方網站
+2.公立托兒所含社區內托兒所，100年度統計至12月底止。
+提案人：劉建國
+連署人：陳節如　　田秋堇
+主席：請問各位，對第八十三案通過有無異議？（無）無異議，通過。
+第八十四案及第八十五案因提案人不在場，不予處理。
+進行第八十六案。
+八十六、主決議：內政部兒童局102年度預算案於「兒童托育業務」之「獎補助費」項下，編列辦理「發展遲緩兒早期療育服務及療育費補助」86,767千元，用於辦理發展遲緩兒童約23,000人早期療育費補助。惟，一、20幾年來全國各縣市均設3-6歲療育機構頗具成效但遺憾的是，「0-3歲」卻無積極性、密集性、統整性與專門性方案與服務政策，延誤了最關鍵的療育期；二、據世界衛生組織資料顯示，遲緩兒童盛行率約6-8%，以台灣2011年為例，推估0-3歲遲緩嬰幼兒約為45,054人-60,072人，然而，通報人數卻僅5,850人，可見通報率極低。又，台灣2011年粗出生率0.85，是世界最低。這意味每一位母親都是新手母親，無養育子女的經驗，對於極具專業與複雜性之兒童發展難以判斷，因而錯失了提早懷疑發展遲緩機會，這亦是通報率極低之主因；三、為求把握遲緩嬰幼兒最關鍵療育期，應重新檢討評估機制之妥善，包括評估中心單一窗口，是否為最佳設計？另外，評估工具是否應多元化、評估標準是否應更彈性化，以利加強評估者專業力與敏銳度。
+提案人：劉建國
+連署人：陳節如　　田秋堇　　楊　曜
+主席：請問各位，對第八十六案通過有無異議？
+請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。建議將倒數第3行「應重新檢討評估機制之妥善」修正為：「行政院衛生署國民健康局應重新檢討評估機制之妥善」，因為這項業務是屬於國民健康局的業務。
+主席：請問各位，對第八十六案照張局長所提建議修正意見通過有無異議？（無）無異議，修正通過。
+進行第八十七案。
+八十七、主決議：內政部兒童局102年度預算案於「兒童托育業務」之「獎補助費」項下，編列辦理「托育中心輔導、托育服務及早期療育研習觀摩、宣導等補助費」1,000千元，用於辦理早期療育宣導及研習等活動。惟，一、20幾年來全國各縣市均設3-6歲療育機構頗具成效，但遺憾的是，「0-3歲」卻無積極性、密集性、統整性與專門性方案與服務政策，延誤了最關鍵的療育期；二、查聯合國兒童權利公約，兒童應在以家庭為基礎之自然環境成長，最符合其最佳利益，即嬰幼兒的學習，應以依附母親（父親），並在安全愉悅的環境為最佳之道。然遺憾的是，我國目前遲緩服務方案卻是：(一)讓嬰幼兒全日在機構接受服務（非自然環境），造成專業者取代母親的角色；(二)每月3,000元療育津貼（或每次800元到宅服務），也就是每月四次（每週不到一小時）之療育訓練，根本無法達到密集性之療育成效；三、有遲緩嬰幼兒之父母親，應「放寬育嬰留職停薪津貼」12至24個月給付，因父母親既然為療育的執行者，若不放寬津貼給付月數，將迫使父母為生計重回職場，放棄扮演影響嬰幼兒執行服務介入角色，嚴重影響遲緩嬰幼兒學習成效與其權益。
+提案人：劉建國
+連署人：田秋堇　　陳節如　　楊　曜
+主席：請問各位，對第八十七案通過有無異議？
+請內政部兒童局張局長說明。
+張局長秀鴛：主席、各位委員。建議將倒數第5行應「放寬育嬰……」修正為：行政院勞工委員會應「放寬育嬰……」。
+主席：請問各位，對第八十七案照張局長所提建議修正意見通過有無異議？（無）無異議，修正通過。
+現在處理保留之第六十二案。
+第六十二案修正如下：「102年度內政部兒童局預算「一般行政」項下「基本行政工作維持」編列2,855萬1千元，兒童局因接收國民健康局辦公空間，102年度衍生增加水電費、養護費等行政支出1,342萬元。」查係為配合衛生福利部組織改造增列之辦公室空間各項維護費用，爰凍結500萬元，俟衛生福利部組織法通過後始得動支。
+請問各位，對第六十二案照以上修正文字通過有無異議？（無）無異議，修正通過。
+現在回頭處理保留的提案，第一案改為刪減10萬元，第十案改為主決議提案，請內政部社會司簡司長說明建議修正意見。
+簡司長慧娟：主席、各位委員。建議將倒數第4行綜上所述以下文字全數刪除，改為「請內政部增加對農保業務的宣導，並於兩個月內提出農保業務宣導效益的書面報告。」。
+主席：請問各位，對第十案改為主決議提案，並照簡司長所提建議修正意見通過有無異議？（無）無異議，修正通過。
+繼續處理第十三案。
+請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。第十三案經與陳委員協調，改為凍結100萬元。
+主席：第十三案改為凍結100萬元。
+第二十二案撤案，不予處理。
+繼續處理楊委員玉欣等所提臨時提案。
+一、民國102年度中央政府總預算案，社會福利支出總數為4,390億，佔所有歲出預算的22.6%。然雖有龐大的社福預算，但其中84%為社會保險支出，相對壓縮了福利服務的發展空間。98年福利服務支出仍占社福總預算31.09%，但在102年度的預算中，僅剩下14.29%。而有限的社福資源中，絕大多數又用於現金給付，例如老農年金、育兒津貼、兒少生活補助、就學生活補助等，津貼發放排擠了實物給付與福利服務的發展空間。目前福利服務仍屬於擴張期，相關福利服務仍在建置當中，例如急迫需要建構的長照服務體系、身心障礙服務資源不足、高風險家庭處遇、社會救助等。如能將有限的社福資源用於發展細緻的福利服務，其效果優於單純的津貼發放。為了促使社福預算做有效之運用，行政院應責成相關部會，針對現有社福津貼之制度，研擬津貼發放之績效評鑑指標，並建立各項社福津貼考評與退場機制，並於一個月內向本院提出專案報告。
+提案人：楊玉欣
+連署人：劉建國　　王育敏
+主席：請問各位，對楊委員玉欣等所提臨時提案通過有無異議？
+請內政部社會司簡司長說明。
+簡司長慧娟：主席、各位委員。建議將倒數第3行「行政院應責成相關部會」以下文字修正為「行政院應責成內政部，針對現有社福津貼之制度進行通盤檢討。」其餘後面的文字全部刪除。
+主席：請問各位，對楊委員玉欣等所提臨時提案照簡司長所提建議修正意見通過有無異議？（無）無異議，修正通過。
+本次會議作如下決議：中華民國102年度中央政府總預算案有關內政部（社會司、國民年金監理會、家庭暴力及性侵害防治委員會）及兒童局單位預算案審查完竣，提報院會處理。委員提案除第五十七案及第六十七案保留協商外，其餘各案均不須交黨團協商。
+今天的會議到此結束，散會，謝謝大家。
+散會（18時4分）

@@ -1,0 +1,2144 @@
+立法院第8屆第2會期交通委員會第11次全體委員會議紀錄
+時　　間　中華民國101年11月12日（星期一）上午9時4分、下午2時30分
+地　　點　本院紅樓201會議室
+主　　席　林委員明溱
+主席：出席委員已足法定人數，現在開會。進行報告事項。
+報　告　事　項
+宣讀上次會議議事錄。
+<hr>
+立法院第8屆第2會期立法院交通委員會第10次全體委員會議議事錄
+時　　間：中華民國101年11月5日（星期一）上午9時至13時20分
+下午14時33分至16時45分
+101年11月8日（星期四）上午9時1分至12時22分
+下午14時30分至15時39分
+地　　點：本院紅樓201會議室
+出席委員：盧嘉辰　　李昆澤　　劉櫂豪　　羅淑蕾　　楊麗環　　魏明谷　　林明溱　　管碧玲　　蔡其昌　　葉宜津　　李鴻鈞　　陳雪生　　王進士　　陳根德
+委員出席14人
+列席委員：陳亭妃　　江啟臣　　邱議瑩　　黃昭順　　黃偉哲　　廖正井　　林佳龍　　林正二　　鄭天財　　許添財　　薛　凌　　盧秀燕　　吳秉叡　　陳歐珀　　林世嘉　　陳明文　　李桐豪　　林德福　　李貴敏　　邱文彥　　馬文君　　簡東明　　江惠貞　　張慶忠
+蕭美琴　　吳育仁　　蘇清泉　　邱志偉　　林滄敏　　徐欣瑩　　徐耀昌　　高金素梅
+呂學樟　　潘維剛　　田秋堇　　黃文玲　　林鴻池　　楊瓊瓔　　廖國棟　　吳育昇
+委員列席40人
+<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="91"><col WIDTH="217"><col WIDTH="185"><col WIDTH="301"><tr VALIGN="TOP"><td WIDTH="91" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td COLSPAN="3" WIDTH="715" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" ALIGN="LEFT"><font FACE="華康細明體, monospace"><span LANG="en-US">11</span></font>月<font FACE="華康細明體, monospace"><span LANG="en-US">5</span></font>日（星期一）上午</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">交通部</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">部　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">毛治國</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">路政司</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">司　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">陳彥伯</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">航政司</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">副 司 長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">陳進生</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">人事處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">處　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">林文燦</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">會計處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">會計長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">洪玉芬</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">中央氣象局</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">局　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">辛在勤</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">副局長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">葉天降</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">會計室</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">林春綢</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">氣象預報中心</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">鄭明典</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">地震測報中心</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">郭鎧紋</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">氣象資訊中心</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">申湘雄</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">運輸研究所</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">所　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">林志明</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主任秘書</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">林繼國</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">會計室</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">董欣靜</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">運工組</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">組　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">陳一昌</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">運安組</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">組　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">張開國</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.37cm">港研中心</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">邱永芳</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院主計總處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">專門委員</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">陳月香</p></td></tr><tr VALIGN="TOP"><td WIDTH="91" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td COLSPAN="3" WIDTH="715" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><font FACE="華康細明體, monospace"><span LANG="en-US">11</span></font>月<font FACE="華康細明體, monospace"><span LANG="en-US">5</span></font>日（星期一）下午</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm">飛航安全調查委員會</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主任委員</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">張有恆</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">執行長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">王興中</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.49cm; margin-right: 0.19cm">人事管理員</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">廖捐惠</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">會計員</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">李素惠</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">事故調查組</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">組　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">蘇水灶</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">飛航安全組</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">組　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">任靜怡</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">副工程師</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">蔡正達</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">調查實驗室</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">官文霖</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.56cm; margin-right: 0.19cm">秘書室</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">韓若明</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">管理師</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">江玉慧</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm">行政院主計總處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">專門委員</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">陳月香</p></td></tr><tr VALIGN="TOP"><td WIDTH="91" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td COLSPAN="3" WIDTH="715" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT"><font FACE="華康細明體, monospace"><span LANG="en-US">11</span></font>月<font FACE="華康細明體, monospace"><span LANG="en-US">8</span></font>日（星期四）</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm">行政院公共工程委員會</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主任委員</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">陳振川</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><br></p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主任秘書</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">顏久榮</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">企劃處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">處　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">蘇明通</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">技術處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">處　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">徐景文</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">工管處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">處　　長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">連振賢</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">秘書處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">專門委員代處長</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">張文富</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">促參籌備處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">參事兼執行秘書</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">曾國基</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">採購申訴審議委員會</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">參事兼執行秘書</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">黃淑嬌</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">中央採購稽核小組</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">技監兼執行秘書</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">蕭家興</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">法規委員會</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">專門委員兼執行秘書</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">陳韻石</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">人事室</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">主　　任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">黃麗玲</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">會計室</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">會計主任</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">張月女</p></td></tr><tr><td WIDTH="91" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk"><br></p></td><td WIDTH="217" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-right: 0.19cm">行政院主計總處</p></td><td WIDTH="185" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-right: 0.19cm">專門委員</p></td><td WIDTH="301" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: 0.19cm">辜儀芳</p></td></tr></table>
+主　　席：魏召集委員明谷
+專門委員：尹章中
+主任秘書：郭子祥
+紀　　錄：簡任秘書　陳錫欽　副研究員　程谷川　簡任編審　黃碧玉
+科　　長　黃彩鳳　專　　員　郭惠津　薦任科員　江文雄
+11月5日（星期一）上午
+報　告　事　項
+宣讀上次會議議事錄。
+決定：本(9)次及上(8)次議事錄應將所有委員提案納入。
+審　查　事　項
+審查102年度中央政府總預算案有關交通部中央氣象局、運輸研究所歲出部分預算詢答及處理。
+（本次會議有委員盧嘉辰、李昆澤、葉宜津、羅淑蕾、楊麗環、魏明谷、林明溱、管碧玲、蔡其昌、劉櫂豪、李鴻鈞、邱志偉、許添財等13人提出質詢，均經交通部部長毛治國、路政司司長陳彥伯、中央氣象局局長辛在勤、運輸研究所所長林志明及相關人員予以答復說明，委員潘維剛所提書面質詢，列入紀錄並刊登公報。）
+審查結果：
+一、中央氣象局：
+第14款　交通部主管
+第3項　中央氣象局原列19億9,553萬1,000元
+本項有委員提案1案，暫保留，待處理未審查完竣部分時，再行處理：
+1.有鑑於退休人員已領取優渥之月退休金外，卻仍比照在職軍公教領取年終慰問金，每年需支應經費超過200億元。民國54年公務人員退休法施行細則所定「領月退休金者，遇有臨時加發薪金時，月退休金亦得按比率支給」已在民國99年刪除，繼續發放年終慰問金，適法性不足。行政院人事行政總處無視法律規範，仍依據民國61年公布之「軍公教人員年終工作獎金及慰問金發給注意事項」，並以大法官會議第614號、第443號解釋「給付行政受法律規範較為寬鬆，無須法律授權」為由，主張發放退休人員年終慰問金合法且應維持。人事行政總處刻意曲解大法官會議解釋，卻無視大法官解釋所一再強調「涉及公共利益重大事項仍應以法律規定」，「涉及人民之納稅負擔，且為國家之重要事項，應視其職務之性質，分別先以法律規定適當之項目與標準，始得據以編列預算支付之」及「行政措施應衡酌國家財政負擔」等解釋。發放退休人員年終慰問金於法無據，於理不合，且國庫困窘，政府舉債度日，執意發放，無疑由政府帶頭製造社會對立，再度加深軍公教人員與一般勞工間的相對剝奪感，爰此，102年度交通部中央氣象局「人事費」之「獎金」中有關「退休人員年終慰問金」部分，應予全數刪除。
+提案人：葉宜津　　李昆澤　　劉櫂豪　　魏明谷
+本項另有委員提案1案，不予處理：
+1.中央氣象局102年度預算人事費（不含加班值班費）編列7億1,142萬2,000元，較101年度6億7,042萬元增加4,100萬2,000元，增幅6%，而預算員額卻較上年度減少2人，據預算書所述說明理由為員工薪俸晉級差額經費，但101年度預算之人事費卻較100年度預算增加1,444萬8,000元，增幅僅2%，依常理員工晉級差額理應每年依相對比例增長，從中央氣象局100年至102年的人事費編列情形以及所述理由來看，顯然是102年起職員將大幅升官晉級，而此等異常之情形應有具體之書面說明為宜，但預算書內卻付之闕如，爰此中央氣象局102年度預算人事費編列7億3,787萬元應凍結4,100萬2,000元，俟中央氣象局就人事費編列細目向立法院交通委員會報告同意後，始得動支。
+提案人：劉櫂豪　　葉宜津　　李昆澤　　魏明谷
+有關各目核列及減列情形如次：
+第1目　氣象科技研究發展　11億4,372萬4,000元，照列。
+本目通過提案2項：
+1.中央氣象局102年度編列「地震測報」相關經費2億7,787萬8,000元，包括辦理「地震與海嘯早期警報計畫」所需經費匡列1,041萬元。
+目前地震速報作業時間，雖已從921大地震時之102秒縮短至約30秒後，惟迄未能有更顯著提升，似無法為震央以外之區域爭取更多預警應變時間，亟待克服相關技術瓶頸。反觀日本氣象廳之緊急地震速報系統，在311地震發生後幾秒鐘到幾10秒鐘內，即透過自動訊息發送平台將訊息發送到指定人員行動電話，告知民眾預做應變準備，其經驗似頗值我國參考。爰此，凍結本筆預算五分之一，俟中央氣象局向立法院交通委員會提出專案報告後，始得動支。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+2.中央氣象局102年度編列「氣象科技研究」相關經費1億5,493萬9,000元，包括辦理「強化災害性即時天氣預報」所需經費匡列5,013萬7,000元。
+國內過去對於降雨預報是以定性之預報為主，研判降雨之有無和影響之區域，近年來各界對於量化降雨預報之需求日益迫切。故中央氣象局自87年起即積極發展定量降水預報技術，並於94年底正式對外發布定量降雨預報。惟目前豪、大雨特報之準確率僅約6－7成左右，亦即失誤率高達3成，顯示颱風及豪雨等定量降水預報技術仍頗有改進空間。爰此，凍結本筆預算五分之一，俟中央氣象局向立法院交通委員會提出專案報告後，始得動支。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+本目另有委員提案4案，暫保留，待處理未審查完竣部分時，再行處理：
+1.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今交通部中央氣象局積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費刪除60萬7,000元，以衡平國家財政情況。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+2.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今交通部中央氣象局積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費刪除42萬3,000元，以衡平國家財政情況。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+3.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今交通部中央氣象局積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費刪除104萬4,000元，以衡平國家財政情況。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+4.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今交通部中央氣象局積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費刪除16萬3,000元，以衡平國家財政情況。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+本目另有委員提案2案，不予處理：
+1.交通部中央氣象局102年度『地震測報』項下之「業務費」預算1億2,630萬元，其中「臨時人員酬金」科目，除僱用研發替代役13人薪資690萬元外，還包括新增『地震及地球物理數位資料處理計畫人力外包』進用人力2人，預算140萬元。基於政府機關應減少任用臨時人員、派遣人員之政策，且已有研發替代役13人，應無人力不足之問題，爰此，建議「地震及地球物理數位資料處理計畫人力外包」140萬元，全數刪除。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+2.中央氣象局102年度預算新增計畫「建置區域降雨雷達網」編列1億8,770萬元，係行政院99年11月8日院臺經字第0990059939號函核定「水災災害防救策進計畫」之子計畫，惟依行政院所核定計畫書內容，中央氣象局於102年應配合編列1億5,850萬元經費，102年度預算超編2,920萬元，顯然中央氣象局未依計畫書核定內容編列預算，於辦理變更計畫之前，仍應依計畫書核定內容編列，爰此中央氣象局102年預算「氣象資訊處理研究與開發」項下「建置區域防災降雨雷達網」編列1億8,770萬元應予刪除2,920萬元。
+提案人：劉櫂豪　　葉宜津　　李昆澤　　魏明谷
+第2目　一般行政原列5億9,006萬5,000元，減列「駐警小隊服裝配備及清洗」6萬元，其餘均照列，改列為5億9,000萬5,000元。
+本目有委員提案2案，暫保留，待處理未審查完竣部分時，再行處理：
+1.查支領月退休金軍公教退休人員領取年終慰問金之依據公務人員退休法施行細則第26條第2項已於99年11月10日刪除，發予該慰問金已無法源依據，爰刪除中央氣象局102年度預算一般行政人員維持人事費項下所編列之月退休人員年終慰問金。
+提案人：管碧玲　　葉宜津　　魏明谷　　蔡其昌　　劉櫂豪
+2.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今交通部中央氣象局積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費刪除951萬8,000元，以衡平國家財政情況。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+本目另有委員提案2案，不予處理：
+1.交通部中央氣象局102年度『一般行政』項下之「水電費」預算977萬9千元，比上年度預算暴增68%（101年預算數為580萬8千元）；又查該科目100年度實際支用數為92萬8千元，前年度的決算金額與本年度預算額度相差十倍，即便今年電價調漲，漲幅最大的工業用電漲幅47.5%，並非十倍。綜上，中央氣象局一般行政之水電費預算編列過於浮濫，上述預算應予刪減300萬元。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+2.中央氣象局102年度預算員額明細表編列駕駛27人與上年度相同，但公務車輛明細表所列公務車輛除公務用機車外，共有車輛25部及預定新購置一部，合計26部，車輛數比駕駛27人還少，顯然資產配置與人力配置不相符，爰此中央氣象局102年度預算駕駛員額應減列一員，人事費調整減列。
+提案人：劉櫂豪　　葉宜津　　李昆澤　　魏明谷
+第3目　氣象測報　2億1,413萬2,000元，照列。
+本目通過提案1項：
+1.截至101年6月底，中央氣象局24小時降雨預報命中率之改善率為－8.25，比較前（100）年度－1.96，表示降雨預報不準確度提高，影響防災及後續救災之時效性以及人民生命財產安全甚鉅。此外，今年截至6月底，在24小時最高溫度預報誤差小於或等於3度的日數百分比改善率，也較100年度7.89為低，也就是代表準確度降低。有鑑於氣象測報執行績效不彰，中央氣象局應提出檢討報告與改善方案，交通部中央氣象局102年度「氣象測報」預算數2億1,413萬2,000元，爰予凍結五分之一，俟提出檢討改善方案後，向立法院交通委員會報告並經同意後，始得動支。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+第4目　一般建築及設備　4,673萬元，照列。
+本目有委員提案1案，暫保留，待處理未審查完竣部分時，再行處理：
+1.中央氣象局102年度預算之營建工程編列45,880千元，較上年度17,644千元增列28,236千元，增幅為160%，主要因阿里山氣象站重建等經費達43,000千元所致。
+查阿里山氣象站為1933年以檜木所建「台灣總督府阿里山高山觀測所」沿用至今（西側部分為1982年新建），為台灣現今僅存之木造氣象測站，亦為台灣最早超過海拔二千公尺之高山氣象站，更是台灣第一座結合氣象觀測與研究的專門氣象建築，除二層樓之地上建築設有大氣物性觀測室、風洞室、空氣化學研究室、太陽觀測室、寫真室外，石砌之地下室亦設置有分光室、地電研究室、時計室、地殼研究室、太陽光波室，其科學價值與歷史意義不凡。
+為避免我國重要氣象觀測文化資產毀於輕率之重建計畫畫，爰刪除本項設備及投資42,000千元，所餘1,000千元中央氣象局應用以辦理阿里山氣象站文化資產價值之審議鑑定、文化資產之調查研究、未來原貌整建、增修或新建之規畫方案，並向立法院交通委員會提出書面報告。
+提案人：管碧玲　　葉宜津　　魏明谷　　蔡其昌　　劉櫂豪
+本目另有委員提案1案，不予處理：
+1.查中央氣象局102年度預算書第11頁歲出機關別預算表交通及運輸設備說明所載：「本年度新增汰換客貨兩用車1輛經費850千元」，惟查中央氣象局現有特殊用途車輛共15輛，車齡均於八年內，且100年購置兩部、101年購置一部。據，核無汰換之需求，爰刪除該運輸設備費850千元。
+提案人：管碧玲　　魏明谷　　蔡其昌　　劉櫂豪
+第5目　第一預備金　88萬元，照列。
+本項通過決議10項：
+1.建請中央氣象局應儘速完成東部海域電纜式海底地震儀及海嘯觀測站系統之建置，並配合建立地震預警通報系統，以利防災之應用，提前預測地震動向，避免災情更加擴大，請中央氣象局提出建置進度於立法院交通委員會審查。
+提案人：羅淑蕾　　楊麗環　　林明溱
+2.針對中央氣象局對於劇烈天氣之預報精準度屢遭受質疑，尤其是豪、大雨特報誤差率之高，尤其100年度豪、大雨特報次數199次，但誤差卻高達84次，針對如此高的誤差，中央氣象局是否提出具體改善報告。
+提案人：楊麗環　　羅淑蕾　　林明溱
+3.中央氣象局應協同相關研究單位進行台灣地區地震危害度分析，建立各種重要設施及都會區之建築防震設計標準，提供工程單位作為制定各地區之建築物耐震設計規範之依據，減低震災之損失，並配合建立地震預警通報系統，俾利於高鐵、核安等防災之運用。
+提案人：羅淑蕾　　楊麗環
+連署人：林明溱
+4.對於中央氣象局之「台灣東部海域電纜式海底地震儀及海洋物理觀測系統」之建置，目前之建置規模僅45公里，完全無法達到其實際效益。但囿於組織再造工程，中央氣象局將改隸於其他部會，導致目前交通部並未將此計畫列於科技預算之優先順序內。然組織再造工程變數仍多，若於102年度中央氣象局仍未改隸於其他部會，交通部應將此計畫列於科技預算之優先順序，以讓此建置案能趨於完整，進而保障國人生命財產安全。
+提案人：葉宜津　　李昆澤　　劉櫂豪　　魏明谷
+5.中央氣象局劇烈天氣監測系統，其目前僅支援IE 6.0以上瀏覽器，對於其他瀏覽器或智慧型手機系統尚無支援，導致使用者使用仍然相當不便。中央氣象局應儘速開發改善其於其他瀏覽器或智慧型手機系統亦可使用。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+6.鑑於國人對於地震知識之強烈不足，國內唯一專業機關僅在於中央氣象局之地震中心。然該單位長期以來對於地震知識推廣不足，致使國人對於相關知識來源僅限於報章媒體之報導。然報章媒體之報導多以危言聳聽之方式以吸引視閱聽民眾，造成民眾內心對於地震之恐慌。對於此因認識不足之心理面之恐慌，實則加以教育宣導即可免除，實際上面對時亦能有正確之應對方式。故要求中央氣象局之地震中心亦應運用多元之傳播方式，適時對民眾加以提供、教育、宣導地震、地質方面之知識。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+7.中央氣象局之天氣預報及警報單，其發佈內容均流於制式，除使民眾疏於注意防範外，亦未敘明其前因後果，令人難以理解其預報根據從何而來，其分析亦僅提供最新天氣圖，而無任何文字敘述，而導致非專業人員播報時之自由發揮想像空間。故要求中央氣象局往後於發佈天氣預報及警報單時，其發佈內容亦應對於天氣系統及誤差原因加以敘述。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+8.有鑑於縣市合併後，5都除了台北市面積271平方公里外，其餘4都的面積都達2,000平方公里以上，尤其高雄市面積達2,946公里，幅員廣闊，轄域東北至中央山脈以及玉山主峰，西南至南海上之南沙太平島以及東沙群島，各地地形與天氣條件差異極大，但是中央氣象局提供的預報資訊仍是大尺度預報，不符合民眾與地方政府的需求，無法做好最適切的風險預防，爰此，要求中央氣象局在氣象預測應該將各縣市依地形、位置條件作區域性的預報資訊提供，而非以全行政區的方式提供預測資訊與預報。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+9.有鑑於災害公眾示警系統之重要性，因為可以預警災害，提供民眾避難之時間，以減少災害損失之發生，在先進國家都有一套「公眾示警系統」發布防災訊息。台灣地處太平洋地震環帶、也是颱風發生頻繁區域，引發的地震、颱風甚至海嘯的風險係數高，因此有建置該系統之必要，建請交通部儘速與相關單位研議。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+10.國內目前23線「電信特殊碼」中仍有13線由民眾撥打付費，每年收費總額達1億餘元，其中166、167氣象預報專線，1－6月收費金額為725萬3,731元，此類須付費之電信服務內容均非電信公司提供，但收益仍歸電信公司，允應檢討。
+166（國語）及167（台語、客語、英語）氣象預報專線負有天氣災害預報廣播之功能，於海上陸上颱風警報期間，人民對天氣資訊有高度需求及避災之依賴，故此期間氣象預報專線應為免費。爰要求中央氣象局應於1個月內主動會同國家通訊傳播委員會與相關電信業者協調166、167專線之免費機制。
+提案人：管碧玲　　葉宜津　　魏明谷　　蔡其昌　　劉櫂豪
+二、運輸研究所：
+第14款　交通部主管
+第5項　運輸研究所原列4億3,368萬8,000元，減列2,000萬元（科目自行調整），其餘均照列，改列為4億1,368萬8,000元。
+本項有委員提案2案，不予處理：
+1.102年度運輸研究所於「一般行政」、「運輸研究業務」及「運輸科技應用研究業務」項下共編列1,304萬2千元，進用各類派遣人員高達31人（含司機4人），預算書未完整表達派遣人力運用之相關資訊，包括：計畫名稱、進用人數、經費及各項待遇、獎金、福利。爰此，運輸研究所應就其派遣人力運用之相關資訊向立法院立法院交通委員會提出報告後，始得動支。
+提案人：楊麗環　　羅淑蕾
+連署人：林明溱
+2.運輸研究所102年度以勞務採購之「派遣人力」方式，辦理任務編組及檔案法相關工作，預計進用司機4人、業務助理10人，預算564萬2千元。不僅該勞務採購內容說明不清，且運輸研究所之正式員額已編有3位司機的人事費，卻又另以派遣方式雇用4位司機，本年度司機人數高達7人，其必要性令人質疑。綜上，關於運輸研究所102年度『業務費』1億9018萬9千元預算，爰予酌減600萬元。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+有關各目核列及減列情形如次：
+第1目　運輸科技應用研究業務原列1億3,635萬1,000元
+本目有委員提案11案，不予處理：
+1.根據交通部運輸研究所101年度預算書「運輸科技應用研究業務」項下「土木領域科技研究計畫」辦理交通設施效能提升及營運技術強化科技研發計畫。計畫工作內容包括：對軌道運輸系統及公路系統設施養護營運進行相關研究，整合並檢討現行養護營運作業流程，藉由新技術、新觀念的導入，建立相關資料庫及管理系統並推廣應用，以提升整體運輸系統服務效能。該計畫總經費1億700萬元，由100年至103分4年辦理。而102年度預算書同樣科目及計畫項目，但計畫內容卻變更為：提升現有港區受震評估及防治技術，建立台灣地區腐蝕環境分類資訊系統，訂定港灣鋼筋混凝土構造物修復補強手冊，研擬台灣綠色港埠發展規劃具體可行的行動計畫，設置亞太配銷中心之利基、發展出口物流業務之策略、研提高雄港發展進口物流業務之策略。從前後兩年度相同計畫但內容卻南轅北轍，完全無法瞭解該計畫重點為何，顯然交通部運輸研究所巧立預算科目，卻毫無主軸重點，將不同議題計畫規劃整合為一計畫，不僅不利立法委員監督，也不利交通部所屬機關參考研究，爰此交通部運輸研究所102年預算「運輸科技應用研究業務」項下「土木領域科技研究計畫」編列1240萬7000元應予全數凍結，俟交通部運輸研究所向立法院交通委員會提出說明後，始得動支。
+提案人：劉櫂豪　　葉宜津　　李昆澤　　魏明谷
+2.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中運輸安全科技發展計畫3697千元，業務費編列3597千元，其中委辦費3417千元，比例高達95%，表示本項計畫幾乎是完全委外辦理，衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除169萬7千元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+3.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中智慧型運輸系統科技研究計畫28758千元，業務費編列28558千元，其中委辦費25564千元，比例高達90%，表示本項計畫幾乎是完全委外辦理，衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除855萬8千元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+4.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中海空運科技發展計畫7702千元，業務費編列7702千元，其中委辦費7468千元，比例高達97%，表示本項計畫幾乎是完全委外辦理，衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除270萬2千元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+5.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中能源領域科技研究計畫18372千元，業務費編列19372千元，其中委辦費18042千元，比例高達98%，表示本項計畫幾乎是完全委外辦理，衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除837萬2千元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+6.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中防災科技研究計畫10637千元，業務費編列10637千元，其中委辦費8350千元，比例高達78%，表示本項計畫幾乎是完全委外辦理，衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除200萬元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+7.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中土木領域科技研究計畫12407千元，業務費編列11262千元，其中委辦費5750千元，比例高達51%，表示本項計畫幾乎是完全委外辦理，衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除200萬元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+8.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中海洋領域科技研究計畫55778千元，其中編列業務費35978千元，業務費中又有編列資訊服務費3350千元，依其說明屬資訊軟硬體設備費。但計畫除業務費外亦另有編列資訊軟硬體設備費4300千元。同一計畫內卻有二筆資訊費用，爰刪除382萬5千元（合計之半數）。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+9.交通部運輸研究所歲出預算，第1目運輸科技應用研究業務，其中海洋領域科技研究計畫55778千元，其中編列業務費35978千元，包括委辦費11950千元，比例高達33%，表示此項計畫三分之一為外包業務。衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除900萬元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+10.運輸研究所102年度新增「海洋防災科技及永續發展計畫」，本年度預算5477萬8千元。惟查，本計畫與上年度（101年）「提升海洋科技永續發展計畫」之研究工作內容部分重疊，且所需之物品與設備亦有部分相同，基於撙節原則，本年度新增計畫所需之物品或設備應以續用上年度為宜，是以上述預算應予刪除1,600萬元。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+11.102年度交通部運輸研究所於「運輸科技應用研究業務」中於海洋領域科技研究計劃等七項分支計畫中編列計8054萬1000元之委辦費用，占運輸科技應用研究業務全數經費近六成費用。
+惟運輸研究所肩負我國交通政策研議之重要工作，委辦費用過高將侵蝕運輸研究所之政策研究分析能力。且目前預算員額計現編列105位研究員預算，應有相當研究能量；另查「兩岸直航後臺灣港埠之因應與發展研究」與交通部航港局相關委辦計畫有所重疊。運輸科技應用研究業務項下委辦費用占運輸研究所整年可運用經費近兩成，相關計畫是否符合當前我國交通政策擬訂所需尚有疑義，為免除經費運用浮濫，應予以刪減。
+爰提案要求減列運輸研究所之運輸科技應用研究業務項下海洋領域科技研究計劃等七項分支計畫之委辦費用500萬元，成為7554萬1000元，剩下費用自行調整。
+提案人：管碧玲　　劉櫂豪　　魏明谷
+第2目　一般行政原列1億6,712萬6,000元
+本目有委員提案3案，暫保留，待處理未審查完竣部分時，再行處理：
+1.有鑑於退休人員已領取優渥之月退休金外，卻仍比照在職軍公教領取年終慰問金，每年需支應經費超過200億元。民國54年公務人員退休法施行細則所定「領月退休金者，遇有臨時加發薪金時，月退休金亦得按比率支給」已在民國99年刪除，繼續發放年終慰問金，適法性不足。行政院人事行政總處無視法律規範，仍依據民國61年公布之「軍公教人員年終工作獎金及慰問金發給注意事項」，並以大法官會議第614號、第443號解釋「給付行政受法律規範較為寬鬆，無須法律授權」為由，主張發放退休人員年終慰問金合法且應維持。人事行政總處刻意曲解大法官會議解釋，卻無視大法官解釋所一再強調「涉及公共利益重大事項仍應以法律規定」，「涉及人民之納稅負擔，且為國家之重要事項，應視其職務之性質，分別先以法律規定適當之項目與標準，始得據以編列預算支付之」及「行政措施應衡酌國家財政負擔」等解釋。發放退休人員年終慰問金於法無據，於理不合，且國庫困窘，政府舉債度日，執意發放，無疑由政府帶頭製造社會對立，再度加深軍公教人員與一般勞工間的相對剝奪感，爰此，102年度交通部運輸研究所「人事費」之「獎金」中有關「退休人員年終慰問金」部分，應予全數刪除。
+提案人：葉宜津　　李昆澤　　劉櫂豪　　魏明谷
+2.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今交通部運輸研究所積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費刪除325萬元，以衡平國家財政情況。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+3.查運輸研究所102年度預算一般行政之人事費編列1億4,024萬元，其中獎金編列2,539萬9,000元，獎金費佔人事費之18%，惟說明欄內並未揭露獎金中考績獎金、特殊功績獎金、年終工作獎金、月退休人員年終慰問金及其他獎金之編列細目，應檢討改進並於一周內提供本委員會詳細說明。
+另支領月退休金軍公教退休人員領取年終慰問金之依據公務人員退休法施行細則第26條第二項已於99年11月10日刪除，發予該慰問金已無法源依據，爰刪除運輸研究所102年度預算一般行政人員維持人事費項下所編列之月退休人員年終慰問金。
+提案人：管碧玲　　劉櫂豪　　魏明谷　　蔡其昌　　葉宜津
+本目另有委員提案2案，不予處理：
+1.運輸研究所102年度一般行政之「基本行政工作維持」經費預算2360萬6千元，和上年度預算數相同。細究該預算內容，有多處有浪費情況，例如辦公大樓電費增加14%、辦公大樓樹草剪修費用增加30%；且未能配合政府節能減碳政策，水費和油料費預算均與上年度相同，卻未主動逐年減少。綜上，參照前年度之決算數僅有2190萬餘元，該筆預算爰予刪減200萬元。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+2.交通部運輸研究所102年度編列一般行政相關經費21億6,712萬6,000元，包括一般事務費共匡列665萬5,000元。其中一般事務費編列辦理打字、影印、裝訂、公文收發等費用269萬2,000元，上述事務皆應由運輸研究所職員自行辦理，何以將上述事務外包？爰此，建議刪除本筆預算269萬2,000元全數刪除，以減少此類不必要支出。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+第3目　運輸研究業務原列4,614萬8,000元
+本目有委員提案5案，不予處理：
+1.交通部運輸研究所歲出預算，第3目運輸研究業務，其中「中長程公共建設發展作業評估」25000千元，業務費編列23850千元，其中委辦費14000千元，比例高達58.7%，表示此項計畫幾乎是完全委外辦理。衡諸運輸研究所其本身即屬研究單位，卻不自行研究而仍大部分委外辦理，與其機關性質不合，爰刪除385萬元。
+提案人：葉宜津　　李昆澤　　魏明谷　　劉櫂豪
+2.交通部運輸研究所歲出預算，第3目運輸研究業務，其中「中長程公共建設發展作業評估」25000千元，資訊軟硬體設備費1150千元，業務費編列23850千元，但業務費內容卻又有資訊服務費2500千元，計畫本身即有資訊費用，計畫內之業務費又編列資訊費用，爰刪除182萬元5千元（合計之半數）。
+提案人：葉宜津　　李昆澤　　劉櫂豪　　魏明谷
+3.運輸研究所102年度運輸研究業務之「中長程公共建設發展作業評估」計畫係自98年至102年的五年計畫，經查，本年度（102年）是該計畫的最後一年，但卻新增資訊軟硬體設備費用，明顯浪費公帑。爰此，關於102年度「中長程公共建設發展作業評估」預算2,500萬元應予刪減500萬元。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+4.交通部運輸研究所102年度編列運輸研究業務相關經費4,614萬8,000元，惟「臺灣地區易肇事路段改善計畫」其結果，研提之改善地點總計為87處，改善總經費預估為2,106萬9千元，整體而言，雖皆呈現下降趨勢。然而本期計畫大部分僅探討各該地點之全年肇事次數、死亡人數、受傷人數，除未與過去年度改善績效或執行成果進行比較外，亦未見有系統加以量化分析改善情形（含經費運用情形），顯見該計畫成效不彰。
+爰此，建議凍結本筆預算2,000萬元，俟運輸研究所向立法院交通委員會提出改善計畫，經本委員會同意後，始得動支。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+5.102年度交通部運輸研究所於「運輸研究業務」編列4614萬餘元，辦理有關中長程公共建設發展作業評估、公路車輛行駛調查、第31期臺灣地區易肇事路段改善計畫等。惟據第29期易肇事路段改善計畫中，會勘計87處易肇事路段，然其計畫內容所呈現之績效皆以全年度之交通事故次數、傷亡人數等描述，未能具體呈現與過去歷年來所相較之績效改善情形。
+另第29期計畫作業期程有所延宕，運輸研究所應針對相關研究作業流程規劃有效率之研究期程，以免延宕相關業務。
+爰要求凍結運輸研究所之運輸研究業務之業務費20%，並向本委員會提出「易肇事路段改善計畫」書面報告後始得動支。
+提案人：管碧玲　　劉櫂豪　　魏明谷　　蔡其昌　　葉宜津
+第4目　港研中心管理業務原列8,356萬3,000元
+本目有委員提案1案，不予處理：
+1.運輸研究所102年度港研中心管理業務預算8356萬3千元，較上年度（101年）減少60萬4千元，但若與前年度（100年）度的實際支用數8038萬餘元相較，該筆預算仍有撙節空間，是以參酌該決算數，102年度港研中心管理業務預算8356萬3千元爰予刪減300萬元。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+本目有委員提案1案，暫保留，待處理未審查完竣部分時，再行處理：
+1.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今交通部運輸研究所積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費全數刪除，以衡平國家財政情況。
+提案人：魏明谷　　李昆澤　　葉宜津　　劉櫂豪
+第5目　第一預備金　50萬元，照列。
+本項通過決議6項：
+1.鑒於節能減碳為現今國際社會、全球性議題，且台灣於2010年成為全世界第11個推動產品碳足跡標示制度國家，復交通部運輸研究所101年運輸政策白皮書也強調綠運輸的重要性。然而截至101年9月底止，全國汽機車駕照發放數總共2,600萬5,766張，其中汽車占1,244萬1,763張、機車占1,356萬4,003張，這要浪費掉多少的紙張能源？製造多少的碳排放量？顯然與節能省碳的政策相牴觸，是以交通部應於102年7月底前提出「全面廢止汽機車駕照換發制度」之可行性評估報告，以落實政府貫徹節能省碳之決心。
+提案人：李鴻鈞　　羅淑蕾
+連署人：楊麗環　　林明溱
+2.交通部運輸研究所主要職掌為辦理各項研究計畫，負責專案計畫之研擬、推動與督導，以及中央及地方民意反映案件之研究、答覆與處理等。然而，遊覽車事故頻頻，遊覽車事故從民國98年以來車禍與死傷人數年年上升，迄今交通部、運輸研究所仍未針對遊覽車之管理提出具體的管理方案。另酒駕問題嚴重，根據今（101）年1月到9月警政署的統計平均每個月就有167個人因為酒駕受傷、70個人因為酒駕死亡，且從去（100）年10月女消防員執勤時，被酒駕者撞成重傷截肢後，社會上引起軒然大波，又今（101）年葉少爺酒駕事件，社會上對於酒駕問題已產生更熱烈的檢討聲浪。上述社會上所關注的問題，均未見交通部、運輸研究所提出具體方案，嚴重失職。爰此，要求交通部、運輸研究所應於3個月內就上述問題提出具體管理方案，避免遊覽車事故與酒駕事故一再發生。
+提案人：李昆澤　　葉宜津　　劉櫂豪　　魏明谷
+3.交通部102年編列規劃費用辦理南迴鐵路電氣化乙案，屆時推動該計畫時南迴鐵路勢必全線鋪設機電設備，倘電氣化完成後再研議辦理雙軌化及平交道改善，勢必要將建設好的機電設施再拆除然後做好雙軌化或平交道改善後再重新設置，因此分別辦理電氣化、雙軌化、改善平交道實乃最為浪費公帑之作法，而依鐵路改建工程局「台鐵南迴鐵路電氣化綜合規劃」報告，該報告結論認為未來運量需求沒有雙軌化之必要，且南迴線12處平交道亦未達設置立體交叉平交道標準，因此未規劃辦理改善，但是該評估報告未能考量未來全島鐵路動力一元化後，台鐵新的營運及調度情況，所依據之數據恐有失真之虞，倘南迴鐵路電氣化完成後，經實際營運後檢討又需再辦理雙軌化、平交道改善計畫，屆時將浪費更多公帑，不利政府財務規劃，爰此建請交通部運輸研究所102年度儘速完成研議「南迴鐵路電氣化工程納入辦理全線雙軌化暨平交道改善規劃案」以茲交通部未來規劃全島鐵路動力一元化之參考。
+提案人：劉櫂豪　　葉宜津　　李昆澤　　魏明谷
+4.交通部運輸研究所以「無縫隙運輸服務」為目標，積極推動公共運輸系統接駁服務；而台中市海線區域已在立法院本屆第1會期時爭取到台鐵海線升級規劃之補助，希望配合「新設環線鐵路」、「鐵路高架化」等措施再結合台中市區BRT、MRT系統打造完整的便捷交通網，避免海線區域趨邊緣化。爰此，建請運輸研究所針對台中海線即將新增及升級之各項公共運輸系統，做出「無縫隙運輸服務」之研究計畫，供交通部、台中市政府參考整合及做整體規劃。
+提案人：蔡其昌　　劉櫂豪　　魏明谷
+5.由運輸研究所負責之「交通服務e網通」自2003年以來所花費開發及架設成本已超過2,300萬元，雖許多網路即時資訊服務之資料庫是由運輸研究所所提供，但許多民間業者所提供之相關服務的使用頻率還高於「交通服務e網通」（每日平均流量3,368人次）。爰此，建請運輸研究所就使用率方面提出有效提升網站流量之方案，以使國內最完整之交通資訊資料庫得到最大的運用。
+提案人：蔡其昌　　劉櫂豪　　魏明谷
+6.鑒於台灣鐵路管理局重大採購或建設案件多有完工時間延後或大幅追加預算情形，而此情形居然被當作內神通外鬼不法牟取暴利之手段。尤有甚者，攸關人民生命安全的台灣鐵路管理局「環島鐵路整體系統安全提升計畫」149億元，其中涉嫌貪汙被羈押的層級居然高達副局長。因此，交通部應針對台灣鐵路管理局近3年來的採購或建設案件逐一清查，凡是有完工時程延後及追加預算的，組成專案小組清查是否有人謀不臧、不法牟取私利的情形，並於3個月內做成書面報告。
+提案人：李鴻鈞　　羅淑蕾　　盧嘉辰
+連署人：楊麗環　　林明溱　　葉宜津　　管碧玲　　李昆澤　　陳雪生　　王進士
+決議：
+一、報告及詢答完畢。
+二、「中華民國102年度中央政府總預算案」有關交通部中央氣象局、運輸研究所歲出部分，未及處理提案，留待處理未審查完竣部分時繼續處理。
+三、委員於質詢中要求提供相關書面資料或未及答復部分，請交通部及相關單位儘速以書面答復。
+11月5日（星期一）下午
+審查事項
+審查102年度中央政府總預算案有關飛航安全調查委員會單位預算詢答及處理。
+（本次會議有委員李昆澤、楊麗環、劉櫂豪、羅淑蕾、蔡其昌、管碧玲、葉宜津、邱志偉、王進士、魏明谷等10人提出質詢，均經飛航安全調查委員會主任委員張有恆、執行長王興中及相關人員予以答復說明，委員潘維剛所提書面質詢，列入紀錄並刊登公報。）
+審查結果：
+歲入部分：
+第3款　規費收入
+第20項　飛航安全調查委員會　8萬4,000元，照列。
+歲出部分：
+第2款　行政院主管
+第15項　飛航安全調查委員會原列5,453萬9,000元
+有關各目核列及減列情形如次：
+第1目　一般行政原列4,536萬9,000元，減列「一般事務費」10萬元，其餘均照列，改列為4,526萬9,000元。
+本目有委員提案2案，暫保留，待處理未審查完竣部分時，再行處理：
+1.飛航安全調查委員會102年度預算人事費用編列「其他給與」44萬6000元，係員工休假補助及技工友車票補助費等，渠等費用無法源依據，應屬違法編列，爰此飛航安全調查委員會102年預算「一般行政」項下「人員維持－其他給與」編列44萬6,000元應予全數刪除。
+提案人：劉櫂豪　　李昆澤　　魏明谷　　葉宜津　　管碧玲
+2.飛航安全調查委員會102年度預算書第24頁「基本行政工作維持」項下「車輛及辦公器具養護費」中公務汽車乙輛，養護費編列4萬1,000元，但第40頁「公務車輛明細表」中公務車之養護費卻編列4,108萬3,000元，此數據顯然為筆誤所致，但預算書具有公文書之效力，筆誤出錯後，單位應儘速更正並將更正後之新版重新送交所有立法委員以利審查，飛航安全調查委員會卻任由錯誤發生，事後又未積極更正，顯然不重視立法院審核預算書之職權，爰此飛航安全調查委員會102年度預算「一般行政」項下「基本行政工作維持－特別費」編列21萬元應予全數刪除。
+提案人：劉櫂豪　　李昆澤　　葉宜津　　魏明谷　　管碧玲
+本目另有委員提案5案，不予通過：
+1.飛航安全調查委員會102年度預算員額為約聘人員24人、技工1人及駕駛人1人。惟查其102年度之「獎金」預算編列371萬4千，內容包括員工年終工作獎金13萬8千元及技工考績獎金357萬6千元。飛航安全調查委員會技工和駕駛也才2人，卻編列357萬6千元的考績獎金，甚為離譜，預算編列明顯浮濫，爰此，其102年度之「獎金」預算應予刪減350萬元。
+提案人：李昆澤　　葉宜津　　管碧玲　　劉櫂豪　　魏明谷
+2.查支領月退休金軍公教退休人員領取年終慰問金之依據公務人員退休法施行細則第26條第二項已於99年11月10日刪除，發予該慰問金已無法源依據，爰刪除飛航安全調查委員會102年度預算一般行政人員維持人事費項下所編列之月退休人員年終慰問金。
+提案人：管碧玲　　魏明谷　　劉櫂豪
+3.102年度飛航安全調查委員會預算員額合共編列26人，包含聘用人員24名、技工1名及駕駛1名，並無專任職員，所需人事經費為3,853萬4,000元。經查，飛安會102年度預算員額表除技工1人及駕駛人1人外，所有業務均採聘用人員辦理，並無專任職員，包含資深飛安調查官2人、副資深飛安調查官2人、飛安調查官4人、副飛安調查官4人、工程師3人、副工程師6人及管理師3人等，共計24名聘用人員，對於長期性、經常性行政管理事務以聘用人員辦理，與其組織規程未符，亦與行政機關進用聘用人員允應具專業性及臨時性之業務性質相違，殊非妥適，爰此，建議凍結全數預算，俟飛航安全調查委員會提出說明後，始可動支。
+提案人：魏明谷　　劉櫂豪　　李昆澤　　葉宜津　　管碧玲
+4.飛航安全調查委員會102年度「其他業務租金」預算編列45萬元，該預算內容為：影印機租金2台與車輛一輛。惟查，同年度已編有洽公短程車資3萬元與國內旅費15萬元，卻又再承租車輛似無理由，爰此，上述預算爰予酌減10%。
+提案人：李昆澤　　葉宜津　　管碧玲　　劉櫂豪　　魏明谷
+5.102年度飛航安全調查委員會編列一般行政相關費用4,536萬9,000元，其中包含兼職費用57萬3,000元。惟飛安會就秘書室等一般行政管理事務，核屬長期經常性業務者，允應由編制內職員辦理，不應另外編列兼職費用，浪費公帑；且飛安會各類約聘人員，如調查官職級比照公務人員薦任九職等至簡任十三等間聘用，工程師職級比照薦任七職等至簡任十職等間任用；資深飛安調查官之每月薪資可達16萬元至21萬餘元間，已相當於現行部會首長級支薪，薪資較其他公務機關優渥甚多。爰此，建議刪除全數預算，以減少我國財政負擔。
+提案人：魏明谷　　劉櫂豪　　李昆澤　　葉宜津　　管碧玲
+第2目　飛航安全業務原列867萬元，減列「業務費」10萬元，其餘均照列，改列為857萬元。
+本目通過提案2項：
+1.飛航安全調查委員會102年度編列飛航安全業務相關費用共867萬元。今年9月大鵬偵照機墜機意外事件，飛航安全調查委員會竟表示，其中有部分的資料需要專家的判讀，至少需要3個月；若不順利，可能永遠沒有辦法提出解釋。飛航安全調查委員會係以事故調查業務作為主要辦理之業務，卻針對上述事故告訴全體國人該意外無法解釋，對於罹難者家屬及全體國人而言，情何以堪？飛航安全調查委員會針對上述意外，曾表示資料蒐集需花3個月時間，加上分析作業、飛安改善建議和委員會審議，最快1年內才能完成調查報告，公布失事原因，顯然有違國人期待。爰此，凍結飛航安全業務經費五分之一，俟飛航安全調查委員會提出大鵬偵照機墜機意外事件之事實資料報告，送立法院交通委員會後，始得動支。
+提案人：魏明谷　　劉櫂豪　　李昆澤　　葉宜津　　管碧玲
+2.查飛航安全調查委員會102年度預算飛航安全業務經費共867萬元，其中大陸地區旅費（7萬9,000元）及國外旅費（82萬5,000元）合計為90萬4,000元，占飛航安全業務經費達10.43%，爰凍結大陸地區及國外旅費三分之一，俟向立法院交通委員會提出書面報告後，始得動支。
+提案人：管碧玲　　魏明谷　　劉櫂豪　　葉宜津
+第3目　第一預備金　50萬元。
+本項通過決議7項：
+1.飛航安全調查委員會，依其組織法，對於飛航安全改善之建議亦屬於職權。但囿於組織改造前及飛航事故調查法之規定，飛航安全調查委員會僅於發生事故時才順帶提出飛航安全改善之建議。既然飛航安全調查委員會其所聘請人員皆屬專家，亦常與國際組織接觸，平常對於飛航安全改善亦應提出建議而非僅限於事故時。因此要求飛航安全調查委員會，平時亦應提出飛航安全改善建議，以建全我國整體飛航安全之落實。
+提案人：葉宜津　　管碧玲　　劉櫂豪　　李昆澤　　魏明谷
+2.行政院曾於2007年決定由飛航安全調查委員會負責高速鐵路之安全監督與事故調查，查日本、韓國及美國均已將捷運、鐵道納入航空事故調查，美國之運輸安全委員會監管範圍更包含公路及油路。此一世界趨勢亦於2011年飛航安全調查委員會法制化時，受到各界及本院多位委員重視，惟鐵道安全迄今仍未納於飛航安全調查委員會執掌，亦未見於交通暨建設部之組織中。爰要求飛航安全調查委員會就納入軌道安全調查之可行性，於3個月內向立法院交通委員會提出書面報告。
+提案人：管碧玲　　魏明谷　　劉櫂豪　　葉宜津
+3.查我國33架公務航空器中，有27架航空器未裝有任何飛航記錄器，對飛航事故發生後之調查及飛航安全規範之改進，均有重大影響。爰要求飛航安全調查委員會應持續追蹤並監督公務航空器相關飛航記錄器裝設之改進，並向立法院交通委員會提出書面報告。
+提案人：管碧玲　　魏明谷　　劉櫂豪　　葉宜津
+4.查近5年我國飛航安全事故之調查，除超輕型載具事故外，自事件發生至完成調查報告所需時間平均為17.6個月。調查時間如過冗長，對飛航安全相關改善作為之實施及迅速反應則越不利，爰要求飛航安全調查委員會應就我國飛航安全事故調查如何合理縮短所需調查時間，或就不同類型事故訂定調查所需合理時間，於3個月內向立法院交通委員會提出書面報告。
+提案人：管碧玲　　魏明谷　　劉櫂豪　　葉宜津
+5.依「飛航事故調查法」第27條第3項規定，對於飛航安全調查委員會之飛安改善建議未於適當時間內改正缺失，行政院應予以處分。然行政院均未曾予以處分，飛航安全調查委員會應主動發文行政院要求處分，且對於處分對象之政府機關，亦應包括政府機關對非政府機關應督導事項在內。
+提案人：葉宜津　　管碧玲　　魏明谷
+6.為了有效偵測飛安死角，發掘不利飛安的潛伏性因素，飛航安全調查委員會於88年參考世界先進各國的經驗，成立了「飛安自願報告系統」。其秉持「自願、保密、無責」等特性，提供航空從業人員1個分享親身經歷或提出工作上所發現任何可能影響飛安問題的管道，以避免此類「潛伏性」的危險因子繼續演變成失事事件。但是根據2011年飛航安全調查委員會研究報告，知道但未曾使用過此系統的原因中，對保密無信心者高達16.27%，更有10.2%害怕會受處分或不良影響。此外，也有高達15.61%覺得提出報告，也不會有所改善。以此可見，此通報系統有改善之空間及必要，飛航安全調查委員會應加強使用者信心，以發揮此系統的作用。
+提案人：蔡其昌　　葉宜津　　管碧玲
+7.目前兩岸航空頻繁，我國與中國卻無簽訂正式飛安協定，對於事故調查權責還有待協議，因此我方必須即時掌握飛安訊息，以在事故發生時能爭取調查權。而現在航空公司又多有與中國航空公司使用「共用班號」合作經營，這部分的飛機既不是我國籍航空器，也不是由我國經營航空公司使用，如果飛安事故又是發生在非我國航空領域，一旦發生事故，我國是否具有調查權且是不是會即時接獲通報恐有疑慮，著實令人擔憂。為準確即時掌握飛安訊息，飛航安全調查委員會應與民用航空局建立最嚴謹的飛安認定標準，要求最即時的通報，並包括連同共用班號合作的中國航空訊息也要一併通報。
+提案人：蔡其昌　　管碧玲　　葉宜津
+決議：
+一、報告及詢答完畢。
+二、「中華民國102年度中央政府總預算案」有關飛航安全調查委員會單位預算，未及處理提案，留待處理未審查完竣部分時繼續處理。
+三、委員於質詢中要求提供相關書面資料或未及答復部分，請飛航安全調查委員會儘速以書面答復。
+11月8日（星期四）
+審查102年度中央政府總預算案有關行政院公共工程委員會單位預算詢答及處理。
+（本次會議有委員盧嘉辰、葉宜津、羅淑蕾、魏明谷、林明溱、管碧玲、李鴻鈞、蔡其昌、劉櫂豪、李昆澤、廖國棟、楊麗環、盧秀燕、黃偉哲、許添財、王進士等16人提出質詢，均經行政院公共工程委員會主任委員陳振川及相關人員予以答復說明，委員葉宜津質詢另提書面補充意見，及委員潘維剛、楊瓊瓔所提書面質詢，均列入紀錄並刊登公報。）
+審查結果：
+歲入部分
+第2款　罰款及賠償收入
+第19項　公共工程委員會　30萬元 ，照列。
+第3款　規費收入
+第21項　公共工程委員會　5,083萬元，照列。
+第4款　財產收入
+第20項　公共工程委員會　2萬元，照列。
+第7款　其他收入
+第20項　公共工程委員會　890萬元，照列。
+歲出部分
+第2款　行政院主管
+第16項　公共工程委員會原列3億9,545萬元
+有關各項核列及減列情形如次：
+第1目　一般行政原列2億9,850萬1,000元，減列「基本行政工作維持費」100萬元，其餘均照列，改列為2億9,750萬1,000元。
+本目通過提案3項：
+1.為配合行政院組織改造計畫，行政院公共工程委員會將裁撤不復存在，人員、業務及經費移撥至財政部、交通及建設部及國家發展委員會等3個機關。惟行政院公共工程委員會102年度預算書並未表達業務、人員及經費移撥狀況，國會無法有效監督資源分配是否適當，爰此，予以凍結三分之一，並要求公共工程委員會於6個月內提書面報告，送立法院交通委員會後，始得動支。
+提案人：蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　魏明谷
+2.102年度行政院公共工程委員會於「一般行政」之「基本行政工作維持」分支計畫下編列租金計5,318萬2,000元，包含位於台北市信義區之辦公室租金5,202萬7,000元、車位租金76萬1,000元及樹林倉庫租金39萬4,000元；如以預算員額183人計算，國庫需負擔之每人每月租金支出高達2萬4,000元，實屬偏高。經查，行政院公共工程委員會辦公處所位於台北市信義區中油大樓9樓、10樓及11樓部分區域，據102年度預算案顯示，該會租用面積為6,825平方公尺（約2,064坪），每月租金約430餘萬元，年租金編列5,202萬7,000元。行政院公共工程委員會由於辦公處所位於商業精華區，每年租金負擔沈重，該會宜藉由102年度促參業務移撥財政部之際，檢討辦公空間使用效益，俾減少租用面積、節省公帑。爰此，予以凍結該計畫預算三分之一，俟向立法院交通委員會提出書面報告　後，始得動支。
+提案人：蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　魏明谷
+(1)行政院公共工程委員會102年度歲出預算，第1目一般行政，行政院公共工程委員會之辦公室租金編列5,202萬7,000元及車位租金76萬1,000元，合計5,278萬8,000元。其辦公室係位於台北市信義計畫區內，然其機關即將於102年度予以裁撤，目前業已確定促參業務將移撥財政部，其餘部分亦將分別納入交通及建設部及國家發展委員會。因此至少其辦公室所租坪數及車位數於目前之狀態下可以酌減移列至財政部之部分約21%，予依此比例刪除1,108萬5,000元。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+(2)行政院公共工程委員會102年度編列一般行政相關費用2億9,850萬1,000元，其中包含其他業務租金費用5,318萬2,000元。經查，該會位於台北市精華區域，如以預算員額183人計算，國庫需負擔之每人每月租金支出竟高達2萬4,000元，實屬偏高。爰此，建議凍結本筆預算1,000萬元，俟該會向交通委員會提出改善計畫，經本委員會同意後，始得動支。
+提案人：魏明谷　　葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲
+以上(1)(2)兩案併第2案處理。
+3.查行政院公共工程委員會100至102年度預算一般行政之設備及投資費用，每年均以汰換個人電腦及週邊設備、更新人事差勤、公文管理系統等相同名義編列百萬元左右之經費，有浮濫採購之虞，爰凍結本項經費三分之一，俟向立法院交通委員會提出書面報告後，始得動支。
+提案人：管碧玲　　劉櫂豪　　葉宜津　　李昆澤　　蔡其昌　　魏明谷
+(1)配合行政院組織改造計畫，公共工程委員會將不復存在，且行政院組織法自中華民國101年1月1日開始施行。是以從自今（101）年起公共工程委員會業務已逐漸移轉。
+然而，公共工程委員會卻仍於102年度編列千萬餘元的汰換電腦及相關設備，以及汰換雜項設備等經費，明顯浪費公帑，爰此，公共工程委員會102年度「設備及投資」預算1020萬7千元應予全數刪除。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　魏明谷　　葉宜津　　管碧玲
+(2)查行政院公共工程委員會101及102年度預算公共工程管理業務之資訊軟硬體設備費，均以資訊軟硬體設備維護升級及汰換、系統軟體授權及維護、開發工程管理系統等相同名義編列2百餘萬元之經費，有浮濫編列之虞，爰凍結本項經費二分之一。
+提案人：管碧玲　　劉櫂豪　　葉宜津　　李昆澤　　蔡其昌　　魏明谷
+以上(1)(2)兩案併第3案處理。
+本目另有委員提案6案，暫保留，待處理未審查完竣部分時，再行處理：
+1.鑒於馬英九總統及陳冲院長已自行刪減25%機要費，節省國庫開支，依據撙節原則，要求行政院公共工程委員會一併檢討刪減主任委員25%特支費。
+提案人：羅淑蕾　　管碧玲　　李鴻鈞　　魏明谷　　劉櫂豪　　李昆澤　　盧秀燕
+2.查支領月退休金軍公教退休人員領取年終慰問金之依據公務人員退休法施行細則第26條第二項已於99年11月10日刪除，發予該慰問金已無法源依據，爰刪除行政院公共工程委員會102年度預算一般行政－人員維持人事費項下所編列獎金30,650千元之月退休人員年終慰問金。
+提案人：管碧玲　　劉櫂豪　　李昆澤　　蔡其昌　　葉宜津　　魏明谷
+3.有鑑於退休人員已領取優渥之月退休金外，卻仍比照在職軍公教領取年終慰問金，每年需支應經費超過200億元。民國54年公務人員退休法施行細則所定「領月退休金者，遇有臨時加發薪金時，月退休金亦得按比率支給」已在民國99年刪除，繼續發放年終慰問金，適法性不足。行政院人事行政總處無視法律規範，仍依據民國61年公布之「軍公教人員年終工作獎金及慰問金發給注意事項」，並以大法官會議第614號、第443號解釋「給付行政受法律規範較為寬鬆，無須法律授權」為由，主張發放退休人員年終慰問金合法且應維持。人事行政總處刻意曲解大法官會議解釋，卻無視大法官解釋所一再強調「涉及公共利益重大事項仍應以法律規定」，「涉及人民之納稅負擔，且為國家之重要事項，應視其職務之性質，分別先以法律規定適當之項目與標準，始得據以編列預算支付之」及「行政措施應衡酌國家財政負擔」等解釋。發放退休人員年終慰問金於法無據，於理不合，且國庫困窘，政府舉債度日，執意發放，無疑由政府帶頭製造社會對立，再度加深軍公教人員與一般勞工間的相對剝奪感，爰此，102年度行政院公共工程委員會「人事費」之「獎金」中有關「退休人員年終慰問金」部分，應予全數刪除。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+4.年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今行政院公共工程委員會積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費全數刪除，以衡平國家財政情況。
+提案人：魏明谷　　葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲
+5.行政院公共工程委員會102年預算「人事費」項下「其他給與」編列565萬元係辦理員工休假旅遊補助、上下班交通費等，渠等費用無法源依據，應屬違法編列，爰此公共工程委員會102年預算「一般行政」項下「人員維持－其他給與」編列565萬元應予全數刪除。
+提案人：劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　蔡其昌　　魏明谷
+6.行政院公共工程委員會102年度預算「一般行政」項下「人員維持－人事費」中，有關公務人員上、下班車票補助費未有相關法源依據，有悖大法官解釋「涉及公共利益重大事項仍應以法律規定」、「涉及人民之納稅負擔，且為國家之重要事項，應視其職務之性質，分別先以法律規定適當之項目與標準，始得據以編列預算支付之」及「行政措施應衡酌國家財政負擔」之解釋。補助公務人員交通車票於法無據，於理不合。爰此，102年度公共工程委員會有關「公務人員上、下班交通補助費用」應予全數刪除。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+第2目　公共工程企劃及法規業務原列5,837萬8,000元，減列200萬元（科目自行調整），其餘均照列，改列為5,637萬8,000元。
+本目有委員提案10案，不予處理：
+1.根據行政院公共工程委員會102年度預算案，預估處理政府採購爭議申訴、調解案件較101年度減少100件，收入減少1,500萬元，相關審議委員出席費及審查費亦隨之刪減。惟歲出編列處理政府採購爭議申訴、調解案件之教育訓練、會議場地佈置、資料印刷等雜支經費不減反增，102年度預算數較101年度預算數增加290萬1千元，殊欠合理。鑑於政府預算編列應以撙節開支為重點，況102年度政府採購爭議申訴、調解案件數與收入已減編，相關雜支經費並無理由較101年度增加。爰此，針對102年度行政院公共工程委員會歲出預算第2目「公共工程企劃及法規業務」之「採購申訴審議委員會」所編3,315萬7千元，刪除290萬1千元，改列為3,025萬6千元，以符合實際需求，避免國庫浪費。
+提案人：盧秀燕　　羅淑蕾　　李鴻鈞　　魏明谷　　劉櫂豪　　管碧玲　　李昆澤
+2.公共工程委員會102年度預計處理政府採購爭議申訴、調解案件數為1150件，審查費收入為4500萬元；99年收案數為1247件、100年為1142件，而今（101）年1－7月已較上年度同期之收案數減少107件；預計公共工程委員會102年度收案數應會更少，惟公共工程委員會102年度編列「採購申訴審議委員會」－「業務費」3315萬7千元，雖已較上（101）年度減列審議委員之出席費及審查費，然而相關雜支經費（辦理教育訓練、會議場地佈置、資料印製等行政作業費）卻是不減反增，有悖審查費收入與相關作業費用之增減呈正相關之原則。爰此，減列「公共工程企劃及法規業務」－「業務費」500萬元。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+3.工程會102年度預算案預估處理政府採購爭議申訴、調解案件數1,150件，審查費收入4,500萬元，較上年度減少100件，收入減少1,500萬元；而辦理採購爭議申訴、調解之相關經費，雖亦較上年度預算減少368萬4千元，惟主要係減列審議委員之出席費及審查費，至相關雜支經費不減反增，反較上年度預算增加290萬1千元，不僅未依行政院所訂之「四省原則」辦理，且有悖審查費收入與相關費用之增減呈正相關之原則。爰此，予以減列10%。
+提案人：蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　魏明谷
+4.公共工程委員會102年度關於處理政府採購爭議申訴、調解案件收入預算數4,500萬元，比上年度歲入預算（6,000萬）減少25%。
+又查，公共工程委員會102年度支應處理政府採購爭議（申訴及調解）所需業務費之「採購申訴審議委員會」預算3315萬7千元，比上年度預算數（3984萬1千）相較，支出減幅僅16%。
+綜上，關於政府採購爭議申訴調解之歲入預算本年度既比上年度大幅減少25%，是以該項業務支出應配合減少，始符合經濟效益，爰此，關於公共工程委員會102年度「採購申訴審議委員會」預算3315萬7千元應予刪減330萬元。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　葉宜津　　管碧玲　　魏明谷
+5.行政院公共工程委員會102年度編列公共工程企劃及法規業務相關費用5,837萬8,000元，其中包含一般事務費用555萬5,000元。經查，該會辦理資料印製、案例彙編印刷等事務本為其職員所應負責，卻將其業務外包，顯有浪費政府公帑之嫌，爰此，建議刪除本筆預算300萬元，以減少我國財政負擔。
+提案人：魏明谷　　葉宜津　　劉櫂豪　　蔡其昌　　管碧玲　　李昆澤
+6.立法院審議工程會99年度預算案決議(十一)指出：「…要求公共工程委員會應將我國廠商參與其他GPA會員政府採購市場之情形列為追蹤、統計之項目，並定期於網路上詳列外國廠商參與我國政府採購得標情形與我國廠商參與其他GPA會員政府採購市場情形。」然而工程會100年於度僅轉述外交部說法，謂自我國加入GPA以來，政府已協助業者爭取商機逾8億美元，惟其他詳細資訊則以我國廠商未主動告知得標金額，外國政府亦未公布相關資訊，故以外交部、經濟部及外貿協會目前尚無我國廠商實際獲得其他GPA會員政府採購金額之統計資料為由，未再提供。綜上，工程會既為掌理GPA相關事務重要主管機關，卻未依本院審議該會99年度預算案決議，與相關部會建立聯繫管道，確實掌握資訊。爰此，予以凍結「公共工程企劃及法規業務」計畫預算金額20%，俟工程會履行99年度預算案決議後，始得動支。
+提案人：蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　魏明谷
+7.102年度「健全及落實政府採購法規及制度，培訓及管理採購專業人員」項下共編列2,497千元，辦理健全政府採購法規，減少採購爭議等相關事務。依工程會資料顯示，最有利標機制已廣受各機關採用，101年度截至8月底之採用件數更達22.97%，然監察院99年度所提「政府採購法公布10年來，關於限制性招標、最有利標、最低標之成效檢討」研究報告指出，最有利標雖可改善低價搶標之惡習，但自施行以來舞弊案件時有所聞，此制度仍有大幅改進空間，包括評選委員人數、比率、重複排除機制等。爰此，凍結該項預算40%，待向本委員會提出改進方案經同意後，始得動支。
+提案人：蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　魏明谷
+8.公共工程委員會為辦理政府採購網路化，102年度編列「推動政府採購電子化」預算987萬9千元，支應相關業務費用。
+惟查，公共工程委員會為推動政府採購電子化業務，與中華電信之間訂有「政府電子採購網建置、移轉及營運」之契約書，依照合約每年以營運收入8.05%計算應給付公共工程委員會回饋金。（102年度政府電子採購網營運回饋金收入編列890萬元。）
+是以，關於政府採購電子化、網路化業務既已完全委託民間經營，公共工程委員會再就該項業務編列業務費實無理由，爰此公共工程委員會「推動政府採購電子化」102年度預算987萬9千元應全數刪除。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　葉宜津　　管碧玲　　魏明谷
+9.公共工程委員會102年度歲出預算，第2目公共工程企劃及法規業務，其中編列「協助各機關推動愛台12建設中程計畫（102年－105年）」，用於提升公共工程及採購人員清廉度方面加強辦理稽核人員教育訓練等所需經費2630千元。然此項教育訓練僅是座談會及召開各項會議等，實際並無任何作用，對於協助各機關推動愛台12建設亦無助益，爰予以刪除2630千元。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+10.公共工程委員會102年度歲出預算，第2目公共工程企劃及法規業務，其中編列330萬元捐助中國工程師學會推動參與國際工程師組織、出席國際工程師會議及辦理國際工程師資格相互認許計畫。其中推動參與國際工程師組織及辦理國際工程師資格相互認許計畫係每年捐助經費辦理，然其績效不彰，僅有與馬來西亞工程師學會於98年10月2日簽署雙方學會「工程師合作與認許協議」，而且該協議亦非工程師資格相互認許協議。至出席國際工程師會議，公共工程會本身即有編列196千元參加，不必再捐助由中國工程師學會出席，因此此項捐助費用330萬全部予以刪除。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+第3目　公共工程技術業務　1,928萬4,000元，照列。
+本項目通過提案1項：
+1.102年度「公共工程計畫之審議與永續公共工程之推動」項下共編列470萬6,000元，辦理審議公共工程之技術可行性、成本評估編列合理性，確保公共工程執行之「效率」、「品質」、「廉能」。經查，今年度列管各部會1億元以上工程執行進度，至今（101）年10月15日止，高達83%的建設計畫之進度落後，並有超過60案之計畫總經費較原始計畫總經費增加，可見執行進度落後、工程延期、預算追加已成公共工程之慣性。綜上，行政院公共工程委員會之審議成效低落，影響對國家財政及公共工程品質，甚至衍伸弊端，該預算爰予凍結百分之三十，待向立法院交通委員會提出改善方案後，始得動支。
+提案人：蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　魏明谷
+第4目　公共工程管理業務　1,618萬7,000元，照列。
+本項目通過提案1項：
+1.行政院公共工程委員會列管101年度1億元以上公共建設計畫各部會預算執行情形，截至10月底前列管計畫共238項，總預算數3,883億3,300萬元，預算達成率僅54.45%，本年度僅剩2個月時間，各部會的預算達成率卻不到8成，而依行政院公共工程委員會組織條例第1條規定：「行政院為統籌公共工程之規劃、審議、協調及督導，設行政院公共工程委員會。」以及同法第2條規定：「本會對於中央政府辦理或省（市）政府執行行政院列管之公共工程，有指示、監督之權。」顯然公共工程委員會有「督導」、「監督」各部會預算執行之權責，因此針對各部會預算執行進度落後之情形，行政院公共工程委員會難辭其咎。爰此行政院公共工程委員會102年預算「公共工程管理業務」編列1,618萬7,000元，應予凍結十分之一，俟向立法院交通委員會提出書面報告後，始得動支。
+提案人：劉櫂豪　　葉宜津　　蔡其昌　　管碧玲　　魏明谷　　李昆澤
+(1)102年度「公共工程計畫執行之督導協調及考核」項下共編列114萬7,000元，辦理列管公共建設計畫之追蹤管考並協助解決困難，使工程順利進行，提升預算執行率。經查，今年度列管各部會1億元以上工程執行進度，至今年10月15日止，可支用3,883億元預算，實際執行數為2,114億元，整體達成率僅有54.45%，且高達83%的建設計畫之進度落後，工程會之列管工作沒有達成督促、協助執行之效。爰此，全數凍結該項預算，待向本委員會提出改進方案且經同意後，始得動支。
+提案人：蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　李昆澤　　魏明谷
+本案併第1案處理。
+第5目　第一預備金　310萬元，照列。
+本項通過決議19項：
+1.政府為提升採購效率與採購品質，參酌先進國家及政府採購協定之規定，於政府採購法加入「最有利標」決標機制，期能於預算範圍內，採購品質佳、功能強、價格合理之標的，以改善低價搶標、採購品質良莠不齊之缺點；惟自88年5月施行以來，採最有利標之舞弊案件時有所聞，近來更因部分擔任評選委員之專家學者涉案，致最有利標之公平性廣受各界質疑；鑒於採購評選委員會乃最有利標案件之執行關鍵，行政院公共工程委員會歷年雖陸續提出多項改革措施，惟採購評選委員會之選任及稽核仍尚有未盡之處，如監察院所提出之評選委員人數、比率、重覆排除機制等，爰建議行政院公共工程委員會於3個月內盡速檢討，促進採購評選委員之機制更為公平，以降低錯誤或弊端發生之風險。
+提案人：魏明谷　　葉宜津　　劉櫂豪　　蔡其昌　　管碧玲　　李昆澤
+2.近年來全國各機關在採購上採用最有利標之比率逐年增加，為避免評選委員遭有心人鎖定操縱，應建立重複擔任評選委員之排除機制，限制專家學者每年及同一機關得聘次數，請行政院公共工程委員會研議相關可行性辦法，並於3個月內提交立法院交通委員會。
+提案人：羅淑蕾　　林明溱　　魏明谷
+3.有關總統府、外交部、中央研究院等機關，100年度未辦理公開採購之金額與件數，都高居中央機關之前10名，例如總統府未公開採購金額僅4,242萬元、件數高達85件，平均每件金額僅50萬元，顯有刻意規避公開採購之嫌；另例如行政院研考會雖然未公開採購案件僅9件，卻平均每件單價高達2,574萬元，如此高的金額卻未公開採購，實有檢討之必要。爰此，要求行政院公共工程委員會6個月內，針對100年度中央機關未辦理公開採購金額比率、件數比率前10名機關之採購案提出調查檢討報告。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　魏明谷　　葉宜津　　管碧玲
+4.關於政府採購採最有利標方式雖有替政府找到優良廠商，排除以低價搶標、惡性競爭者的優點，但最有利標的方式卻增加人為操作的空間，弊案容易發生，亦非國家之福。又近年來政府採購採最有利標的案件逐漸增多，主管政府採購法規之機關會應盡早規畫防弊制度，兼顧政府荷包和工程品質。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　魏明谷　　葉宜津　　管碧玲
+5.對於公共工程要求得標廠商投保，由於被保險人係得標廠商，此項保險費支出本屬得標廠商應負擔之成本，但常年來卻係由政府另行編列預算支付。且行政院公共工程委員會竟函示，實際保險費低於政府編列預算保費，但政府機關仍應照預算保費支付給廠商，造成其中差額圖利廠商。要求行政院公共工程委員會針對涉及圖利廠商詐領工程保險費案至立法院交通委員會作專案報告。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+6.行政院公共工程委員會於第8屆第2會期開議之業務報告中指出，將引入陸（外）資參與公共投資，惟我國民間游資充沛，國人超額儲蓄、壽險業更是約有上兆資金可導入公共建設。開放陸（外）資進來台灣參與公共建設的投資，實為捨本逐末。要求行政院公共工程委員會，會同金融監督管理委員會等相關機關，提出國內游資參與公共建設具體方案之書面報告，並於3個月內送立法院交通委員會。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+7.行政院公共工程委員會102年度第2目「公共工程企劃及法規業務」－「健全技師、工程技術顧問公司管理法制，提升工程產業國際競爭力」項下編列「獎補助費」345萬元，其中330萬元係捐助中國工程師學會，辦理推動國際工程師組織、出席國際工程師會議及辦理國際工程師資格相互認許計畫等，另對於捐助技師公會及相關團體的費用，則僅有15萬元。
+查中國工程師學會之官方網站，該學會接受之廠商贊助名冊多達81家，其中不乏泛公股機構及知名企業集團。行政院公共工程委員會在編列獎補助預算時，實應多元考量國家其他相關工程學會之業務推動所需，而非將有限的國家資源投注在特定已得各界厚愛的學會上。要求行政院公共工程委員會3個月內提出98－101各年度捐助中國工程師學會之費用項目明細，送交立法院交通委員會，102年度後比照辦理。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+8.近日發生台鐵採購弊案，其弊案模式為變更設計、追加預算、延長工期。行政院公共工程委員會應於3個月內對於3年來列管之案件（即採購金額1億元以上）有此情形者加以調查，並將調查報告送立法院交通委員會。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+9.對於金門大橋之得標廠商，其目前已經執行之工程，全部均係再轉包給其他廠商執行。其後之主體工程是否由其直接施作恐亦有疑義，為防其違法轉包，行政院公共工程委員會會同交通部調查其鋼構材料來源及其匯款紀錄，並將其調查結果送交立法院交通委員會。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+10.行政院公共工程委員會辦公處所位於台北市信義區中油大樓9樓、10樓及11樓部分區域，該會租用面積為6,825平方公尺（約2,064坪），每月租金約430餘萬元，年租金編列5,202萬7,000元；另租用7個車位，每個車位月租金9,000元，1個機車位，月租金480元，車位年租金計編列76萬1,000元；至租用之倉庫則位於新北市樹林區，租用面積173平方公尺（約52坪），年租金編列39萬4,000元。
+102年度行政院公共工程委員會於一般行政計畫下編列租金計5,318萬2,000元，如以預算員額183人計算，國庫需負擔之每人每月租金支出高達2萬4,000元，實屬偏高；再就行政院公共工程委員會所編租用辦公空間2,064坪與預算員額183人分析，每人辦公空間超逾11坪。
+行政院公共工程委員會辦公處所由於位在商業精華區，每年需耗費5千餘萬元租金供公務辦公使用，實屬昂貴，應藉由促參業務移撥財政部之際，儘速檢討辦公空間使用效益，俾減少租用面積、節省公帑。
+另行政院公共工程委員會裁撤後，接收業務之財政部、交通及建設部及國家發展委員會等3個機關，辦公處所之選址除考量洽公便利性外，尚需考量政府財政負擔，不應再租用昂貴之商業精華區供公務辦公使用，以節省不必要之開支。
+提案人：管碧玲　　劉櫂豪　　李昆澤　　蔡其昌　　葉宜津　　魏明谷
+11.查行政院公共工程委員會之政府電子採購網所提供招標查詢系統，其查詢日期區間限定於93日內，迥異於一般資訊系統查詢以年、月或指定日期之方式，如欲查詢較長期間之公告，需重複多次輸入查詢並逐次修改查詢區間，對民眾或廠商查詢政府採購相關公告極為不便。爰要求行政院公共工程委員會應於1個月內就查詢功能提書面報告送立法院交通委員會。
+提案人：管碧玲　　劉櫂豪　　李昆澤　　蔡其昌　　葉宜津　　魏明谷
+12.公共工程金質獎為行政院公共工程委員會舉辦之國內公共工程界最高榮譽獎項，自民國89年舉辦以來，已迄12屆，101及102年度均編列300萬元辦理。
+然查行政院公共工程委員會設置之金質獎公開網站，僅羅列參選單位及得獎名單，國人無從藉此得知獲獎工程及個人之具體貢獻，對提升民眾參與或認同公共工程技術品質顯無幫助，亦使本獎勵淪為工程界內自我欣賞或爭取行政院公共工程委員會工程履歷績優紀錄之工具。
+爰要求行政院公共工程委員會應主動積極以圖文揭露該獎勵獲獎工程項目之相關內容、對工程技術或品質管理之相關貢獻，除表彰獲獎者，亦是對國民認識我國公共工程技術進展之重要基礎，以使本獎勵經費運用獲致最大效益。
+提案人：管碧玲　　劉櫂豪　　李昆澤　　蔡其昌　　葉宜津　　魏明谷
+13.查我國於98年7月15日加入世界貿易組織（WTO）政府採購協定（GPA）會員，截至101年6月底止，外國廠商參與我國政府採購計1,198件，得標金額計2,907億餘元，惟我國廠商參與GPA會員政府之採購情形，卻付之闕如。
+我加入GPA會員，旨在協助本國廠商爭取全球政府採購商機，行政院公共工程委員會既為掌理GPA相關事務重要主管機關，卻未能掌握我國廠商參與其他GPA會員政府採購情況，不利提升我國產業之國際競爭力。爰要求行政院公共工程委員會依本院審議該會99年度預算案之決議，速與相關部會建立聯繫管道，並應於3個月內能確實掌握相關資訊，提供立法院交通委員會書面報告，俾達成加入GPA會員之目的。
+提案人：管碧玲　　劉櫂豪　　李昆澤　　蔡其昌　　葉宜津　　魏明谷
+14.針對工程保險費遭不肖廠商與保險公司惡意詐領，慷人民之慨諸多弊案，行政院公共工程委員會應有積極作為，非一味將責任卸予廠商與保險公司，行政院公共工程委員會主管我國所有工程之監督管理，針對此弊案，應朝政府直接與保險公司承保之方向辦理，要求行政院公共工程委員會1個月內將可行結果評估至立法院交通委員會作專案報告。
+提案人：葉宜津　　蔡其昌　　劉櫂豪　　李昆澤
+15.行政院組織改造計畫，行政院公共工程委員會裁撤後業務移撥予財政部、交通及建設部及國家發展委員會3個機關，目前工程會辦公處所由於位在商業精華區，每年需耗費5千餘萬元租金供公務辦公使用，實屬昂貴，行政院公共工程委員會裁撤後，接收業務之財政部、交通及建設部及國家發展委員會等3個機關，對辦公處所之規劃應將財政負擔納入考量，以節省不必要之開支，並向立法院交通委員會提書面報告。
+提案人：楊麗環　　魏明谷　　葉宜津　　黃偉哲
+16.鑒於行政院公共工程委員會102年度預算案已將促參業務移撥予財政部，但102年度預算書中並未表達相關業務、人員及經費移撥狀況，導致立法院於審議預算時，無法有效監督其資源分配是否適當。爰此，針對行政院公共工程委員會102年度編列之3億9,545萬元歲出預算，建請行政院公共工程委員會補送相關資料，至立法院交通委員會。
+提案人：羅淑蕾　　李鴻鈞　　魏明谷　　劉櫂豪　　李昆澤　　管碧玲　　盧秀燕
+17.鑒於行政院公共工程委員會因配合行政院組織改造計畫將吹熄燈號，且其業務亦自今（101）年起已逐漸移轉至相關部會（財政部、國發會與交通及建設部），正式員額也配合縮編。
+然而，行政院公共工程委員會仍於102年度編列派遣人力經費1,560萬1,000元，以及勞務承攬經費128萬2,000元，合計共1,688萬3,000元之勞力外包經費，明顯浪費公帑，請行政院公共工程委員會提出派遣人力經費運用檢討報告，送立法院交通委員會。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　魏明谷　　葉宜津　　管碧玲
+18.關於公共工程技術業務，行政院公共工程委員會102年度新增136萬元委託研究經費。然而，該委辦內容並無具體的工作項目，且關於行政院公共工程委員會因隨行政院組織改造將不復存在，且業務已逐漸移轉至相關部會，然而卻在組織裁撤之際增編委辦經費，明顯浮編預算，爰此提書面報告送立法院交通委員會。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　魏明谷　　葉宜津　　管碧玲
+19.行政院公共工程委員會為辦理「協助各機關推動愛台12建設中程計畫（102年～105年）」，於公共工程品質管理計畫項下編列616萬元辦理優良公共工程品質表揚活動及研擬相關法規，保障公共工程品質。然而公共工程品質之良窳並非以頒獎活動即可獲得保障，且於國家財政困窘之際，更應撙節活動慶典費用，爰此，就金質獎舉辦情形及其成果，提書面報告送立法院交通委員會。
+提案人：李昆澤　　劉櫂豪　　蔡其昌　　魏明谷　　葉宜津　　管碧玲
+(1)公共工程委員會102年度歲出預算，第4目公共工程管理業務，其中編列「協助各機關推動愛台12建設中程計畫（102年－105年）」，辦理優良公共工程評選及表揚活動、工程人員品質管理、法務及實務訓練與法令修訂、協助公共工程施工品其等業務616萬元。但表揚活動為不必要之支出，其餘工作本即公共工程委員會份內之工作，卻假協助各機關推動愛台12建設之名編列預算，爰予以刪除616萬元。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+本案併第19案處理。
+決議：
+一、報告及詢答完畢。
+二、「中華民國102年度中央政府總預算案」有關行政院公共工程委員會單位預算，未及處理提案，留待處理未審查完竣部分時繼續處理。
+三、委員於質詢中要求提供相關書面資料或未及答復部分，請行政院公共工程委員會儘速以書面答復。
+散會
+<hr>
+主席：請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。
+進行審查事項。
+審　查　事　項
+審查102年度中央政府總預算案有關國家通訊傳播委員會單位預算詢答及處理。
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。國家通訊傳播委員會102年度施政計畫及預算案報告大致如下：本會除了賡續原有的機關職務，繼續推動組織法及基本法所交付之任務之外，本會在101年度預算執行情形為：
+一、101年度本會單位預算歲入預算數65億5,467萬2千元，截至10月底止預算分配數65億115萬7千元，實收數62億6,848萬1千元，實收數占預算分配數96.42%。
+二、101年度本會單位預算歲出預算數5億9,742萬8千元，截至10月底止預算分配數5億3,269萬1千元，實支數5億1,858萬6千元，實支數占預算分配數97.35%。
+本會102年度施政重點如前所述，除了賡續原有的機關職務之外，陸續推動以下重點：
+為因應數位匯流檢討通訊傳播監理架構及業務開放策略，本會將朝進一步減少跨業經營障礙及調整相關監理法規的方向陸續推動。
+在數位匯流之下，因為行動通信服務日新月異，對無線電頻率之需求不斷增加，因此本會在明年度除了將要釋出700、900、1800等相關頻段的頻率之外，還同時進行行動通信上網速率的量測服務。
+為在不同數位平台或不同載具上可以進行傳輸，我們將相關產業進行整併，引發各界對媒體產權集中化的疑慮，因此本會在修法的計畫當中，也納入有關媒體反壟斷的相關規範的研訂。
+在進一步強化數位無線電視改善站之維運及推動有線電視數位化方面，本會也繼續推動有關於數位改善站的維運及電費的補助，相關經費也編入本年度或下年度預算。
+在促進公平競爭及健全產業發展方面，本會在歷來資費管制朝向中間價格的管制為重點，至於零售價格，要朝向讓消費者有較多資費選擇而價格更加透明化的方向去加以規劃。
+為因應全球主管機關陸續釋出頻譜，本會也配合釋出，在明年度會擬定行動寬頻業務管理規則，以符合相關業務管理之需求。
+在維護國民權益部分，除了賡續取締未立案電台之外，還運用各種量測措施，來維護國民應有的上網權利，對於電磁波的正確知識宣導及實際量測數據的公布，本會也將陸續推動。
+在寬頻基礎建設環境建置上，我們也會繼續與最主要的業者協力，並且督導業者完成100Mbps寬頻網路的建設。
+為因應台灣特殊地形，本會也持續針對偏鄉改善無線電視訊號涵蓋較差的情形，本會也陸續維運及建置數位改善站。
+至於各類節目製播規範，本會也採取適度的彈性管理，讓業界既符合營運情況，也能即時回應各界及觀眾的要求。
+在保護消費者的部分，如同大院所指出的，在消費爭議中，電信服務相關的爭議最多，因此我們也會配合大院的要求，繼續強化有關電信服務糾紛的處理機制。
+在傳播事業部分，我們也會在換照和評鑑方面繼續監督業者，落實相關目標。
+在兒少上網安全部分，我們也與各機關合作，建置單一窗口，以回應及處理各界的問題。
+在建構多元與普及的通傳近用環境方面，本會除了既有的電信事業普及服務基金之外，也開始強化有線廣播電視的普及基金的建設和運用。
+至於本會在102年度的預算編列，大致如下：
+歲入部分：
+102年度本會單位預算歲入預算數365億9,512萬元，較上年度預算數65億5,467萬2千元，增加300億4,044萬8千元。最主要差別就是在於釋出700、900、1800頻段的相關頻率應有的收入。
+至於罰款及賠償收入與規費收入部分，變化不大，影響較為明顯的為第二代行動通信業務的特許費部分，這部分因為業務量縮減而數量隨之減少。
+歲出部分：
+102年度本會單位預算歲出預算數6億836萬3千元，較上年度預算數5億9,742萬8千元，增加1,093萬5千元。最主要是因為人員因素職務調動及年資累計而增加的支出。
+以上報告　敬請各位委員惠予鼎力支持，並祈不吝賜予指正。謝謝！
+主席：謝謝石主委的詳細報告。現在開始進行詢答，詢答時間為10分鐘，得延長2分鐘，10時30分截止發言登記。10時30分休息10分鐘。中午休息，下午2時30分繼續詢答。
+請葉委員宜津發言。
+葉委員宜津：主席、各位列席官員、各位同仁。請問石主委，行動上網吃到飽費率方案要取消，是張善政政務委員提出來的，對不對？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。就媒體的報導標題來看是這樣，但是張政委的發言內容似乎還有其他的部分。
+葉委員宜津：那你告訴我，這是張政委的主張，還是NCC的主張？
+石主任委員世豪：本會目前並沒有推動這方面相應的政策。
+葉委員宜津：所以這不是NCC的主張，是張政委的主張？
+石主任委員世豪：但是我們也注意到在行動通信業務上有很明顯的趨勢……
+葉委員宜津：主委，到底誰是電信事業的主管機關？
+石主任委員世豪：不管是根據基本法、組織法或電信法，本會都是電信事業的監理機關。
+葉委員宜津：是嗎？你確定嗎？
+石主任委員世豪：確定。
+葉委員宜津：我怎麼覺得現在電信事業的主管是張政委？
+石主任委員世豪：張政委是在行政院督導相關科技產業業務。
+葉委員宜津：所以他可以督導你？
+石主任委員世豪：我沒有記錯的話，張政委在媒體所使用的字眼是「呼籲」，他並沒有要求也沒有形成這個政策。
+葉委員宜津：好，那NCC的態度是怎樣？
+石主任委員世豪：本會有注意到，在行動寬頻業務部分用戶量確實有增加，但是業者的營收顯然沒有同步成長，我們注意到這樣的趨勢。
+葉委員宜津：你注意到業者的營收？你都沒有注意到消費者的需求。
+石主任委員世豪：關於消費者的需求，我們今年度開始做第一次行動上網速率量測，明年也會持續辦理。
+葉委員宜津：主委，你知道誰第一個說不應該採用吃到飽的費率嗎？
+石主任委員世豪：請委員告訴我，我並不了解。
+葉委員宜津：你當主委要做功課。你今天要來之前就應該先針對這個政策研究一下以前立法院是怎麼作決議及怎麼質詢的。我告訴你，第一個說的人就是本席，但是我認為不該採用吃到飽費率的理由跟你們相反，你們現在就跟你們的馬老闆一樣，說業者賺不夠，我的理由跟你們相反，不是業者的營收不夠，而是消費者吃不飽，消費者根本沒有吃飽過，如果要用吃來形容的話，消費者光是等吃就會等到餓死。消費者從來沒有吃飽，都是在那裡等上菜而已！主委，你懂我的意思，你們的理由是網路塞車，我的理由是業者的建置根本不夠，所以他們根本不該收吃到飽的錢，而是應該降價。
+石主任委員世豪：委員所說的問題確實是重要關鍵之一，因此本會針對微型截取設備的管制措施的彈性化及要求業者在系統網路建設上應該配合用戶量增加而同步增加，這一點我們都在做。
+葉委員宜津：你們真的都在做嗎？主委，不要跟我官腔官調，我具體白話地告訴你，我剛才已經說了，消費者從來沒有吃到飽，業者卻收吃到飽的錢，這就是搶錢行為，而你剛剛告訴我的答案還是一樣，你說業者的營收不夠，我認為以主委的立場來說，這句話完全不應該從你口裡說出。
+現在3G上網沒有計算集縮比，所以業者不考慮自己的頻寬密度，明明沒有那個能力，還拚命賣吃到飽方案，明明只夠10個人吃，卻賣給幾百人，甚至上千人，所以是消費者被業者坑了，並不是消費者去占頻寬。主委，你有沒有用智慧型手機上網過？
+石主任委員世豪：有。
+葉委員宜津：那你有沒有用智慧型手機下載圖片過？
+石主任委員世豪：我比較少下載圖片，大部分在看新聞資訊。
+葉委員宜津：所以你不了解民間疾苦。你知道下載一張圖片要多久嗎？可能你晚上睡一覺起來都還沒有下載完。
+石主任委員世豪：要看檔案的大小而定。
+葉委員宜津：我要再次提醒你們，吃到飽的問題在於業者的超賣，而不是消費者造成網路塞車。請你們認真思考這個問題。為了解決這個問題，我們希望建置4G上網設備，結果我們發現你們面對4G還是完全站在業者的立場著想，你看，在你們的預算書裡，4G預估拍賣收入部分寫300億，這是真的嗎？你們只準備賣300億？
+石主任委員世豪：定為300億是部會之間協商之後的結論，是一個預估的金額。
+葉委員宜津：你們是不是準備聯合起來慷全民之慨？
+石主任委員世豪：這其實是參考各國的經驗及我們以前行動業務增加的情形而定的。
+葉委員宜津：主委，根據以前的經驗，4G上下的頻寬各為135MHz，加起來是270 MHz，而我們3G的頻寬只有170 MHz時，拍賣價格都有489億，而現在4G頻寬有270 MHz，拍賣價竟然只有300億。我們先不要說4G的品質比3G好，我們就用3G的價錢去除就好了，3G的頻寬是170 MHz時，賣489億，489除以170，再乘以4G的頻寬270，算出來的結果再四捨五入，是770，你們為什麼只有編300億？
+石主任委員世豪：其實各國拍得的價格都比3G低得多，而自從我國開放各種行動通信業務以來，總業務成長量（包含2G、3G、WBA）全部加起來只有百餘億元，所以增加一個業務拍賣價並不會等值增加，國際經驗顯示，不同的市場條件及不同的頻段所拍出來的價格是不同的。
+葉委員宜津：主委，你不要用這樣的話來唬弄我。我們台灣的市場跟外國不一樣，台灣的市場是一定有客戶的，跟你講的外國的例子不一樣，我們的發展其實還落後人家很多，我認為你定這個價錢是一開始就準備圖利財團。
+石主任委員世豪：我從來沒有這樣的考量。
+葉委員宜津：你準備圖利電信三雄。
+石主任委員世豪：我從來都沒有這樣的考量，所有部會討論時都沒有這個念想。
+葉委員宜津：你說沒有，那我告訴你我為什麼會這樣認為。4G的頻譜從國防部回收100MHz，也從交通部回收一些頻譜，今年回收800MHz，明年回收1,800MHz，統統要回收來做4G的頻譜拍賣，結果本來明年要回收2G的頻譜，你們卻說要延到106年6月，為什麼？
+石主任委員世豪：這也是部會之間協商之後的共同結論。
+葉委員宜津：又要慷全民之慨，你現在全部推給部會，你是主管機關，為什麼到期的事情可以延後？為什麼你們各部會協商之後就可以圖利2G業者，慷全民之慨？明明契約是到明年，你們卻偏偏要讓落伍的2G延到106年2月，現在去標4G，2G的業者還在使用頻譜，你就叫業者去標4G的頻譜，這什麼意思？這意思很明白，就是說，除了2G的業者以外，其他業者都不用想了，不是這樣嗎？2G業者還占著，誰會去標4G？除了2G的業者以外，誰會去標？你這麼做是圖利財團，害國庫損失。
+石主任委員世豪：我從來沒有這種想法。
+葉委員宜津：你沒有那種想法，你是那種做法！
+石主任委員世豪：因為2G業者的執照是陸陸續續到期，所以延長到106年是統一截止，但是他們的截止日期是有差異的。
+葉委員宜津：主委，不要唬弄我，就算陸陸續續到期，期限也是在明年。你們為什麼延長到106年？
+石主任委員世豪：這是民國99年各部會協商共同的結論，至於委員剛剛所提到的問題……
+葉委員宜津：我沒有辦法接受這樣的共同結論，你們圖利財團，減少人民收入……
+石主任委員世豪：現在2G還有六百餘萬戶在使用，所以這個頻率的使用目前還是有效率的。
+葉委員宜津：我沒有辦法接受你這樣的說明和解釋，契約到明年到期，沒有理由說各部會協商就圖利財團，我們沒有辦法接受，你們的理由到底是什麼？完全沒有理由嘛！
+石主任委員世豪：原來的第二代行動業務管理規則裡面仍然保留了換照可能性，不像3G是一次拍斷15年的。
+葉委員宜津：我沒有辦法接受這種理由。
+石主任委員世豪：所以業者的經營條件和3G是不同的。
+葉委員宜津：明明有契約，我沒有辦法接受你們不但讓一個應該升級的產業不升級，還助長業者墮落。我還要強調，你們102年要釋出4G，你剛剛說換照審查要採技術中立原則，你們很會賣弄文章，什麼叫「技術中立原則」？你們的技術中立原則就是2G、3G、4G可以全部混在一起用？
+石主任委員世豪：並不是這個意思，而是同一個頻率世界有不同的規格，可以提供同樣的服務，我們並不釘死在哪一個規格裡，比如說，不用歐洲的UMTS，而是用GSMA，或是用WiMAX，不綁住特定的規格，只要達到相同的效應就可以。
+葉委員宜津：是嗎？你們告訴我2G、3G、4G都可以一起用。
+石主任委員世豪：其實業務種類是不同的，我們都知道2G基本上是以通話的話務為主，3G以上是數據服務為主。
+葉委員宜津：主委，你這樣也是同樣助長了業者的墮落，又讓消費者受到更大的損害，你把4G標出去以後，告訴業者：「你不一定要建設4G，你還是可以繼續用2G或3G。」我們的上網速度還是停留在2G、3G。
+石主任委員世豪：並沒有這種情形，業者如果取得行動寬頻執照，就必須按照取得執照的條件去建設。
+葉委員宜津：沒有啊！雖然業者可以照取得4G執照的條件去慢慢建設，但是你們已經利用技術中立原則幫他們大開方便之門，隨便他們用2G、3G或4G，當然他們也會告訴你們說他們會去建設，可是問題是從現在開始以正常速度建設都還要五、六年才能完成，你讓他們到106年才開始建設也可以，你甚至不限制他們，只要他們從106年開始建設，就算只建設一點點4G的設備，也可以叫做4G業者。
+石主任委員世豪：如果考量頻率使用效率的話，業者應該會提前建設，因為這樣對他們比較有利。
+葉委員宜津：你認為這樣對他們會比較有利嗎？
+石主任委員世豪：確實如此，因為新的技術讓他們做基礎涵蓋的效率會比原來的技術要好多了。
+葉委員宜津：好，所以你的講法是矛盾的。你認為提前建設4G會對他們比較有利，但是你賣得比較便宜。
+石主任委員世豪：採用拍賣制就不可能比較便宜。
+葉委員宜津：你又告訴我業者會建設4G，可是你又讓他們可以同時做2G、3G和4G，你這樣說是相互矛盾！
+石主任委員世豪：並沒有。
+葉委員宜津：哪裡沒有？
+石主任委員世豪：我所說的2G頻段，以往是用審查制，並不是用拍賣制，而且其特許費原來是1%，後來提高到2%，以10億計算的結果，並不會比4G來得更貴。
+葉委員宜津：這個都是契約，應該都是明年到期。
+石主任委員世豪：這是特許，並不是契約。
+葉委員宜津：就算是特許，也是明年到期，沒有理由讓我們再等到106年6月。主委，我們會作成決議，因為我們堅決反對這樣慷全民之慨，我們堅決反對把屬於全民資產的頻率這樣送給財團去賺大錢。
+石主任委員世豪：並沒有，拍賣制其實就是希望反映頻率該有的價值，所有各國的經驗都顯示這一點，這是很明確的。
+葉委員宜津：我們認為既然要給4G的業者，就應該要真的要求他們去做4G的建設，而不是只有拿來讓業者更好去處理他們的2G、3G，不能助長業者的墮落。本席最後還要提出一個很重要的問題，我們現在拍賣4G，其實4G的建設單位都要20MHz以上才能夠真正達到效果。
+石主任委員世豪：有的規格只要15MHz，有的規格要20MHz，這要看他們所使用的技術規格而定。
+葉委員宜津：但是你們為什麼定為5MHz或10MHz？
+石主任委員世豪：5是一個單位，所以可以5乘以3等於15，也可以5乘以4等於20，可能也可以更寬。
+葉委員宜津：你們有沒有要求業者一定要來標3個單位以上？你們沒有，而是5個單位就要去標。
+石主任委員世豪：其實歐洲各國也都是採取同樣的方式，就是以一定單位數的倍數去拍賣。
+葉委員宜津：主委，你不要動不動就拿歐洲、美國來跟我們比，我們的業者恐怕沒有辦法像他們的業者那麼有商業道德，對業者不要有那麼高的道德期待，你們作為監理單位，應該要站在消費者這邊去要求。
+石主任委員世豪：這一點我們一定會注意。
+葉委員宜津：一個4G切成5MHz，甚至最多10MHz，他們明明要15、20MHz才能夠發揮效果，你們這樣是什麼意思？你們還算是一個專業的主管單位嗎？
+石主任委員世豪：5MHz是單位，所以實際拍得的數目一定是在這個的倍數之上。
+葉委員宜津：可是還是不夠，你剛剛自己說要15、20 MHz啊！
+石主任委員世豪：那要看技術規格而定。
+葉委員宜津：你剛剛說技術規格有的是15 MHz，有的是20 MHz。
+石主任委員世豪：是。
+葉委員宜津：那你們為什麼用5 MHz？如果你說是倍數，那標10 MHz可以嗎？
+石主任委員世豪：他們基於本身的營運考量不會去標這種組合。
+葉委員宜津：主委，你真的是非常不負責任，本席認為這樣的說法是非常不負責任的，如果一家業者去標了10MHz，品質就會跟3G一樣，這樣為什麼要讓他來標4G？
+石主任委員世豪：如果不是基礎涵蓋的話，他可以選擇這種模式，如果是基礎涵蓋的部分，這樣的選擇就比較困難了。
+葉委員宜津：主委，本席還是覺得對你的回答非常失望。
+石主任委員世豪：我們會再向委員說明，謝謝。
+主席：請盧委員嘉辰發言。
+盧委員嘉辰：主席、各位列席官員、各位同仁。關於4G釋照的問題，在上次NCC做業務報告的時候，本席曾經問過4G行動寬頻執照釋出作業的進度，而且行政院也要求明年底一定要完成，現在扣掉3個月的公告期，只剩下不到1個月的作業時間，依照國外的經驗，頻譜的拍賣方式將深切影響未來4G產業的發展，這個遊戲規則究竟要怎麼定，主管機關NCC何時才會有腹案？另外，在亞洲4小龍裡面，我們上網的速度為什麼會敬陪末座？先進國家的資訊發達，台灣的科技算是相當先進，但是以上網的速度來看，我們敬陪末座是說不過去的，問題到底是出在哪裡？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。這確實是兩個非常重要的問題，容我向委員說明本會大的政策方向，至於比較具體的細節部分，可能要請業管處的主管來向委員做更詳盡的說明。第一，關於4G的釋照期程，我們預定在11月底前釋照規劃方案會初步確定出原則，而且要對外徵詢各方的意見。在12月以前有關頻率使用費和頻譜使用轉讓交易原則也會有初步的草案，並對外徵詢各界的意見。我們預定在明年3月底以前會完成行動寬頻業務管理規則草案，並提送到委員會討論，就是已經有一個最初的版本了。在6月的時候會就所有的管理規則定案，而且要公告申請需知跟各種書表，讓業者可以配合做後續的投標準備工作。在7月的時候要開始受理申請，到9月的時候要完成資格審查程序，開始進行競價程序，預定在明年11月底以前會公告得標者名單，完成釋照程序，這時候標金就會陸續進到國庫。
+至於速率的問題，目前坊間有許多數據的供應，其中有一個數字是來自於一家日本的網路業者Akamai，其實這是一家代客傳輸數據的業者，它是以自己的客戶從各地傳輸數據回來的速率去做各國的排名，可是連民間的研究機構都認為這樣的統計方式有一些問題。至於我們實際的表現如何，在我們行政團隊當中，由我們的政務委員去要求科發基金先做今年度的量測，本會從明年度開始接掌例行的量測，而且從今年測量五都到明年就擴及全國，以精確掌握我國的上網速率及對消費者實際使用行動數據上網服務的情形做通盤的瞭解，這是本會所做的一種相應規劃，至於兩個方案的細節部分，如果委員要逐一指正的話，我可以請業務單位做更具體詳盡的說明。
+盧委員嘉辰：本席請你們提供詳細的資料，因為現在不管是在哪個地方上網，大家都會痛罵速率太慢，都會等得很急，主委應該也有同感，可是為什麼到現在為止都沒有什麼作為，好像很冷漠，你在上任之後應該要針對這方面想辦法克服各種障礙。另外，你們在102年的預算編列了300億元的釋照收入，整個作業有沒有辦法如期完成？
+石主任委員世豪：我們一定會全力以赴，確實如委員所關切的，這個時程和國際間比較起來確實是有一點緊，因此我們預先完成很多的前置作業，而且我們的規劃小組會就現階段還沒有面對、但是在下個階段會碰到的問題先行討論和處理，因為我們希望儘可能趕上時程，在6月的時候就可以確定管理規則並開放各界申請，而且讓他們知道相關的書表應該如何填寫。
+盧委員嘉辰：本席希望你在這方面要有所發揮，自你走馬上任到現在，雖然時間很短，不過國人寄予相當高的期待，而且對這整個相關產業的產值，大家都睜大眼睛在看。
+接下來我要請教一下，你們在歲出只編列六億多的人事費，業務費用好像都隱藏在基金裡面，這到底是怎麼回事？稍後請你說明一下。NCC長期將業務費編列在通訊傳播基金裡面，我記得立法院在審查98年、99年、100年度預算時曾做成決議，要求將一般的行政費用、公關費用、員工福利費、公務車輛等一般公務所需的費用回歸到NCC單位預算裡面，主委應該清楚這部分，雖然通訊傳播基金收入規定用於支應通訊傳播監理業務，但並不表示除人事費用外，連公務支出都可以用基金來支應。而且NCC的前身－交通部電信總局、新聞局都編有一般公務的經常性支出，在成立NCC以後，這些好像都藏到基金裡面，這到底是怎麼回事？主委能否說明清楚？
+石主任委員世豪：第一，根據組織法第十四條以及對應在通訊傳播基本法的規定，通訊傳播監理所需之費用確實要在通訊傳播基金當中編列，這是目前的法律基礎，因為大院曾就教過這個問題，因此本會確實也有提案要研修通訊傳播基本法及本會組織法第十四條有關通訊傳播監理費用編列的模式，不過，在最近一次修法當中，因為各部會對本會所提出的組織法及基本法修正草案多有意見，因此目前是退回本會重新研議的階段，本會一定會在這部分加速做後續的調整作業。當初是把本會的相關監理費用編在通訊傳播管理基金當中，這種考量是希望維持在機關的運作上，其預算能有一定程度的獨立性，讓機關的運作可以從其本業的監理收入上來做考量，這一點原來是制度上的特殊設計，如果這樣的制度在國內的預算審議程序有所扞格，本會願意配合推動下一次的法律草案修正，謝謝。
+盧委員嘉辰：本席希望你們儘快讓這部分回歸到法律層面，否則會讓人質疑，這樣也不太好，以上提供給你參考。
+石主任委員世豪：是的，謝謝。
+盧委員嘉辰：此外，最近五年來累積待收回的罰鍰、規費也超過八千多萬，請問NCC要如何積極追討？你們有錢不收是怎麼回事？
+石主任委員世豪：關於應收未收的規費及罰款收入，目前絕大部分都取得債權憑證，所以在後續的稽催上並沒有問題，我們都可以移給行政執行署去做後續的辦理，目前最大宗的是在大眾電信事業有關請求分期、緩付以及到期未付的款項，這部分在債權的確保上都已經完成相關手續了，我們一定會陸續在做。
+盧委員嘉辰：截至今年8月底，NCC最近五年累積待收回的罰鍰、規費總共高達8,051萬，有的已經欠繳超過五、六年，你們連五、六年都沒辦法去催繳，那最近幾個月有辦法完成催繳工作嗎？有沒有把握？
+石主任委員世豪：如同剛才所說的，其中絕大部分都已經有債權憑證，所以不是一般行政罰法上的短期時效，而是有更長的時效，其次，確實有些會涉及本業的業務狀況以及變動的，這方面我會去深入瞭解。
+盧委員嘉辰：最後，大家費了好一番功夫，包括本席、很多委員都很支持你們每位人選審查通過，為什麼陳元玲說辭就辭？這樣好像不夠尊重所有支持的委員，到底是怎麼一回事？
+石主任委員世豪：我個人在第一時間得知這個消息時就極力慰留，而且告知陳委員這是一個非常難得服務人民與服務國家的機會，確實是她個人的事由，這一點我無法違逆她個人的意志，院長也跟我在這一點上做過很多努力，最後我們仍然只能尊重她個人的選擇。
+盧委員嘉辰：這可能也會影響到NCC整個為人處事的原則，你們等於是信用破產，你們講的話誰要聽、誰信得過？
+石主任委員世豪：我們會努力以我們的施政作為來取信民眾。
+盧委員嘉辰：陳元玲的辭職風波可能會傷害到你們的威信，其實這一次我們也覺得非常不爽快，在未完全被告知的情況之下，很多選民都說我們是傻瓜，我們這些委員支持你們，你們講得天花亂墜，我們都照單全收，我們都相當信任你們，這部分要好好思考，這讓我們打了一個問號，也讓我們覺得相當不舒服，謝謝。
+石主任委員世豪：謝謝委員的關注，我們一定會注意的。
+主席：請羅委員淑蕾發言。
+羅委員淑蕾：主席、各位列席官員、各位同仁。方才盧委員嘉辰有問及陳元玲，經過大家審慎的審核，結果說走就走，唯一的交代就是她家裡的誰生病、車禍需要照顧，這是理由嗎？誰家裡沒有父母親？如果有些突發事件，比方說車禍就要去照顧他，這是理由嗎？難道沒有其他理由嗎？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。就我個人所知就是這件事。
+羅委員淑蕾：這種理由誰能接受？簡直當作兒戲嘛！當時你們不是一再保證嗎？包括你也有幫她講話、幫她背書。
+石主任委員世豪：陳委員在任內確實非常負責、盡職……
+羅委員淑蕾：她盡了什麼職？她總共做了幾個月？領了多少薪水？做了什麼事？
+石主任委員世豪：跟委員說明有以下幾個重大政策的調整，第一，置入行銷和冠名贊助之規範的彈性調整；第二，關於強化新聞頻道的自律機制；第三，建立觀眾申訴的管道……
+羅委員淑蕾：你把她在這段期間做了什麼事、寫了什麼報告等拿來給我們看。這實在太離譜了，整個執政黨的威信、誠信都被她打垮了，我們在民間、基層的時候會被人家笑死，人家會說，國民黨的委員極力幫助、極力護航要讓她通過，結果她拍拍屁股就走、說不幹就不幹，是當成在玩家家酒嗎？
+石主任委員世豪：陳委員在工作上的表現並不像剛才委員所描述的情形，其實所有工作她都積極參與。
+羅委員淑蕾：這真的是離譜到極點！還有沒有其他委員會辭職？
+石主任委員世豪：就我所知是沒有的，至少我本人不會。
+羅委員淑蕾：還有沒有？你保證其他都不會？
+石主任委員世豪：副主委應該也不會。
+羅委員淑蕾：此外，今天大家在關心4G的執照要釋出，關於3G的執照，你們當初定的底價是多少錢？
+石主任委員世豪：應該是三百多億，精確的數字可能要請處長來說明。
+羅委員淑蕾：你們當初定的底價是三百多億……
+石主任委員世豪：336億。
+羅委員淑蕾：為什麼4G只定300億？
+石主任委員世豪：我剛才已經說明過了，我再跟委員說明一次，現在國際上普遍4G所拍得的價金都比3G低很多，其次……
+羅委員淑蕾：你們定底價讓大家來競標，這代表你們認為4G比3G還不行，所以你們就自廢武功，先把價格降低，人家才會講你們是肥財團、瘦國庫！
+石主任委員世豪：報告委員，這是在歲入的一個概估，至於實際上的頻率價值，我們還是要委外研究做估價的動作。
+羅委員淑蕾：你告訴我，你們概估300億的基礎在哪裡？
+石主任委員世豪：剛剛跟委員說明的，它是比較國際上3G和4G頻率釋出的一個價差，以及我國行動業務在這十幾年來總成長的額度，那確實都不是很高。
+第二個，這並不影響到我們在頻率底價核估上面的一個作業，如果實際核算出來的底價比300億更高的話，那麼我們在底價的設定上就會高於300億。
+羅委員淑蕾：也就是說現在預算書裡面，你們也承認有所低估嗎？
+石主任委員世豪：並沒有，因為我們還不知道比較精準的價格區間，所以這只是一個概估的數值。至於比較精準的價格區間，我們會委外進行專業的評量，到底我國的4G相關的700、900、1,800的頻段該有的價值為何。
+羅委員淑蕾：就4G的釋放及網友關心上網的速度來說，上網的速度我們輸給韓國，韓國是排在第一名，而我們是排在第四十六名，這個很低呀！
+石主任委員世豪：委員所說的應該是Akamai公布的資料。
+羅委員淑蕾：對。最重要的是基地台的建設，那個比較難找，誰都不願意將基地台蓋在自家的屋頂上。根據電信法的規定，公務機關不能拒絕，但據我的了解，很多公務機關都拒絕在機關的頂樓或其他地方設置基地台，事實上這已經是違法了。據我所知，好像交通部的所屬機關比較樂意配合，因為交通部自己主管的業務，所以不得不配合。你能不能告訴我，有哪一些政府部門不願意配合？
+石主任委員世豪：確實如委員所說，交通部所屬各局及各機關確實配合意願最高的，本會當然也跟交通部相同，這其實呈現一個問題，也就是說，如果愈了解電波頻率的影響情況，其實愈容易接受，當然……
+羅委員淑蕾：這就代表你們推廣的不夠嘛！因為你們沒有用科學的數據或用科學的方式，讓民眾來了解基地台的電波沒有想像中的那麼可怕，所以一定是宣傳不夠。連公務機關都沒辦法接受，民眾為何要接受？你們應該要公布，你現在告訴我，哪些部門不配合？行政院院本部、財政部以及各部會有沒有同意？你現在要公布有哪些部會你們已經接觸過且被拒絕設置基地台？
+石主任委員世豪：報告委員，通盤的情形，我們可能要另外整理。就我個人所知，零星個案會有拒絕的情況，是因為機關附近的民眾有疑慮，這個機關就會擔心睦鄰環境處理不好。
+羅委員淑蕾：那根本就不是機關附近民眾有疑慮，而是機關自己本身就有問題！難道交通部所屬和貴會所屬單位附近的民眾就沒有疑慮嗎？所以不要用這個……
+石主任委員世豪：我們比較努力地去和附近的民眾解說。
+羅委員淑蕾：我這是在幫你忙耶！你現在就把它公布出來，到底有哪些部會不配合，有哪些部會很明顯地行文拒絕？
+石主任委員世豪：我們把相關資料整理好之後，提供給委員一份。因為目前的法令要求，它無正當理由不得拒絕，因為通常它會找到它認為強而有力的原因。
+羅委員淑蕾：我知道，他們找到的理由都是鄰近的民眾拒絕，難道交通部鄰近的民眾就不會拒絕？你們NCC附近的民眾不會拒絕嗎？
+石主任委員世豪：我們都會儘量跟民眾溝通。
+羅委員淑蕾：這個是什麼理由嘛！這個根本就不是理由！你應該把它公布出來，為什麼你不敢公布呢？關於這個問題，本席已經質詢過你一次了。
+石主任委員世豪：是。我們會整理一份資料給委員參考。
+羅委員淑蕾：直到現在，你還是沒有把它拿出來呀！你應該把它講出來，公務部門已經很明顯地違法，阻礙上網速度的就是基地台的建置，如果是民眾，我們可以理解；假如連公務部門都沒有辦法相信你們所做出來的科學的數據顯示「電磁波對人體無害」的結果，連公家機關都無法接受，你又如何去說服民眾呢？你如何去讓別人接受呢？
+石主任委員世豪：這是我們應該努力去克服的落差。
+羅委員淑蕾：對啊！那到現在你為什麼怕？為什麼你還在整理？你要公布出來啊！哪些機關拒絕你們？行政院有沒有拒絕你們？
+石主任委員世豪：行政院應該不是今天我們交涉的對象。因為基本上行政院頂上架設基地台的數目，並不像一般所謂重要制高點的位置。
+羅委員淑蕾：就像台電一樣嘛！台電說放在外面的變電箱都沒有電磁波，那台電自己的、包括行政院地下室的變電箱，為什麼要做一個很大的防護層？
+石主任委員世豪：報告委員，它屬於一個所謂的強電場，它的影響可能比我們所知道基地台電磁波的弱電場的情況，稍有不同，所以它要求的是非游離輻射的強度和防護不同。
+羅委員淑蕾：公部門應該要率先配合，讓大家覺得沒有疑慮。交通部和你們是迫於無奈，如果連你們自己都不接受，要怎麼推動？如果包括財政部等位在台北市的那麼多部會都願意配合的話，問題就解決了嘛！
+石主任委員世豪：確實。我們會朝這個方向去努力。
+羅委員淑蕾：你那個資料什麼時候給我？
+石主任委員世豪：我們整理完就送給委員一份。
+羅委員淑蕾：整理完是要多久？我上次質詢到現在快一個多月了！
+石主任委員世豪：是，我們會儘快完成。
+羅委員淑蕾：什麼儘快？這個還要儘快完成？難道有不可告人的秘密嗎？
+石主任委員世豪：不是。因為有一些零星的個案，我們要了解它情形之後，讓委員有比較通盤的了解。
+羅委員淑蕾：不用，你告訴我是什麼機關，以及拒絕你們的理由是什麼就好了，還要通盤了解什麼？為什麼不敢公布呢？
+石主任委員世豪：因為既有中央機關，也有地方機關。
+羅委員淑蕾：沒關係，什麼機關都可以！
+石主任委員世豪：所以，我們會整理出來讓委員了解。
+羅委員淑蕾：你需要多久？一年？半年？
+石主任委員世豪：不需要一年。
+羅委員淑蕾：3年？5年？
+石主任委員世豪：我們會儘快，應該就是在今年或是兩個星期之內……
+羅委員淑蕾：好。兩個星期。主席請你登記起來。兩個星期之內，請你把資料給我，讓我看看哪一些部門不願意，謝謝。
+石主任委員世豪：謝謝委員。
+主席：請劉委員櫂豪發言。
+劉委員櫂豪：主席、各位列席官員、各位同仁。主委，如果你身為一個消費者，你花20元在台北可以購買到1公升的可口可樂，但在台東花同樣的錢，買到的可口可樂1瓶卻只有0.5公升，請問身為消費者的你，認為這樣公平嗎？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。單純的消費，當然不會接受這種情境。
+劉委員櫂豪：你會憤怒嗎？
+石主任委員世豪：我會去了解為什麼會是這個樣子。
+劉委員櫂豪：主委，在電訊通訊方面，我想你不只是一個消費者，你還是全國最高的主管機關。
+石主任委員世豪：是。
+劉委員櫂豪：根據消基會在今年（101年）的6月28日所公布的資料，台大電機所從2011年8月15日到2012年5月28日收集了38,409人、10萬3,954筆的測速資料，比對之下發現一個數字，在同一家公司、同一個收費標準，台北3G上網的速度最快，達到1.6MB；台東最慢，只有0.8MB。所以簡單地講，同樣花一筆錢，月租費無論是500元或吃到飽都好，在台北享受到的速度是台東的2倍，這是2倍的差距啊！
+主委，你現在不只是消費者了，你是主管機關，我從6月28日，時值立法院休會期間，我們就緊盯著NCC對這個現象到底有沒有一個解決的方案，有沒有一個反應！請問，身為主管機關的NCC對這樣的一個報告、對這樣的一個現象，有沒有採取任何措施？
+石主任委員世豪：我們在電信技術中心就做了相應的量測，自從我們得到第一筆數據之後，我們也注意到業者確實加強以往在基地台的建設，以及寬頻網路部分比較弱的部分，目前速率已緩緩上升中。
+劉委員櫂豪：緩緩上升要多久？30年嗎？
+石主任委員世豪：我們不會容許他這麼慢的。
+劉委員櫂豪：你自己都講緩緩上升，這個不公平的現象已經存在，你不能容許它緩緩上升，這就好像我在賣汽油一樣，你花30元在台北可以買1公升，在台東只能買到0.5公升，這已經是不公平的現象，但是我卻告訴消費者說，這個現象我注意到了，但是我緩緩地改進這個現象。
+石主任委員世豪：確實業者已開始加強建設，但是速度還是不如消費者預期。
+劉委員櫂豪：但是收費是一樣的。也許建設基地台要花時間，但是至少要求他降低收費，因為各種數據都說明了他所收的費用跟品質完全不相符，你身為主管機關沒有強力要求電信業者降價，卻告訴消費者會緩緩改進，而且也沒有一個時間表。緩緩改進是指多久？1個月嗎？2個月嗎？
+石主任委員世豪：應該是說他在逐步改進，可是要跟都會區完全相同確實是比較難的目標。
+劉委員櫂豪：NCC組織法規定，你們是主管全國電信通訊的主管機關，而且你們重要的使命就是要縮短城鄉的差距，建設既然要花時間，可以先要求他降低收費，這是一個既存的現象，這個現象不是6月28日才存在，而是從有開始有3G上網時就存在了。
+主委，最簡單的道理，其實不是如業者跟你說的，建設基地台的土地取得困難，很簡單啦！我舉台東的例子，相信同樣的理由，業者不喜歡投資在金門、馬祖及澎湖，因為那裡的用戶少，對他來講，他有商業考慮，所以不願意投資那麼多。這是業者的想法，但是NCC不能這樣想，NCC當然要設法導正這樣的現象。
+石主任委員世豪：所以我們在加速推動普及服務。
+劉委員櫂豪：你要加速，好，有兩種現象，第一是要求業者改善設施，要和都會區一樣，時間表在哪裡？
+石主任委員世豪：剛才已經跟委員說明，確實在偏遠地區基地台的密度和頻寬總建設無法與都會區相比，但是他必須達到服務的品質要接近。剛才委員指出一個很重要的現象，坊間所謂的「吃到飽」，其實是單一資費，他通常只收了每月固定資費之後，不管使用量多少都是這樣。
+劉委員櫂豪：主委，我現在講的臺大電機所公布的不止是吃到飽，他是講同一費率，包括500元、300元的同一費率，也就是繳300元的費率，在台北及台東的享受是不一樣的，而且是兩倍的差距。所以不要把責任推到「吃到飽」。這是第一個。
+第二個，你現在講建設、涵蓋率等等，的確涵蓋率的建設需要一段時間，這我能接受，但是你已經看到這個現象，業者當然不能同一收費，台北收500元，如果台中的品質只有一半，那當然是只收一半的錢250元，這對NCC來講並不困難啊！
+石主任委員世豪：因為我們在核定資費的時候確實對市場主導者主要資費必須經過我們核定之後才能實施，但是現在有很多方案只是送本會備查。剛才委員所提到的現象，其實本會與公平會已經有共同在處理，有關於速率如果不真實的話，業者會受到處罰。
+劉委員櫂豪：主委，你身為這方面最高的主管機關，這個現象你也注意到了，你不能告訴這些已經受到不公平待遇的消費者，無論他是住在台東、金門、馬祖或澎湖，或其他偏遠地區，你不能講這些學術理論、這些冠冕堂皇的話。身為主管機關，你告訴他們的應該是：你們受到不公平的待遇，我是你們的靠山，我要求電信業者一定要馬上降價，如果不馬上降價，我NCC要代表所有受到不公平待遇的消費者進行集體訴訟。你身為主管機關看到這個不公平的現象，難道你只能說，我沒辦法，我只能道德勸說，因為它的費率是交給我備查的。
+石主任委員世豪：但是就它的營業規章和服務契約，如果有涉及不公平的部分，我們會介入處理。
+劉委員櫂豪：主委，你認為這還不算不公平嗎？那怎樣才算不公平？
+石主任委員世豪：要看他實際服務契約的內容，如果他保證速率而沒達到的話，那就已經有涉及違法的事實。
+劉委員櫂豪：我就問你公不公平，對於有沒有違反契約，你身為主管機關，你看過嗎？
+石主任委員世豪：要看他各種不同的資費方案所使用的服務契約條款如何，我現在所說的是總量，總量要的話要看他個別服務的……
+劉委員櫂豪：主委，你不要講這些話，所有的消費者，包括你去申請帳號，沒有人相信那些密密麻麻的字都看懂，而且那個契約是全國統一適用的，他不可能訂立另外的契約。現在所有在偏遠地區的消費者，都把希望寄託在NCC身上，我送你4個字，簡單的講，你就是「束手無策」嘛！
+石主任委員世豪：不至於。
+劉委員櫂豪：既然不至於，那請你告訴我你要用什麼方案來解決這個問題。
+石主任委員世豪：現在我們手上有政策工具是在於他營業規章的處理，或是服務契約的介入，還是資費的核定，我們要看具體的情形，如果是他聲稱的服務條件不實的話，那麼本會和公平會都會介入處理。
+劉委員櫂豪：你既然有這個政策工具，你告訴我這公不公平。你有政策工具，你自己也講了，你告訴我這公不公平？
+石主任委員世豪：剛才委員所提到的測速方案並沒有說他是在什麼樣的服務契約條件之下所得到的數字……
+劉委員櫂豪：主委，那我請教你，你做過這樣的測速嗎？NCC做過嗎？你應該要做的，你不做，而全台灣最高學府－臺大電機所做了，你又說他的數據不一定準確，那你做了嗎？
+石主任委員世豪：我剛才不是說他的數據不準確，我是要了解個別消費者是以怎樣的契約條件和電信者簽約。
+劉委員櫂豪：好，我贊成，但是這本來就是你的工作，你做了嗎？
+石主任委員世豪：我們也正在推廣……
+劉委員櫂豪：正在做，什麼時候出來？
+石主任委員世豪：今年的五都到明年全國每個縣市。
+劉委員櫂豪：3G已經推行這麼久，你到現在還沒有做？
+石主任委員世豪：所以我們明年會推廣到全國都做測速。
+劉委員櫂豪：那你現在做了嗎？
+石主任委員世豪：今年已經在五都做了，而且在逐步推廣中。
+劉委員櫂豪：如果測速出來台東及偏鄉地區的速率確實只有都會地區的二分之一時，你可不可以承諾叫電信業者對偏鄉地區降價？
+石主任委員世豪：就像委員剛才提到的，要雙管齊下，第一個要增加建設；第二個是檢討服務契約的公平性，兩邊都要做。
+劉委員櫂豪：主委，原本我一上來是要稱讚你。
+石主任委員世豪：不敢。
+劉委員櫂豪：因為你注重偏鄉地區的通訊，你在上個月也風塵僕僕的為了在東河鄉泰源地區設立數位轉播站而去台東。
+石主任委員世豪：這是我們應該做的。
+劉委員櫂豪：這是你應該做的，你在設立當天講了一些非常令人感動的話，你認為即便是東河鄉的人口不到9,000人，你在泰源地區設了4個轉播站，你認為這是政府要照顧偏鄉等等，那時候講的話，我在底下聽了也很動容，但是主委，相同的議題，你在立法院裡，你的防衛心就完全出來了。本席在這裡舉出各種數據告訴你不公平的現象已經存在這麼久，而且不是今天才存在，你身為電信方面的最高主管機關，你完全對這樣的現象束手無策，你告訴這些受到不公平待遇的消費者就是要等待，簡單講，你就是沒有辦法。數據已經擺明在這裡，但是你卻沒有那個勇氣、沒有那個膽識說：是的，這個不公平現象已經存在太久了，政府對不起這些受到不公平待遇的消費者，我們會限期要求電信業者在還沒有改善這種現象之前要降價。
+這個與其說是很高的要求，倒不如說是一個非常基本而卑微的要求，但是你的回答是束手無策，無法處理這樣的現象。
+石主任委員世豪：我們的政策還是要雙管並下，一方面從建設著手；另一方面減少他服務的條件。
+劉委員櫂豪：主委，我贊成你要雙管齊下，我是說在業者還沒有改善之前，你要要求電信業者降價。這不衝突的、可以雙管齊下啊！這不叫雙管齊下嗎？我沒有要你不要做建設，而是建設還沒有到達一定涵蓋率、普及率之前，你要電信業者降價嘛！
+石主任委員世豪：我們會去檢視其契約的合理性。
+劉委員櫂豪：NCC在今年5月時有招標一個「頻譜釋照、次級交易及管理制度之研究」，這是不是針對將來4G釋照一個非常重要的依據？
+石主任委員世豪：頻譜次級交易是一般性的頻譜管理措施，其彈性化的使用頻率是很重要的。
+劉委員櫂豪：得標者是財團法人21世紀基金會。
+石主任委員世豪：是今年6月決標的。
+劉委員櫂豪：貴會彭心儀委員在該基金會數位匯流研究發展中心擔任研究員及顧問。
+石主任委員世豪：應該在就任之後就不是了。
+劉委員櫂豪：至少上個禮拜在網站上還有她，可能是因為我有上網查這件事情，所以今天網站上關於她的部分就下架了。
+石主任委員世豪：我想是該基金會更新它的資料。
+劉委員櫂豪：上個禮拜還沒有更新，她5月被提名，8月就走馬上任，而且至少上個禮拜網站上還寫著她是擔任數位匯流研究發展中心的研究員及顧問，我猜是基金會知道我在關心這件事情，所以才將其下架。
+石主任委員世豪：謝謝委員的提醒，我們會進一步了解。
+主席：請李委員昆澤發言。
+李委員昆澤：主席、各位列席官員、各位同仁。可否請主席詢問一下石主委是否心情不好或是健康方面有什麼問題，不然我們很有禮貌請石主委上台，但他上台後沈默不語，所以我想了解實際的狀況，是因為陳元玲辭職所以心情不好？還是今天天氣變化所以健康有問題呢？我們大家都很關心你！
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。謝謝委員的關心。
+李委員昆澤：一般到其他的委員會，我們都是很有禮貌的請官員上台，官員一上來也會問好，但是主委一上來就雙手叉在後面，我還以為文天祥來了。
+石主任委員世豪：不敢！不敢！我是非常嚴肅看待大院行使職權。
+李委員昆澤：請教主委，面對吃到飽的方案，張善政政務委員表示應該予以取消，接下來石主委也發表同樣的言論，後來交通部毛部長也加入了聲援的行列，我覺得你們好像在打籃球的三角戰術一樣，而且是打小球，這種擋切戰術配合得天衣無縫，你們到底有沒有站在消費者的立場呢？現在行動電話網路塞車的情況是消費者造成的嗎？NCC、交通部、行政院政務委員並沒有站在消費者立場要求電信業者應該提供更好的電信服務，反而要求社會大眾不要選擇吃到飽，以後也不會提供吃到飽的選項，則你們是不是管太多了？
+石主任委員世豪：我沒有記錯的話，本人應該沒有就這個議題有深入的發言，不過我應該有說出一個重要的方向，消費者的權益確實在這個問題上是一個最重要的環結。
+李委員昆澤：NCC的職責就是要求這些賺大錢的電信公司應該要為社會大眾提供最好的電信服務，但事實上並沒有，像中華電信一年不是賺三、四百億？其他家電信公司也是至少賺百億以上，你們有去要求他們應提供良好的電信消費服務嗎？並沒有，反而是去要求社會大眾不要選擇吃到飽，主委，為何社會大眾要選擇吃到飽？
+石主任委員世豪：這有幾種可能性，第一，避免有所謂的bill shock，就是避免收到帳單時嚇一跳，所以希望資費方面是固定的，讓消費者在用完一個月的電信服務時，不會看到一個他無法接受的帳單，這是一個很重要的原因。
+李委員昆澤：消費者會選擇吃到飽的原因，第一，就是省麻煩、買心安，例如我買中華電信950型，就是950元吃到飽，不會有發生超出這個月消費金額之外的情況發生，再來就是買心安，因為買950型就不會碰到買150型但收到帳單的時候，金額卻是1,600元，第二，我們在使用行動電話的時候，常常會誤觸行動上網的功能鍵，這常會造成高額行動電話費的情況發生。
+石主任委員世豪：還有國際漫遊也是。
+李委員昆澤：第三，現在消費者常常會使用Wi-Fi，就是免費無線上網，但是有時Wi-Fi訊號微弱，手機就會自動搜尋較強的電信訊號，這些都是無可避免的狀況，所以大部分消費者就會選擇吃到飽方案，再來，我們固定費率超收的情況非常嚴重，就是你沒有讓民眾吃到飽，但民眾的荷包會不飽，以中華電信150型方案為例，因為是固定費率，所以超出60M的時候就要多收費，換言之，60M150元，換算下來2.5元1M，但是超過60M之後1M從2.5元變成5元，可是使用者是有可能誤觸行動上網或是Wi-Fi訊號微弱，變成自動搜尋其他電信公司較強的訊號。另外一個很重要的問題就是每個消費者不可能吃飽閒閒去注意上網流量有多大，不像開車時有儀表板可看速度是否有超過，但是用手機上網時，很少會去注意流量是否有超過，因為太麻煩也太不方便了，反觀950型吃到飽方案就是免麻煩、買心安，換言之，若是買150型固定費率時，前面的60M是2.5元1M，但是超過60M之後1M變成5元，且上限是1,600元，為了避免塞車去選擇150型固定費率，但可能一下子就超過60M，然後從2.5元1M變成5元1M，而且這個費率的上限為1,600元，最後的結果是，原本只要花950元就可以吃到飽的服務，變成要花1,600元，這才是問題是核心。所以NCC、政委及交通部應該站在消費者的立場，要求電信業者提供良好的電信服務，而不是過度地干預人民會自動選擇電信消費產品的權利。哪一個產品比較好，社會大眾、消費者會選擇，這是一個很重要的方向。
+石主任委員世豪：委員說的其實是重點，但是很重要的一件事情是，資訊是要透明的，消費者要知道自己選擇到什麼東西，這個時候他的消費權益才能真正地落實。
+李委員昆澤：對，消費者要知道自己選擇什麼東西，也要知道NCC有沒有站在消費者的立場要求電信公司提供良好的電信服務。
+我在此要具體建議，NCC要有一個評估的系統，並據以建立停收的制度，也就是說，當電信公司提供的電信消費產品如果會造成塞車或系統不堪負荷，就要停收消費者的費用。舉例來說，業者投入的系統只能容納100人，卻招收了三、四百人，當然會造成塞車，這個時候難道要把塞車的責任怪在消費者身上嗎？我具體建議NCC要建立一個評估的系統，當電信業者的系統無法負荷或造成塞車，又不願意改善系統的時候，應該停收費用。不然他們賺了一大堆的錢，高達三、四百億元，卻不肯投資在改善通信服務品質方面，不願意做到這個基本要求。
+石主任委員世豪：委員剛才說的在總量、總消費人數及總建置數方面，我們已經在做了。可是剛才委員所說的沒有辦法從……
+李委員昆澤：主委，你看我們台灣大概467個人共同使用1座基地台，日本大概是一百多人使用一個基地台，這樣的系統不足的確是一個嚴重的問題……
+石主任委員世豪：跟委員報告，因為日本有一些是屬於低階的，涵蓋範圍是比較小的。
+李委員昆澤：主委，NCC應該站在消費者的立場，要求電信業者建立評估系統及停收的制度，因為業者的服務品質又慢又貴。就像剛才本委員會的委員所提到的，吃到飽的方案本來就吃不飽，上菜的速度慢，菜色又爛、又貴，NCC卻沒有辦法站在消費者的立場考量。
+石主任委員世豪：跟委員報告，其實「吃到飽」3個字有點誤導，它其實是指單一費率或兩段式費率。單一費率是指一個價格之下讓消費者任意使用……
+李委員昆澤：它就是單一費率嘛！
+石主任委員世豪：另外一個是兩段式費率……
+李委員昆澤：我剛才講到單一費率及兩階段式的固定費率比吃到飽方案貴兩倍。就像我剛才提到的，消費者選擇中華電信950元吃到飽方案，是為了省麻煩，也心安。使用寬頻上網本來就是人權。如果按照NCC的想法，取消吃到飽的方案，例如採用中華電信150元固定費率、兩階段費率的方案，第一階段是60M，1M計費2.5元，超過60M，1M計費5元，消費者是傻瓜嗎？本來是950元可以處理好的事情，可能要花到1,600元，這合理嗎？
+石主任委員世豪：跟委員報告，其實剛才說的單一費率或兩階段費率有一個最大的困擾，在於它沒有說明它是用什麼速率的情況之下去計算的，如果它保證它有多少速率的話，就會涉及有沒有促銷或廣告不實，對於這種情況，我們一定會介入處理的。我們與公平會分別在職掌範圍之內，都會糾正或處罰業者這方面的措施。
+李委員昆澤：這就是一個評估的系統，要建立具有公信力的評估系統。
+石主任委員世豪：委員，還有一件情形，就是您提的訊務量增加這點比較難事前……
+李委員昆澤：另外，我剛才提到的，評估系統是第一個，第二個就是要有停收的制度。電信公司賺那麼多錢，卻不願意投資更多的資金去做公共電信的基礎建設，速度那麼慢又貴的話，我覺得就要停收，不能再招收新的消費者，因為頻寬沒有辦法負荷那麼多。業者賺錢又不肯投資基本的設備，對消費者是不公平的。
+石主任委員世豪：我們現在在事業建設計畫書裡面，都有要求業者要有餘裕的頻寬及相關的基礎建設，我們已經在做了。
+李委員昆澤：最後，上一任的主委向社會大眾宣布，2014年有線電視要全面數位化，請問石主委，你做得到嗎？
+石主任委員世豪：我如果沒有記錯的話，這應該是……
+李委員昆澤：本來是說2015年有線電視數位化至少要5成，但是後來NCC又大言不慚地表示，在2014年的時候要全面數位化，報紙、媒體都有登載。
+石主任委員世豪：我沒記錯的話，這應該不是蘇蘅前主委的宣示，而是行政院數位匯流發展方案裡面所訂下的目標。
+李委員昆澤：對於這個目標，你們做不做得到？就是做不到嘛！
+石主任委員世豪：我們全力以赴，而且我們會與業者討論適當的措施。
+李委員昆澤：文天祥不會講全力以赴啦。現在到底做到多少？
+石主任委員世豪：目前是15%左右。
+李委員昆澤：也就是一成多而已嘛。本來訂出2015年要超過5成，就不太可能了。
+石主任委員世豪：這幾年的成長速度已經比前幾年要多一些了。它確實………
+李委員昆澤：全面數位化是對於電視收視戶收視品質的基本要求及保障，也是未來建立基本頻道及非基本頻道很重要的基礎建設，但是你們的速度這麼慢。
+石主任委員世豪：跟委員報告一個好消息……
+李委員昆澤：什麼好消息？你要辭職了嗎？
+石主任委員世豪：我看到的新資料是，到9月底，數位化的普及度到達18.16%，比我們上次資料更新之前的14.9%，增加了將近3個百分點，就是越來越快了。
+李委員昆澤：你們號稱在2015年要提升到5成，後來行政院又大言不慚地表示，在2014年就要全面數位化，但是現在才從14%提升到18%。主委，要好好檢討。
+石主任委員世豪：我們一定全力以赴。
+主席：請楊委員麗環發言。
+楊委員麗環：主席、各位列席官員、各位同仁。本席想先質詢主委有關壹傳媒的事情。傳聞除了辜家、王家以外，還有新加坡的財團有意購買壹傳媒，媒體已經披露，這筆資金可能與旺中的老闆有關，請問主委，確定有這件事嗎？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。就本會的職掌範圍來說，我們還沒有具體了解資金的來源，因為外人投資本國事業目前是由經濟部投資審議委員會在處理。
+楊委員麗環：如果是的話，你覺得問題會怎麼樣？
+石主任委員世豪：一旦涉及本會所主管的壹電視3個頻道部分，本會就會清楚地去了解相關負責人的資格及資金往來的情況。
+楊委員麗環：你要等它賣成以後再去查，是吧？
+石主任委員世豪：根據法定的職權，涉及它應登記事項的變更，才是本會審查的標的。
+楊委員麗環：如果確定以後你們再處理，來得及嗎？還是應該先……
+石主任委員世豪：如果本會不同意的話，它的登記事項無法變更，所以會維持在原來登記的項目上。
+楊委員麗環：也就是說，到時候如果真有旺中的資金涵蓋在裡面，你會怎麼樣處理？這個案子就不成立，還是……
+石主任委員世豪：我們還是要依法律的規定做審查，如果涉及負責人變更的話，我們要查核負責人的資格；如果是涉及集團化的現象，我們要看它對整個市場的影響力，以及它到底違反那些法令，……
+楊委員麗環：如果壹傳媒也算在旺中裡面，旺中確實是很大的了。
+石主任委員世豪：目前根據法律，本會要具體審查有無新聞紙的負責人或股東來投資的明確規定的，只有在無線廣播電視的部分。
+楊委員麗環：請你們儘快去查清楚，不要讓大家猜測，誤以為媒體已經是集中化了。
+石主任委員世豪：目前的職權分配其實非常的明確，有關於產金分離是由金管會負責，有關於報業是否已經結合之後超過市占率四分之一，而未經公平會審查就已經進行結合的部分是由公平會調查，本會的職權是就他是否已經取得頻道的執照要做相關登記事項的變更，我們三個單位各司其職。
+楊委員麗環：你們是負責最後的把關？
+石主任委員世豪：各自執掌的範圍不同。
+楊委員麗環：如果他們都已經談好了，前面也都同意了，但是到最後你們把關的時候卻被否決掉，那行政院不是很丟臉嗎？
+石主任委員世豪：我們只能依法行使職權，而且這件事情要經過我們委員會議的審議之後才能夠決定。
+楊委員麗環：政府是一體的，如果有這樣的疑慮，我建議你在前面兩關還沒有做決定之前，及早告訴他們，因為媒體是不是獨大是你們最後決定的，所以這個部分希望你及早讓大家清楚的知道，該追蹤的資料不要忘記，好不好？
+石主任委員世豪：是。
+楊委員麗環：另外，在今年6月1日本席質詢特別針對行動電話在高鐵、台鐵的通訊品質，尤其是在高鐵某些路段上多次遺漏重要的訊息，你們是跨區的，收訊品質不好是你們管理的，請問這個問題何時能完全改善？
+石主任委員世豪：這部分可能要請我們資源技術處的陳組長說明，我所了解的情況是因為現在必須利用高鐵深夜沒有營運的期間進行線路電纜的建設，這一點確實在施工的期程上會受到不少的影響，因為它施工的時數很短。目前知道的是……
+楊委員麗環：我要知道的是什麼時間可以改善，沒有理由告訴我它有什麼困難，這不是困難的問題，而是你們什麼時候可以全部改善完成？萬一發生像北迴鐵路上次的火災事件，這是涉及公共安全。
+石主任委員世豪：我們目前掌握的進度是預期在102年底可以完成，103年初我們要審驗。
+楊委員麗環：就是明年底完工嘛，需要等這麼久嗎？這段時間不論是隧道或公路，你們保證絕對不會發生狀況嗎？都不會發生意外嗎？所以希望你們盡速完成，好不好？
+石主任委員世豪：是。
+楊委員麗環：另外，大家都認為我們上網的速度真的非常慢，我們的網速是全球第46名，聽說現在因為張政委要求測量網路速度，所以有在進步當中，但是第46名說實在其實還滿丟臉的。
+石主任委員世豪：第46名是日本民間業者Akamai所做的調查，他自己代客傳輸影音數據，根據用戶各國網路的使用情況回報彙整而成的，目前他的統計方式……
+楊委員麗環：我們自己沒有辦法去檢測嗎？
+石主任委員世豪：我們也正在做檢測，而且現在從五都逐漸擴充到全國，都在……
+楊委員麗環：檢測之後發現有更好嗎？
+石主任委員世豪：有，確實有在進步。
+楊委員麗環：有啦，一個月比一個月進步，但是我們並沒有排在全球前十名內，還是很丟臉啦！跟其他一些名不見經傳的小國家例如拉脫維亞，人家都已經衝到第4名、第5名了，更好笑的是我們還落後韓國，落後日本還比較沒話說，過去韓國在電訊業方面是比我們落後很多，可是現在已經超前我們，所以這些都足以讓我們作為借鏡。另外一方面，現在是用測量網速的方式逼迫業者去改善，但這都是很短期的效果，我認為你們應該有一套獎懲評鑑的制度，而且要跟它的價格連動掛勾，電信業的光纖基礎設施還有基地台，這方面你們有沒有要求業者要加強？
+石主任委員世豪：確實有，在它的事業建設計畫書裡面我們要求他要作適度的調整，包含基礎網路跟骨幹網路的擴充，基地台建設的速度等等。
+楊委員麗環：其實業者也在抱怨，我這樣子問其實也沒有作用，因為你一定會說你們都有在做。
+石主任委員世豪：我們現在內部的資料也慢慢勾稽在一塊。
+楊委員麗環：我喜歡用手機直接收聽法國的新聞台，但是只要我在開車的時候，斷訊的情形就非常的嚴重，即使是在桃園、台北這些都會區也是一樣，大概每隔5~6分鐘就會斷訊，尤其是在傍晚下班的尖峰時段更嚴重。
+石主任委員世豪：報告委員，就我所了解是因為一旦訊務量上升，基地台的有效涵蓋範圍就會內縮，導致基地台跟基地台之間的訊號會有中斷的情況。
+楊委員麗環：我也提醒你在交通網路的地方，像高速公路、高鐵或是台鐵周邊有很多公用的土地，所以業者一再的強調，希望釋照的時候也應該幫他們掃除障礙，他們面臨的最大問題就是建置基地台的困境，因為這牽涉到民間的反彈，但是政府有很多公共建築物，當時我們還建議內政部、交通部自己的大樓就建置，請問有這樣做嗎？
+石主任委員世豪：有，本會的仁愛大樓就開放讓業者去建置基地台。
+楊委員麗環：只有你們而已嗎？我們講的是公部門的建築物。
+石主任委員世豪：我們在小南門的北區辦公室也是如此。
+楊委員麗環：公部門的部分是不是應該優先提供？還有高速公路兩旁有很多保留供做迴旋的地方，這是不影響交通的地方，我看到很多國家也都是利用公共建設建置基地台，因為它不會有民眾安危的疑慮，另一方面政府也可以最快的速度釋出。剛才我提到隧道裡面通訊的問題，其實隧道旁邊有很多都是公共土地，所以我希望你們整合一下，跟交通部提出要求，也跟中華電信共同來努力。
+石主任委員世豪：好，我們會加速和高公局協商。
+楊委員麗環：否則你們只是負責管制，我們民意代表、所有民眾都希望價格低、速度快，但是如果整個基礎建設你們沒有幫忙掃除這麼多的障礙，一設置基地台就馬上有民眾抗議等等，這也是……
+石主任委員世豪：本會一直在做，以後會加強力道。
+楊委員麗環：你們什麼時候會加強呢？
+石主任委員世豪：要跟相關的主管機關做進一步的協商，包含委員所提到的交通部各機關。
+楊委員麗環：釋出證照的錢，你有沒有準備專款專用，還是全部歸國庫？
+石主任委員世豪：這一點比較困難，因為根據本會的組織法及預算法第九十四條的規定是直接撥入國庫。
+楊委員麗環：我知道這個問題，但是台灣在電訊方面如果再不加緊腳步，說實在的我們很難取得領先。我們在IC產業相當的好，但是我們都只是做代工，如果我們現在4G釋照配合IC產業例如機上盒，輔導廠商跟網路合作，相信台灣在這方面的領域其實是很強的，可是我們就是沒有很強的支撐力量。剛才有委員質詢提到，我們當初也是希望全面數位化，可是這也是一直到蘇主委任內才努力去做，開始在數位方面強制業者，可是我們沒有一個整合的系統，政府的理由是沒有經費，可是這來自於業者的錢，為什麼不能專款專用全力來發展呢？主委有向行政院提出全面性的推展計畫嗎？在這方面台灣其實是相當有實力的。
+石主任委員世豪：我們會加強跟相關部會的協商，也會讓政委了解這樣的需要。
+楊委員麗環：每次都回答這樣的話，因為你是後端管理的部分，我們希望你應該跟前端相關產業的部會一起合作，否則人家在質疑2014年是騙人的，你們說2015年要二分之一，現在又說要全面，理由很簡單，你們沒有一個整體性的合作關係，只是在後端催促效果並不大，而且釋照這麼多也會稀釋很多，台灣的消費人口太有限了，這是一個很大的問題，要跟產業一起合作，好不好？
+石主任委員世豪：我們會注意的，謝謝。
+主席：報告委員會，現在休息，各位委員如果有提案，請盡速送到議事組。
+休息
+繼續開會
+主席（蔡委員其昌代）：現在繼續開會。請林委員明溱發言。
+林委員明溱：主席、各位列席官員、各位同仁。石主委，本席最近接到我們南投地區旅館業、民宿業者的陳情，這些業者都有接有線電視，因為他們希望提供更優質的服務，包括網站宣導、推薦一些優質的民宿，提供更好的服務品質，但是他們想要播送這些資訊，第四台的業者卻說不行，必須經過九太科技有限公司同意之後才可以，而且全國好像就這一家在經營。我就不清楚應該直接向第四台申請就可以了，為什麼還要經過九太這家公司呢？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。就我了解一般的情況是涉及所謂公播版授權的問題，至於詳情我可以請業管處的處長跟您作更具體的說明。
+主席：請通傳會傳播營管處黃處長說明。
+黃處長金益：主席、各位委員。有關旅館、民宿或是在公共場域播放相關視訊內容的部分，在智慧財產權上的歸屬是屬於在公開場合播放就會有公播的問題，它的授權有別於有線電視家用的授權，所以有線電視縱然它的纜線已經拉到民宿或旅館，但是如果要在這個場域播送，另外還要取得公播的權限，這個權限一般來說，在上層的業者是由九太這家公司取得，所以有委員剛才提到的問題，這是因為法律的緣由而致。
+林委員明溱：我認為這樣好像不合理，全國都要向九太公司來申請，要經過他們許可同意才可以播放。
+黃處長金益：未必，因為公播是看它的權限，主要是這些頻道業者授權給哪一家公司，因為公播這個領域的市場並不是那麼大，所以目前是九太最多。
+林委員明溱：我們南投地區有些業者不了解法律的規定，就直接把它拷貝播放，結果被取締還要罰款。
+石主任委員世豪：報告委員，這可能涉及兩個部分，第一是有關線纜的系統工程部分，地方的系統業者確實可以直接去施工。但是如同剛才傳播營管處處長所說明，它涉及的是有些頻道授權一般系統業者只取得家用版的權限，所以在一般民眾家戶播出是沒有問題，但是如果在飯店、旅宿業提供一般住戶或入住的顧客使用，就不是屬於家用的情境。有些頻道是把授權交給這家九太公司，但並不是所有頻道都是如此。剛才處長提到大部分公播版的授權，因為系統業者沒有多花額外的授權費去取得，所以分別由不同公司取得不同頻道內容的公播版的授權，目前最大的一家公司就是九太，但並不是所有頻道的公播版都是九太取得授權。所以他們所涉及的不是系統纜線建設的部分，而是有關播送特定頻道內容，沒有公播版的授權會涉及侵害他人的著作財產權，可能會有民事相關的責任，委員所講的可能是循這樣的途徑在處理。
+林委員明溱：是啊，他們被取締還要罰款，非常嚴重。這些旅館、民宿業者直接向第四台申請使用就好了，結果現在要花兩筆費用。提供民宿一般使用就要花一筆費用，現在要提供更好的服務品質、推薦一些好的東西，還要另外花錢。這些業者都不能接受，所以才向我反映這個情形，這要怎麼樣改進？
+石主任委員世豪：我們會跟經濟部智慧局討論有關頻道公開播送授權的仲介跟處理機制。
+林委員明溱：主委，這哪有什麼智慧權？業者是要提供自己的宣傳品，又不是九太幫他設計的，要播放就違反智慧財產權，這不太對吧？他要上網行銷它的產品，這樣就違反智慧財產權？
+石主任委員世豪：委員所說如果是旅宿業者進行廣告行銷的話，我們要去了解詳情再跟委員做說明。
+林委員明溱：我想這部分要改進，不然這些業者被九太公司取締就要移送法辦。
+石主任委員世豪：應該只有公播版的授權是屬於九太公司的權限，如果像委員剛才提的狀況，我們要去了解它的細節。
+林委員明溱：業者都在向我反映了，我想這個部分要去檢討改進。
+另外，我們上網的速度太慢，究竟問題出在哪裡？
+石主任委員世豪：這可能有好幾個原因，第一、當然是有些基地台的建設，基礎涵蓋不是很充分。第二、有一些局部區域的瞬間訊務量增加，比如說跨年夜的市府廣場，這兩種都涉及相關的建設，第一種建設所需要的是基地台基本的涵蓋，第二種是局部區域的訊號以及傳輸能量的增強，這是屬於建設方面。另外一部分當然也跟網路的使用行為有一定的關連，這一點絕對不能說消費者是元凶，而是網路之所以有特定的使用行為模式，絕對跟訂價模式有關，這一點最理想的狀況是如果基地台的基本涵蓋夠，它隨時補充的訊號能量的分散可以做得好，這時候它才可以提供有品質的服務，其實他在訂價的時候，要訂到能適當的做訊號的節流，讓消費者清楚知道，他花了多少錢、消費了多少服務。
+林委員明溱：不過主委，現在上網速度慢和基地台的設置是不是有關係？
+石主任委員世豪：有。
+林委員明溱：有密切的關係？
+石主任委員世豪：在部分區域，上網的速度和基礎涵蓋不是有直接的關係。
+林委員明溱：現在行動電話要設基地台，不管設置在哪個點都有人反對，我建議NCC要請一些科技人員來研究，看基地台能不能像無線電視一樣設置得高高的，讓每個地區都能收到訊號。不然的話，現在只要在屋頂設立基地台就會有人來陳情，一定要把它拆掉，最近本席在南投縣已經接到陳情，有兩座基地台都被拆掉。其實，基地台一拆掉，那個地區行動電話的收訊一定不好，如果要另外再設置，不管地點選擇在哪裡，當地的人都會反對。所以這個部分非常為難，又要品質好，又不要設置基地台，你說要怎麼做？所以本席建議你們請一些科技人才來研究，譬如在南投縣集集大山有設一個無線電轉播站，整個南投地區都可以收得到。如果基地台能比照同樣的方法來設置，那南投地區就可以收到行動電話的訊號，上網速度也會非常快，品質就會改善。NCC要朝這方面來努力，要不然基地台設到哪裡就會反對到哪裡。
+最近在松柏嶺也拆了好幾座基地台，那裡不可能再設，本席也告訴中華電信，當地要是不讓你設，那就拆掉，反正沒有訊號是他們的事，中華電信不要去做那些事惹來民怨。現在如果在松柏嶺打行動電話，你會發現那邊的收訊不良，但那是他們的問題，因為當地不讓人家設立基地台。在這方面NCC要去突破，包括基地台要如何克服環境來增加收訊的品質，這個部分要從科技方面來研究，不然光是要找地點設立就很困難，現在基地台是設到哪裡就拆到哪裡。
+石主任委員世豪：委員所說確實是問題的關鍵，不過通信的基地台和廣播電視的電台在功能和性質方面有點差異。委員提到的電視塔在日本和歐洲是普遍的建設，但是做為基地台行動的基礎涵蓋，它其實只能在最接近的幾個細胞上提供有效涵蓋，稍微遠距離也沒有辦法處理。因為基地台是屬於蜂巢式電話，它的架構和廣播電台不同，功率會比廣播電台來得弱，所以涵蓋區域就會比較小。不過，委員剛才提到要找制高點來建設基地台，這確實是問題的關鍵所在。
+林委員明溱：本席要請NCC多努力。
+另外，有關陳元玲委員的事情，我從報紙上看到她因為媽媽出車禍，為了照顧媽媽，所以她要辭掉NCC委員的工作。依本席個人的想法，她並不是為了照顧媽媽而辭職，我覺得是NCC在審查各方面給她很大的壓力，所以她要利用這個機會把工作辭掉。請問陳委員這個缺會不會再補？
+石主任委員世豪：目前行政院正在進行相關人事作業，一旦院裡告訴我們人選之後，我們就會儘快協助後續的程序辦理。
+林委員明溱：主委要有擔當的力量，人選不好你們就不要接受，陳元玲是誰推薦的？怎麼會推薦這種遇到困難就退縮的人？這是非常不給我們面子，因為那時候大家都在保護她，要讓她能夠通過同意權行使，我們當初在立法院都不敢質詢她一句，結果她做不到3個月就「落跑」，這非常的不應該，對院長、對總統來說都有負面的影響。所以以後應該要推薦適當的人選，要有膽量，要有擔當，不要再推薦這種遇到事情就「落跑」的人，這非常的不好。當總統和院長在推薦人選的時候，主委要見義勇為，如果是不對的人選你就要拒絕，不要讓立委來背黑鍋，好不好？
+石主任委員世豪：我們一定會協助院長行使他的法定提名權。
+林委員明溱：針對人選的好壞，你要建議他不能再提名那些人，萬一選出來又再落跑就不好了，那會很難看，好不好？
+石主任委員世豪：陳委員在人生階段的重要選擇，我們確實無法代她做決定。
+林委員明溱：我知道。
+石主任委員世豪：但是她在工作上確實很認真投入。
+林委員明溱：她壓力很大，所以不敢做下去，這點本席知道，以後要推薦比較有擔當的人選，好不好？
+石主任委員世豪：是。
+林委員明溱：要抗壓性比較高的。
+石主任委員世豪：謝謝委員。
+主席（林委員明溱）：請蔡委員其昌發言。
+蔡委員其昌：主席、各位列席官員、各位同仁。主委，NCC目前正在進行流量的測試，請問什麼時候可以做完？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。今年年底會有第二次結案報告。
+蔡委員其昌：測試完之後就會產生一個公信力高，由政府部門主導的流量數據？
+石主任委員世豪：是，我們希望慢慢建立制度。
+蔡委員其昌：這個制度建立之後，對於目前流量低但是收費高的部分，NCC要怎麼處理？
+石主任委員世豪：當然這和許多委員關切的一樣，第一個，在網路的建設方面一定要加強；第二個，我們一定會檢視業者所有服務契約的合理性。
+蔡委員其昌：這個測試還沒有結案，但是從你們開始測試到今天為止，以現行的收費和速率來看，你覺得目前的價格有沒有調降的空間？
+石主任委員世豪：我們並沒有掌握價格方面的資訊，不過在速度方面確實有提升的空間。
+蔡委員其昌：那換言之，要嘛就是速度提升，要嘛就是價格下降，我想只有這兩個方法。
+石主任委員世豪：現在有很多資費方案是之前就已經定了。
+蔡委員其昌：對，因為過去沒有這個標準，所以市場的價格很混亂。
+石主任委員世豪：我們會讓業者提出更合理的服務。
+蔡委員其昌：報告出來之後，NCC一定要做到這一點，如果沒有依調查的結果對業者做規範，讓消費者有所保障，那你們調查這些要做什麼？當初會進行測試就是因為大家覺得台灣的網路速度慢、收費高，不是過去沒有公信力，大家各行其是，有的說是因為時間的問題，或是多少人同時在使用網路的問題，今天好不容易政府願意來做這件事，所以結果出來之後，你們要對現況有所改善。
+石主任委員世豪：是。
+蔡委員其昌：我剛才提到要嘛就是要求業者在速度上提升，要嘛就是價格要下降，能不能做這樣的結論？
+石主任委員世豪：委員所說確實是問題的關鍵，因為每種服務該有什麼價格都有它一定的水平，這件事情在自由競爭的市場中，基本上是由市場機制去做調節，我們……
+蔡委員其昌：主委，這不能由市場機制來調節，否則你們就毋須做這個調查。因為電信業並不像7-11這種自由市場機制特別強烈的零售業，電信業者只有少數幾家，如果今天進行這個調查，但政府最終沒辦法做適度的介入和調整，只能放任自由市場，那本席認為價格最終還是不會下降。NCC可不可以有一點積極的作為？
+石主任委員世豪：其實量測本身資訊透明，讓消費者知道他買到什麼樣的服務，……
+蔡委員其昌：但是大家都透明。
+石主任委員世豪：那業者去掩飾自己建設的程度……
+蔡委員其昌：你這是在假設有人資訊比較差，所以他價格會降低，但如果大家都講好要維持現狀，這也是有可能的。
+石主任委員世豪：業者會相互爭取對方的顧客，而且他們的措施還滿多的，如果有哪一個業者不改善，那他就會流失客戶。
+蔡委員其昌：本席不和你爭論，我等著看NCC到時候怎麼做。我現在只是向主委預告，如果做出來的報告沒辦法解決這個問題，那我就會在這裡繼續罵你，因為政府花這個錢到底要做什麼？民間都知道誰的速度快，誰的速度慢，但是大家無力去改變現狀，如果今天做了這個調查之後還是無力改變現狀，那就是浪費公帑，沒有必要去做這件事情，這是第一點。
+第二點，之前發生過一個案例，有民眾把iPhone手機升級成IOS 6版本，由於系統的bug造成手機的設定顛倒，變成優先使用3G，而不是使用Wi-Fi的訊號，結果他一覺睡醒發現手機用3G下載了流量非常大的資訊，因為他不是使用吃到飽的方案，所以就被電信公司要求付費，在這種狀況下，如果今天消費者的費率不是吃到飽的方案，面對這樣的消費者糾紛，主委認為電信業者該不該收取這些費用？
+石主任委員世豪：您舉的案例是典型bill shock的情況，當消費者突然發現他沒有在意識之下使用電信服務，導致要付一筆很大的錢，所以他無法合理的控制他的電信服務費。
+蔡委員其昌：所以他不應該付費。
+石主任委員世豪：關於這個部分，因為委員剛才提出很具體的個案，這同時涉及智慧裝置內建default功能的設定以及配套的電信資費服務，我能不能請業管處處長做比較詳盡的說明？
+蔡委員其昌：不用說明，本席只是要告訴主委，這位民眾有向電信業者陳情，說明這是手機在升級IOS 6之後，因為系統有bug而造成的情形，不是他故意要這樣做，但是電信業者還是向他要錢。本席要說的是，如果消費者有採取吃到飽方案，手機系統怎麼去弄他都不會擔心，但是今天如果吃到飽方案被取消，那類似的案子就會層出不窮，會變成很嚴重的消費糾紛。這個案子目前的處理是電信業者向他要錢，消費者摸摸鼻子就認了，不然能怎麼辦？他現在求助無門，這個情況你們要不要去瞭解一下？
+石主任委員世豪：是，我一定會去瞭解，而且委員剛才說到非常重要的關鍵……
+蔡委員其昌：一定要和電信業者來處理，因為這非常的不合理，如果這件事情沒辦法解決，張政委說以後要取消吃到飽方案，到時候糾紛就會更多。
+另外，關於壹傳媒的出售，有媒體揭露蔡衍明說：「我出錢，為什麼要低調？」以主委的瞭解，蔡衍明有沒有出錢？
+石主任委員世豪：我個人真的不知道。
+蔡委員其昌：如果這個案子蔡衍明有出錢的話，你的態度是什麼？
+石主任委員世豪：我個人態度不重要，其實這個案子應該要進入法定程序，審議它相關的頻道登記事項變更；我們一定會依法定程序辦理。
+蔡委員其昌：什麼法定的程序？今天假設媒體揭露了在壹傳媒的購買案中，蔡衍明出了90億，在這樣的條件下，身為NCC主委，你覺得這個狀況會不會導致台灣媒體的集中或是言論的壟斷？
+石主任委員世豪：我所知道的是這次交易案同時包含了紙媒和電子媒體，在紙媒的部分，確實在報業的市場占有率會有明顯的變動，針對這一點，公平交易委員會已經介入瞭解。
+蔡委員其昌：電視部分會不會有影響？
+石主任委員世豪：在電視的部分，因為壹傳媒所屬的3個頻道目前上架的情況不是很普遍，實際的收視率不是很高，所以它現在如果加總回到純頻道市場上的變動，變化會比較小。
+蔡委員其昌：因為這個案子影響很深，大家都很注意，目前這個案子還沒有送來政府單位，等它送來的時候，本席要求NCC一定要嚴格把關。我們對任何一個媒體併購案的標準都是一致的，今天不管是辜家買，台塑王家買還是蔡家買，標準應該都要一致。
+石主任委員世豪：是，確實。
+蔡委員其昌：對於媒體壟斷的問題，主委要有擔當，可不可以做到？不能讓媒體壟斷。
+石主任委員世豪：是，我們一定照委員剛才所說，要有明確的標準去處理這些事情。
+蔡委員其昌：最後一個問題，請問陳元玲委員為什麼辭職？
+石主任委員世豪：就我所知，她是因為個人的家庭因素。
+蔡委員其昌：外界是說，第一、她因為財產太多，怕財產被揭露；第二、當委員必須放棄美國籍，她想想覺得不大划算，所以就離職。主委覺得這樣的傳聞是否屬實？
+石主任委員世豪：我有兩件很明確的事實向委員報告，第一，根據公職人員財產申報法的規定，公職人員到職3個月內要做財產申報，離職2個月內也要做財產申報。
+蔡委員其昌：她申報了嗎？
+石主任委員世豪：關於期限的部分，第一，3個月的到職申報期限已經到了，至於離職2個月內的申報……
+蔡委員其昌：主委，她申報了嗎？
+石主任委員世豪：這部分我不瞭解，因為她是直接向監察院財產申報處申報。
+蔡委員其昌：這個應該可以揭露，主委要去瞭解一下。
+石主任委員世豪：是，我會去瞭解。
+蔡委員其昌：我個人認為她還沒有揭露。
+石主任委員世豪：我會去瞭解，離職申報的部分從現在起算還有一個多月的時間。
+蔡委員其昌：我個人認為她還沒有揭露。
+石主任委員世豪：我會去瞭解。
+蔡委員其昌：她放棄美國籍了嘛？
+石主任委員世豪：這一點我可以很明確的向委員報告，她在7月31日有到AIT宣誓放棄美國籍，在11月6日……
+蔡委員其昌：副主委也放棄了嗎？
+石主任委員世豪：都宣誓放棄了。
+蔡委員其昌：你確定？有確實掌握？
+石主任委員世豪：在陳委員的部分，美國國務院已經寄來她喪失美國籍的證明。
+蔡委員其昌：兩個人都喪失了？
+石主任委員世豪：陳委員的部分，我百分之百確定，因為我只就這部分去瞭解。
+蔡委員其昌：那虞副主委呢？
+石主任委員世豪：這是同樣的程序，就進度來說，虞副主委應該也一樣。
+蔡委員其昌：副主委，你放棄了嗎？
+虞副主任委員孝成：（在席位上）放棄了。
+石主任委員世豪：他在更早一天已經宣誓放棄。
+蔡委員其昌：請副主委上台回答。你放棄美國籍了嗎？
+主席：請通傳會虞副主任委員說明。
+虞副主任委員孝成：主席、各位委員。已經放棄了，在9月份就收到國務院的證實信。
+蔡委員其昌：你和陳元玲委員在程序上是一樣的，兩個人都收到國務院的來函證明？
+虞副主任委員孝成：是的。
+蔡委員其昌：請回座。
+虞副主任委員孝成：謝謝。
+蔡委員其昌：主委，我覺得陳委員這樣的過程是兒戲，在這個過程中，為了陳委員的問題，朝野政黨鬧得不愉快，很多委員在這裡吵得不可開交，在花了立法院這麼多資源，耗費這麼多的社會成本之後，她來這個地方繞一圈就走了，本席認為這個推薦程序和品質有嚴重的瑕疵，主委覺不覺得？她當初是經過大家審查討論之後才上任，現在怎麼可能會因為這樣的理由而辭職？我想不只是立法院，多數的社會人士對這個理由都沒辦法接受。
+石主任委員世豪：有關陳委員個人的選擇，我沒有辦法代她做決定，但是我確實已經努力慰留了。
+蔡委員其昌：我的意思是，主委覺不覺得這樣的提名品質是有問題的？
+石主任委員世豪：我沒有辦法對提名程序做任何評論，但是我必須向委員報告，在陳委員任內的兩個多月，她真的是全力以赴，參與很多工作。
+蔡委員其昌：本席今天因為睡眠不足，沒有空和你吵架，但是說實在話，我覺得這種提名品質是荒謬的。當初為了陳元玲委員，本席還和林明溱委員吵過一架，今天她是在對我們「裝肖維」，對立法院「裝肖維」，如果能讓大家覺得理由很正當，那她要辭職大家就算了，對不對？如果是用現在這種理由的話，那任何人都能隨時隨地走來走去了！
+本席再問你最後一個問題，接下來要不要再補提名？
+石主任委員世豪：應該會。
+蔡委員其昌：要多久的時間？
+石主任委員世豪：如果要提名的話，在就任前3個月一定會向大院提出被提名的名單。
+蔡委員其昌：身為主委，你希望行政院在多久之內提出人選？
+石主任委員世豪：越快越好。
+蔡委員其昌：在主委希望越快越好的同時，你要不要向行政院表達，希望這次的提名一定要謹慎？
+石主任委員世豪：我想院長一定會考量這些因素。
+蔡委員其昌：當初就是不謹慎才會有今天，本席只是問你覺得應不應該；我今天對你很客氣。
+石主任委員世豪：謝謝。
+蔡委員其昌：我對你說過，本席今天精神不濟。
+石主任委員世豪：請委員多多休息。
+蔡委員其昌：本席是給主委一個機會，你就好好回答說：「我會建議。」這對你會有什麼傷害嗎？我只是說你身為主委，在轉達越快提名越好的同時，要順便轉達行政院，希望這次提名的人員不要再出現過去那種情形。
+石主任委員世豪：我會向院長反映本會需要什麼樣的委員來做為工作夥伴，然後帶動整個團隊的工作。
+蔡委員其昌：你這樣回答至少還有一點點誠意。
+石主任委員世豪：是，我確實會做這些事情。
+蔡委員其昌：至少讓本席覺得你還有一點心想要應付我們。
+石主任委員世豪：不敢應付。
+蔡委員其昌：主委之前的回答是連應付都懶得應付，講實在話就是這樣！本席已經把標準降到很低，至少你也要應付一下。你可以來參觀其他部長的質詢，委員不管講什麼他都說「對、對、對」，因為這個無傷嘛！當委員要你向行政院建議，你就說：「好，我會向行政院表達，希望這次的提名能為國家推舉最優秀的人才。」這樣說不就好了嗎？本席也會覺得你很有guts，但是我也知道你不會去講，你怎麼可能向行政院長講這個？
+石主任委員世豪：我一定會爭取這樣的機會。
+蔡委員其昌：你懂我的意思嗎？
+石主任委員世豪：感謝委員的指導，我一定會爭取這個機會。
+蔡委員其昌：至少你也應付我們一下，你來立法院連應付都不肯，難怪我生氣。
+石主任委員世豪：我一定會爭取表達意見的機會。
+蔡委員其昌：我會覺得你很驕傲，好像很看不起我們，覺得立委都沒讀過書的樣子。
+石主任委員世豪：不敢、不敢。
+蔡委員其昌：你會不會這樣覺得？
+石主任委員世豪：我不敢這樣想。
+蔡委員其昌：你要學習什麼叫謙卑，當立法院在監督你們的時候，你要學習如何接受監督；NCC不要一副老大的樣子，很不得了，摸到你就不行。
+石主任委員世豪：從來不會這樣子。
+蔡委員其昌：你不用再解釋了嘛！本席已經教你了，你還要和我辯，你就說：「委員，我會謙虛，我會學習。」一句話就好了，如果你一定要和我比輸贏，本席也可以陪你，我今天是暫時休息，等下次再和你好好的吵一架。
+石主任委員世豪：謝謝委員。
+主席：請管委員碧玲發言。
+管委員碧玲：主席、各位列席官員、各位同仁。主委，針對行動上網，現在是「民眾吃不飽，業者吃飽飽」，張善政政委說：「上網塞車，吃到飽是元凶」，這句話主委同不同意？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。我想委員提到的是報紙的標題。
+管委員碧玲：是，所以他沒有講這句話？有吧！
+石主任委員世豪：這句標題我不贊同。
+管委員碧玲：你不贊同？
+石主任委員世豪：我不贊同報紙這個標題。
+管委員碧玲：那你贊同什麼？贊同上網塞車和吃到飽方案有關係？
+石主任委員世豪：我必須說，民眾使用網路的行為模式絕對和訂價方式有關係。
+管委員碧玲：你怎麼關心到訂價去了？本席現在說的是，因為吃到飽方案造成網路塞車，所以要取消吃到飽方案，這樣就不會網路塞車，速度會比較快，是不是？你不同意張善政這個邏輯？
+石主任委員世豪：網路的傳輸速率慢有很多種原因，……
+管委員碧玲：哪些原因？
+石主任委員世豪：包含建設不足或是局部訊務量增加。
+管委員碧玲：這些和吃到飽方案有沒有關係？
+石主任委員世豪：我剛才所說的兩件是沒有。
+管委員碧玲：其實就是這兩個原因嘛！
+石主任委員世豪：還有別的。
+管委員碧玲：還有什麼？
+石主任委員世豪：委員知道，很多網路的使用模式是不同的，譬如話務所占的頻寬很少，傳簡訊使用的頻寬也很少。
+管委員碧玲：所以傳訊的內容不一樣會造成網路塞車，如果……
+石主任委員世豪：使用的行為模式確實有一些差異。
+管委員碧玲：如果很多人同時上傳照片，網路就會塞車，對不對？所以應該把它歸類在你剛才說的第二項。
+其實依照本席的分析，最主要的原因就是這兩項，第一個是網路塞車，第二個是建設不足。現在的問題在於網路塞車和吃到飽方案有沒有關係？交通部部長和政務委員已經把兩者拉上因果關係，說取消吃到飽就不會塞車，為了不塞車就要取消吃到飽，現在是這個邏輯。NCC也改口，剛才副主委上台就讓本席火冒三丈，因為他已經呼應吃到飽方案要改。現在民眾知道的都是吃到飽方案造成網路塞車，要讓上網速度更快，就要取消吃到飽方案，可是事實到底是不是這樣？你們研究了沒有？吃到飽方案和上網速度慢有沒有因果關係？
+石主任委員世豪：造成網路速率很慢有多種原因，多種原因當中……
+管委員碧玲：所以兩者不一定有關係？
+石主任委員世豪：我們不能說哪一件事情是唯一的原因，不太可能。
+管委員碧玲：你不敢說有關係，也不願意說沒關係。
+石主任委員世豪：我剛才已經說了，使用行為如果大量而反覆集中在特定的點、特定的段，速率確實會改變。
+管委員碧玲：主委真會繞圈圈！吃到飽和網路塞車有沒有因果關係，你在這裡不敢講，全台灣現在都說網路塞車吃到飽是元凶，結果主委今天不敢證實，請問吃到飽方案到底是不是元凶？取消吃到飽能不能改善上網速度？
+石主任委員世豪：就美國的實證經驗來說，如果使用單一費率來上網，絕大多數消費者所使用的頻寬和傳輸的檔案總數是非常低的。
+管委員碧玲：原因是什麼？原因是吃到飽，還是以價制量？你心知肚明，明明是為了以價制量。
+石主任委員世豪：委員說到非常重要的關鍵，我剛才也有說，訂價策略會影響網路使用行為。
+管委員碧玲：對，所以是為了以價制量，對不對？不是因為吃到飽。
+石主任委員世豪：並不是以價制量。就我所知，業者在完成一定的網路建設之後，他會希望營收能極大化。
+管委員碧玲：主委，吃到飽方案和網路塞車完全沒有因果關係，你們已經有做研究，報告案已經出來了。全國網路調查，上傳和下載速度最慢的時間是18：30-23：00，下載速率是1.78Mb/s，上傳速率是308kb/s；23：00到隔天08：30的速度就很快。現在問題來了，網路塞車是在18：30-23：00這個時段，不管你有沒有吃到飽，最多人上網的時間就是這個時候，如果現在取消吃到飽方案，所有人就會改在23：00-08：30這個時段來上網嗎？我本來是18：30-23：00這個時段上網，現在沒有「吃到飽」，所以我就改成半夜上網，這有沒有因果關係？沒有啊！
+石主任委員世豪：如果訊務量都集中在一段時間，會導致上網的速度減緩。
+管委員碧玲：對，可是你現在要取消吃到飽方案，難道那些原本有「吃到飽」的人會因此而改變上網時間的習慣？不會吧！他花這麼多錢來買，就是要在最需要的時候來用，如果沒有「吃到飽」，他使用的時間就會更集中，反而沒辦法分散。
+石主任委員世豪：能上網的智慧型裝置有很多種，他可以用連網的方式，可以用行動，也可以用固網，目前固網塞車的情況遠遠比行網要好很多。
+管委員碧玲：主委，取消吃到飽沒辦法讓大家把上網時間分散，反而會更集中。
+石主任委員世豪：如果他分流到固網或是家戶的寬頻到戶的話，絕對不會有網路塞車的問題。
+管委員碧玲：這個部分我稍後會談，那和「吃到飽」就沒關係了嘛！
+石主任委員世豪：和使用行為模式確實有關。
+管委員碧玲：所以你們真的要取消「吃到飽」……
+石主任委員世豪：價格決定使用行為模式。
+管委員碧玲：對，說得真好，價格決定使用模式，你這就是要以價制量，引導他們不要使用行動上網。
+石主任委員世豪：並不是以價制量。如果消費者知道他有更好的選擇的時候，……
+管委員碧玲：你沒有勇氣，不敢說實話啦！
+石主任委員世豪：他應該改用固網，固網的傳輸……
+管委員碧玲：這就是以價制量，讓他們去用別的嘛！
+石主任委員世豪：不會有塞車問題，也不會排擠別人的使用。
+管委員碧玲：主委，我不聽你耍嘴皮。事實是什麼？中華信評都講給我們聽了，中華信評在4月份就指出「預期來自語音服務的營收將會逐漸減少」。因為，行動3G的語音收入未來會減少，為了補這一塊，所以就要消取吃到飽方案。因為語音收入占電信業者所有營收75%以上，而這一塊營收現在被「LINE」和「WhatsApp」稀釋掉了，所以這部分的營收將會逐漸減少。中華信評還指出，因為在智慧型手機上應用軟體所提供語音與訊息通信功能的使用程度正日益提高當中，但這些應用軟體所提供的服務並不會進一步增加電信業者的營收，未來電信業者來自於語音服務的營收將逐漸減少。現在因為吃到飽方案太流行，取消這部分可以增加收入。也就是說，為了彌補這些數據通信軟體日漸風行而造成電信業者的損失，所以要取消「吃到飽」來以價制量。其實取消「吃到飽」以後會讓上網速度更慢，因為在23：00-08：30時段的使用者更會集中到18：30-23：00這個時段來，這是第一個。
+第二個，取消「吃到飽」就是要針對23：00-08：30這個時段的使用者開始來收費，針對這些網路卡插了24小時，半夜都在上網的人來收費，其實那個時間根本就不會塞車。
+所以這是一場騙局，由毛治國、張善政加上NCC所設的一場騙局，為了彌補電信業者在語音收入方面的損失，所以要從「吃到飽」的取消、從提高「無限上網」的資費來補充，那就說實話啊！主委今天在這裡算有說實話，因為你說價格策略會影響他們的模式，要把他們導引到別的地方，這才是真的。這個內閣真是詐騙內閣，「取消吃到飽，讓業者吃飽飽」才是真相！
+你知不知道NCC是怎麼改口的？這是聯合報寫的，不是自由時報寫的喔！所以你們就不要說自由時報不準。聯合報寫，NCC原本堅持電信業者不得取消手機上網吃到飽費率產品，也不能再推出更高費率的上網產品。NCC本來是站在消費者權益保障的立場，虞孝成也說不會取消，但後來虞孝成說，不會反對業者申請停賣吃到飽產品。這時候已經軟化了，到了11月12日，更軟化到「由業者自行決定，NCC予以尊重。消費者被NCC出賣了，而NCC主委是知道真相的。我們現在很清楚張善政和毛治國在詐騙，他們創造一個錯誤的論述、一個騙局，說取消吃到飽方案是為了速度，可是NCC的主委知道這是價格策略而不是為了速度，要用價格策略以價制量，導引用戶到別的地方上網。
+石主任委員世豪：我並沒有說這是以價制量。我要向您做完整的說明，因為業者的訂價方式會改變大多數用戶的使用模式。
+管委員碧玲：對，所以用戶就會離開比較貴的行動上網，這就叫做以價制量，可是你在這裡不敢講。
+石主任委員世豪：很多的瞬間爆量會導致網路減速，這確實是事實。
+管委員碧玲：所以這是一場騙局，NCC知道真相，卻準備出賣消費者。行動3G上傳的最高極限是384KB/s，下載是3600KB/s，你知道那個業者有多狡猾，你們的報告很好玩，其中透露了一個訊息，那個訊息就是業者要讓它快就可以快，要讓它慢就可以慢。你們的報告在網路上都查得到，第一階段的測量時間是5月14日到7月31日，在這段期間業者就加速讓你們來測量，所以這段期間的下載速率從1.7MB/s進步到趨近於2.1MB/s，上傳的速率也從260KB/s進步到330KB/s，這說明了業者平常懶懶散散，可是當業者知道在5月14日到7月31日要進行這個測量計畫的時候，他們就很認真，速度就加快這麼多；業者是可以上下其手的去決定速度耶！
+石主任委員世豪：並不是這樣，他要加強建設之後，整個績效才會有提升的作用。
+管委員碧玲：這是你們寫的報告。在現有的建置之下，他平常會讓上網的速度慢，等檢驗的時候就變快。這個是你們的報告喔！
+石主任委員世豪：沒錯，這是因為我們揭露資訊之後，他們有加強建設的必要。
+管委員碧玲：他平常會讓速度很慢，等你們在監督的時候才會變快，所以NCC監督不周也是其中一個原因。
+今天本席有一個提案，你們這個計畫要搞到104年才完成調查，開玩笑，這就是讓業者慢慢來嘛！你們還有第二階段。
+石主任委員世豪：因為我們要持續的調查、持續的公告，並不是到104年才有答案。
+管委員碧玲：你們的持續是分區的持續，不是全面性一而再、再而三的持續。
+石主任委員世豪：我們建設測試的基盤確實要逐步的擴充。
+管委員碧玲：這不是政府面對人民權益的時候應有的態度，欺騙人民，圖利業者，真的是讓人民吃不飽，要讓業者吃飽飽。這種圖利業者的事情不會讓你們得逞。你再看著辦好了，取消吃到飽對速度的快慢根本沒有影響。
+石主任委員世豪：當然有關係。
+管委員碧玲：這根本是要以價制量，然後去補業者收入的不足！
+主席：請魏委員明谷發言。
+魏委員明谷：主席、各位列席官員、各位同仁。主委，交通部長昨天表示要取消上網吃到飽方案，張善政政委也是這樣講，NCC也改口要配合，剛才管委員也有提到。本席要請教你，現在民眾使用「LINE」、「WhatsApp」或「M+」已經很普遍，以我為例，我有時候會傳很多簡訊，按照中華電信的費率，一通簡訊是0.7元，但如果使用「LINE」、「WhatsApp」或「M+」則是不用錢。我們大量發簡訊和圖片給幹部和選民都不用錢，如果現在要取消吃到飽方案的話，一定會引起消費大眾的抗議，請問主委的看法怎麼樣？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。這種加值服務確實讓我們使用通信越來越方便，我要向委員做比較詳盡的報告，第一個，它原來的服務並不叫「吃到飽」，而是用這種廣告方式去行銷，其實它就是單一費率、不限使用量；第二個是兩段式費率，它第一段是比較低的價格，再來就有第二段的價格。這種費率我們稱之為扁平的資費，扁平資費的基本情況就是確定它的ARPU，也就是針對每個用戶可以收到多少錢，如果是單一扁平資費，就形同固定的包月制月租費，月租費很高，但是它不收通信費。另外一種兩段式費率，它是收第一段的月租費，再加第二段固定額的通信費，這種資費有一個好處，就是它不會有bill shock，消費者不會在收到帳單之後嚇一跳，雖然它不限使用時間和數量，但它的問題在於沒有品質的保證。
+魏委員明谷：這種吃到飽的方案其實是電信業者要便宜行事，如果站在消費者的立場，業者應該要告知消費者，他只用了1GB、2GB這樣的用量。以本席為例，我到立法院可以不用行動上網，因為我可以用立法院的網路免費上網，這樣就不會網路塞車，對不對？可是電信業者都會要消費者「吃到飽」，其實以委員來講，我們常常來立法院開會，我們可以用立法院的網路免費上網，這樣就不會塞車，也不用花這筆錢。
+本席認為電信業者不管用什麼方案都是在剝削消費者，所以你們要要求業者，在帳單或是簡訊上面要有警示，告訴用戶到底用了1GB、2GB或3GB，隨時告知他用量已經快超過，要把費率分得多一點，譬如用量大的人就「吃到飽」，用量少的人就不要「吃到飽」，這樣網路就不會塞車，主委，本席的建議可行嗎？
+石主任委員世豪：委員的建議正是我們所說的消費關係透明化，這確實是該做的。就我們目前所知，有些業者會提醒消費者，在合約容量70%的時候就會通知，目前的機制是用簡訊通知。
+魏委員明谷：本席認為手機24小時開著，應該隨時用螢幕通知，而不能用簡訊，因為有時候用戶不會看簡訊，帳單就更不會看，對不對？這個技術是可以克服的。
+石主任委員世豪：委員所說的透明化，我們確實應該努力。
+魏委員明谷：本席再請教你第二個問題，關於有線電視系統業者的收費，台北市已經降價，明年開始要收490元，裝機的費用則從1,500元降到500元，請問主委，NCC對全國其他的系統業者要如何要求？
+石主任委員世豪：根據有線廣播電視法第五十一條規定，這是屬於地方政府行使資費審核的權限。針對台北市政府今年要如何核定資費，其實之前趙局長就有和我們聯繫。在目前實施的有線電視系統收費標準中，確實只有一個上限制，地方機關可以按照在地的情況去判斷。譬如台北市政府就把原有資費往下核了20元，裝機費和移機費也往下降，其他各地方政府可以考量具體的情形去做管理。
+魏委員明谷：主委還是不要推給地方政府，其實台南市、嘉義市、澎湖、金門和馬祖都是你們在審議的。
+石主任委員世豪：確實。
+魏委員明谷：所以你們可以帶頭審議，如果比照台北市收490元，其他縣市不會跟進嗎？
+石主任委員世豪：以上5縣市8系統，各自的情況不同，……
+魏委員明谷：至少台南市在都會區，嘉義市也在都會區，兩個地方都很接近台北市的情況，你可以比照辦理，可以帶頭嘛！
+石主任委員世豪：是，我們會看各地系統業者實際建設的情況，再做比較適當的資費核定。
+魏委員明谷：收500元好不好？比台北市多10元。
+石主任委員世豪：我們要看具體的情況，因為……
+魏委員明谷：現在「時機歹歹」，一般中低收入戶和失業人口的娛樂是什麼？就是看電視。看電視有兩個問題，第一個，節目重播率太高，第二個，有線電視收費很高。其實收入高的人很少看電視，一些鄉下人、中低收入戶和失業人口因為出門要花錢，所以他們就在家看電視。這筆費用對他們來講是很高的負擔，一個月如果要500元，一年就要6,000元，台北市所得那麼高又是都會區，為什麼收費會比較便宜？中南部和偏鄉為什麼會那麼貴？主管機關不能只站在業者投資成本的立場，有時候也要考慮到民眾，系統都建置那麼久了，我看業者建置的成本都已經回收，現在應該是降價的時候了。其他縣市的價格就交給地方政府去審議，但是NCC在這5個縣市要起帶頭的作用，你們可以用兩個標準，連江、馬祖用一個標準，台南市、嘉義市用一個標準。請你告訴我，台南市和嘉義市是不是能夠降為500元？
+石主任委員世豪：NCC現在已經納入外部的財會專家和技術專家一起來討論這5個縣市8個系統業者的資費審查，應該會在最短期間內做第一階段的審議，我們會根據專業的標準去考量這個問題。
+剛才委員提到中低收入戶的部分，我們在資費方案中有要求各系統業者就他經營區內的中低收入戶提出特別的資費，絕大部分的系統都有提供全免資費、二分之一資費或三分之一資費的方案給低收入戶。也就是說，業者已經有做一定程度的配合，如果他們做得不夠，我們會再做瞭解，和他們溝通。至於本會審議的5縣市8系統，我們會根據剛才委員考量的面向，和專家學者討論之後做最後的決定。
+魏委員明谷：好，希望NCC能夠讓全國民眾有好的期待。
+石主任委員世豪：是。
+魏委員明谷：另外，我們買手機的時候為了要便宜一點，通常會和電信業者綁約一年或是兩年，如果合約到期，電信業者往往會打電話來問：「某某人，這個合約已經到期，你要不要再續約？」我們接到電話就會無厘頭的說：「好、好，再見。」他問要不要續約，我們就口頭說可以，但是如果我們再更進一步的發現沒有續約的必要，想要換另一家電信業者，常常就會因此發生一些糾紛。你們是不是能夠要求電信業者，在打電話給用戶談續約的時候要告知有7天的鑑賞期，還要全程錄音？不然發生爭議的時候要找誰？他會說沒有打電話，消費者也會很莫名其妙，這樣就會發生消費的糾紛。請問主委能不能要求業者改善？
+石主任委員世豪：委員剛剛說的兩件事情很重要，第一個就是揭露，第二個就是要留下曾經詢問消費者意願的證明，這個部分確實應該要強化。至於手機綁約在一定年限之後續約的爭議，可不可以請業務處處長向您做更詳盡的說明？
+魏委員明谷：處長，給你30秒。
+主席：請通傳會通訊營管處陳處長說明。
+陳處長國龍：主席、各位委員。關於委員提到的全程錄音，這個部分業者都有做到。
+魏委員明谷：有嗎？
+陳處長國龍：這個部分在他客服……
+魏委員明谷：你有要求他一定要錄音，但是一般電信業者打電話給客戶都沒有提醒消費者有7天的鑑賞期。
+陳處長國龍：因為這不是新的服務，而是續約……
+魏委員明谷：怎麼不是新的服務？消費者保護法有規定7天的鑑賞期，買了東西在7天之內都是可以後悔、可以解約的，所以你還是要要求業者在打電話給客戶談續約的時候，要告知客戶有7天的鑑賞期，同時要全程錄音。
+陳處長國龍：好，在這個部分對於業者的要求，我們回頭會向業者說明。
+魏委員明谷：根據消基會今年4月的調查，台灣的電話通話費高於鄰近的國家，比大陸貴8倍，比香港貴6倍，比新加坡貴4倍，甚至還有差距高到18倍的，這個電信費率真的是有調降的空間，主委認為呢？
+石主任委員世豪：我們在調查業者資費水平的時候，有兩個部分是一般民間機構不太會去注意的，第一個部分，很多國家的收費機制是不同的，有些國家是雙方收費機制，發話端、收話端都要收費，我國則是單一端收費，全部由發話端來收費，如果資費水平不去計算這中間的差異，數據可能會不夠精準。第二個部分，國內的資費水平經常使用牌告價來計算，在國外通常是以最經常有效資費，也就是最大量的那種資費水平，所以在計算上面難免會有一些落差。委員關心我們的資費水平在國際比較之間的情形，在這方面NCC都有持續瞭解，對於業者資費偏高的項目也有在追蹤和瞭解。
+魏委員明谷：好，本席希望政府的存在就是要照顧人民，不是照顧財團，這個部分既然報紙有登出來，你們就要研究。
+石主任委員世豪：我們會繼續去瞭解。
+魏委員明谷：不合理的部分就要降價，好不好？
+石主任委員世豪：是，謝謝。
+魏委員明谷：謝謝。
+主席：請廖委員國棟發言。
+廖委員國棟：主席、各位列席官員、各位同仁。主委有沒有買iPhone 5手機？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。沒有。
+廖委員國棟：你知不知道會裡有多少人在用iPhone 5？
+石主任委員世豪：我沒有調查，但是我沒有看到同仁使用iPhone 5。
+廖委員國棟：有沒有人用？
+石主任委員世豪：我沒看到，不曉得。
+廖委員國棟：真的沒有嗎？現在iPhone 5還沒有進口，對不對？
+石主任委員世豪：就我所知，iPhone 5在世界各地已經陸續開賣。
+廖委員國棟：台灣是不是還沒有核准進口，還沒有賣？
+石主任委員世豪：還沒看到，因為要等我們完成射頻器材的認證之後……
+廖委員國棟：但是現在到處都是iPhone 5啊！
+石主任委員世豪：其實它只要完成射頻器材認（驗）證就可以了。
+廖委員國棟：誰負責這個關卡？
+石主任委員世豪：台灣和很多國家都有簽協定，可以相互承認對方的認（驗）證，如果有完成這個手續，它就可以進口，沒有任何問題。
+廖委員國棟：它有進口許可嗎？
+石主任委員世豪：不需要特別進口許可。
+廖委員國棟：不需要許可？
+石主任委員世豪：我們只要做射頻器材的認證就可以了。
+廖委員國棟：你確定？
+石主任委員世豪：是。
+廖委員國棟：因為本席問過公平會到底誰來管iPhone 5，它說是NCC，請問你們管不管它的進口？
+石主任委員世豪：它上網的射頻器材這個部分，確實是由我們主管。
+廖委員國棟：只要認證射頻器材就可以了？
+石主任委員世豪：對，如果是一般的消費性電子產品，那是經濟部在主管，電腦也是消費性電子產品，NCC只管無線上網射頻器材的部分。
+廖委員國棟：主委，我的意思是那些iPhone 5都是水貨，你們不管嗎？政府都課不到稅，都是水貨進口。
+石主任委員世豪：如果是貨物稅的話，關稅這部分應該是由財政部來負責。
+廖委員國棟：還是歸責不到NCC，和你們一點關係都沒有？
+石主任委員世豪：我們負責的是射頻器材的管制，它可以發射無線電波，在使用頻率的部分我們會就它的型號和功能去做認（驗）證，如果它原來的出口國和我們有簽相互承認的協定，那它就可以直接進口。
+廖委員國棟：你再給我書面報告，好不好？
+石主任委員世豪：好，沒問題。
+廖委員國棟：我要確認權責在誰。
+石主任委員世豪：是，我們會給委員完整的說明。
+廖委員國棟：一堆水貨到底誰要負責？我只要知道這個就好。
+接下來本席要問你，現在有沒有WiMAX手機？
+石主任委員世豪：有。
+廖委員國棟：台灣大概有多少？
+石主任委員世豪：精確數字我不曉得，請處長來回答。
+廖委員國棟：本席只要知道大概的數字。
+主席：請通傳會資源技術處陳處長說明。
+陳處長子聖：主席、各位委員。不太多。
+廖委員國棟：不多，是個位數、百位數，還是上千？
+石主任委員世豪：就目前WBA的業者用戶數來說，有數萬戶，也有數千戶，所以……
+廖委員國棟：WiMAX有到萬位數嗎？
+石主任委員世豪：它的用戶有。
+廖委員國棟：有這麼多嗎？
+石主任委員世豪：有13萬，因為有6家業者，有的數千人，……
+廖委員國棟：請把正確的數目提供給本席。在2007年你們開放了6張WiMAX的執照，當時工業局號稱花了54億的經費在WiMAX的建置上面，我問他們建置以後有什麼執行的成果，他們說有，對於基礎網路總共補助了19個案，包括偏鄉照顧，在花蓮、屏東、南投仁愛鄉以及台南後壁鄉都建立了WiMAX基礎建設，也就是基地台，還說這解決了偏遠地區最後一哩路的問題，縮短了數位落差，改善了城鄉差距。對這樣的說法，主委有什麼建議或是看法？
+石主任委員世豪：因為WiMAX當初是一個發展中的技術，所以經濟部工業局是補助一個實驗的網路。
+廖委員國棟：我知道，我是問你最後那一段，工業局說解決了數位落差，改善了城鄉差距，這是真的嗎？
+石主任委員世豪：因為本會也在推動電信和有線電視普及服務，我們知道偏鄉的通信和傳播需求不是單一網路就可以解決。
+廖委員國棟：對，你不要「裝肖維」，本席不相信有人在用WiMAX，現在大家都用Wi-Fi上網，有人會透過WiMAX上網嗎？這個WiMAX系統根本就是蚊子網路！國家花了54億經費，你告訴我，有哪個終端裝置可以使用WiMAX的功能？手機有沒有？
+石主任委員世豪：它的終端裝置有很多，手機只是其中一種。
+廖委員國棟：電腦有嗎？有人用WiMAX這個技術嗎？
+石主任委員世豪：它可能需要其他的接取裝置。
+廖委員國棟：平板電腦也沒有，它根本就是一個失敗的投資。主委不要官官相護，本席是很直接的和你對話，我特別關注的就是他們說在偏鄉照顧方面已經縮短了數位落差，改善了城鄉差距，我只問你，這是真的假的？主委不要再說明，只要說你認為現在有沒有改善城鄉差距。
+石主任委員世豪：我認為偏鄉的通訊需求還有改善的空間。
+廖委員國棟：改善空間有多大？請主委告訴我，覆蓋率有多高？
+石主任委員世豪：以目前本會的計畫來說，2M的涵蓋率超過90%以上。
+廖委員國棟：不要講計畫，你知不知道現在的覆蓋率？
+石主任委員世豪：能不能請業務處處長向您做詳細的說明？
+廖委員國棟：本席再問你，當時他們說要建置10個城市的無線寬頻覆蓋率達80%以上，以這5個院轄市來說，有哪個院轄市的無線寬頻覆蓋率達80%以上？
+石主任委員世豪：就我所知，業者是各自挑選他所需要實驗的城市，所以並不是以五都為選擇的目標，譬如有業者就挑選了新竹市，各自挑選的區域不同。
+廖委員國棟：光是院轄市就避開WiMAX，全部都用Wi-Fi，現在台北市的「Taipei Free」就用Wi-Fi，新北市也用Wi-Fi，哪個城市、哪個區域還在用WiMAX？沒有，所以覆蓋率有80%是在「騙肖維」，何況是在偏鄉？本席上次有要求你們寬頻建置，因為都會有無線上網，原鄉也要有無線上網，這個基本人權應該是可以執行的，對不對？是你們可以達到的。
+石主任委員世豪：我們要逐步拉近偏鄉和都會區傳輸資源的落差，這確實不容易。我要誠實向委員說明，因為建置這些網路涉及到每個終端距離這個交換機有多遠，這會影響寬頻上網的穩定，而且要有足夠的基地台建設才會有無線上網的環境。再來就是委員剛才所提的，基於Wi-Fi這種建設可能要個別的據點逐一的擴充，據我所知，在台東也沒辦法全面推動，要逐點的適點推廣，那確實不是很容易的工作。
+廖委員國棟：主委，你很能說耶！推動上網人口800萬，那是「M台灣」一開始的目標，到現在為止，有多少人口在使用這個系統上網？
+石主任委員世豪：委員所指的，如果是行動上網，最近兩年的數字增加非常快；如果連固網也加進去，應該……
+廖委員國棟：有超過八百萬嗎？
+石主任委員世豪：早就超過這個數字。
+廖委員國棟：有多少是用WiMAX上網？
+石主任委員世豪：非常少？
+廖委員國棟：你講到重點了！所以我說不管當時的背景如何，那是一個錯誤的投資；WiMAX它的頻寬、頻段好像比較適合在偏鄉，是這樣說的嗎？
+石主任委員世豪：我不知道這樣子的計算是指技術上或是其頻譜的相對價格上，因為每一種不同的頻段傳輸的性質不太相同。以WiMAX現在所使用的頻段來說，它比較偏高，雖然基礎涵蓋不如1GHz以下的頻率，但可能會更好。說它適合在偏鄉，還要看各國的建置經驗，以我參加電信部長會議的經驗，像阿富汗和印度，他們普遍用WiMAX做偏鄉的涵蓋，不過他們的使用模式和我們不太一樣，他們有連結固網。
+廖委員國棟：他們必須要有充裕的固網，無所不在的固網，才能連結WiMAX。
+有關偏鄉的寬頻建設，你們說3個月要提計畫，結果提出來的是1張A4的內容給我，你提到3年計畫，關於偏鄉的寬頻建設，究竟是什麼計畫？
+主席：請通傳會通訊營管處陳處長說明。
+陳處長國龍：主席、各位委員。第一年是90%，因為這部分比照原先「村村有寬頻」的方式，90%讓村村有12M。
+廖委員國棟：依據教育部給我的數據，電腦的普及率還好，但是上網率偏低，沒有上網的功能，我們的電腦就成了打字機，小朋友無法充分運用網路取得更多的資訊，所以你們要去改善最後一里路的部分！
+石主任委員世豪：跟委員報告，這可能更緊要到最後一尺。村村有寬頻已經到了最後一里，但是要進家戶的最後一尺，我們確實要努力，但這也確實有一點難度。
+廖委員國棟：本席記得有一個政策是對中低收入戶及原住民的家庭補助，是你們在執行這個補助計畫嗎？
+石主任委員世豪：也是一樣的標準。
+廖委員國棟：如何讓他充分享受上網資訊取得的樂趣，也就是在最後一里路的部分，本席認為你們還可以著力！
+石主任委員世豪：是，確實。
+廖委員國棟：本席對90%這個數字存疑，是怎麼計算出來的？
+石主任委員世豪：跟委員報告，是每一個村，就是每一個行政……
+廖委員國棟：是以村為單位？
+石主任委員世豪：對！
+廖委員國棟：那當然都有啊！本席現在說的是，我們的小朋友也能夠充分運用這個網路。
+石主任委員世豪：跟委員報告，最難的就是在這最後一尺，要進入家戶之中。
+廖委員國棟：偏鄉很多學校雖有固網，也可以上網，但是四點下課後，第二天八點才上課，將近12個小時是空的，這段時間若能透過終端銜接Wi-Fi或是WiMAX，附近的小朋友，附近的家庭都可以充分運用。
+石主任委員世豪：我們會朝委員建議的方向去研析。
+廖委員國棟：你們去跟教育部好好合作，由教育部提供固網，你們來銜接終端。
+石主任委員世豪：可能要教育部提撥相當的經費讓部落的小朋友家可以支付得起上網的費用，這一點可能比較重要。
+廖委員國棟：偏鄉學校上網的空間還很多，應該讓部落、偏鄉的小朋友充分運用。
+石主任委員世豪：我們一定會加強執行。
+主席：請鄭委員天財發言。
+鄭委員天財：主席、各位列席官員、各位同仁。通訊傳播基本法第一條明文規定，提升多元文化是它的立法目的；第五條也規定應尊重弱勢者的權益，促進、提升多元文化。不僅僅是第五條這樣規定，國家通訊傳播委員會組織法第一條亦是如此規定，同法第三條第六款規定通訊傳播資源的管理也是你的權限。上次主委被提名在這裡備詢時，本席曾特別提到，從民國93年修正原住民族教育法之後，有關原住民族電視台的經營權改為成立財團法人原住民族文化事業基金會；原住民族基本法在94年公布也有特別規定。因為有這兩個法，所以後來就訂定了財團法人原住民族文化事業基金會設置條例。但是這麼多年下來，原住民族電視台現在還是由誰經營管理，主委知道嗎？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。以我們目前所負責的衛星電視節目供應事業執照來說，是在公視文化基金會。
+鄭委員天財：對。既然法律這樣規定，且就通訊傳播基本法、通訊傳播委員會組織法其相關的職掌來看，本席認為通傳會應該主動去協調。但是前面幾乎沒有協調，經過幾次的溝通說明，甚至在本席開了協調會之後，貴委員會在9月19日第505次委員會議中，正式做成決議，同意財團法人原住民族文化事業基金會符合衛星廣播電視法，衛星廣播電視法申請設立衛星廣播電視事業主體的資格。既然這個主體資格已經確立，但是確立的太慢，原民基金會在今年4月6日即提出申請，結果你們一直到9月19日才開會，同意其主體資格。但是更遺憾、更離譜的是，國家通訊傳播委員會基於基本法及貴委員會的組織職掌，應該主動協調公視基金會與原民基金會，甚至是文化部。當然你不找文化部、原民會都應該的，因為它們都是政府機關，都是要接受黨政軍退出媒體的機關。這也是本席上次和你討論的議題。
+可是你們最近在11月7日答復原民基金會時表示，因為公視基金會正在經營原住民族電視台，它擁有執照，所以你們無法發執照給原民基金會。這樣的答復，本席認為非常不應該。因為公視基金會的執照到今年年底屆滿6年的期限，而原民基金會在今年4月就提出來了，主委應該指示你的同仁要主動協調：公視基金會是不是年底之後就不要再經營了，執照就不再發給你了；原民基金會明年1月1日開始發給它新的執照。這樣才是正途。可是你的公文是要他們自己去協調，要業者自己去協調？如果是民間不同的業者，你要他們自己去協調，可能嗎？何況他們現在都是獨立的財團法人！還好他們還是由政府捐助經費的。
+本席在審查文化部預算的時候，曾特別問過公視基金會董事長，他也非常樂意把這個經營權、這個執照給原民基金會。他說：依他學者之見，依他公視基金會董事長的立場，他也希望把原民台的經營權移給原民基金會。所以本席認為，通傳會這邊應該去協調。現在已經是11月中旬了，剩下一個多月，為了讓原民台能夠繼續播放，你現在還給原民基金會也來不及了。
+本席想請教一個法律問題，所謂的有效期限6年，經過協調之後，可不可以給它1年或是6個月，如果公視基金會同意就到明年6月底，7月1日以後，由原民基金會來銜接。主委認為可以不可以這樣做？
+石主任委員世豪：剛剛委員所說的，基本上，整個問題在本會9月的決議之後，絕大部分都已經解決了，如果公視基金會董事長都認為他們可以協助辦理，其實已經沒有問題了。本會法定職掌範圍內的事務都已經處理完畢，委員也知道整個來龍去脈，本會在4月收到申請之後，其實還存在著法律上的疑慮，就是委員曾經指教過的……
+鄭委員天財：未來要怎麼解決？
+石主任委員世豪：本會已經解決了這個問題，但就如同委員剛剛說的，公視基金會的主管機關是文化部，而且公視是一個獨立營運的財團法人，本會不可以指揮，也不可以要求公視做什麼，但是我們可以就我們職掌的法令範圍內，儘可能協助，讓這個案子得以順利進行。而且我們也已經跟文化部訂定好協商時間，希望文化部可以玉成此事，因為公視基金會完全由文化部所監督、主管。委員剛剛也說了，大家都是廣義政府部門的不同機構，處理事務確實要有一致的步調，我們希望可以幫助文化部非常容易把這件事情做成。
+鄭委員天財：本席還是覺得你們要主動協調，雖然是兩個不同的、獨立的主體，但它們都是政府捐助的國家之所以要成立原民基金會，就是為了要經營、管理原住民族電視台。從原民基金會的董事可以看出，下一屆15位董事中，有10位是原住民，而公視基金會的董事中，原住民的部分沒有產生，一直無法運作，所以現在原住民族電視台是沒有人管理的，台長任期本來3年，現在都已經做了6年，早就超過時間了。對原住民來說是一個非常大的傷害。主委可否承諾？
+石主任委員世豪：委員提到問題的關鍵，因為本會是監理機關，本會不負責也不能夠介入電台的經營，我們一定在我們的職掌範圍內去協助文化部，把最後一件事情做完。
+鄭委員天財：如果這兩個基金會或是文化部同意的話，以明年6月做為分界點，我曾經問過公視基金會的董事長，他也同意註銷。我說如果通傳會給你6年的頻道執照，你可以不可以說你6月的時候註銷，他說他同意。事實上，也不必做到這樣，如果協調好的話，你們就直接發新的執照－明年6個月就結束的執照，原民基金會就從明年7月1日開始。可否朝此方向去努力？
+石主任委員世豪：因為衛廣法明定執照年限為6年。
+鄭委員天財：它不是說至少6年……
+石主任委員世豪：它是明定6年，不是至少6年。
+鄭委員天財：是期限6年。
+石主任委員世豪：有關無縫接軌這一點，屬於法制作業……
+鄭委員天財：難道你要讓它在6年之後嗎？
+石主任委員世豪：關於無縫接軌這件事情是法制作業的細節，我們可以跟相關的基金會及主管機關去談攏。委員只要信任我們，我們就可以跟文化部具體去談這件事情。
+鄭委員天財：期限6年並非不能在6年以內，本席請教過很多法界人士，法是沒有問題的。
+石主任委員世豪：縮限特許執照的年限，需要有法律的授權，因為特許執照本身是一個很重要的許可。歷來在行政法院的判決中，對這點要求都很高。
+鄭委員天財：我是說，如果公視基金會同意……
+石主任委員世豪：跟委員報告，無縫接軌的細節，我們會去和相關單位談。
+鄭委員天財：這部分請主委特別列為最優先來處理。
+石主任委員世豪：我們一定會注意。
+鄭委員天財：因為已經拖延很久了。
+石主任委員世豪：是。
+主席：報告委員會，現在休息，下午2時30分繼續開會。
+休息（12時18分）
+繼續開會（14時30分）
+主席：現在繼續開會。接下來登記發言的李委員鴻鈞及許委員添財均不在場。
+請林委員佳龍發言。
+林委員佳龍：主席、各位列席官員、各位同仁。最近我跟幾位立委同仁召開有關4G的公聽會，也感謝虞副主委到場參與，當天公聽會討論的結果有幾個重點：第一就是4G釋照的政策目標是最重要的，因為政策目標確立後才能指導政策執行的規劃。但是我們在過程中也聽到官員非常多有關不管是開放或拍賣的談話，比如是否允許轉售交易？就政策來講，這個單一政策有沒有同步配合未來寬頻的釋照，將會影響包括標金的高低等，換言之，這是連帶相關的。我們現在看到NCC的預算評估報告中指出預計明年底拍賣，上次我也問過，NCC表示預估將有300億元的拍賣收入。外界認為這個估計基本上是低估的，若政府釋照係以標金高低為目標，衡量政府擁有的政策工具及配套措施，即使拍賣收入要衝到兩倍都沒問題，但重點是標金是否能解決政府釋照想要達到的目標？如果政府的政策目標是促進產業發展，那必須很負責任地不要再重蹈過去2G、3G開放時過度競爭的失誤。這次4G開放是一個很好的重整過去失誤的機會，我認為也是最後一次機會，如果這次再沒有做好規劃以整合、引導產業建立一個好的競爭秩序，一旦執照放出去機會就消逝了，再回首又是10年之後的事情，恐怕屆時天下大亂，整個產業也會失敗。
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。委員的考慮確實很長遠。
+林委員佳龍：我想包括WiMAX或者過去無線數位廣播頻譜政策的失敗就是因為很多配合條件不足，今天為何WiMAX的投資這麼少？按照統計，WiMAX開放6家，但金額只有三億多左右。
+石主任委員世豪：委員所說的應該是最低的標金。
+林委員佳龍：對，最低標金，但事實上他們的投資也還在觀望，結果形成惡性循環，所以，若就產業發展的角度，政府對於產業的未來應該有一個願景。民主政治其實就是利益團體遊說的政治，不必迴避而不敢公開進行遊說、溝通，民主政治就是多元主義，其中很重要的一部分就是這一塊。現在利益團體仍有管道去影響我們的官員，不是往主委那邊就是往其他委員或者政務委員，或者就來找我們立委，有時好事一樁大家都想迴避，因為都怕被人講「你是不是代表誰在發言」？局部地看當然如此，但就整體來看，這個產業若無法發展起來，其實就算最後要到一點什麼保障也沒有用，因為市場不能擴大，大家無利可圖怎麼會再投資呢？消費者如何能得利呢？道理講起來很簡單，我的意思是，就產業部分的溝通協調，你上次答應我大概是朝3到7張執照去規劃。你講這個話可說是政治正確，因為現在加起來就是7家，前主委講3家，所以就是3到7家，我認為這樣也好，至少總有個數字，而且不是27家那麼誇張。因此，產業政策非常重要，產業政策再進一步來講就是消費者，也就是在數位匯流之後人民的權益，這個部分一定要有支撐，前面的政策才能成功，因為我們是民主國家。
+石主任委員世豪：確實。
+林委員佳龍：對於標金、產業的發展以及消費者的權益這三塊的主要目標，我們的感覺目前是被牽著鼻子走，因為政府沒有一套清晰的上位原則，就是這次釋照的目標是什麼。本席將在本委員會提案，我認為目前被廣泛討論的吃到飽以及網路塞車等現象，很重要的因素是業者的投資不足，但相對地政府的投入也不夠，所以我主張釋照的標金收入應該專款專用，成立專案基金以投入基礎建設，這是第一點，我想詢問主委的看法。第二點，政府有政策工具，應該開放基地台的建設。以前我也參加過國家資產管理委員會的工作，政府應該開放國有的閒置空地或者公有建物設置基地台，至少讓人民看到政府的作為，而不是只要求業者投資。現在設置基地台那麼困難，政府應該自我要求做出一些成果，那麼政府就更有資格在執行公權力時要求業者必須投資、克服相關的問題。另外，針對我剛才提到的轉售交易，請問主委的立場為何？因為這部分會牽動其他相關議題，包括到底有沒有合理的利潤、競爭的情況究竟如何等等，或者會不會有所謂的「頻譜蟑螂」出現？現在NCC的規劃是以5MHz為單位，5乘以2，我相信NCC對於最後整個圖像會是如何應該胸有成竹，我不認為現在再委外研究還來得及；如果現在連700、900、1,800MHz這三塊頻段，你心裡都沒有個譜，然後就開放所謂的5MHz的單位乘以2作為發照的對象，還要等研究結果出爐嗎？技術面姑且不講，這三個頻段所涉及到的一些技術性整合的問題，外界的憂慮不是沒有道理。請主委針對我以上幾個問題具體回答，你應該有很清楚的政策目標與藍圖再來談釋照的問題。
+石主任委員世豪：感謝委員，委員的關照也非常全面。首先就所謂的4G，也就是行動寬頻業務的釋照作業，我們目前已經有一個相對上非常明確的目標：第一就是以產業健全發展為最高指導原則；其次就是適度地建立市場的公平競爭秩序；第三個才是提升頻率的使用效率，在這三個原則之下才規劃整個頻率的釋出作業。
+林委員佳龍：我打個岔，其實你是把消費者的權益是放在很後面的。
+石主任委員世豪：跟委員報告，因為消費者的個別權益一定要在整個市場秩序之下才能夠落實的……
+林委員佳龍：那是理論。請繼續，針對我剛才具體的問題，麻煩你回答。
+石主任委員世豪：是。也就是在這種環境之下，業者才可能提出更新的服務，消費者才能有更多選擇，這是有前後因果關係的，所以我們就上述三個原則做整體的政策規劃。在這種情形下，也不可能忽略目前正在各國釋照作業中的經驗以及現在成熟可能會投入的技術，以及其使用的頻率規劃情形。所以，剛才委員所提到的以5MHz為單位的規劃，其實是在歐盟釋照作業時就已經採用過，那因為現在我們……
+林委員佳龍：不過我要提醒你，我們現存的頻譜狀況跟他們不太一樣。
+石主任委員世豪：每一個國家大概都會有點出入。以上下行要對等的情況之下，就是FDD這種技術規格所採用的，我們目前所規劃的是上行、下行最窄頻寬是10MHz，上下對稱總計需要20MHz。觀察國際上的規格，目前我們看到LTE-A可能最寬用到20MHz的頻寬，也有用比較舊的3.5G的技術，只要15MHz的頻寬就夠了，所以……
+林委員佳龍：這些技術面我都瞭解，你可不可以具體回答我的問題？第一個，就是執照拍賣收入成立基金，專款專用從事基礎建設以引導業者投資，這是不是一個可以考慮的方向。
+石主任委員世豪：委員建議的這個方向，我們非常贊同，但是礙於現行法制恐不可行，因為在……
+林委員佳龍：有需要修法就修法，這當然要配套，以前廣電基金的成立也是如此。
+石主任委員世豪：根據本會的組織法、通訊傳播基本法以及預算法第九十四條之規定，拍賣所得須直接撥入國庫，這一點確實在制度上沒有……
+林委員佳龍：政策上呢？政策決定法令嘛！
+石主任委員世豪：當然，對於產業以及對民眾通信需求福祉的保障來說，這是最好的一種方式，我們會非常樂見有這樣的制度。
+林委員佳龍：我們一起來思考、規劃與努力，法令就是立法院決定的，我們會跨黨派提案連署。第二點，我剛才提到公有的土地、建物，還有一些分區管理的限制等等，政府有沒有一個目標很清楚地釋放出一些資源，當然大家都不希望基地台蓋在自己樓上或隔壁，這就是所謂的「鄰避效應」。
+石主任委員世豪：委員所說的確實也是我們一直在努力的事情，但是在實務上面，常常業者所要取用的最佳設台地點未必會跟公有財產的座落地點一致。
+林委員佳龍：當然不會百分之百，請你朝此方向訂定一個目標、期程，讓我們看得到政府除了棒棍之外也有胡蘿蔔。
+石主任委員世豪：是，我們會朝委員剛才所建議的方向去跟國有財產局協商，看看有無可能開放所有的公有土地或建物。
+林委員佳龍：好。另外，現在大家在爭論中華電信或其他電信業者上網速率如何，各家業者宣稱的數字都不一樣，其實NCC應該定期公布檢測結果，我們待會也會提案要求NCC在兩個月內提出一個方案。畢竟NCC公布的結果才有公信力，你們不該放任業者買廣告拚場，這不是用錢去買廣告的問題嘛。
+石主任委員世豪：確實。
+林委員佳龍：NCC是否應積極引導？雖然你剛任主委沒有多久……
+石主任委員世豪：今年年底第一階段的研究計畫就會結案，屆時會提出完整的報告，也跟委員說明，因為測試的條件不同以及用戶所使用的上網設備，因為各種不同的智慧裝置上網的條件，測試結果確實有些差異，我們目前會盡可能把這些差異納入考量，甚至在一些固網的測試也要求建置Whitebox，讓測試的數據能夠一致化，這樣以後公布的所有數據會比較客觀。
+林委員佳龍：最後，我在前面質詢過你，你也告訴我釋照的時間，本席進一步要求在下個會期開始前，也就是明年3月立法院開議之前，NCC應該有一套明確完整的規劃方案，先前已經過了兩個月，下會期開議前距今也還有三個多月，明年3月前提出規劃方案應該沒有問題吧？你至少要讓大家到明年底之前有足夠的時間可以討論、準備，包括我剛才問的有關轉售交易是否會在這一波規劃進去的問題，你還是要具體回答我，這個都會牽動後面的發展。
+石主任委員世豪：有關頻譜二次交易會涉及至少是法規命令以上的修正問題，因為目前電信法第四十八條的規定並無有償移轉使用的架構，這是需要配套……
+林委員佳龍：那麼NCC副主委以及許多委員講的話就只是一種個人意見囉？
+石主任委員世豪：確實在大的政策方向上，彈性使用頻率的資源是各國普遍在做的，我們也朝這方向在努力。
+林委員佳龍：法令不允許轉售交易，但是如果為了讓我們的頻譜未來的規劃更有效率、對產業秩序的競爭更好，其實這就是政策工具，這不能另外拿去釋放，不斷地開放、自由化而沒有做好管制革新，這個東西千萬不能做，唯一能做的前提是政府要有很清楚的目標跟藍圖，引導既有的投資者有路可以走，這樣才會創造多贏，好不好？
+石主任委員世豪：是。
+林委員佳龍：我們一起來努力。
+石主任委員世豪：好。
+林委員佳龍：法令修改之前不能再就有關轉售交易的問題對外放話，那樣會擾亂人心，大家現在看到政府的政策不確定，搞不好大家就開始來做頻譜蟑螂，也去標一塊執照來跟別人喬，好不好？
+石主任委員世豪：我們一定會預防這些問題，謝謝委員的提醒。
+林委員佳龍：謝謝。
+石主任委員世豪：謝謝。
+主席：請王委員進士發言。
+王委員進士：主席、各位列席官員、各位同仁。石主委上任已經三個多月了？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。是。
+王委員進士：你很認真，過去你也當過副主委，現在當主委，應該在各方面都是駕輕就熟……
+石主任委員世豪：還在努力。
+王委員進士：對NCC的業務應該也是瞭若指掌。聽你每一次詢答的答復都四平八穩，對各種法令、各方面運作的細節都講得非常清楚。
+石主任委員世豪：是，謝謝委員。
+王委員進士：過去NCC因為旺旺併中嘉一案引發許多爭議，讓外界覺得NCC很沒有效率，現在你接任之後，我想新人應該有新作風，對於過去一些沒辦法完成的事情，主委接任也三個多月了，已經跨過實習的三個月期間了，對於過去還無法上路的政策，希望主委接任後能儘快做好。
+石主任委員世豪：是，謝謝，也請委員持續監督。
+王委員進士：第一個我要請教的問題，去年6月為了媒體近用權、廣播內容多元化以及服務偏鄉、促進地方產業發展等需求，我們通過廣電法小修版，排除預算法第九十四條「配額、頻率及其他限量或定額特許執照之授與，除法律另有規定外，應依公開拍賣或招標之方式為之，其收入歸屬於國庫。」的規定，而能採取評審拍賣、公開招標的方式，以防止財團壟斷廣播媒體。
+石主任委員世豪：是。
+王委員進士：本法修正後也通過附帶決議，要求NCC在6個月內提出釋照的方式、原則與期程，現在距離法令修正通過已經一年多，到今年年底已經一年半，請問現在的情況究竟如何，能否請主委說明？
+石主任委員世豪：是。謝謝委員提醒，這件事本會一直很重視，原來大院在通過廣電法小修時也通過附帶決議，要求本會必須在6個月之內提出釋照的原則跟方向。會內確實有規劃第十一梯次廣播執照的開放申請案，也辦了多次的公聽會……
+王委員進士：我知道，此事是否有其他因素的干擾？上次我也質詢過，主委也答復你們內部已經有共識，南部是不是在調幅部分應該有一台，因為其實南部跟中、北部相較，在資訊取得方面落後許多，所以調幅台應該再釋放一台。這次是第十一梯次，以後還會有其他梯次，但是廣電法小修之後，第十一梯次釋照的第一步都無法走出去，而且南部僅僅只有一台，到現在也沒辦法做到，是不是行政院方面還有意見？還是廣播領域的財團還給你們一些壓力？
+石主任委員世豪：跟委員報告，我們辦了幾次公聽會，各方的指教非常多。基本上認為無差別的釋出一百多張執照對廣播產業沒有幫助，真正迫切需要的也跟其他部分一起……
+王委員進士：但是當初也是公聽會之後你們才決定釋出的進度，第一梯次是這樣，第十一梯次也一樣，以後後續還有很多梯次。你第一梯次釋照的數量也不多，你說一百多張釋放出去不一定對產業有什麼幫助，但是現在特定地方，比如我們講南部……
+石主任委員世豪：我們現在會內做的調整，根據目前廣播的生態評估各地對於廣播電台需求……
+王委員進士：這個你們也了解，不然不會說南部先釋放1家，就廣播生態來說，南部、東部與中北部差很多。
+石主任委員世豪：完全不同。
+王委員進士：對，所以你們的動作要快。
+石主任委員世豪：在上週已經召開過會內工作小組會議，我……
+王委員進士：我覺得說，我了解好像還有一些廣播界的壓力，還是行政院的看法跟你們不一致，這你應該要去突破，該做的事情還是要完成。
+石主任委員世豪：我們一定會本諸主管機關的專業去研析這個問題。就我目前所知的指示，在各種方案之間的利益權衡做的不是很好……
+王委員進士：就是後面那句「利益權衡」，其中可能有利益團體，因為釋照對他們不利，就在那邊掣肘，然後你們又沒有那個魄力去……
+石主任委員世豪：目前並沒有直接來自於哪一方面的壓力，而是我們覺得方案的完備性不夠……
+王委員進士：沒有直接，但是有間接。
+石主任委員世豪：是，謝謝委員提醒。我們一定會加速……
+王委員進士：你們要思考如何突破……
+石主任委員世豪：我們一定會加速專案作業。
+王委員進士：這個拜託你。我們南部有地方性，比較在地性，比如地方產業、文化各方面比較有特性，他們製作的節目當然比較符合南部，尤其屏東這方面。屏東真的聽到的電台不多，而且過去我們一直講地下電台的問題，現在地下電台方面，通傳會這邊做的還……
+石主任委員世豪：是，這個……
+王委員進士：所以要把它正常化，那些不三不四的電台沒有了，我們把它導正，還要多一點的頻道給大家來收聽，對不對？
+石主任委員世豪：是。
+王委員進士：這部分就拜託你。
+石主任委員世豪：一定會加速作業。
+王委員進士：我當然希望NCC站在主動積極的角色，繼續在後面幾梯次的開放，我們在注重公平、公正之外，還要重視傳播生態的平衡。
+石主任委員世豪：要符合地方需求。
+王委員進士：對弱勢團體也要多加重視，這點請主委多注意。我有個提案，希望再作一個詳細的說明。
+石主任委員世豪：好。
+王委員進士：今天我看很多委員都提到張善政政務委員提到4G開放以後儘量不要有吃到飽的方案，引起很多反彈。4G明年才要開放，我上次在質詢時也提到，吃到飽是業者的噱頭，聽了好像便宜大碗又滿意的宣傳，如果就學術和專業上來說，當然是指單一費率。我上次也說，市場機能當然要給大家選擇，因為過去我們也覺得3G吃到飽，你去看很多人根本沒有用到，可能就造成荷包損失。為了取信於消費者，是不是讓每個網路業者都註明你這個月用多少M，讓消費者可以選擇。我要用吃到飽，結果我用的不及三分之一，這不是白費嗎？如此消費者自然就會去做選擇。由市場機制提供消費者自由選擇權，難道你們不能要求業者做到這點嗎？上次我也提到，不要限制他，你要吃到飽就去吃到飽，不吃到飽也可以，也有另外的選擇，是不是這樣？
+石主任委員世豪：委員說的一點很重要，業者應該讓消費者知道他選了什麼東西以及他自己實際的消費情形，消費內容的透明化這點確實是業者應該做到的。
+王委員進士：主委強調透明化，應該不困難吧？
+石主任委員世豪：我們一定要求業者做到這點。
+王委員進士：我很相信主委有這個能力，你在做事我們看起來四平八穩，非常有魄力。再請教，陳元玲委員三個月就辭職，對NCC又是一個傷害，對機關的形象也有影響，當然也有些人怪立法委員當初行使同意權的時候不慎重。
+石主任委員世豪：應該不是這樣的事。
+王委員進士：沒關係，他個人因什麼理由辭職我們不講。因為這個事件，對NCC又是一個傷害，將來你也面臨更多的挑戰，還要補人。
+石主任委員世豪：對。
+王委員進士：我想主委應該多表示一點你的意見，不是提名誰來都可以，阿貓阿狗來你不好做事情。
+石主任委員世豪：我一定會向院長反映。
+王委員進士：將來如果重新提名，請主委多加反映。在民眾一片罵聲當中，我們希望NCC能是政府各單位中的一個清流，好不好？
+石主任委員世豪：我們會……
+王委員進士：因為這個單位比較專業，民眾對政府施政有感無感與你們的政策關係比較密切，例如我剛剛講的資訊要透明一點，給他們知道用多少讓他們自己選，這應該是個讓民眾有感很好的辦法。
+石主任委員世豪：是，謝謝委員勉勵。
+主席：請許委員忠信發言。（不在場）許委員不在場。
+請江委員啟臣發言。
+江委員啟臣：主席、各位列席官員、各位同仁。今天不管媒體或委員質詢都會問你吃到飽或者不要吃到飽，這是市場的自由選擇，也是市場上的菜單，要不要吃到飽是業者和消費者之間的選擇問題。我要跟主委提的是，現在很多業者標榜吃到飽，但實際上吃不飽，而且吃不飽還要付錢，這種狀況很多，主委你知道嗎？你自己現在的上網計畫用的是哪一種？你的手機有沒有3G上網？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。我現在用的是最簡單的方案。
+江委員啟臣：是家裡的還是怎麼樣？
+石主任委員世豪：我個人的手機是用固定費率方案，大概都是屬於補貼他人的消費者。
+江委員啟臣：所以你現在手機有上網嗎？
+石主任委員世豪：有，但我用的是最小包。
+江委員啟臣：沒關係。你有沒有遇到要上網時，有些地方上不了網或著很慢？
+石主任委員世豪：有。
+江委員啟臣：本席收到很多這樣的陳情。民眾綁了2年3G無線上網的約，業者也送了WiMAX網卡等，可是回去才知道住家或辦公室附近的訊號品質很差，當然民眾就後悔了。但是他綁了約，要退可以，就付違約金，這是一種；第二種是每個月便宜200元繼續用，這是千真萬確，用到兩年期滿，或者用到業者的品質改善為止。你聽到這樣會不會覺得消費者很無奈？他只能被迫接受。
+石主任委員世豪：就委員描述的，確實消費者在這邊有點無奈。
+江委員啟臣：這部分怎麼改善？我覺得不管政府也好，業者也好，應該負責任，剛剛提到訊息揭露的透明度，你到底在哪些地方通訊品質不好，訊號微弱，網路不通，網路品質是不好的，我覺得應該誠實以告。
+石主任委員世豪：是。
+江委員啟臣：政府應該監督，告訴民眾這個地方只有哪一家可以通，哪一家是最好的。市場固然應該自由化，但自由化之外，訊息和資訊要透明化，這部分並沒有做到。所以很多消費者在選擇要用哪一家的時候，老實講除非他本來就知道，或別人告訴他，不然他也不知道，他只能從不同費率計畫中去選擇，主委你同意嗎？
+石主任委員世豪：委員確實指出問題所在。但是上網有些速率上的問題，其實原因有很多，包含某些智慧裝置上網的條件可能與別的智慧裝置不同，或是他所在地的……
+江委員啟臣：主委我了解，但是載具的條件是功能的問題。我現在講的是有些業者在某個地段根本沒有設置基地台，或是距離基地台遙遠。不同家，不同Carrier，在不同區域的基地台布局不一樣，有些偏遠地區就只有中華電信可以通，有些只有台灣大哥大可通。我的意思是說，像這些狀況，尤其是在訊號品質比較差的地方，訊號品質、通訊品質等訊息應該要揭露，這才能讓消費者有所選擇，同時我覺得這應該也可以作為解約的依據。
+石主任委員世豪：我們會去研究服務契約相應的規範。
+江委員啟臣：目前幾乎所有解約，消費者都要付違約金。
+石主任委員世豪：可能跟他當初締約的條件有關，因為現在有不少是以智慧裝置綁約，一定是以……
+江委員啟臣：沒有錯。如果訊息的揭露很清楚，賣方也盡到告知的責任，消費者還要簽綁約的契約，就是消費者要負責；可是如果必要的資訊沒有揭露的時候，一旦消費者遇到這種情況，就變成一個消費爭議，雙方各說各話。
+石主任委員世豪：確實。
+江委員啟臣：我覺得這對消費者並不好，對市場也不好，對業者也不好。這部分NCC可以要求業者坦白告知，哪些地方沒訊號，哪些地方訊號很弱、通訊就是不良。我自己常常在山區跑，經常講到一半就沒電話了，我也都知道，為什麼他們不揭露這些資訊呢？等到蓋完基地台再說那個地方已經改善了。這可以做到吧？
+石主任委員世豪：我們會儘量朝這方向做，但是有些事實要跟委員報告，有時局部地區的用量增加時，基地台的涵蓋範圍會縮減，因為訊務量增加，這種例外的涵蓋不足並不是持續出現，這種資訊的揭露會比較複雜一些。
+江委員啟臣：這些資訊的揭露要定期更新，因為不可能永遠都是同樣的訊號品質，就像你說的，有可能因為用量的問題，有可能他新蓋的基地台，有可能他加強了頻率都不一定，這些資訊是需要被update的。我現在講的重點是，你必須要求業者去揭露，而且應該定期更新，這樣才能讓消費者與業者之間處於平等的地位，讓我們消費糾紛降到最少。
+石主任委員世豪：謝謝委員指示，我們會朝這方向去制定。
+江委員啟臣：這是你們可以要求他們要做的，你們自己也在調查，我知道你們花了兩年時間調查，調查結束以後要不要公布？
+石主任委員世豪：會，今年年底會……
+江委員啟臣：這是通訊品質內容的透明化，讓大家都知道。接著再請教主委，你們負責相關電子產品的檢驗，像手機、寬頻分享器等，你們都有檢驗吧？關於頻率、訊號的部分。
+石主任委員世豪：只有射頻器材的部分。
+江委員啟臣：射頻器材的部分你們有檢驗。你們檢驗標章應該是這個沒錯吧？你有看過吧？
+石主任委員世豪：有，本會標章的部分就是。
+江委員啟臣：你有看過，這裡面是哪一個？
+石主任委員世豪：抱歉，委員我……
+江委員啟臣：可能太遠了。看起來有點像NCC的這個，後面都還有CC什麼什麼的號碼對不對？
+石主任委員世豪：是。通常都會有本會的標章出現，是本會認可的……
+江委員啟臣：這是你們的吧？我要請教主委的就是，其實很少消費者知道這件事，也很少消費者知道哪些器材應該經過你們檢驗。我想請教主委，也是本席遇到的消費問題，現在有很多電子器材是水貨，或講說是平行輸入，平行輸入自己從國外帶回來自己用就算了，不檢查也不違法，但現在網路上的網路小舖，你知道嗎？主委有沒有在網路上買過東西？
+石主任委員世豪：我沒有。
+江委員啟臣：你有空你上去看一下。
+石主任委員世豪：我親人有，但我個人沒有。
+江委員啟臣：這些網路小舖上很多賣的是相關的電子產品，可是都不是賣一件、兩件，是開一家網路商店在賣，全部都是平行輸入。請問這部分有沒有經過你們檢驗？
+石主任委員世豪：我們只要求射頻器材符合我們驗證的標準就夠了，我們並不管進出口，如果是稅收的部分應該由海關負責。
+江委員啟臣：你們檢驗這東西有沒有涉及到使用者和消費者相關的安全等等？
+石主任委員世豪：我們主要檢驗非游離輻射的值，以及器材所使用的頻段，我們考量的是非游離輻射對環境和身體造成的衝擊以及頻段上的干擾。
+江委員啟臣：你的意思是說這些其實也可以不需要經過你們檢驗？是這樣嗎？所以你們的檢驗不是強制性的？照你這樣的回答，這不是強制性的，包括台灣生產的產品都可以不用經過你們檢查或認證？。
+石主任委員世豪：跟委員報告，不是這樣。所有的射頻器材必須符合我們驗證的標準，如果不符合，射頻器材的部分是可能被處罰的。
+江委員啟臣：好。我剛剛問的就是那些透過平行輸入，在網路上大量販售的產品，如果屬於射頻器材，要不要經過你們檢驗？
+石主任委員世豪：射頻器材就需要。
+江委員啟臣：他們有沒有檢驗？你們有沒有去查？
+石主任委員世豪：要看個別的情況，因為我們認驗證也與其他國家有達成協議，是可以相互承認對方的認驗證。
+江委員啟臣：網路上賣的全部都符合你講的嗎？都符合相互認證嗎？
+石主任委員世豪：個案部分我不知道，可能……
+江委員啟臣：你們有沒有去查？
+石主任委員世豪：我們業管處有在調查，是否請業管單位說明。
+江委員啟臣：有沒有查到？
+主席：請通傳會資源技術處陳處長說明。
+陳處長子聖：主席、各位委員。我們3G處有在進行市場管理，如果沒經過認證會請他下架。
+江委員啟臣：有沒有查過？有沒有下架的案例？
+陳處長子聖：都有。
+江委員啟臣：多不多？
+主席：請通傳會中區監理處蕭處長說明。
+蕭處長祈宏：主席、各位委員。在我們三個區處碰到這種申訴案件非常多。
+江委員啟臣：對。
+蕭處長祈宏：我們一接到會馬上請Yahoo、PC home……
+江委員啟臣：這是不是防不勝防？
+蕭處長祈宏：是，沒有錯。
+江委員啟臣：那怎麼辦？
+蕭處長祈宏：這個……
+江委員啟臣：你們只能靠人家檢舉，然後去查？
+蕭處長祈宏：這個可能有點認知上的出入，我們大部分收到的案件都是少量販售，我們一收到就會馬上通知這些業者，像PC home或Yahoo，他們會……
+江委員啟臣：連PC home或Yahoo都有嗎？
+蕭處長祈宏：對，他們會馬上下架，如果沒有下架，我們接著就會處罰。
+江委員啟臣：我覺得沒被你們查到的還有很多。
+蕭處長祈宏：是，其實……
+江委員啟臣：我問這個是要跟你們講這是個漏洞，這漏洞你們怎麼辦？你要怎麼處理？
+蕭處長祈宏：這個部分可能是在就方便國人西進或管理……
+江委員啟臣：一個是自己從國外帶回來供個人使用的，這種是在你們允許的範圍內，不須檢查，對不對？
+蕭處長祈宏：是。
+江委員啟臣：但是對於在市場上買賣的部分，不管是透過任何形式的買賣，你們怎麼處理？
+蕭處長祈宏：如果沒有經過認證，是不允許的。
+江委員啟臣：所以還是需要你們去執行公權力的地方。
+蕭處長祈宏：對，是我們的責任。
+江委員啟臣：本席只是要請主委注意這件事情，因為很多在網路上販賣的商品是沒有經過你們認證的，我們不希望日後發生消費糾紛或是影響到安全的問題。
+石主任委員世豪：跟委員報告，電子器材的消費糾紛不屬於本會的職掌。
+江委員啟臣：但是我怕這件事會引起糾紛，所以我提醒NCC注意這件事情，對於這件事情你們也要有一套比較完善的處理方式，好不好？謝謝。
+石主任委員世豪：是，謝謝委員提醒。
+主席：接下來登記發言的黃委員偉哲、林委員正二、盧委員秀燕、薛委員凌、吳委員秉叡、陳委員明文、吳委員育昇、李委員桐豪、陳委員雪生、紀委員國棟、蕭委員美琴、楊委員瓊瓔、廖委員正井、邱委員文彥、張委員慶忠、陳委員碧涵、江委員惠貞、徐委員耀昌、王委員惠美、林委員滄敏、陳委員亭妃、邱委員志偉、潘委員孟安、黃委員文玲、徐委員欣瑩、呂委員學樟均不在場。
+請簡委員東明發言。
+簡委員東明：主席、各位列席官員、各位同仁。我們原住民對NCC提出的問題大概都是一致的，先請教主委：原民台設立的主要目的是什麼？
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。在原住民族基本法和原住民族教育法中明白揭示，為落實原住民族普及傳播的權益，設立原民台。
+簡委員東明：除了這些以外，我們認為最重要的是傳承原住民族的文化。當時成立原住民族電視台，政府也發現原住民文化逐漸在消失，包括我們的語言也在消失，所以為了挽救即將失傳的文化，特別按照原住民教育法成立了原住民電視台，目前原住民電視台在原住民地區的收視率相當高，主委應該也了解。
+石主任委員世豪：是。
+簡委員東明：原住民雖然有14族群，但是原住民電視台所播出的節目大概都有將各族群的文化涵蓋在裡面，節目內容相當多元，要單靠原住民電視台來一一對這14個族群做重點文化的宣導，我想這個資料是足足有餘的，所以原住民電視台收視率相當高。特別是新聞，因為我們原住民地區也不喜歡看一般電視台播出的節目，卻又幾乎都看不到原住民地區的新聞，所以自從原住民電視台成立以來，這5年當中，受到原住民地區所有鄉親的支持和肯定，而這次因為原住民族基本法及各種因素，我們希望將來原住民電視台能直接交給我們來經營，所以我們排除萬難，成立原住民族文化基金會。我們成立原住民族文化基金會的目的是什麼，主委應該知道吧？
+石主任委員世豪：其中一項就是成立原住民專屬電台。
+簡委員東明：目前專屬電台電視的部分就是原住民電視台。
+石主任委員世豪：是。
+簡委員東明：這五年多來，我們不能否認公視對原住民電視台的貢獻，他們應該是盡心盡力在協助原住民電視台，但是原住民電視台在公視下面製播節目，這部分還有一些空間是值得檢討的。比如說，原住民電視台的記者服務範圍相當廣，公視有時候沒有辦法兼顧這部分，所以雖然有些地方有駐地記者，但是有些地方不一定有，而最近公視董事會又遲遲選不出來，在這種情況下，他們有沒有能力再經營原住民電視台？對於這一點，我們有很大的疑問。所以我們希望能夠把原住民電視台交給原住民族文化基金會來經營，主委對此看法如何？
+石主任委員世豪：我們已經在第505次委員會議中確認原住民族文化基金會具備經營衛星頻道的主體適格，我們已經完全確認這件事情，沒有任何疑義。
+簡委員東明：最近原住民族文化基金會為了執行任務而在4月6日向NCC申請原住民族電視台衛星廣播電視執照，目前審查結果如何？
+石主任委員世豪：我們已經確認其經營主體資格沒有問題，現在唯一的困擾在於申請的頻道名稱跟現在公視文化基金會經營且正申請換照的頻道名稱完全相同，兩個不同的基金會申請同一個頻道的經營權，我們認為應該由經營單位做一個最好的安排，之後我們一定會在後續的部分按照法律程序處理。
+簡委員東明：依目前的狀況，這個問題沒有辦法解決？
+石主任委員世豪：據我了解，兩個基金會都已經協商，由原住民文教基金會去承接原來由公視文化基金會所製播的原住民族電視頻道，我們會在後面的階段完成需要的行政程序。
+簡委員東明：主委認為公視和原住民基金會已經協調出結果了嗎？
+石主任委員世豪：我們所得到的訊息是這樣，不過我們得到另外的訊息是說，公視基金會對於有些法令的解釋有疑慮，最主要是他們解讀公股處理條例上面的文字後產生一些困擾。
+簡委員東明：據我所知不是這樣，主委，你們是不是能夠再深入了解一下？
+石主任委員世豪：會的，我們會去了解。
+簡委員東明：正如剛才主委提到的，兩個單位同時申請衛星廣播電視的執照，但是依據他們申請的日期來看，原住民族文化事業基金會申請日期應該比較早，他們在4月6日就提出，公視是6月才提出，由此可證明財團法人原住民族文化事業基金會是有強烈意願經營原住民電視台，但主委剛才提到同時有兩個名稱。
+石主任委員世豪：是同樣名稱。
+簡委員東明：所以無法確定，回頭想想，公視是公共電視，但原民台是委託經營，現在成立了原住民族文化事業基金會要接下來經營，且在4月6日就提出申請，但基於公視6月又提出，所以你們不能確定。剛才主委表示，就你了解兩個單位好像協商已有成果？
+石主任委員世豪：是。
+簡委員東明：但就我們了解，好像不是這樣。
+石主任委員世豪：我們會進一步了解最新進度。
+簡委員東明：繼續了解狀況之外，公視的經營契約執照今年12月31日就要到期。
+石主任委員世豪：所以公視6月提出的是換照申請，現在的執照還在有效期間，只要在6個月內提出換照申請，就可以進行相關程序。這就是我們困擾的地方，因為同樣的名稱有兩個基金會申請。
+簡委員東明：主委認為應該交給由原住民族成立的基金會，還是交給公視？
+石主任委員世豪：我們無法判斷，我們是主管衛星頻道節目執照的核發，兩個基金會都具有經營的主體適格，所以我們無法判斷，但我們會從旁協助兩個基金會的協調事宜，讓轉軌能夠無縫接軌。
+簡委員東明：換照之後契約有多久時間？
+石主任委員世豪：其實可以申請停止經營，停止經營之後，同樣頻道名稱就沒有由原基金會經營，若由新的基金會接手即可達到無縫接軌，在這期間，公視亦可撤回申請，明年度起該頻道名稱就沒有人申請，我們又已確認原文會有經營主體適格，所以可以順利承接。這兩個方案都可無縫接軌，我們也會在後端監理措施上全力協助。
+簡委員東明：假如你們不介入處理，此事將會很難解決。
+石主任委員世豪：有一點困難，因為原文會主管機關是原民會，公視基金會主管機關是文化部，我和孫主委討論過很多次，我們在所有程序上都可全力協助。
+簡委員東明：為了能夠發揮原住民電視台實際功能，原住民族文化事業基金會接手經營之後，原民台一定會有所成長，而且還會有不一樣的經營方式。
+石主任委員世豪：原來做得很好的族語新聞，以後一定可以做得更好。
+簡委員東明：對，這是特別要向主委強調的，成立原住民族文化事業基金會主要目的也是在這裡，否則成立這個基金會等於是多餘的。當時強烈希望能夠成立這個基金會，此時應已達到成熟階段，也應該要接手了。
+最後有關防災通訊設備，過去NCC也做了不少，特別是在阿里山做了50公里無線通訊設施，我們覺得非常好，為什麼這樣的設施不繼續做？
+石主任委員世豪：南區監理處陸續在茂林和那瑪夏持續建設高抗災通信平台，我們會儘量推廣。
+簡委員東明：阿里山所做的50公里以內無線通訊器材，我也親自嘗試聯絡各村落，我覺得非常好、非常理想。
+石主任委員世豪：我們一定持續推動。
+簡委員東明：至今已經過3年，當時也提到這有必要繼續推廣。
+石主任委員世豪：是，我們一定持續推動。
+簡委員東明：這對防災功有相當的效果，經過3年了，好像看不到有繼續在做。
+石主任委員世豪：我請南區監理處處長向委員說明。
+主席：請通傳會南區監理處劉處長說明。
+劉處長豐章：主席、各位委員。已經持續在辦理中，預計明年會完成。
+簡委員東明：再拿書面資料給我，包括要做哪些地方，但要針對比較危險的地區先做，好不好？
+劉處長豐章：是，謝謝委員。
+主席：請潘委員維剛發言。（不在場）潘委員不在場。
+請李委員貴敏發言。
+李委員貴敏：主席、各位列席官員、各位同仁。本席今天想和主委討論行動上網服務品質的問題，在討論之前先和主委確定幾件事，按照國家通訊傳播委員會組織法第二條規定，電信法內的通訊傳播相關法規主管機關是NCC。
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。是。
+李委員貴敏：電信法第二十條規定，國民可以按合理價格公平享有一定品質的電信服務，主委也知道這個規定？
+石主任委員世豪：是。
+李委員貴敏：簡單來講，我們的國民有權利在繳納一定合理費用後，行動上網服務品質應該要達一定水準，對不對？
+石主任委員世豪：是。
+李委員貴敏：但我們看看實際狀況，主委在媒體上應該也有看到相關報導，使用行動上網的民眾，有高達59.3%不滿意行動上網品質，主委知道有這種情形吧？
+石主任委員世豪：就報紙所做的民調，是有這樣的數字。
+李委員貴敏：站在NCC的立場，NCC是否應該確實檢討為什麼會有這種情形，又可以怎樣致力提升國人的數位生活品質？
+石主任委員世豪：委員所說的確實是本會應該做的。
+李委員貴敏：媒體報導幾個問題，也許除了本席所提到的還有其他因素，主委待會也可一併提出。立法委員是站在監督行政機關的立場，我們並不是一個執行機關，所以我們需要正確數據可以提供給立院同仁做為監督依據，我們也知道數據品質還涉及基地台的數量，所以當我們看到媒體報導相關資料及數據之後覺得很奇怪，中央社2012年5月報導2006年3月只有173萬用戶，今年3月已經有2,133萬戶，戶數成長12倍，但3G基地台從5,566座增加到13,105座，只成長了2倍。簡單來講，戶數成長12倍，基地台卻只成長2倍，品質當然會差。
+石主任委員世豪：就基礎涵蓋部分，會顯示出總傳輸能量趕不上總訊務量。
+李委員貴敏：我要問的不是這個，我要問的是我們看到NCC今年4月在第三代行動業務營運概況報告裡公布的數據，基地台數量是23,220座，比中央社公布的基地台座數多了1萬座。接著，你的報告又提到這二萬多座還包括了行動台與其他用戶之間，本席要問究竟是2萬3,000還是1萬3,000多座？然而憑良心講，這其實不是很重要，雖然其中的數字差距很大，但重點是所引發的兩個問題：第一，NCC所公布的數據是不是正確？第二，無論基地台的數量是2萬3,000還是1萬3,000，數量都是很少的，戶數成長了12倍，但基地台卻只增加2倍，品質當然就會不好。NCC在2011年7月曾經要求業者要加速投入行動上網基礎建設，從去年到今天究竟做了什麼？本席要特別強調，若行政單位只有單純要求卻不去執行，本席對此是非常感冒的！這也是為什麼我剛剛特別指出NCC應該要檢討緣由並致力提升！這「致力提升」不是只有要求，應該要祭出確實具體的方案，以達成我們想要的目的，因為電信法第二十條明定國民有權利支付合理的價格以享受一定水準以上的上網服務，主委的看法如何？
+石主任委員世豪：委員提及的電信法第二十條是一般俗稱的普及服務。普及服務有兩個面向，一是全民最低下限的通信服務價格要合理。二是基於偏遠地區支付能力不足，所以要用額外建設方式來達到普及。一般來說，世界各國的普及服務水平距離行動上網水平都有一段差距，因此所有付費的行動上網品質都遠高於普及服務的品質。
+李委員貴敏：我若沒有聽錯，你是指當我們提到行動上網時，行動上網的品質其實要更高於電信法第二十條的電信服務，對不對？
+石主任委員世豪：各國情況都是如此！
+李委員貴敏：所以簡單來講，如果電信法第二十條已經規定要有一定的品質，那麼行動上網的品質應該要更高才是，但今天……
+石主任委員世豪：普及服務的品質只是門檻級的品質，相較現在行動用戶實際使用的傳輸量，真的有很大的差距。都會區很多行動上網使用者的實際使用量是遠遠超過普及服務等級以上的，也因為高度使用，所以能享受很多的網路內容，這跟今天上午劉櫂豪委員質詢的偏鄉地區實際使用的數據服務相較，二者差距是以倍數計算，所以城鄉差距是很大的！民眾的不滿，其實很多是屬於普及服務的範疇，且已經可以在個案契約互相約束，但這涉及契約內容是否有明確規範服務品質要在一定門檻以上。我們遍查所有的單一費率或二階費率的上網資費，發現業者並沒有保證服務的品質，可見契約方面確實有一些爭議空間，但是普遍來說，民眾對於自身實際使用上網的感受還是存有落差，這點我們會注意！
+李委員貴敏：我剛剛就有提到，單純的注意並不能解決問題！我為什麼把法條提出來討論？因為這是NCC的職掌，NCC應該要加以落實，讓國民能夠享有一定的品質，這當然就要借助NCC對電信業者的要求了，NCC可以做到這一點嗎？而剛剛的問題你也還沒有回答，就是2011年7月NCC曾經要求業者要加速投入行動上網的基礎建設，從去年到今天究竟做了什麼？
+石主任委員世豪：依我們所看到的資料，實際進口的基地台數量在民國100年是3,298座，而101年上個月為止是2,677座。
+李委員貴敏：這有符合你之前講的，要在4年之內投資268億元的時程嗎？你不知道有這個要求嗎？
+石主任委員世豪：我要去查查看本會是否有具體要求業者要投入268億的……
+李委員貴敏：沒關係，我會把相關資料給你，通常本席的質詢都有相關的數據。
+第一個問題是基地台的數量，第二個則是導致品質低下的原因。以前NCC曾經指出基地台的設備老舊並要求業者更新基地台設備以提升服務品質。這到底執行的如何？麻煩主委在會後以書面資料提供給本席。
+石主任委員世豪：好，我們會提供資料給委員。
+李委員貴敏：另外很重要的一點，最近有關行動上網品質不佳的問題，交通部毛部長以及張政委都提出取消上網吃到飽、分級收費的概念，站在NCC的角度，主委認為這作法可行嗎？
+石主任委員世豪：這涉及廣大消費者消費習慣的轉變，這件事不可能驟然而成！我們其實也看了對岸、美國及其他先進國家的經驗，也都是慢慢改變的，而他們也有一些大的業者逐步取消單一費率的收費方式，轉而採取分級付費。有些民眾其實使用量很少，不需要繳那麼多錢，他們就可以選擇更適合的方案，至於要確定頻寬、確定速度的消費族群或對速度非常敏感的用戶而言，其實可以用premium的特殊費率去享有業者保證的服務品質。目前的單一費率並不保證品質，且有些人是繳了太多、用了太少，有些人是用得很多、但沒有他要的品質，這確實會造成各方的不方便！
+李委員貴敏：NCC既然在你的職掌範圍，今天這些問題有沒有實際的規劃時程？我剛才有聽到主委對於整個問題的通盤掌握，並且掌握得非常好，但知道問題還要解決才行，不能只是單純知道問題。我也理解任何政策在實行時都會有正反兩面的意見，但希望行政官員不要怕挨罵、要能夠勇於任事！把事情做對，就算做的當下會被挨罵，但長遠以後人家還是會知道你的政策是對的還是錯的。我理解剛剛主委提到的分級費率，各國的情形不盡相同，可是要解決台灣現在這個問題，主委能不能給我們一個時程，好讓國民能夠享受更高水準的服務品質？我不要求現在說明，請主委會後再提供資料給我。
+石主任委員世豪：好，沒問題。
+李委員貴敏：您剛才能夠掌控整個全局，也有提到使用者跟電信業者的契約，然而一般的消費者對於契約並沒有協商談判的空間，能否要求主委責令電信業者在定型化契約中的條文規定要符合現實狀況，不能欺負沒有能力與電信業者溝通的一般消費者？
+我再提出最後的問題，因為時間有限，之後再麻煩主委以書面回復。按照電信法第四十八條規定，NCC為了有效運用電波資源，應該訂定頻率的使用期限，並得收取使用費。以前有媒體披露電信業者打算透過各個便利商店、咖啡店提供Wi-Fi的service，讓使用者透過Wi-Fi來減少3G的使用，針對這件事情，NCC在2011年8月曾經表示要成立專案小組，麻煩主委會後把專案小組對於使用Wi-Fi以疏解3G壓力的實際調查狀況及具體措施、時程等資料提供給本席了解。
+最後，希望藉今天的質詢來期許主委以及所有NCC的成員，是不是能讓人民更方便地享用高品質行動上網服務，作為NCC行動上網政策的指導方針？因為誠如我之前所講的，畢竟按照法律的規定，全民有這樣的權利去享受高品質的服務，本席希望能藉著今天質詢的機會，和主委互相勉勵，真正的落實馬總統在100年元旦揭櫫的讓數位生活成為國民基本權利的願景，在此拜託主委和所有NCC同仁努力。
+石主任委員世豪：謝謝委員，我們一定會努力。
+主席：登記發言委員均已發言完畢，現在許委員添財來到會場，請許委員發言，發言時間為5分鐘。
+許委員添財：主席、各位列席官員、各位同仁。謝謝主席！本席本來是下午第一位發言的，但因選民服務以致耽誤了，而本席為了要發言已經在此等候一個鐘頭了。本席覺得石主委實在是任重道遠，因為廣電三法遲遲不能通過。
+主席：請通傳會石主任委員說明。
+石主任委員世豪：主席、各位委員。目前廣電三法正在大院審議中，委員也給了我們很多指導與幫忙。
+許委員添財：雖然兩岸猿聲啼不住，但是即將變成媒體怪獸的這艘扁舟卻已悄悄的、迅速的即將闖過萬重關，蔡衍明的旺中集團投入壹傳媒的傳言可能即將成真，富邦併購凱擘等十二家有線電視則已經是個事實，而且要進一步的與鴻海生產的60吋電視合作，鴻海則以這個60吋電視綁住有線頻道，與中華電視MOD合作，緊接著是中華電信的MOD朝有線電視化努力，如此一來，勢必形成跨媒體的集中和聯合壟斷，亦即平面媒體進入有線電視坐大，中國信託辜仲諒這個財團也進入，一旦占有灘頭堡，就會加速前進、擴張，媒體的集中度會更行嚴重，潛藏性的和透明可供大家知悉的雙管齊下，現在台灣的金融業慘兮兮，邊際利益很低，市場愈來愈萎縮，資金外逃情況嚴重，台灣的短期資金每個月到外國購買證券的金額已經高達七百億元，十年來成長了十倍，目前國人在國外購買證券累計的資金部位已經高達台幣九兆多，這些都是肇因於我們的金融業的經營效率低，以致資金快速外流，金融市場萎縮，此時財團為了賺錢，就設法迎合中資的需要，可是所謂的中資其實就是他的國企，他們的國營事業搶進台灣的政治目的大於經濟目的，而台灣的金融業也想到中國去分一杯羹，中國遂給一點甜頭利誘之，以便能進入台灣與之結合，所以台灣的金融產業和電信業、媒體業很快的結合了，金融產業為了要去分一杯羹就暗中配合中國進入台灣的媒體，取得控制，參股金融、控制媒體攪和在一起的結果就是變成超級風暴，而這類的超級風暴其實歷史殷鑑不遠，鄭成功鄭氏王朝不是敗在兵力差、航海技術差，而是敗在商人，因為他的宰相和廈門做生意，宰相想到一旦鄭克塽和清朝宣戰將導致生意作不成，因此投降了，而這樣的歷史教訓很可能在台灣發生，萬一真的發生了，請問台灣怎麼辦？台灣好不容易建立起民主政治，希望能在此永續發展，在世界上占有一席之地，變成一塊自由的土地，台灣人可以到世界各地去發展，世界各國的人也可以到台灣來享受自由的生活，成為難得的東亞民主燈塔，可是現在變得垂垂可危，而關鍵人物就是你石主委，因為你必須把關，請問你認為這個歷史責任是否重大？本席上述的分析並非沒有依據，而是正在發展中，所以你必須趕快去瞭解，能依法規範的就依法規範之，讓他們公平競爭，經營權和股權不要集中，台灣的民主政治還沒有像美國一樣那麼穩定，因為走向大資本化，所有的媒體最後都變成被財團把持，可是也有相當的力量可以對其制約啊！本席憂心的情況正在加速發展中，不能不令人擔憂。請問主委對本席所言有何看法？
+石主任委員世豪：委員所言確實是滿大的、戰略級的問題，我們會就相關的面向分別和主管機關比如公平會、金管會、經濟部投審會就外資進入本國投資管道多做接觸和瞭解，密切合作，必要時也會和陸委會接觸，進一步瞭解什麼才是最適合我國利益的整體策略。
+許委員添財：既然媒體是一個歷史責任、社會責任這麼重大的產業，因此本席建議NCC在修法時融入產業民主精神，在媒體產業的部分加入員工董事條款，比如壹傳媒的員工現在已經開始自救了，希望確保新聞自由和新聞自主，不要在大老闆進入後，讓他們必須為了生活而斷送了自由度，其次是產業金融分離條款也應融入廣電三法的修正中。本席以上的建議，請主委參考。
+石主任委員世豪：謝謝委員，我們會注意這些。
+主席：現在休息5分鐘，之後進行預算的審查。
+休息
+繼續開會
+主席：現在繼續開會，開始處理預算，請宣讀預算數。
+中華民國102年度中央政府總預算案歲入來源別有關國家通訊傳播委員會部分：
+第2款　罰款及賠償收入
+第17項　國家通訊傳播委員會5,682萬8,000元
+第3款　規費收入
+第18項　國家通訊傳播委員會365億3,596萬7,000元
+第4款　財產收入
+第18項　國家通訊傳播委員會232萬5,000元
+第7款　其他收入
+第18項　國家通訊傳播委員會無列數
+歲出機關別部分：
+第2款　行政院主管
+第13項　國家通訊傳播委員會6億0,836萬3,000元
+第1目　一般行政6億0,827萬8,000元
+第2目　第一預備金8萬5,000元
+主席：有關歲入部分，第2款及第3款均有委員提案，稍後協商再處理。
+現在處理第4款。請問各位，對第4款「財產收入」照列，有無異議？（無）無異議，照列。
+有關歲出部分，第2款第1目有8個委員提案，稍後協商再處理。
+請問各位，對第2目「第一預備金」照列，有無異議？（無）無異議，照列。
+現在開始協商，在此同時，請宣讀委員提案。
+歲入2款－1
+單位：國家通訊傳播委員會
+科目：歲入2款17項1目1節『罰金罰鍰』
+案由：國家通訊傳播委員會（NCC）已於今年九月底起，開放電視節目商業置入行銷與贊助，也就是將來有關違反節目與廣告未區分之情形將會大幅減少，根據100年度NCC廣播電視內容裁處案件統計，裁罰件數共304件，有關節目與廣告未區分案件118件，佔全部案件數之39%，依此102年度「罰金罰鍰」收入編列應依上（100年）年度預算數刪減30%後之預算（4,622萬7千元）方屬合理，爰此，國家通訊傳播委員會102年度歲入「罰金罰鍰」編列5,682萬8千元，應予刪減1,060萬元。
+提案人：李昆澤　　蔡其昌　　劉櫂豪　　魏明谷　　葉宜津　　管碧玲
+歲入3款－1
+提案：
+國家通訊傳播委員會102年度歲入預算，其後許可費收入，新增公開拍賣行動寬頻業務執照收入300億元。但是91年拍賣3G執照時收入即高達489億元，102年度預計釋出之行動寬頻業務之頻寬較之3G執照大了100Mhz，完全按照頻寬比例至少亦應有777億收入。同時102年預計釋之之頻段位置亦遠較3G頻段為佳，加上物價指數、消費者需求等因素，至少應有千億元之收入。NCC此項歲入收入顯有低估，爰提案要求增加至1,000億元。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+歲入3款－2
+單位：國家通訊傳播委員會
+科目：歲入－場地設施使用費　p43
+案由：本委員會業於10月1日通過提案要求國家通訊傳播委員會於一個月內全面檢討各種電信特殊碼之擴大免付費範圍及優惠費率，惟迄今通訊傳播委員會仍未完成電信特殊碼負擔及費率之檢討，應予譴責。查國家通訊傳播委員會102年度規費收入之場地設施使用費編有特殊電信號碼使用費50,678千元，爰刪除全數收入。
+說明：
+1.目前共計23種電信特殊碼（如110、1968、1999等），有半數以上共14種要收費，無論市話或行動撥打，均照一般費率計收。統計今年至6月份止，23種電信特殊碼共有40,380,206通撥打通數，須付費的14個號碼則有33,516,553通，通話費共收53,724,868元，估計一年將有1億元以上之收入，均歸各電信業者。民眾須付費之特殊碼，有諸多乃攸關弱勢、老年人、心理障礙、生命支持、基本民生資訊之服務，實應為電信業者之社會責任。
+2.本委員會業於10月1日通過提案要求通訊傳播委員會應於一個月內全面檢討各種電信特殊碼之擴大免付費範圍及優惠費率，惟迄今僅完成一家業者對166、167氣象預報專線免費之協商，其餘毫無進展。
+3.查國家通訊傳播委員會102年度規費收入之場地設施使用費編有特殊電信號碼使用費50,678千元，爰刪除全數該收入。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+歲出1目－1
+單位：國家通訊傳播委員會
+科目：人事費－獎金　p43
+案由：查支領月退休金軍公教退休人員領取年終慰問金之依據公務人員退休法施行細則第26條第二項已於99年11月10日刪除，發予該慰問金已無法源依據，爰刪除國家通訊傳播委員會102年度預算一般行政－人員維持人事費項下所編列獎金91,570千元內之月退休人員年終慰問金。
+說明：
+1.查國家通訊傳播委員會102年度預算一般行政之人事費編列608,278千元，其中獎金編列91,570千元，惟說明欄內並未揭露支領月退休人員年終慰問金之編列細目。
+2.因支領月退休金軍公教退休人員領取年終慰問金已無法源依據，爰刪除國家通訊傳播委員會102年度預算一般行政－人員維持之人事費項下獎金91,570千元內所編列之月退休人員年終慰問金。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+歲出1目-2
+單位：國家通訊傳播委員會
+第2款第13項第1目第01節，科目名稱：一般行政－人員維持，本年度預算數：6億827萬8,000元。
+增刪理由：
+年終慰問金係為當年安定退休軍公教人員生活，並因應農曆春節需要的慰勉性措施。自六十一年起由行政院逐年訂頒注意事項，本質上係屬給付行政，事實上，三年前考試院修正公務人員退休法施行細則，已刪除「領月退休者，遇有臨時加發薪金時，月退休金亦得按比率支給」的條文。如今國家通訊傳播委員會會積非成是，無視律法，仍強行編列經費，毫無公平正義可言。爰此，建議將支領月退休金人員年終慰問金所需經費全數刪除，以衡平國家財政情況。
+提案人：魏明谷　　葉宜津　　管碧玲　　蔡其昌　　劉櫂豪
+歲出1目-3
+單位：國家通訊傳播委員會
+項目：第13項第1目「一般行政」－「人事費－其他給與－車票費補助」
+案由：國家通訊傳播委員會於102年度預算中，「一般行政」項下「人員維持-人事費-其他給與」中，編有車票補助費，該項補助並未有相關法源依據，有悖大法官解釋「涉及公共利益重大事項仍應以法律規定」、「涉及人民之納稅負擔，且為國家之重要事項，應視其職務之性質，分別先以法律規定適當之項目與標準，始得據以編列預算支付之」及「行政措施應衡酌國家財政負擔」之解釋。補助公務人員交通車票於法無據，於理不合。爰此，全數減列該項補助費。
+提案人：葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+歲出1目-4
+單位：國家通訊傳播委員會
+科目名稱：一般行政，本年度預算數：6億0,827萬8,000元，建設凍結數：2億元
+增刪理由：
+國家通訊傳播委員會於102年度預算中仍僅編列人事費用，並無匡列維持機關運作所需之基本行政工作相關費用。嚴重違反預算法第50條與本院往年相關決議。爰此，建議凍結一般行政經費2億元，俟國家通訊傳播委員會向交通委員會報告後，經本會同意後，始得動支。
+提案人：魏明谷　　葉宜津　　蔡其昌　　管碧玲　　劉櫂豪
+歲出1目-5
+單位：國家通訊傳播委員會
+科目：人事費-政務人員待遇p45
+案由：查國家通訊傳播委員會102年度預算編列政務人員7人之待遇13,460千元，惟通訊傳播委員會委員人數僅5人，爰刪除人事費項下政務人員待遇1/3。
+說明：
+1.立法院甫於7月加開臨時會審議通過國家通訊傳播委員會四名新任委員，新任委員陳元玲卻於就任後三個月即率爾請辭，委實將國家通訊傳播委員名器及國會人事審查視為兒戲，應予嚴厲譴責。
+2.陳元玲請辭後，國家通訊傳播委員人數僅五名，爰刪除102年度人事費項下政務人員待遇1/3。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+歲出1目-6
+單位：國家通訊傳播委員會
+科目：歲出2款13項1目『一般行政』
+案由：國家通訊傳播委員會（NCC）102年度配置預算員額532人，含法定編制員額職員525人以及約聘僱人員7人。考量預算已依編制員額予以滿足，另在「通訊傳播監督管理基金」服務費項下，又預計進用臨時人員32人、派遣人員20人以及勞務承攬56人，顯然人力充沛有餘。且NCC還在11月6日公布行政助理（約僱人員）徵才啟事而已。考量國家整體財政困難，避免造成不必要之浪費，有關非正式進用人員應秉持遇缺不補之原則，爰此，國家通訊傳播委員會102年歲出「一般行政」項下「約聘雇人員待遇」322萬8千元，應予以全數刪減。
+提案人：李昆澤　　蔡其昌　　劉櫂豪　　葉宜津　　管碧玲　　魏明谷
+歲出1目-7
+科目：一般行政
+本年度預算數 ：608,278千元
+建議 【○】凍結：全數凍結
+刪除理由 ：
+依據本院審查98年度中央政府總預算案分組審查決議(八)（歲出部分）：「國家通訊傳播委員會單位預算，其歲出預算僅編列人事費及第一預備金……，顯違反預算法等相關規定，請該會積極修正其組織法及通訊傳播基本法等相關法規，將上開經費回歸公務預算編列。俟修法完成後，依法編列。」；99年度中央政府總預算案分組審查決議(十四)：「99年度歲出預算僅編列人事費用，違反預算法第50條之規定與本院去年度中央政府總預算分組審查的決議，建議應該回歸預算法的規定，機關基本運作費用應列入公務預算，不能用非營業基金支付；100年度中央政府總預算案分組審查決議(十七)：「……100年度預算中，國家通訊傳播委員會歲出預算仍僅編列人事費用……其作法不但違反預算法，且一再違反立法院相關決議，爰凍結一般行政－人員維持費四分之一，俟向立法院交通委員會報告並經同意後，始得動支。」惟102年度NCC單位預算案歲出依然故我，僅編列人事費6億0,827萬8千元及第一預備金8萬5千元，而其他維持機關運作所需基本費用皆仍由其主管之特別收入基金－「通訊傳播監督管理基金」支應，恐有藐視本院過去決議，並規避監督之嫌。爰全數凍結「一般行政」計畫，俟通傳會依預算法與立法院過去決議之規範重新編列預算，向立法院交通委員會提出報告並經同意後，始得動支。
+提案人：蔡其昌　　葉宜津　　劉櫂豪　　李昆澤　　管碧玲　　魏明谷
+歲出1目-8
+國家通訊傳播委員會102年度預算提案：
+一、依據原住民族基本法、原住民族教育法、財團法人原住民族文化事業基金會設置條例、衛星廣播電視法之相關規定，財團法人原住民族文化事業基金會具有製播經營原住民族電視台的職掌，並可依衛星廣播電視法向國家通訊傳播委員會申請執照。財團法人原住民族文化事業基金會（以下簡稱原民基金會）已於101年4月6日向國家通訊傳播委員會申請經營衛星廣播電視節目供應者「原住民族電視台頻道」（第16台）。
+二、國家通訊傳播委員會第505次委員會會議決議：「同意原民基金會符合衛星廣播電視法申請設立衛星廣播電視事業之主體資格；由於該基金會所申請之同名頻道刻正由財團法人公共電視文化事業基金會（以下簡稱公視基金會）經營並持有執照，於原執照有效期限內，本會無從審理同一名稱之頻道申請。」國家通訊傳播委員會並據以函復原民基金會表示「盼原民基金會與公視基金會儘速協商，以達共識」。
+三、國家通訊傳播委員會理應依法審核許可原民基金會之申請案，尤其公視基金會現因執照於101年12月底屆期而正申請換照作業中，國家通訊傳播委員會更應協調並予以審核二基金會之申請案，但國家通訊傳播委員會竟以「於原執照有效期限內，國家通訊傳播委員會無從審理同一名稱之頻道申請」為由，不予處理原民基金會之申請案，該會要求二基金會自行協商，更屬失當，且於法無據。
+四、鑒於國家通訊傳播委員會對衛星廣播電視事業經營之申請，具審核許可之權責，為維護原住民族傳播權及展現原住民族主體性，並符合原住民族基本法、原住民族教育法、財團法人原住民族文化事業基金會設置條例及衛星廣播電視法相關規定，使原民基金會依法製播經營原住民族電視台，要求國家通訊傳播委員會102年度「一般行政」原列預算608,278千元，凍結六千萬元，俟國家通訊傳播委員會完成協調原民基金會及公視基金會之執照申請案，向立法院交通委員會專案報告並經同意後，始得動支。
+提案人：鄭天財　　劉櫂豪　　陳根德　　林明溱　　葉宜津
+決議1
+國家通訊傳播委員會102年度決議：
+據國家通訊傳播委員會102年度預算施政目標與重點，其中一項係希望102年在非偏遠地區可接取100Mbps寬頻網路之家戶涵蓋率達100%的目標，但相較原住民族等偏鄉地區目前之上網速率僅2Mbps，顯示寬頻網路政策對原住民族等偏遠地區實欠缺照顧。為縮小原住民族等偏鄉地區與一般民眾之數位落差問題，國家通訊傳播委員會預計104年將原住民族等偏遠地區上網速率提升為12Mbps之規劃，應速予檢討調整。要求國家通訊傳播委員會應於103年完成原住民族等偏鄉地區上網速率提升為12Mbps，並應針對原住民族地區與一般民眾寬頻網路落差提出具體改善計畫方案。
+提案人：鄭天財　　劉櫂豪　　陳根德　　林明溱　　葉宜津
+決議2
+單位：國家通訊傳播委員會
+主決議：
+網際網路所帶來的集體智慧是由通信技術的進步而引發的，在Web 2.0實現了交互性，因而用戶可以提問或發布自己的內容，在網路上找到答案或是與人交流。集體智慧憑藉這一點來提高現有知識的社會共享，集體智慧可以歸因於媒體融合以及共享文化。但是，有電腦卻無法負擔寬頻連線費用者，無法進入網際網路所帶來的集體智慧互享模式，這類群眾通常是弱勢者。因先天的劣勢造成後天與他人競爭的不對等，違反政府保護網路人權普及至所有國民的責任。
+根據教育部所做的調查統計顯示，原住民家戶與全體國民間存在重大的數位落差。舉例而言，原住民家庭沒有網路比例高達78%，沒有電腦家戶高達64%，但全體國民沒有網路比例只有44.6%，沒有電腦比例更只有33.6%。分析後可知，原住民族不僅與全體國民數位落差高達近2倍，其中甚至有15%的原住民族家庭即便有電腦，但卻因為沒有網路，讓電腦淪為打字機，根本沒辦法透過網路讓電腦替原住民開一扇窗。此問題不僅發生於原住民，中低收入戶之家庭同樣有著較高的數位落差。
+爰此，提案要求國家通訊傳播委員會，應盡速提出針對中低收入戶及原住民網路數位落差縮短行動方案，並保障其家庭網路基本連線全力，研擬法令，直接補助其最基本家庭網路連線費用，務求於104年底前將這類弱勢者的網路普及率及家戶電腦普及率達到全國平均水準。
+提案人：林明溱　　廖國棟
+連署人：陳根德　　楊麗環
+決議3
+案由：針對行動上網需求日益漸增，但行動上網塞車問題一直無法解決，造成行動上網塞車之原因很多，除了上網吃到飽之外，基礎建設不足也是影響行動上網的主要原因，因此請交通部和國家通訊傳播委員會應向行政院建議成立跨部會小組，對於其他機關公有建物能否設立基地台應該要加強協調並公佈不願配合之公務機關，除此之外，應加強基地台知識教育，請於一個月內答覆交通委員會。
+提案人：羅淑蕾　　蔡其昌　　李昆澤　　盧嘉辰　　陳根德　　楊麗環
+決議4
+案由：為廣播電臺能落實媒體近用權、增加廣播多元內容、提升頻率資源有效運用、促進地方產業發展以及多元文化之均衡發展，增進在地之公共利益，以服務偏鄉，並且滿足多元族群、語言、文化與資訊服務之需求，立法院於100年6月通過貴會的廣電法小修版以排除預算法第九十四條規定「配額、頻率及其他限量或定額特許執照之授與，除法律另有規定外，應依公開拍賣或招標之方式為之，其收入歸屬於國庫。」之規定，得採行評審制、拍賣制、公開招標等方式以防止財團壟斷經營廣播媒體。當時附帶決議，要求NCC三讀通過後，於釋照前須向立法院交通委員會報告，使得進行相關釋照程序；另要求NCC 6個月內公告廣播電台釋照方式之原則及期程，以符合社會公益，惟至今已一年多了，未見NCC有任何作為，爰要求主管機關NCC應於一個月內，向立法院提出第11梯開放規劃辦理情形書面報告。
+提案人：王進士　　林明溱　　陳雪生
+決議5
+預算提案
+案由：鑑於4G釋照攸關我國電信產業及資通訊產業之未來發展及國際競爭力，允應以3G及WBA釋照經驗為鑒，然本次行動寬頻釋照收入編列300億元，相較3G釋照收入488.99億元僅為其六成，似顯保守。爰針對國家通訊傳播委員會102年歲入許可費下「公開拍賣行動寬頻業務執照特許費」300億元，NCC應針對4G釋照時點、頻譜資源規劃、開放範圍、拍賣方式、釋照收入及釋照相關配套措施，向立法院交通委員會進行專案報告。
+提案人：林明溱
+連署人：陳根德　　楊瓊瓔
+決議6
+提案：
+對於第三代行動電信業務，各業者均以「吃到飽」費率計價，然而根據實測結果，消費者從未吃到飽過，卻要付出較高額之吃到飽費率。因此NCC應於一個月內要求電信業者提出在現行吃到飽費率為上限之基礎，再依計量收費之費率方式，避免消費者付出高額吃到飽費率，卻無應享有之上網品質。
+提案人：葉宜津　　李昆澤　　魏明谷　　蔡其昌　　管碧玲
+決議7
+提案：
+國家通訊傳播委員會擬於102年拍賣行動寬頻業務頻段，相較於91年拍賣第3代行動電信業務執照，此次拍賣之頻寬較3G頻寬大了l00Mhz，而且頻段位置為700Mhz、900Mhz、1800Mhz，亦遠較3G頻段為佳，若再考慮消費者需求大增及物價指數在內，此次拍賣行動寬頻業務頻段至少應有千億元。爰要求NCC於定訂行動寬頻業務頻段之拍賣底價，不得低於1,000億元，否則不應拍賣，避免國家稀有之電信頻率低價落於財團之手。
+提案人：葉宜津　　劉櫂豪　　魏明谷　　蔡其昌　　李昆澤　　管碧玲
+決議8
+提案：
+國家通訊傳播委員會擬於102年拍賣行動寬頻業務頻段，其中有關900Mhz、1800Mhz之頻段，其與現有2G頻段重複。2G執照原本於今年（101年）、明年（102年）到期，但NCC卻有意延長2G執照至106年6月底。在現有2G業者繼續使用頻段之情況下，卻又要於102年拍賣行動寬頻執照，其圖利現有2G業者意圖甚明，因為僅現有2G業者有可能買定，而且在現有頻段在有人使用之情況下，亦將壓低拍費價格。爰此要求NCC不應延長2G業者許可執照，而應採清空2G頻段後，再行拍賣行動寬頻業務之頻段，以避免圖利財團、減少國庫收入。
+提案人：葉宜津　　劉櫂豪　　魏明谷　　蔡其昌　　李昆澤　　管碧玲
+決議9
+提案：
+國家通訊傳播委員會擬於102年拍賣行動寬頻業務頻段，但卻以技術中立為理由，對於得標業者不限制發展4G技術，業者亦得將標得頻段用來做用2G、3G業務。唯查頻率係國家有限資源，其釋出係以國家整體發展、帶動科技技術進步、保障公共利益為最大原則。尤其此次釋出之頻段位置包括位置最好之700Mhz部分，若未能用於發展較現在更為進步、速度更快之寬頻業務，完全違反上述之原則，而係將國家少數資源交之財團之手，成為少數人謀利之工具。本此要求102年釋出之頻段，在技術中立原則下，僅能用來建設較現有業務更為快速之技術業務。
+提案人：葉宜津　　劉櫂豪　　魏明谷　　蔡其昌　　李昆澤　　管碧玲
+決議10
+提案：
+國家通訊傳播委員會擬於102年拍賣行動寬頻業務頻段，其拍賣單位係以5Mhz為最小單位．其拍賣原則亦僅要求業者至少購買2個單位，亦僅10Mhz。然以現在發展之LTE技術，其頻寬要求至少必須達到20Mhz，方能展現其速度，否則將比現有之3G技術速度更慢或者相同。如此之拍賣方式，完全無意發展較現在更為快速之技術系統，甚至有圖利3G業者之嫌，避免消費者大量轉向使用4G系統。如此做法。完全以保障3G業者為出發點，對於消費者使用更斯、更快之科技權益完全不顧，其所謂釋出行動寬頻業務頻段側係用來欺騙國人之幌子，實質做法卻完全在抑制行動寬頻業務之發展。爰此要求NCC拍賣行動寬頻業務至少要以20Mhz為最小單位，以利行動寬頻業務之發展。
+提案人：葉宜津　　劉櫂豪　　蔡其昌　　李昆澤　　管碧玲　　魏明谷
+決議11
+單位：國家通訊傳播委員會
+案由：有鑑於目前主要的電信公司都賺大錢，卻把網路壅塞的責任推給使用者，而且行政團隊從政務委員、NCC主委到交通部長都隨之起舞，紛紛主張要電信業者不能賣吃到飽的合約，卻不去檢討業者基礎設施建置不足的問題。NCC為我國電信主管監理機關，應該注重廠商能不能提供優良的服務，與合理的收費標準，爰此，要求NCC應該於三個月內建立一個評估系統，要求管制電信業者之系統無法負荷時應停收客戶，待設備改善提升後才可重新開放，以確保消費者權益。
+提案人：李昆澤　　魏明谷　　葉宜津　　管碧玲
+決議12
+決議案
+針對行動寬頻服務品質太差，網路塞車，造成民怨第一名的現象，除了消費者需求太大之外，業者寬頻網路建設不足亦為主要原因。國家通訊傳播委員會釋出4G執照後，倘無法督導業者建設基地台，未來4G商轉後仍因建設不足無法滿足消費者上網之需求，因此為加速鼓勵民間各家業者網路基礎建設，提昇我國競爭力，國家通訊傳播委員會於釋出4G執照時，應要求取得許可執照之業者建設基地台應有80%以上比率為3家業者以上共構，以增加網路建設，保障服務品質。
+提案人：劉櫂豪　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　管碧玲
+決議13
+決議案
+根據消基會提供資料分析最新的手機3G上網測速數據，同一家電信公司，業者提供給不同區域的消費者品質也有差異。北部地區的下載速度為1.35Mbps，中部1.27Mbps，南部為1.2Mbps，東部為0.97Mbps；最快的北部與最慢的東部之間，差距達1.4倍。而以縣市來區分，台北市的3G網路速度最快，達1.6Mbps，台東縣則速度最慢為0.8Mbps，雙方相差了整整2倍。顯示我國3G上網速度的城鄉差距十分明顯。既然是同一家業者，收取的費用也相同，不同地區網路速度就不同的現象，根本不應該存在。花了相同的錢，享受到的品質卻只有台北市的一半，對於台東地區的消費者而言非常不公平。爰此國家通訊傳播委員會應儘速督導各家業者加速台東地區行動寬頻基礎建設，且於城鄉差距弭平之前，台東地區行動寬頻費率應當調降價格，以維公平。
+提案人：劉櫂豪　　葉宜津　　李昆澤　　蔡其昌　　管碧玲　　魏明谷
+決議14
+決議案
+原住民族電視台經營執照於101年12月31日屆滿，財團法人原住民族文化事業基金會基於主管機關之權責於今年年4月份申請原住民族電視台經營執照，但財團法人公共電視文化事業基金會於6月份又申請原住民族電視台經營執照之展延，國家通訊傳播委員會卻因此遲遲無法核定原住民族電視台執照之歸屬。依據原住民族基本法第12條規定：「政府應保障原住民族傳播及媒體近用權，成立財團法人原住民族文化事業基金會，規劃辦理原住民族專屬及使用族語之傳播媒介與機構。前項基金會之設置及相關事項，另以法律定之。」而財團法人原住民族文化事業基金會設置條例第4條規定：「本基金之業務範圍如下：一、原住民族廣播、電視專屬頻道之規劃及普及服務。……前項第1款原住民族電視專屬頻道節目之製播，得交由財團法人公共電視文化事業基金會辦理，不受政府採購法之限制。」顯然原住民族電視台乃依原住民族基本法及財團法人原住民族文化事業基金會設置條例之規定設立，主管機關為財團法人原住民族文化事業基金會，該基金會倘未同意將原住民族電視台委託財團法人公共電視文化事業基金會辦理，則財團法人公共電視文化事業基金會即喪失繼續經營之依據。爰此國家通訊傳播委員會應儘速依原住民族基本法及財團法人原住民族文化事業基金會設置條例之規定核發原住民族電視台之經營執照，以保障原住民族之傳播及媒體近用權。
+提案人：劉櫂豪　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　管碧玲
+決議15
+決議
+通訊傳播委員會將於2013年底前採取不限張數的方式標售「下一代行動通訊」（4G）執照，為促使政府更積極投入寬頻網路的基礎建設與維護，應將頻譜拍賣所得標金及相關收入成立專案基金，專款專用。
+提案人：劉櫂豪　　魏明谷　　葉宜津　　李昆澤　　蔡其昌　　管碧玲　　林佳龍
+決議16
+決議
+「下一代行動通訊」（4GLTE）商轉已是世界主要國家大力推行的政策，執照的釋出發放，涉及到產業發展、國家競爭力、市場公平競爭等各種層面的問題，惟目前此次4G釋照之寬頻電信政策不明，頻譜定位與釋出政策目標未定，預訂2015年商轉，此為攸關台灣產業發展與消費者網路人權息息相關之重大政策，爰要求國家通訊傳播委員會必須於本院下會期開始前提出明確、完整之規劃方案。
+提案人：劉櫂豪　　魏明谷　　葉宜津　　李昆澤　　蔡其昌　　管碧玲　　林佳龍
+決議17
+決議
+國家通訊傳播委員會應主動協調政府單位，積極優先徵用公家機關與公用事業用地架建通訊基地台，協助業者解決基礎建設不足困難，改善網路通訊問題。
+提案人：劉櫂豪　　葉宜津　　李昆澤　　魏明谷　　蔡其昌　　管碧玲　　林佳龍
+決議18
+決議
+鑒於影響網路連線速率之因素甚多，致量測結果常出現各自解讀狀況，國家通訊傳播委員會應盡速公開寬頻速率量測計畫之辦理結果，以促業者改善服務品質，以維護「數位公民權」、「上網基本人權」。
+提案人：劉櫂豪　　魏明谷　　葉宜津　　李昆澤　　蔡其昌　　管碧玲　　林佳龍
+決議19
+決議
+單位：國家通訊傳播委員會
+案由：歷來國家通訊傳播委員會審議媒體傳播業經營變更案時，多以附負擔及附款條件或改善事項等為決議，惟公眾對各個案後續執行該決議之情形無從了解，爰要求國家通訊傳播委員會應主動定期於網站公開各個案對相關決議履行或違反之情形，以避免審議之決議淪為形式。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議20
+決議
+單位：國家通訊傳播委員會
+案由：查國家通訊傳播委員會於3月8日曾公開表示『將開始調查四大固網業者的實際網路承載容量，有多少容量才能接多少客戶，避免固網也大塞車，預估下半年可以提出說明』，惟通訊傳播委員會並未對外說明該調查情形與結果。爰要求國家通訊傳播委員會應於一周內公開該項調查，並將完整調查報告提供本委員會。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議21
+決議
+單位：國家通訊傳播委員會
+案由：行動通訊業者為求吸納客戶，2006年以來即陸續推展行動上網吃到飽之費率，並與各種購機優惠等綁約行銷搭配，促使消費者更換智慧型手機。然在行動上網使用者快速增加下，業者的網路佈建等基礎設施投入不足，致使行動通訊發生壅塞情形日益普遍；各界要求解決行動通訊網路不良問題後，業者反指乃上網吃到飽擠壓頻寬，政務委員及交通部長更先後指「上網吃到飽是塞車元凶」，毫不保留為業者利益代言。
+然國家通訊傳播委員會身為最高通訊監理單位，對此一攸關國家行動網路產業及消費者權益之重大議題，任由非主管業務之政府部門發表引導性意見，通訊傳播委員會之態度亦從「堅持電信業者不得取消手機上網吃到飽費率產品、不能再推出更高費率的上網產品」，迅速轉變為「不反對業者申請停賣、收費可調高」，再轉為「尊重業者自行決定」，國家通訊傳播委員會之角色令人憂慮。
+爰要求NCC應立即說明該委員會相關政策發言是否經委員會之決議，除應宣示對消費者權益維護之立場，並應持續要求行動通信業者持續改善通訊網路品質，且保障既有上網吃到飽費率合約之權益。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議22
+決議
+單位：國家通訊傳播委員會
+案由：我國有線電視數位化進度緩慢，國家通訊傳播委員會雖宣稱將在2014年達成全面數位化，但目前全國有線電視數位化僅約達13%，兩年後要達到100%數位化實為艱難挑戰。國家通訊傳播委員會身為通訊傳播監理機構，民眾卻無法自通訊傳播委員會網站獲知全國各有線電視業者之數位化進度之資訊。本委員會業於101年9月27日決議要求國家通訊傳播委員會應在一個月內，於其行政網頁公開資訊中，逐月公告各有線電視業者辦理數位化進度資訊，以加速數位匯流達成並促進民眾知的權益，惟通訊傳播委員會迄未依決議辦理，應予譴責。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議23
+決議
+單位：國家通訊傳播委員會
+案由：根據NCC提供之101年度8月底資料顯示，最近5年累積之以前年度歲入保留數尚餘8,051萬1千元待收回，內容包含罰金罰鍰298萬2千元、賠償收入2,256萬3千元、許可費1,969萬5千元、場地設施使用費3,526萬8千元及怠金3千元（如附表1），要求NCC應在一年內追繳完畢，以維公權力。
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="91"><col WIDTH="131"><col WIDTH="111"><col WIDTH="126"><col WIDTH="134"><col WIDTH="72"><col WIDTH="114"><tbody><tr><td COLSPAN="7" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm; margin-bottom: 0.19cm"><font FACE="華康楷書體W5, cursive"><font SIZE="4">附表</font></font><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">1</span></font></font><font FACE="華康楷書體W5, cursive"><font SIZE="4">：</font></font><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">NCC</span></font></font><font FACE="華康楷書體W5, cursive"><font SIZE="4">應收以前年度歲入保留款明細表</font></font></p><p LANG="zh-TW" CLASS="cjk" ALIGN="RIGHT" STYLE="margin-left: 0.37cm; text-indent: 0.37cm"><a NAME="TA390848"></a>單位：新台幣千元<font FACE="Times New Roman, serif">  </font></p></td></tr><tr><td WIDTH="91" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-top: 0.28cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>年度</p></td><td WIDTH="131" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">應收罰金</p><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">罰鍰</p></td><td WIDTH="111" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">應收賠償收入</p></td><td WIDTH="126" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">應收許可費</p></td><td WIDTH="134" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">應收場地設施使用費</p></td><td WIDTH="72" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">怠金</p></td><td WIDTH="114" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="zh-TW" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">合計</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="91" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">96</span></font></p></td><td WIDTH="131" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">1,769</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">17,907</span></font></p></td><td WIDTH="126" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">195</span></font></p></td><td WIDTH="134" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">65</span></font></p></td><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">19,936</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="91" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">97</span></font></p></td><td WIDTH="131" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">100</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="126" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">12,500</span></font></p></td><td WIDTH="134" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">11,990</span></font></p></td><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">24,590</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="91" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">98</span></font></p></td><td WIDTH="131" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">239</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="126" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="134" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">28</span></font></p></td><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">267</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="91" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">99</span></font></p></td><td WIDTH="131" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">294</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">4,656</span></font></p></td><td WIDTH="126" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="134" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">8</span></font></p></td><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">4,958</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="91" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">100</span></font></p></td><td WIDTH="131" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">580</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">-</span></font></p></td><td WIDTH="126" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">7,000</span></font></p></td><td WIDTH="134" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">23,177</span></font></p></td><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">30,760</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="91" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: 0.61cm; left: -0.09cm; width: 820px"><hr></span>合計</p></td><td WIDTH="131" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">2,982</span></font></p></td><td WIDTH="111" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">22,563</span></font></p></td><td WIDTH="126" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">19,695</span></font></p></td><td WIDTH="134" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">35,268</span></font></p></td><td WIDTH="72" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">3</span></font></p></td><td WIDTH="114" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="zh-TW" ALIGN="RIGHT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><font FACE="Times New Roman, serif"><span LANG="en-US">80,511</span></font></p></td></tr></tbody></table>
+※註：1.資料來源係NCC提供，統計至101年度8月底止。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議24
+決議
+單位：國家通訊傳播委員會
+案由：102年度NCC單位預算案歲出僅編列人事費6億0,827萬8千元及第一預備金8萬5千元，而其他維持機關運作所需基本費用皆由其主管之特別收入基金－通訊傳播監督管理基金支應，實有未洽。蓋維持機關運作所需之基本行政工作費用核屬一般政務支出，應列入單位預算，NCC不應以其組織法僅規定人事費應以法定程序編列及通訊傳播監督管理基金之用途包括其他支出等為由，而將人事費以外之支出全部移至特別收入基金編列，且本院審查98、99及100年度中央政府總預算案分組審查決議，要求NCC將一般行政管理等費用回歸單位預算編列。因此要求NCC應將相關費用回歸單位預算編列，俾符體制。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議25
+決議
+單位：國家通訊傳播委員會
+案由：本院對國家通訊傳播委員會新任提名委員同意權審議期間，被提名人虞孝成、陳元玲均承認擁有美國國籍，且兩人均表示審查通過就放棄美國國籍。惟陳元玲於8月1日上任、10月31日即匆促辭職，國家通訊傳播委員會應說明陳元玲辭職之緣由，並立即公布虞孝成、陳元玲確實已辦理放棄或喪失美國國籍之證明，以避免國會之人事權審查遭不當蒙蔽。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議26
+決議
+單位：國家通訊傳播委員會
+案由：國家通訊傳播委員會102年度預算總說明P8年度關鍵績效指標中，對維護國民權益之「量測全國固網上網速率提供情形」僅針對固網量測，未包含行動上網，且102年完成6都量測、103年完成西部地區量測、104年完成花東離島量測，亦即尚需兩年才能完成全國寬頻速率之量測，殊為離譜。
+查通訊傳播委員會今年3月於本委員會業務報告中承諾「五都及桃園六大都會區之行動及固網上網速率檢測與評量，預計於102年第2季前執行」，復於五月成立「上網量測諮詢委員會」，並在102年度編列2,500萬元辦理六都之寬頻量測。但預算總說明之關鍵績效指標卻僅剩對固網之量測，刻意疏漏對行動上網速率之檢測評量。
+爰要求國家通訊傳播委員會應修正該績效指標，將行動上網速率量測工作納入，並檢討提前完成全國寬頻上網量測之工作期程，以維護國民權益。
+提案人：管碧玲　　魏明谷　　葉宜津　　劉櫂豪
+決議27
+主決議
+鑑於台灣油電齊漲，民眾對於生活費支出備感壓力，另方面台灣的電信通話費也高於其他亞洲鄰近國家，根據消基會今年四月調查指出，台灣電信通話費高於鄰近國家，是大陸8倍、香港6倍、新加坡4倍，差距最大甚至高達18倍，雖目前已連續3年調降逾12%，惟今年據調查，我國與鄰近國家電信費率比較，電信通話費率仍高於鄰近國家甚多。爰此，建請國家通訊傳播委員會應積極要求五大電信業者，將電信費率大幅度調降，減少民眾負擔。
+提案人：魏明谷　　葉宜津　　蔡其昌　　劉櫂豪
+決議28
+主決議
+鑑於近年國內五十九家有線電視系統業者每年的毛利率高達四十五%，營業淨利率則為二十九%，毛利過高引起檢討聲浪不斷。上個月國家通訊傳播委員會召開調降有線電視費率公聽會後，各界普遍認為有線電視毛利率過高，顯示NCC怠忽職守，應將每個月六百元上限調降為四百元。國家通訊傳播委員會目前親自審議嘉義市、臺南市、澎湖縣、金門縣及連江縣等五區域之有線電視費率，應帶頭積極檢討現今過高費率，讓其他區域之有線電視業者起引導作用。爰此，建請國家通訊傳播會於今年審議嘉義市、臺南市、澎湖縣、金門縣及連江縣等五區域之有線電視費率主動調降至合理價格，並向交通委員會報告。
+提案人：魏明谷　　葉宜津　　管碧玲　　蔡其昌　　劉櫂豪
+決議29
+主決議
+鑒於目前我國有部分電信業者，以電話通知之形式，以口頭或片面不實之優惠，誤導民眾行動電話續約或推銷門號，致使糾紛頻傳。國家通訊傳播委員會應要求全程錄下電話行銷過程，以保障消費者之權益。爰此，建請國家通訊傳播委員會於一個月內研議強制要求業者全程錄下整個行銷過程，並應要求電信業者必須主動告知消費者若不滿意，可於七日內無條件要求退貨或解約，俾能保障消費者之權益，亦減少類似糾紛層出不窮。
+提案人：魏明谷　　蔡其昌　　葉宜津　　管碧玲　　劉櫂豪
+（進行協商）
+在場人員：刪減那個罰款……
+羅委員淑蕾：不是，我是覺得很奇怪，這個為什麼……
+主席：提案人李委員昆澤不在……
+羅委員淑蕾：……
+主席：石主委有沒有意見？
+石主任委員世豪：如果委員有意見，是不是先保留？
+主席：好，這個保留。
+處理歲入3款-1。這個也是要保留？葉委員有交代，那就保留。
+處理歲入3款-2，對這部分，管委員有沒有意見？
+管委員碧玲：保留。
+石主任委員世豪：報告委員，對此部分，管委員在院會質詢時……
+管委員碧玲：這是歲入嘛！對不對？跟葉委員那個一樣，保留啦！好不好？
+石主任委員世豪：……
+管委員碧玲：我知道啦！這個跟葉委員那個一樣，反正都是歲入，就一起保留。
+主席：好，保留。
+處理歲出1目-1。
+石主任委員世豪：是否可以……
+主席：這個保留啦！
+在場人員：……
+主席：這個都保留啦！
+處理歲出1目-4。
+石主任委員世豪：報告委員，這是目前本會的……
+管委員碧玲：沒錯，但是因為剛才蔡委員其昌特別打電話來關心這件事，而我們也認為你們這種編列方式，把它全部弄到基金裡面去，這種作法確實是要檢討，所以蔡委員主張全數凍結，而且他很堅持。
+主席：要凍結？這是人事費。
+石主任委員世豪：……
+管委員碧玲：我知道啦！我們一般審查人事費都會讓它通過，可是剛才蔡委員特別打電話來，要怎麼辦？
+石主任委員世豪：我們現在……而且所有項目都對外公開。
+管委員碧玲：我們有「未審竣」啊！所以這幾天，禮拜三或是禮拜四……
+主席：禮拜三。
+管委員碧玲：明天你去告訴蔡委員好了，因為他剛才打電話來。
+主席：好，歲出1目-4和歲出1目-7都保留。
+處理歲出1目-5。
+在場人員：……凍結三分之一，因為你們人員少。好不好？
+石主任委員世豪：……
+管委員碧玲：那你二月初就送進來嘛！因為我只凍結三分之一而已，所以沒問題啦！
+石主任委員世豪：……
+管委員碧玲：改凍結好了。
+主席：歲出1目-5改成凍結三分之一。
+石主任委員世豪：跟委員說明……
+管委員碧玲：那是多少？那就四分之一好了。
+主席：好，凍結四分之一。
+石主任委員世豪：……
+主席：補了以後再送書面來交通委員會就好了。
+處理歲出1目-6。
+石主任委員世豪：報告委員……
+管委員碧玲：約聘雇費用三百多萬……
+石主任委員世豪：是7位。
+主席：7位啦！
+管委員碧玲：一個多少錢？
+石主任委員世豪：因為除了薪資之外……
+管委員碧玲：……
+在場人員：那是以前新聞局……
+管委員碧玲：做什麼事？
+在場人員：他們是做一些……
+主席：查報的？
+在場人員：側錄……
+管委員碧玲：李委員有特別交代，表示你們基金已經有32個人藏在裡面，而派遣人員有20個人、勞務承攬有56個人，你們基金裡面已經有那麼多人了……
+石主任委員世豪：跟委員分項說明，臨時人員有23人……
+管委員碧玲：臨時人員有23人、派遣人員有20人、勞務人員有56人，你們已經有那麼多臨時性人員了……
+石主任委員世豪：……
+管委員碧玲：不行，這個要刪減一些，你們看能刪多少。這個一定要刪減，只是刪多刪少的問題。
+石主任委員世豪：這些人大部分是身心障礙……
+管委員碧玲：少來！
+石主任委員世豪：……
+管委員碧玲：在做什麼？
+在場人員：……
+管委員碧玲：不是啦！你們那個基金裡面這麼多人，就是說你們用不一樣的錢，但都是你們NCC內部嘛！你們都藏在基金裡面，加起來就是這麼多臨時人員啊！23個加20個，再加上56個和7個，總共是106個耶！你們編制內全部是多少人？
+在場人員：525個人。
+管委員碧玲：你看，占的比例太大，這樣不好啦！
+石主任委員世豪：這是匡定員額，實際員額沒有那麼多……
+管委員碧玲：7個約聘雇人員當中，有幾個是身心障礙的弱勢者？
+在場人員：……
+管委員碧玲：是你們在網路招聘的嗎？
+在場人員：……
+管委員碧玲：臨時人員所占比例太重了，你們要砍掉幾個！
+在場人員：……
+管委員碧玲：看要砍在哪裡？如果是4個，就可以砍掉3個，因為現在有7個人。
+在場人員：這是原來舊有的，不是新聘的……
+主席：是舊有的啦！
+管委員碧玲：禮拜三之前，你們把這些人到底做什麼，提供一份報告給李委員，因為李委員的提案是有道理的，他把基金的也都放在裡面，所以你們趕快給李委員一個報告，順便讓我知道一下。
+石主任委員世豪：好。
+主席：有關歲出1目-7，剛才已宣告保留。
+處理歲出1目-8。
+在場人員：……
+石主任委員世豪：……
+黃處長金益：就本會的立場來說，我們是監理機關，但對於這部分本會願意協助，剛才主委也講過，我們願意出來協助，讓這4個單位，包括原文會、公共電視和兩個部會，一起處理協商，並且促請完成無縫接軌。我想這樣已經達到目的了，如果再凍結我們的預算，感覺上我們好像是「公親變事主」。原來我們監理機關的……
+管委員碧玲：本席在教育及文化委員會7年，這個案子我非常清楚，現在原住民電視台和客家電視台都還不是獨立台，未來必須經過公視法的修正，才能定位客家台會不會變成獨立台，目前是朝向這個方向來走；至於原民台的部分，現在有個問題，那就是突然出現一個原文會，然後原文會想要經營原民台，所以爭議非常大。而現在這個提案，是希望把原民台給原文會，對此本席堅決反對。因為原文會什麼都沒有，它將來還是要用公視的體系，也就是說，原文會目前是完全沒有硬體能力的，它將來要用的，不止是公視的硬體而已。我想一個電視台需要的不是硬體和軟體完全切割的營運方式，那是有問題的。所以這是一個大議題，對於這個大議題，他們無法解決，何況還涉及修法。
+在場人員：……
+管委員碧玲：對，所以這個問題應該不是NCC能夠解決的，應該是原文會和公視要去解決的。
+鄭委員天財：這個案子，我來說明一下。當初要成立原住民族文化事業基金會這個財團法人，目的就是為了經營原住民族電視台，這是當初不管是從原住民族教育法、基本法以及設置條例，這個條例也都訂了，基金會也都成立了。只不過不能因為說政府給它的預算都很少，所以它沒有辦法去經營，不是這樣。其實這個有幾種方式，當然，剛剛管委員所講的是，原民基金會要自己離開整個公視的環境，然後經營，不是這個意思。它也可以運用它的設備，怎麼樣去付這個費用，也可以跟……
+管委員碧玲：有沒有入法？
+主席：跟入法沒有關係……
+羅委員淑蕾：這應該是原民會和文化部的事情嘛！
+鄭委員天財：不是、不是……
+羅委員淑蕾：應該不會扯到他們……
+鄭委員天財：不是，我還沒有講完。文化部跟原民會，基本上這兩個機關是要受到黨政軍退出媒體的規範，我們立法院怎麼可以要他們兩個機關去協調？這個我們恐怕要釐清。因為文化部和原民會，是要受到黨政軍要退出媒體這樣的一個規範，我們怎麼能說要他們兩個部會去協調？這是我們必須審酌的部分。這是第一點。
+第二點，這個部分涉及到頻道的執照，今天的問題就是涉及到原民台，也就是第16台的頻道執照，所以跟NCC有必然的關係，也許NCC在審查時，就會認為：「到底我這個執照是要給原民基金會？還是要給公視基金會？」因此，是有必然的關係啦！
+在場人員：……
+管委員碧玲：你不要用這個理由，用這個理由，我們沒有辦法解凍……
+在場人員：……
+羅委員淑蕾：你們有辦法……
+管委員碧玲：你們有辦法協調嗎？
+石主任委員世豪：跟委員報告，我們可以做的是後端的申辦程序，至於經營主體這種內部的協商，我們沒有辦法參加，因為公視依照公視法是獨立運作的，它的預算是文化部在管的，但是連文化部都不能干涉他們的台務。至於原文會的部分，是由原民會在主管，所以有關經營主體，誰去做頻道的部分，本會不會有意見。我們可以完全協助的是後端的行政程序，一旦前端完成，我們後面全部就會很順利完成。上次我們確認一件事情，就是原文會具備主體適格，但是經營頻道的部分，我們沒有辦法表示意見，也就是說，它根據原住民族教育法的規定，可以經營專屬頻道，這部分我們已經同意了，但是有關經營的部分，我們真的無法判斷，因為我們既無法幫它籌措財源，也無法處理所有台務的內部事務，這方面確實是我們的困難。
+另外，有關它的經營主體變換這件事，我們真的可以管的是，它一旦確定了交換經營主體之後的後續所有行政程序，一旦到那步，我們全部都可以完成了。但是前階段，現在最主要的障礙，是在公視和原文會這邊的協商，這部分我們真的沒有辦法介入，只能提供它走哪個路徑時，我們後端可以配合，在這部分，我們真的是全力協助，也是百分之百支援。至於前端的部分，包括它有沒有適足的預算、充分的人員以及適足的設備，可不可以讓節目持續播出，不會斷訊，對此我們無法介入，因為我們無法提供它預算，也無法提供它建台的地址。以現階段來看，有關台的設備確實在公視，而頻道的製作，如果可以由原文會來做，還有一個介面的問題存在。
+管委員碧玲：本席建議鄭委員改一個理由，然後把他們的預算部分凍結，這樣也便於鄭委員後續來監督，而且那個理由，也讓我們將來要處理解凍案時有辦法解套。用這個理由還有一個原因是，他們獨立機關針對個案的部分，我們不能去約束他們對於那個個案的責任，所以看看……
+主席：這在劉委員提出的決議第14案就有了，所以用決議案來處理就好，不要凍結啦！
+鄭委員天財：事實上，現在國家通訊傳播委員會會面臨的問題是，這個頻道的執照到底是要給原民基金會？還是公視基金會？你們現在面臨的真的是這個執照的問題啊！
+虞副主任委員孝成：我們可能沒辦法不給公視基金會，因為它是既有的執照……
+鄭委員天財：那就要6年以後啊！
+石主任委員世豪：如果它具備資格，也提出申請，我們不能……
+管委員碧玲：這樣沒有辦法幫我們解套……
+石主任委員世豪：跟委員報告，因為……
+鄭委員天財：那你擺明就是要等6年以後了？
+石主任委員世豪：不是……
+管委員碧玲：這樣的話，委員怎麼跟原住民交代？
+鄭委員天財：因為它4月就提出申請了。
+管委員碧玲：主委今天在這裡處理這個案子，明明白白跟委員講說：「沒有辦法，公視來申請，我們一定要給它。」這教委員如何回去面對原住民的選民？真是開玩笑！
+鄭委員天財：而且它在4月份就提出申請了！對不對？
+石主任委員世豪：是。但是對於公視，我們真的不能介入它的財務……
+鄭委員天財：我們沒有要你介入它的財務啊！
+石主任委員世豪：我們不能夠介入……
+鄭委員天財：本席先說明一下。過去原民台剛成立時，也不過是3億的經費，它曾經委外經營，一開始是台視，後來又委託東森，所以這不是問題啊！它也可以委託公視嘛！所以這三億多也不是什麼問題！
+管委員碧玲：看要凍結多少，我們還是一定要凍結，因為鄭委員和劉委員的提案都是大議題，我們一定要凍結一部分，但並不是等到完成協調之後，而是修正提案文字為：「俟國家通訊傳播委員會就協調原民基金會及公視基金會之執照申請案，向立法院交通委員會專案報告後，始得動支。」至於凍結的經費，可能要少一點啦！
+主席：凍結500萬，好不好？
+管委員碧玲：好。
+主席：本案改為凍結500萬，文字修正就照管委員所講的，請NCC趕快整理出來。
+接下來處理決議1。
+管委員碧玲：你們有沒有都看過？沒有問題就通過；如果有問題，就趕快把要修改的文字講出來。
+主席：這個有沒有問題？
+翁主任秘書柏宗：最後第三行「要求國家通訊傳播委員會應於103年……」其中的「103年」是否可以改成「104年」？
+鄭委員天財：上個會期本席質詢過，希望你們能夠努力到103年，104年是你們原來的目標啦！我只是希望你們努力，因為我們並沒有凍結啦！
+主席：好啦！你們努力去做，等到103年再來檢討，好不好？
+翁主任秘書柏宗：好。
+主席：繼續處理決議2。
+翁主任秘書柏宗：最後一段的「並保障其家庭網路基本連線全力，研擬法令，直接補助其最基本家庭網路連線費用，務求於104年底前將這類弱勢者的網路普及率及家戶電腦普及率達到全國平均水準。」可否修正為：「並提升其家庭網路基本連線權益，務求於104年底前將這類網路普及率接近全國平均水準。」？因為電腦普及率不是NCC負責，NCC負責的是電信網路普及率，這部分我們應該認真去做，讓它接近全國的平均水準。
+主席：好，本案就照NCC所提文字修正通過。
+繼續處理決議3。
+翁主任秘書柏宗：最後一句話可否修正為：「請於一個月內以書面答覆交通委員會。」？
+管委員碧玲：這個可以由你們決定嗎？
+翁主任秘書柏宗：不是，這是要公布不願配合的公務機關。
+主席：那就加上「以書面」幾個字。
+管委員碧玲：不要啦！如果委員沒有要求，就讓他們用書面答復，可是在文字上加上「以書面」這幾個字，我們就自我矮化了。
+主席：好，本案照案通過。
+繼續處理決議4。
+翁主任秘書柏宗：在最後一句話的「11梯」之前加上「第」字就可以了。
+主席：這個「第」字已經有了，本案照案通過。
+繼續處理決議5。
+石主任委員世豪：最後一句話的「專案」二字，後面要加上「報告」二字。
+主席：已經有「報告」二字了，本案照案通過。
+繼續處理決議6。
+石主任委員世豪：本案的文字要酌修一小部分，即「吃到飽費率為上限之基礎」可能要做調整，因為各位委員都知道……
+管委員碧玲：那要怎麼改？
+石主任委員世豪：我們建議修正為……
+翁主任秘書柏宗：將「NCC應於一個月內要求吃到飽費率為上限之基礎」修正為：「NCC應於兩個月內要求電信業者提出在現行吃到飽費率改善方案」，並將接下來的「再依計量收費之費率方式」這句話刪除，後面接上「避免消費者付出高額吃到飽費率，卻無應享有之上網品質。」
+主席：如果各位沒有意見，本案就照NCC所提文字修正通過。
+繼續處理決議7。
+石主任委員世豪：倒數第三行「爰要求NCC」之後的文字酌修……
+管委員碧玲：你們怎麼改？
+翁主任秘書柏宗：修正為：「爰要求NCC針對4G釋照等規劃事宜向立法院交通委員會進行專案報告。」
+管委員碧玲：不行啊！這樣原意全部沒了！差太多了！這樣修改真的太過份了，因為把它的原意全部抹煞掉了！
+主席：本案是否保留？
+管委員碧玲：為什麼要保留？有什麼困難？這是替國家賺錢耶！剛剛還不讓我們動歲入耶！
+石主任委員世豪：我可不可以直說？我滿同意林佳龍委員的說法……
+管委員碧玲：怎麼樣？
+石主任委員世豪：所有的釋照作業要考量的不是只有國家歲收一件事情，也不是只有國庫收入這件事情，而是包括產業健全的發展以及將來消費者使用的權益，因此，如果這邊墊高的話，將來資費的比率一定墊高，這對未來的產業發展跟消費者的權益來說未必是好事。剛才林委員佳龍在質詢時也有提到這點。如果拍賣底價墊高到1,000億，真的很難讓未來的市場發展趨於合理……
+管委員碧玲：300億……
+石主任委員世豪：其實目前的300億只是一個匡定的歲入數字，我們還要另訂底價，倘若這邊寫死的話……
+管委員碧玲：就是因為那個匡定底價的數字太低，所以才會帶來這個疑慮嘛！你們現在就看看文字要怎麼改，但是絕對不能改成剛才唸的那樣，否則全部抹煞人家的意旨了！
+林委員佳龍：其實這是馬政府的陰謀啦！如果將300億改成1,000億，那麼歲入1,000億，他今年就沒有負債了。我們今年預算的歲出部分1兆9,000億都快要編不出來了，而歲入部分是1兆7,000億，其實差短200億，這裡面還有很多違反預算法編列的情形。這300億，也是當做明年的歲入耶！今年行政院的預算就是這樣編出來的，如果這裡提高的話，可能還會產生連帶的問題。
+管委員碧玲：不會啦！歲入增加可以……
+林委員佳龍：事實上它並沒有增加，卻可以在帳目上去平衡……
+在場人員：這個決議……
+林委員佳龍：這個不要緊，我尊重委員的意見，我比較重視的是你們要把配套提出來，包括允不允許轉售交易，都會影響標金。事實上，如果純粹為了那個數字，並不是很有意義。
+主席：本案保留。
+繼續處理決議8。
+石主任委員世豪：本案可不可以比照第7案來處理？因為涉及的問題類似。
+主席：好，本案保留。
+繼續處理決議9。
+翁主任秘書柏宗：最後一句話「僅能用來建設較現有業務更為快速之技術業務」可否修正為：「應督促業者提升服務能量」？因為這樣的話，基於技術中立的原則，我們會督促業者儘量使用4G，亦即我們會督促業者儘速提升整個服務能量。
+在場人員：不能綁業務？
+翁主任秘書柏宗：對，不能綁業務。
+在場人員：也不能綁技術，因為這是行動寬頻，怎麼可以回頭去做2G、3G？
+石主任委員世豪：絕對不會有這種情形。
+在場人員：那就照這個就好了啊！
+石主任委員世豪：因為提案前面說了技術中立，如果後頭還要綁技術業務，恐怕彼此會相互牴觸。我們現在的要求是，它投入在後端的performance要提升，所以我們希望文字上能夠修正為：「提升服務能量」，這樣的話，最後在消費者端有更高的速率和更多的選擇，才是我們的目標。在這點上，我們跟委員是一致的，因為已經提到技術中立，再談技術業務，就有點前後矛盾。
+主席：好……
+管委員碧玲：等一下，這個有問題。
+主席：那要保留嗎？
+管委員碧玲：不是。我是覺得這樣的文字其實沒什麼了不起，你們連這樣的文字都不接受，反倒造成本席的疑慮。這樣的文字有什麼問題？你們為什麼不要？
+主席：執行上有沒有困難？如果沒有，本案就照案通過好了。
+管委員碧玲：這在執行上沒有困難啊！為什麼……
+在場人員：因為要技術中立。
+管委員碧玲：這個不涉及技術中立啦！就讓它通過。
+主席：好，本案照案通過。
+繼續處理決議10。
+翁主任秘書柏宗：這不是我們的問題，因為我們是針對4G的釋照規劃向立法院交通委員會進行專案報告。
+石主任委員世豪：這個提案的問題有兩個層面，第一是由立法院直接決議要求我們……
+林委員佳龍：這和剛才葉委員那個有關底價的案子是一樣的……
+石主任委員世豪：是，我想保留是最好的處理方式，因為這個提案有兩個層面上的問題，第一是立法院直接決議我們的釋照規則，其實有點不妥；第二是我們現在的總頻寬是270MHz，所以不可能以20MHz為單位。
+在場人員：本案保留，等到禮拜三再討論。
+主席：好，本案保留。
+繼續處理決議11。
+翁主任秘書柏宗：倒數第三行開始修正為：「要求NCC責成業者六個月內建立一個評估系統，並每月通報通傳會其評估結果及改善對策，以確保消費者權益。」
+管委員碧玲：評估系統怎麼能叫業者自己建立？本席建議折衷一下，評估系統還是由你們建立，但由業者按時來通報。
+主席：好啦！還是由NCC來評估啦！
+管委員碧玲：還是應該由你們建立一套評估系統。事實上，你們對於固網那部分是有在調查嘛！
+石主任委員世豪：評估系統和數據調查有很大的差距……
+管委員碧玲：你是說你們沒有技術？你們沒有辦法評估嗎？
+石主任委員世豪：我們有很多委外人力……
+管委員碧玲：不能交給業者評估，這樣太扯，真是笑死人了！哪有要業者建立評估系統的道理？你們要他自評嗎？
+石主任委員世豪：我們每年都有做量測，其實就可以對照他們的performance，他的評估包含自己的系統哪邊比較需要補強……
+管委員碧玲：這個不是performance，這是說他有沒有超賣哦！
+石主任委員世豪：我們有速度量測，但是……
+管委員碧玲：有就做啊！有的話，就表示做成這個決議沒問題啊！
+石主任委員世豪：但是它跟評估系統有點不同，因為包含他自己的網路要怎麼建設、能量要怎麼提升、訊務要怎麼分流……
+管委員碧玲：沒關係啦！那你要把評估系統改成叫什麼？反正就是要你們做啦！用「監理」、「監測」或是什麼？這有什麼困難？
+石主任委員世豪：如果不是流於形式上的……
+管委員碧玲：我剛才的建議已經妥協到幫你們把「無法負荷時應停收客戶」這幾個字改成「按時通報」，結果你們連去建立評估系統都不願意，真是開玩笑！如果這樣，我們就堅持本案照案通過，就是你們不准再超賣。那你要怎麼辦？
+石主任委員世豪：報告委員，原來的文字在執行上真的會有困難……
+管委員碧玲：其實也沒有執行困難，只是不願意讓你們扮演那個嚴重的警察角色啦！
+翁主任秘書柏宗：是不是可以改成「評估制度」？
+管委員碧玲：好啊！就改成「評估制度」。
+主席：好，文字修正為「評估制度」。
+管委員碧玲：然後「要求管制電信業者之系統……」……
+石主任委員世豪：如果是我們自建的話，就要六個月。
+主席：好，改成「六個月」。
+管委員碧玲：那後面的文字OK嗎？
+翁主任秘書柏宗：就是修正為：「責成NCC在六個月內建立一個評估制度，並要求業者每月通報通訊會其評估結果及改善對策，以確保消費者權益。」
+主席：好，文字修正……
+管委員碧玲：等一下，李委員這個提案寫的「三個月」，在預算完成三讀之後，就等於六個月，因為我們要等到12月才會三讀，所以這裡是否就修正為「四個月」？三讀之後的四個月，距離現在就差不多是六個月啦！
+主席：好，修正為「四個月」。
+石主任委員世豪：是否可以直接明確寫上時間？
+管委員碧玲：那就明年4月，也就是102年4月。
+主席：好，修正為「102年4月」。
+繼續處理決議12。
+翁主任秘書柏宗：我們建議把倒數第二行「建設基地台應有80%以上比率……」這段話作一修正，因為基地台的共構比率在4G釋照以後可能不會那麼高，畢竟共構的話，基地台的天線會愈來愈大，和整個景觀無法融和，所以我們認為這段文字應修正為：「其建設基地台應有20%以上比率為2家業者以上共構或共站……」。
+劉委員櫂豪：你們不是有一個規定？我覺得這種細節應該是依照你們的規定按照比率，把那個百分比一直往上調。你們是不是有這樣的規定？
+翁主任秘書柏宗：有，我們有這樣的比率……
+劉委員櫂豪：你說3家的話，天線會太大支，是嗎？
+翁主任秘書柏宗：因為各種不同的頻段……
+劉委員櫂豪：那兩家呢？請你說明要怎麼改。
+翁主任秘書柏宗：就是「應有20%以上比率為2家業者以上共構或共站……」。
+劉委員櫂豪：好，OK。
+主席：本案就照NCC所提文字修正通過。
+繼續處理決議13。
+翁主任秘書柏宗：倒數第三行後面開始修正為：「爰此國家通訊委員會應督促各家業者加速台東地區行動寬頻基礎建設，以維公平。」就是把「且於城鄉差距弭平之前，台東地區行動寬頻費率應當調降價格。」這段話刪除。
+劉委員櫂豪：不要刪除啦！我就是叫你督促，你還刪除這些文字，如果我同意，那不是自打嘴巴嗎？
+石主任委員世豪：委員，有關「台東地區行動寬頻費率應當調降價格」這句話是否可以修正為：「台東地區行動寬頻費率應當檢討調降價格」？
+劉委員櫂豪：我就是要你們督促啊！
+主席：好，本案照案通過。
+繼續處理決議14。
+翁主任秘書柏宗：報告委員，本案就是併同剛才鄭委員天財那個案子……
+主席：併到第幾案？
+在場人員：第二案。
+劉委員櫂豪：不要這樣併啦！
+主席：好，本案照案通過。
+石主任委員世豪：抱歉！決議14最後兩行文字可否微幅修正？就是從「原住民族文化事業基金會」之後的文字修正為：「、財團法人公共電視文化基金會及相關主管機關協調，俾利原住民族電視台無縫接軌繼續播送。」這就是我們確定可以做的。
+主席：好，本案照NCC所提文字修正通過。
+繼續處理決議15。
+翁主任秘書柏宗：因為現在沒有辦法成立專案基金，所以這個案子是否可以……
+林委員佳龍：把「應」字改成「建請」啦！
+主席：好，本案照林委員佳龍所提文字修正通過。
+繼續處理決議16。
+翁主任秘書柏宗：倒數第二行開始「爰要求國家通訊傳播委員會必須於本院下會期開始前提出明確、完整之規劃方案。」是否可以修正為：「爰要求國家通訊傳播委員會針對4G的釋照規劃，向立法院交通委員會進行專案報告。」？
+林委員佳龍：當時我們建議從下個會期開始前，是因為距今還有4個月，所以你們要把方案提出來，畢竟年底就要釋照，如果你們在下個會期開始提出專案報告，搞一搞就到會期結束了，因為沒有幾個月，大家無所適從、大家會去遊說，這樣的話，你們辛苦，我們也辛苦，不如儘早一點確認，在寒假時辛苦一點就好了。所以我的提案是「下會期開始前」，主要就是給你們一個目標的時間，不要提專案，其實是規劃方案啦！
+管委員碧玲：這個我不懂，請你們好好說明。因為這等於是要把方案的期程往前推，我想要了解到底它實質上的影響是什麼？是快好？還是慢好？由我們去設定它的時間表，OK嗎？因為我們從來沒有為政府機關的行政措施加速設定時間表，所以這是大事，我想要了解一下。
+林委員佳龍：而且你們年底基本上是已經要開放給人家，包括公告登記了嘛！事實上本來的時間應該也差不多啊！
+石主任委員世豪：其實我們原來規劃的進度，在6月時整個管理規則會出來，連同競標的遊戲規則也會出來，還有申設的任何文書也都會出來。當然，誠如管委員所言，早出和晚出，對於業者的策略行為影響很大，我們是希望能夠一次定案，但若按照原來委員所提文字，「明確」兩個字確實有點困難，因為必須具體到競標的遊戲規則出來，對業者來說才叫「明確」；不過，在明年大院開議時，應該就會有完整的規劃方案了。
+管委員碧玲：這個問題是這樣，如果快的話，就保障現有的優勢業者；如果慢的話，就是保護還沒有進入門檻的新進業者。這都是很有爭議的……
+林委員佳龍：我認為不必然耶！因為有門路的人會比較早知道，其他想要進入的人，反而只有很短的時間可以去做準備。
+管委員碧玲：所以快跟慢，我是比較怕去介入啦！雖然在感情上，我懷疑現在遠傳的暗樁很多，說不定你們都在拖延來幫忙他們，你們的委員裡面，以前就有人拿過他們的研究計畫啊！所以你們想慢，是為了扶植那些還沒準備好的，所以在拖。這是現在外面的傳言，但是我也會做這種假設來懷疑你們啦！問題是，如果我們去介入或是設定這個東西，比較……
+林委員佳龍：我是沒有想那麼多，不過，如果刪除「明確」兩個字也是可以啦！但我認為一個政府的政策方向要很清楚，俾讓大家有所遵循，而且也要讓大家有足夠的時間去準備。其實到年底的時間，基本上對於不是在既有市場的人，會不會比較不利？因為不確定性大……
+管委員碧玲：你等於要他……
+林委員佳龍：差不多3個月吧！但是如果依照主委的建議，把「明確」二字刪除，然後提出完整的規劃方案，我是覺得你們提出來之後，一定還會面對各種意見，可是大方向不確定，大家真的變數太多啦！
+主席：好，就把「明確」二字刪除，然後提出完整之規劃方案就好，本案文字修正通過。
+繼續處理決議17。
+翁主任秘書柏宗：是否可以把第一行後面「優先徵用」改成「優先利用」？
+石主任委員世豪：改成「利用」比較好，因為「徵用」有點像是專門的法律術語。
+管委員碧玲：這個都有法律耶！
+石主任委員世豪：電信法上面有，就是「如無正當理由不得拒絕」，所以很多機關就編出他們的正當理由，我是實話實說。
+主席：好，將「徵用」改成「利用」，本案文字修正通過。
+繼續處理決議18。
+翁主任秘書柏宗：第二行「應盡速公開寬頻速率量測……」這句話中，可否加上「行動」二字？即修正為：「應盡速公開行動寬頻速率量測……」
+主席：好，本案照NCC所提文字修正通過。
+繼續處理決議19。
+石主任委員世豪：第三行的「要求」二字可否改為「建請」？
+黃處長金益：個案有一些沒辦法公告……
+管委員碧玲：什麼東西沒辦法公告？
+黃處長金益：因為……負擔……
+管委員碧玲：那個「附負擔」是國家核准時的附帶條件，本來就應該要公開接受大家監督看他到底有沒有完成啊！為什麼會不行？
+黃處長金益：他是針對個案產生的……比如原來的負債比率多少，然後應該要降低到多少等等，類似這種數字，原來就屬於比較個案上的一些公司內部的資訊，如果樣樣都要公告，可能我們在執行上會和現行法規牴觸，因此，我們建議改成「建請」二字。
+管委員碧玲：不是、不是。不能用「建請」，而是你們要去設定那個不能公開的部分，把它排除。用這樣的意思去修正文字才對。如果把「要求」二字改成「建請」，就變成全部排除了。你們覺得哪個部分有問題？要怎麼修正？主動定期於網站上公開……
+黃處長金益：如果這樣，可否修正為：「於法令許可範圍內應主動定期於……」？
+管委員碧玲：好啦！那就改成：「在不違反法令的情況下……」
+主席：好，本案文字修正為：「在不違反法令的情況下……」。
+繼續處理決議20。
+翁主任秘書柏宗：倒數第二行可否修正為：「NCC應於101年底前將調查報告提供本委員會。」？就是把「公開該項調查」刪除。
+管委員碧玲：好啦！OK啦！
+主席：好，文字修正為「101年底」……
+管委員碧玲：你說要把「公開該項調查」改成什麼？
+石主任委員世豪：「提供本委員會」……
+管委員碧玲：「公開」不要改吧？我們是希望「公開」啊！
+在場人員：這個資料有很多是業者的營業秘密，他有商業秘密的部分……
+管委員碧玲：好啦！沒關係啦！就先這樣。
+主席：好，本案文字修正通過。
+繼續處理決議21。
+翁主任秘書柏宗：我們建議把最後一段「爰要求NCC立即說明該委員會相關政策發言是否經委員會之決議」這句話刪除，改成「爰要求NCC應宣示對消費者權益維護之立場」……
+管委員碧玲：請副主委現在跟我口頭回答一下這件事，我就同意刪除。
+虞副主任委員孝成：OK，因為我是發言人，假如所有的發言都是經過委員會的決議，新聞記者可能會覺得不滿意，所以……
+管委員碧玲：以後要改進！NCC要好好責成發言人，重大政策一定要經過委員會決議以後，發言人才可以對外發言。
+虞副主任委員孝成：是。
+主席：請尊重委員的建議。本案第三段文字修正通過。
+繼續處理決議22。
+翁主任秘書柏宗：最後一句「惟通訊傳播委員會迄未依決議辦理，應予譴責。」……
+黃處長金益：這個部分，我們現在都已經按季完成了公告，目前因為依照有廣法的規定，它是每季進來的。其實在這個決議之前，也就是9月時，交通委員會就已經做過一次決議，所以我是建議委員可以撤案，因為是同樣的一件事情。目前我們已經逐季在公告了。
+管委員碧玲：把「按月」改成「按季」。
+主席：直接改成「按季」，後面……
+管委員碧玲：最後面的「應予譴責」改成「應予改善」，這樣就不用撤案了。
+黃處長金益：已經做過一次決議了。
+管委員碧玲：我再做成一次決議，那又怎樣？
+黃處長金益：我們尊重委員。
+主席：那就改成「應予改善」，本案文字修正通過。
+繼續處理決議23。
+石主任委員世豪：在附表前的最後一行改成：「應持續追繳，以維公權力。」
+管委員碧玲：這個很離譜！為什麼追繳不出來？到底是誰欠這些債？NCC目前欠債未還的罰金、罰鍰之賠償收入和頻譜使用費，總共造成八千多萬的呆帳。這叫你們在一年內追繳有困難嗎？
+謝處長煥乾：裡頭有一條大條的是大眾現在在重整，所以它在重整期間的所有債權、債務全部都被凍結……
+管委員碧玲：除此之外呢？
+謝處長煥乾：這個就是最大宗啊！
+管委員碧玲：哪一條？
+在場人員：……占八分之五……
+管委員碧玲：是哪一年的場地使用費？
+石主任委員世豪：場地使用費很少。
+管委員碧玲：就是3,500萬啊！所有場地使用費加起來就是3,500萬，你們講的就是這筆啊！8,000萬減掉3,500萬，還有四千多萬，你們在一年內追繳完畢，有什麼困難？你們把大眾重整的那一條排除，還有多少？
+謝處長煥乾：許可費、場地使用費……
+管委員碧玲：大眾在重整的是哪一條？請說明清楚。
+謝處長煥乾：還有一個3,500萬，那是頻率使用費……
+黃主任雪櫻：2,500多萬是國有宿舍的。
+管委員碧玲：國有宿舍是誰占用？
+黃主任雪櫻：以前那個中華電信……
+謝處長煥乾：那已經是幾十年的老帳了！民國85年……
+管委員碧玲：就是以前的員工占用了，對不對？
+謝處長煥乾：對。
+石主任委員世豪：他們把所有爭議的房產，全部丟給NCC……
+謝處長煥乾：報告委員，妳關心的罰款部分，除非是業者已經倒閉，否則我們都會按照行政程序法強制執行，所以這部分並沒有問題……
+管委員碧玲：那你們追繳不力的是哪一部分？
+謝處長煥乾：其實最主要就是大眾和國有財產的部分。
+管委員碧玲：這些加起來也只有5,000多萬而已，其他的兩、三千萬呢？
+謝處長煥乾：國有財產的部分是2,500多萬。
+管委員碧玲：還有加上哪一筆？
+謝處長煥乾：大眾的部分是5,400萬。其實剩下的部分很少了啦！因為有強制執行的機制存在，所以我們不可能放鬆不去處理。
+管委員碧玲：你們建議怎麼改？
+謝處長煥乾：改成「持續追繳」。
+管委員碧玲：我覺得「加強追繳」比較好。
+另外，對於重整的部分，你們的債權有去申報，所以都有保全，對不對？
+謝處長煥乾：有，全部都有。
+管委員碧玲：有沒有漏掉的部分？
+謝處長煥乾：沒有。
+主席：好，本案文字修正成：「加強追繳」。
+繼續處理決議24。
+翁主任秘書柏宗：這個案子牽涉到組織法第四條的問題。
+管委員碧玲：那就保留嘛！
+石主任委員世豪：我們建議配合實際情形，從最後一行的「應將」二字開始，改成：「應於修正組織法等相關規定後，將相關費用回歸單位預算編列，俾符體制。」
+管委員碧玲：你們組織法……
+石主任委員世豪：上次我們提出之後，被行政院退回來了。
+主席：好，本案不要再保留了，就照NCC所提文字修正通過。
+繼續處理決議25。
+石主任委員世豪：本案似乎不需要提出，因為這兩位委員放棄國籍證明，我們都已取到譯本，而且國務院都證實了。
+管委員碧玲：本案撤回。
+主席：本案提案人同意撤回。
+繼續處理決議26。
+翁主任秘書柏宗：第二段倒數第三行「但預算總說明……」……
+管委員碧玲：決議25改成「行文到本委員會備查」好了。
+主席：決議25文字修正為：「請NCC就撤銷資格一事，行文到交通委員會備查。」
+繼續處理決議26。
+翁主任秘書柏宗：第一段倒數第二行「亦即尚需兩年才能完成全國寬頻速率之量測，殊為離譜。」這段話是否可以刪除？
+另外，第二段倒數第三行「但預算總說明之關鍵……」……
+管委員碧玲：第一段的部分就改成「曠日廢時」……
+翁主任秘書柏宗：報告委員，這個以後是每年都要做的啦！
+石主任委員世豪：這是委員會的意思，所以……
+管委員碧玲：對啦！因為「曠日廢時」是主觀嘛！我們委員會想要更快，所以就覺得你再快也是曠日廢時。我想改成「曠日廢時」應該可以啦！
+主席：好，做此文字修正。
+翁主任秘書柏宗：第二段後面「但預算總說明之關鍵績效指標卻僅剩對固網之量測，刻意疏漏對行動上網速率之檢測評量。」這段話是否也可刪除？因為我們在102年之後，固網和行網都要一起做。
+管委員碧玲：所以現在還沒做嘛！你們向本委員會報告承諾要做，既然如此，為什麼要刪除？你現在要刪除哪一段？
+石主任委員世豪：我們不是刻意疏漏。
+管委員碧玲：那就把「刻意疏漏」的文字改掉啊！
+石主任委員世豪：可不可以把「刻意疏漏」這4個字改成「欠缺」？
+管委員碧玲：好啦！
+主席：好，做此文字修正。
+繼續處理決議27。
+石主任委員世豪：最後一行「大幅度降低」可否改成「有感調降」？
+主席：這是「建請」，所以沒有關係啦！
+翁主任秘書柏宗：好，那我們就不建議修正。
+主席：好，本案照案通過。
+繼續處理決議28。
+翁主任秘書柏宗：第四行後面「顯示NCC怠忽職守」這幾個字可否刪除？拜託啦！
+管委員碧玲：NCC確實怠忽職守！
+石主任委員世豪：委員說的，我們聽到了！
+主席：這是口頭糾正。
+石主任委員世豪：對，口頭糾正，文字不需要留下。「顯示NCC怠忽職守，應將每個月六百元上限調降為四百元。」這段文字請予刪除；還有最後「並向交通委員會報告」，可以改成：「並向交通委員會提書面報告。」因為用書面報告可能有完整的資料。
+主席：本案照NCC所提修正文字通過。
+繼續處理決議29。
+石主任委員世豪：本案沒有問題，可以照案通過。
+主席：本案照案通過。
+在場人員：主委，有關決議25，是兩個議題，一個是陳元玲的辭職問題，還有一個是美國籍的問題，這要怎麼處理？
+石主任委員世豪：這個案子，我們兩個部分都送書面。
+主席：好。
+報告委員會，協商結論免予宣讀，授權由議事人員整理做為決議，列入紀錄。
+（繼續開會）
+主席：報告委員會：一、委員葉宜津、劉櫂豪另提書面補充意見，列入紀錄並刊登公報；二、委員李鴻鈞、潘維剛、徐耀昌、楊瓊瓔所提書面資料，列入紀錄並刊登公報。
+葉委員宜津書面意見：
+一、行動寬頻吃到飽政策之檢討
+請問主委，最早提出行動上網不應採吃到飽費率的是誰你知道嗎？是本席。本席早在上一屆委員會就提出質詢，要求NCC去檢討目前業者採取的費率問題。結果問過就算了，NCC也沒有給本席任何書面回覆。結果現在又是因為張善政拋出議題，才又引起NCC的注意。到底誰才是電信事業的主管機關？
+雖然你們現在的說法和我的說法一樣，但是理由不一樣，你們認為不應採吃到飽費率的理由是什麼？
+你們是認為因為網路塞車，所以要大家有所節制，所以才認為不應採吃到飽的費率。但是我的理由剛好相反，現在的吃到飽費率，其實消費者哪一個有吃飽過，不僅沒有吃飽，光等上菜的時間就餓死了。結果消費者付了吃到飽的費率，還餓得要死，等於是被業者剝削，所以才應該採取分級費率。
+就好像你到吃到飽餐廳，結果餐廳久久才補一次菜，大家只好搶食，而且搶完就沒有了，只好繼續等，最後結帳時，消費者反應只吃到一小盤菜，業者卻還跟消費者收吃到飽的錢，那當然是搶錢行為。
+現在的3G行動上網，因為沒有辦法計算集縮比，業者根本也不考慮自己的頻寬建設密度，明明庫存的菜只夠10個人吃，但卻就無限制的賣給消費者，號稱吃到飽，但是仔細去看消費者的流量，根本是被業者坑了，所以我才反對採吃到飽的費率，結果你們現在反過來認為是消費者太常掛網才導致塞車。請問主委，你有沒有使用智慧型手機上網？你用手機上網什麼時候有正常速度連線過，開一張圖片什麼時候沒有等待過？這是因為太多人使用造成的lag嗎？根本不是，而是業者提供的流量根本太少，不管什麼時候行動上網都是那樣的慢，那就不是太多人使用的問題，根本是業者超賣或提供流量不足。
+二、4G執照拍賣問題
+請問主委，你們明年要釋出的行動寬頻業務，也就是通稱的4G，總頻寬是多少？預計拍賣收入是多少？
+總頻寬上、下行各135Mhz，合計是270Mhz。那請問你們3G執照拍賣時總頻寬是多少，拍賣收入是多少？
+3G拍賣的總頻寬是上、下行各75，合計150，再加上TDD的20，也不過170Mhz，在91年就賣了489億，結果現在4G要拍賣的頻寬整整多了100Mhz，而且4G的頻譜位置又比3G的頻譜好很多，再加上現在的行動寬頻上網遠較91年的需求更大，光照比例4G的頻寬至少就應該值777億，和你們的歲入整整差了477億，請問這些差額跑到哪裏去了？
+主委讓我來告訴你這些錢跑到哪裏去好不好？跑到財團業者的口袋裏了。那我來告訴你為什麼。
+首先就是4G頻譜的分配問題，交通部除了從國防部收回的700Mh頻譜外，就是規劃收回今年和明年到期2G執照的800Mhz和1800Mhz。目前的2G頻譜就是電信三雄，中華、遠傳、台哥大在使用，本來今年、明年到期後，就可收回轉做4G頻譜拍賣，但是NCC現在卻以照顧2G使用者為理由，打算延長2G執照到106年6月。結果卻要還在2G有效期間內去拍賣這個區段的4G頻譜，那請問在現有頻段還有人在繼續使用的情況下，誰會去標4G的頻譜？就算在明年底標到了，也要等到106年6月以後才可以使用，沒有業者會去做這種生意。所以就只有現有的2G業者才可能去標這個區段的4G頻譜，這不是圖利現有的電信三雄是什麼？而且在沒有對手競爭下，現有的電信三雄可以用低廉的價格去得標，圖利了財團卻減少了國庫收入。
+第二，我們又看到NCC的發言人魏學文說102年底釋出的行動寬頻業務執照將採技術中立原則，取得執照後，業者可自由使用2G、3G、4G任一行動寬頻技術。這樣的說法，也就是明年底釋出的4G執照，可以不用來做4G的建設，而是要拿來繼續做2G或者3G都無所謂。業者拿到頻段後，不把投資放在4G的網路建設，繼續大賺本小利大的2G、3G的利益，這樣等於把屬全民資產的頻率奉送給財團去大賺特賺。
+第三就是頻譜拍賣的單位，4G的LTE技術如果要達到100M的速度，頻寬至少要到20Mhz才足夠，否則的話表現可能比3G技術還差。但是NCC卻規劃用5Mhz的單位做為拍賣基礎，經過本席上次質詢反應，你們說至少要買二個單位，那也不過是10Mhz。這樣的拍賣方式，除了頻譜可能破碎外，最大的問題是那樣的4G建設卻比3G的速率還要慢。你們為什麼要做這樣的規劃？
+一個是前面說的要圖利現有的2G業者，因為現有的2G業者除了中華電信有25Mhz的頻寬外，其餘就大約是在5Mhz和10Mhz，所以才用這麼小的單位當做競標基礎。
+第二個理由，就是故意要讓4G的建設成果不能比3G好太多，否則3G業者的投資都還沒回本，大家就去改用4G，3G的投資等於是賠本了。難怪你們現在都已經在打預防針說4G上路若仍吃到飽，一樣會塞車，但其實原因不是吃到飽費率，而是你們的拍賣單位設計就是不要讓4G跑太快。一方面可以讓業者的3G可以回本，一方面又可延緩4G建設投資支出。
+從以上，我們可以看到，NCC在規劃4G執照根本沒有把提升行動寬頻建設的目標放在首要，反而處處以財團利益為基礎考量，所以我們要求2G執照到期即清空收回不得延長，NCC拍賣4G頻譜的單位不得小於20Mhz，釋出的頻段，業者只能做4G以上的行動寬頻建設之用。
+劉委員櫂豪書面意見：
+原住民族電視台經營執照於101年12月31日屆滿，財團法人原住民族文化事業基金會基於主管機關之權責於今年4月份申請原住民族電視台經營執照，但財團法人公共電視文化事業基金會於6月份又申請原住民族電視台經營執照之展延，國家通訊傳播委員會卻因此遲遲無法核定原住民族電視台執照之歸屬。依據原住民族基本法第12條規定：「政府應保障原住民族傳播及媒體近用權，成立財團法人原住民族文化事業基金會，規劃辦理原住民族專屬及使用族語之傳播媒介與機構。前項基金會之設置及相關事項，另以法律定之。」而財團法人原住民族文化事業基金會設置條例第4條規定：「本基金之業務範圍如下：一、原住民族廣播、電視專屬頻道之規劃及普及服務。…前項第1款原住民族電視專屬頻道節目之製播，得交由財團法人公共電視文化事業基金會辦理，不受政府採購法之限制。」顯然原住民族電視台乃依原住民族基本法及財團法人原住民族文化事業基金會設置條例之規定設立，主管機關為財團法人原住民族文化事業基金會，該基金會倘未同意將原住民族電視台委託財團法人公共電視文化事業基金會辦理，則財團法人公共電視文化事業基金會即喪失繼續經營之依據。爰此國家通訊傳播委員會應儘速依原住民族基本法及財團法人原住民族文化事業基金會設置條例之規定核發原住民族電視台之經營執照，以保障原住民族之傳播及媒體近用權。
+李委員鴻鈞書面意見：
+1.根據NCC預算書的歲入編列，明年4G將釋照，預計這項公開拍賣行動寬頻業務執照的特許費可以讓國庫收入300億元，請問主委，在民國91年拍賣3G執照時，金額都已經高達488億9千9百萬元，怎麼會在拍賣4G時僅預計才會收入300億元，這樣的歲入編列顯然太低也不合常理。還有因為金額過高，是否得標之後，行動通信業者就需要一次繳付完畢？有沒有分期付款？如果可以分期的話，是否歲入預算要標明分幾個年度來收這筆特許費？本席認為這種東西都要講清楚，才能符合預算法的相關規定。事實上，標價訂太低，會讓國庫減少收入，不過標價太高的話，是否造成業者成本過重，到最後成本轉嫁消費者？本席認為主委在4G執照拍賣時，這些都要列入考量甚至要把配套措施做好，其實扁政府時代，在4G技術還沒確定主流的情況之下，就推動WIMAX，並在民國96年開放六張執照，後來美國INTEL公司退出這項市場之後，台灣這些得標的廠商就像孤兒一樣，不僅設備採購越來越不容易，然後不成熟的技術無法吸引足夠的用戶，台灣有2,100萬戶的3G用戶，然而使用WIMAX的僅有13萬戶，偏偏現在要釋照時，僅僅釋出700MHz（兆赫）、900MHz和1,800MHz等3個頻段，其實WIMAX所使用的2,600MHz頻段，反而才是國際電信聯盟所公布的4G使用頻段，請問主委，過去錯誤的釋照不僅造成了廠商的損失，過少的用戶更是造成頻段這種公共財的浪費，未來4G釋照時，是否可以有前瞻性的考慮，把現有的WIMAX頻段業者先行整合再一併納入考量規劃？不僅可以彌補過去政策的疏失，更可以提供未來4G更足夠的頻段以供民眾使用？再來就是目前中華電信、台灣大哥大和遠傳三家業者的2G執照限期，將陸續在今年十二月到明年十月間到期，在保護現有2G使用者的權益之下，又能如何收回多餘的頻段放在4G，本席認為這都可以列入考量的範圍。
+2.其實上網速度向來都被民眾所詬病，為此NCC要辦理全國寬頻速率的量測工作，然而全台固網寬頻上網有606萬戶，但是手機3G用戶卻是高達2,100萬戶，既然要維護消費者權益，何不全面進行，除了進行固網寬頻的量測之外，也應該針對行動上網部分全面性的量測。既然要開放4G，就要針對現在3G行動速度太慢的狀況一併檢討處理，請問主委，測速之後，如果速度過低，NCC打算怎麼處理？讓業者退費？還是處罰？倘若都沒有的話，這樣的測速意義又何在？目前3G上網速度慢，主要原因有好幾個，其中一個是政務委員張善政所說，因為業者推吃到飽方案所以才導致14%使用行動上網的人用掉67%的3G上網頻寬，所以才呼籲要取消吃到飽，本席認為很多用戶實際上已經習慣，斷然廢除吃到飽恐怕引起反彈或是消費團體的抗議，而是NCC要趕緊針對行動上網的費率結構提出規劃，其實有很多消費者行動上網的模式是屬於輕量級的，或許一個月都不到2-3G，既然如此，何必吃到飽？可以給予消費者更低的價格，讓使用者不需要隨時開著上網去佔頻寬，如此可以解決上網塞車的問題，更可以減輕使用者的負擔，請問主委，NCC能否儘速協商業者提出合理的資費方案，打破這種吃到飽佔頻寬的現況？再來一個重要的問題就是，現在民眾還是很反對基地台，導致業者在基地台的建置上無法普及，本席以前就呼籲了，如果基地台的電磁波不會影響，在民眾有疑慮之前，為什麼不透過立法先要求所有公家建物提供業者加裝基地台？一來是政府帶頭作讓人民放心，二來是基地台建設普及度夠，對於上網塞車或是通訊障礙的問題絕對有明顯的改善，請問主委，你是否有勇氣要求行政機關帶頭建設基地台，以便改善通訊品質？
+3.針對4G頻譜的釋照，NCC似乎要推動另一項方案，那就是研擬電信頻譜允許轉售交易，讓頻譜仿照土地買賣、進行轉售交易。過去以來，除了透過併購公司讓頻譜移轉之外，根本沒有開放頻譜的交易買賣，雖然美國美國聯邦傳播委員會（FCC）於今年9月底正式同意展開所謂獎勵式拍賣計畫，成為全球第一個推出（行動寬頻）獎勵式拍賣的國家。因此NCC打算仿效這樣的計畫。本席請教主委，無線電波頻譜這種東西屬於公共財產，合適作為私有財進行移轉或交易買賣嗎？美國只是剛起頭，還看不出什麼成效，請問NCC為何急著仿效？難道NCC沒其他事情可做嗎？既然要開放，就要研究配套措施，否則這樣的政策推動，本席保證絕對會成為財團炒作的標的或是變成有心人士去卡為頻譜做釘子戶變相圖取更大利益，那這樣的政策推動，請問主委，對於公共利益有什麼好處？是鼓勵一些業者明年在4G釋照時來卡位一些頻段再來坐地起價？還是弄成像有線電視系統一樣作為炒作的金雞母？本席認為NCC目前針對數位匯流的法規、媒體集中度的法制化等等還有很多東西要做，該做的事情不做，不要在這種時候提出這種對公共利益一點好處都沒有的政策。
+4.既然提到媒體集中度的問題，本席還是要來問問主委，有關這方面的法制化，NCC目前的進度為何？日前傳出中信辜家買下壹傳媒，上週五，陳冲院長對這問題提到針對中信集團辜家購買壹傳媒的資金來源，金管會已在進行了解，要確定任何資金不能來自金融機構，介入產業的經營。請問主委，按照目前廣電三法或是相關法令，有沒有明文規定金融業不能介入媒體業？本席認為現在產業五花八門，資金來源多元化，過去的法規倘若不合時宜，NCC就應該儘速進行修法工作，不要讓媒體管制的工作在台灣淪為人為化、政治化，而非是法制化去進行，還是說乾脆正面表列什麼行業不可以進入媒體業？而不是當事人進行時，都發現法律沒問題，但是真正做了之後，輿論意見又一堆，這就凸顯行政單位法制規範的不足之處。請問主委，本席看完整本NCC的預算總說明，還是沒看到NCC打算在明年進行這些法案的推動，是否NCC還是要繼續打模糊仗，不願把這些媒體併購的問題透過法制化來解決，而是要繼續掌握在NCC這些委員人為化的控制？
+5.請問主委，根據消基會統計，這12年來手機通訊及網路是消費爭議最大宗，然而除了上面說的速度之外，其中有一樣就是電話行銷，電信業者的電話行銷手段五花八門無奇不有，根據本席瞭解，中華電信的行銷人員會明確報上姓名和員工編號，然後向用戶告知接下來要推銷什麼業務，和需要花費的金額，這樣的模式算是合理的，那台灣大的部分，根據調查，主要是透過簡訊然後再配合上網查詢和辦理，也可以讓消費者有足夠思考的空間，然而就本席助理瞭解所知，遠傳電信的推銷顯然有不妥之處，以推廣來電答鈴業務為例，先是打電話告知客戶是屬於遠傳電信的優良用戶，公司為了感謝願意贈送一個月免費的來電答鈴服務，只要客戶同意就可以馬上使用，除了強調是贈送與免費，接下來就是一直要客戶說OK，但是只要一說OK之後，只要過了一個月，客戶沒有自行去取消這項所謂「贈送」的來電答鈴業務，那就會開始計費，請問主委，這樣的電話行銷模式合理嗎？是不是有讓人誤踏陷阱甚至被騙的感覺？本席認為NCC身為主管機關，就要對這種事情去留意，否則手機和網路的消費紛爭高居排行第一，也是顯示NCC的失職。除了剛剛提到的電話行銷爭議之外，本席助理還發現到，遠傳電信進行電話行銷的人員操著一口大陸腔調，請問主委，目前開放陸資來台投資的方案中，第一類電視仍在禁止的範圍，主要因素之一就是考慮個資安全。既然如此，NCC同意電信業者在大陸設置客服機構或是行銷人員嗎？就本席瞭解，中華電信和台灣大沒有在大陸地區設置客服中心或進行電話或是聘請大陸員工從事相關行為，那其他電信是否有這樣的問題，NCC到底有沒有深入調查瞭解？如果到時候還有民眾來跟本席陳情或指控還有這樣的情事，請問NCC又該如何處理？或者NCC要告訴民眾已經有多少個資透過電信公司流入大陸？
+6.至於陳元玲委員在上任三個月之後，立即請辭，請問主委，NCC屬於合議機關，目前只有6個人，如果遇事不決，需要表決時，少一個人是否會影響公平性？是否需要請行政院長立即提名補足委員？陳冲行政院長表示，這需要看石主委你的意見，請問主委，你認為是否需要補提名？還是現在的委員就夠了？畢竟目前的NCC缺乏通訊傳播方面的專家，特別接下來要進行數位匯流與有線電視數位化等重大業務，的確需要這方面的人才，倘若沒有補提名打算的話，本席建議有關NCC歲出部分，有關政務人員年需經費部分應刪減7分之1才能符合實際需求，倘若需要補提名，希望年底之前可否完成？
+潘委員維剛書面意見：
+102年度NCC於單位預算下編列4G釋照收入300億元，目前關於頻段規劃、開放範圍及時程等重要事項，雖已隨「第1類電信事業開放之業務項目、範圍、時程及家數一覽表」之公告於101年9月底生效，惟釋照相關配套措施，如：頻寬組合及拍賣方式、標金收取及底價訂定等後續釋照作業，有待NCC積極推動。NCC成立後，通訊傳播相關法規中職權原屬交通部、行政院新聞局、交通部電信總局者，主管機關變更為NCC，故相關管理規則之訂定及釋照程序已改由NCC辦理，按上述電信法規定及部會職權分工，我國通信業務開放程序，首先需由交通部就相關頻段進行頻譜資源之騰空及核配，並經行政院公告修正「第1類電信事業開放之業務項目、範圍、時程及家數一覽表」後，再由NCC辦理相關管理規則之研訂及釋照開標、底標訂定等事宜；至通信業者則需於得標後進行通信網路建設，其相關網路設備亦需經NCC審驗核可並核發特許執照後，始可開始營運。開放4G業務應將各議題之處理原則納入「第1類電信事業開放之業務項目、範圍、時程及家數一覽表」後，由行政院公告，作為釋照作業之準據。據上述一覽表所訂，4G業務訂於102年12月開放，鑒於「第1類電信事業開放之業務項目、範圍、時程及家數一覽表」並未限定開放家數，NCC允應儘速對相關頻寬組合問題予以釐清，並對辦理管理規則之研訂及底價訂定、公告開標等事宜訂定相關時程表，以作為辦理4G釋照作業之準據。
+本席認為「第1類電信事業開放之業務項目、範圍、時程及家數一覽表」已於101年9月底修正生效，惟其以上、下行各5 MHz為單位之拍賣方式引發各界關注，為免日後衍生頻寬破碎造成4G運轉不順利，NCC應儘速對頻寬組合訂定規範，並對管理規則之研訂及底價訂定、公告開標等配套措施訂定相關時程表，以利4G釋照作業之推展。4G釋照相關配套措施宜儘速定案，以利後續釋照作業之推動，而針對即將辦理4G釋照，對以往釋照作業未盡之處，宜引為殷鑑，避免重蹈覆轍。包括如何整合電信業者過度競爭、消費者權益保障、網路壅塞問題、基地台設置問題、如何與世界接軌問題，NCC應建立標準作業流程，以適時介入協助解決辦理，俾健全電信事業發展。
+徐委員耀昌書面意見：
+一、NCC陳元玲委員閃辭爭議
+立法院臨時會在7月26日上午進行NCC委員被提名人石世豪、虞孝成，陳元玲及彭心儀4位進行同意權行使，8月1日上任，如今才上任三個月，國家通訊傳播委員會委員陳元玲已因個人因素3個月就閃辭。請問石主委，您身為NCC主委，要不要說明一下陳委員為何短短三個就請辭？陳元玲委員請辭之後，她原有擔任分工的工作有那些？NCC現在將僅剩5名委員，職掌各項審查，主委如何作職掌調整？陳元玲委員原本是少數來自業界的委員，如今請辭後，是否有必要要補足缺額？
+二、第五台侵權情況嚴重，NCC如何處理
+早期有線電視叫第四台，在合法化後之後，有線電視已經是今天我們要朝向全數化匯流發展的階段了，現在又有俗稱「第五台」的數位電視節目業者「全視福有限公司」在國內招攬客戶，強調透過數位機上盒可提供即時電視、院線電影等，但因未與出版公司簽約，涉嫌違反著作權法，台南市檢調全國同步搜索，查扣一千多部機上盒，並將公司負責人以違反著作權法送辦。請問石主委，這家公司從98年營運至今也有近四年時間，NCC都沒有掌握第五台的狀況嗎？目前在NCC的掌握中，我們全國有多少第五台違規營業的狀況？第五台透過中國盜版網站提供民眾收看院線片，已經造成侵權行為，一旦被查獲隨時可能被封台，民眾收視權益也會受損。國內還有很多以類似方式經營的業者，甚至有不少電器行與業者合作成為經銷站，也可能變成共犯。現階段除了台南地檢署查察之外，負責主管業務的NCC後續怎麼處理第五台的問題？
+三、開放有線電視跨區經營，NCC是否做好配套措施
+NCC在7月開放有線電視跨區經營，美其名是開放競爭，促進數位發展，但是，說真的，本席大大擔心，一來，台灣有線電視從過去違反第四台，好不容昜有線電視要轉型進入數位化時代，NCC卻來個開放經營區競爭和新進業者參入，這擺明好不容昜要進入數位匯流的台灣有線電視市場，開始要大亂一陣子，懂產業的人都很清楚~~接下來有線電視會有什麼慘樣。有線電視顧名思義就是要透過線路拉線進入家戶，台灣市場這麼小，地小人稠，怎麼容的下這麼多線路來重新開挖及重新舖設。本席不是反對開放競爭，在數位匯流的今天，其實根本不用擔心競爭問題，該擔心的是民眾的權益、是台灣這片土地被過多的重覆建置浪費競爭力! 尤其在相關配套未做好的情況下？請石主委口頭報告一下目前經營區及新進業者申請的進度？目前有幾家業者申請？接下來NCC什麼時候開始進行新業者的審查？就本席了解，本案還有很多相關配套措施都還沒有出來？像未來如何收費？數位要如何分組？現在「多系統經營業者（MSO）」如何合併跨區？NCC是否已經有解套方案？
+四、取消上網吃到飽問題
+國內上網速度慢又貴，屢遭網友抱怨。依據雲端平台供應商最新調查報告指出，南韓蟬連全球上網最快國家的寶座，以14.2MBPS遙遙領先；台灣僅3.7MBPS，全球排名第46。行政院政務委員張善政日前公開呼籲電信業者，未來4G上路以後，建立上網分級收費制度，並取消上網吃到飽，來徹底解決上網速度太慢的問題。請問石主委，對於張善政政委所提的主張有何看法？若是真的取消目前上網吃到飽的消費模式，是否會影響到現有用戶的權益？此外，根據消基會日前公布的國內3G手機上網速度實況也發現，上網速度也呈現由北往南遞減的城鄉差距，最快的台北市平均下載速度比台東縣快一倍，消費者卻付一樣的上網費。為解決上網速度的城鄉差距問題，NCC應對現行電信業者基地台設備及涵蓋率應進行全面檢討，促使網路資源有效利用。
+楊委員瓊瓔書面意見：
+一、針對上網吃到飽及明年底完成的4G執照釋出，政務委員張善政日前表示，4G資源比3G還要寶貴，頻寬資源有限，參考國外案例，大多未提供吃到飽，業者未來推出4G時，可考慮取消「吃到飽」資費方案。
+1.主委，如何解決頻寬問題？如何解決行動上網通訊塞車引發民怨？如何督促業者提供足夠頻寬？對於明年底4G釋照的合理家數期待？4G執照釋出商轉後能否解決徹底塞車問題？對於張政委提出之取消「吃到飽」方案看法？是否可行？註1
+二、NCC委員陳元玲閃電請辭引發各界聯想，其為家庭因素請辭，外界不必想像太豐富，因為每個人對家庭的感情很難去量化。政院將針對需要補提名，讓NCC正常運作。
+1.主委，早知如此何必當初？家庭固為大政務可不顧？豈無其他因素？何時可再行補提名？如何避免重蹈覆轍？行政院可有通知？
+主席：現作如下決議：一、報告及詢答完畢；二、中華民國102年度中央政府總預算案有關國家通訊傳播委員會單位預算未及處理提案留待處理未完竣部分時繼續處理；三、委員質詢中要求提供相關書面資料或未及答復部分，請國家通訊傳播委員會儘速以書面答復。
+現在散會。
+散會（16時56分）
