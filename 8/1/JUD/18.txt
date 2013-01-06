@@ -1,0 +1,413 @@
+立法院第8屆第1會期司法及法制委員會第18次全體委員會議紀錄
+時　　間　中華民國101年5月21日（星期一）下午2時34分
+地　　點　本院紅樓302會議室
+主　　席　呂委員學樟
+主席：出席委員已足法定人數，現在開會。進行報告事項。
+報　告　事　項
+一、宣讀上次會議議事錄。
+<hr>
+立法院第8屆第1會期司法及法制委員會第17次全體委員會議議事錄
+時　　間：中華民國101年5月10日（星期四）上午9時3分至12時7分、下午2時32分至4時20分
+地　　點：本院紅樓302會議室
+出席委員：柯建銘　　廖正井　　林正二　　吳宜臻　　王惠美　　尤美女　　李貴敏　　林國正　　潘孟安　　呂學樟　　鄭天財　　謝國樑
+委員出席12人
+列席委員：段宜康　　劉櫂豪　　許添財　　吳育仁　　賴士葆　　李桐豪　　高金素梅　蔡其昌　　吳秉叡　　李昆澤　　徐欣瑩　　蔣乃辛　　林佳龍　　陳淑慧　　黃偉哲　　吳育昇　　邱文彥　　蘇清泉　　江惠貞　　呂玉玲　　林世嘉　　陳亭妃　　徐耀昌
+委員列席23人
+請假委員：王廷升
+委員請假1人
+<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="338"><col WIDTH="374"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">司法院秘書長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">林錦芳</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">法務部政務次長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">吳陳鐶</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">銓敘部法規司副司長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">吳玲芳</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.13cm; margin-right: 0.19cm">特審司副司長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">陳美江</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">公務人員保障暨培訓委員會主任秘書</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">廖慧全</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">外交部條約法律司科長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">陳首翰</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國防部軍法司審判事務處副處長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">沈世偉</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">教育部人事處專門委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">黃靜華</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院研究發展考核委員會研究委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">陳焜元</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院人事行政總處組編人力處副處長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">郭素卿</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處公務預算處研究委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">黃耀生</p></td></tr></table>
+主　　席：廖召集委員正井
+專門委員：陳清雲
+主任秘書：劉彥麟
+紀　　錄：簡任秘書 蘇純淑
+簡任編審  葉育彰
+科    長 周厚增
+報　告　事　項
+宣讀上次會議議事錄。
+決定：確定。
+討　論　事　項
+一、審查司法院函請審議「司法院司法人員研習所組織條例修正草案」案。
+二、審查司法院函請審議「司法院組織法第二十二條之一及第二十三條條文修正草案」案。
+（本次會議有委員柯建銘、呂學樟、林正二、吳宜臻、王惠美、尤美女、李貴敏、劉櫂豪、廖正井、潘孟安、段宜康、黃偉哲、鄭天財提出質詢；委員謝國樑、林國正等提出書面質詢。）
+決議：
+一、報告及詢答完畢，逕行逐條審查。
+二、「司法院司法人員研習所組織條例修正草案」案：
+(一)草案名稱、第一條，均照案通過。
+(二)本案另定期繼續逐條審查。
+三、「司法院組織法第二十二條之一及第二十三條條文修正草案」案：草案第二十二條之一及第二十三條，均照案通過。
+四、委員質詢時，要求提供相關資料或以書面答復者，請相關機關儘速送交個別委員及本會。
+散會
+<hr>
+主席：請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。
+進行討論事項。
+討　論　事　項
+繼續審查考試院、行政院函請審議「公務人員基準法草案」案。
+主席：本案於本會第14次全體委員會議審查決議，報告及詢答完畢，另定期繼續審查。現在本案繼續審查，如各位委員無異議，我們省略大體討論，進行逐條審查。
+現在宣讀條文。
+名稱　公務人員基準法
+第一章　總　　則
+第　一　條　　為確立公務人員人事法制之基準，並規範權利、義務及管理基本原則，特制定本法。
+第　二　條　　本法所稱公務人員，指於各級政府機關、公立學校（以下簡稱各機關）擔任組織法規所定編制內職務支領俸（薪）給之人員。
+前項規定不包括軍職人員、公立學校教師、派用人員、聘用人員、民選地方行政首長及依地方制度法規定以機要人員方式進用之人員。
+第　三　條　　公務人員分為政務人員、常務人員、法官與檢察官。
+第　四　條　　政務人員，指各級政府機關依據憲法、中央機關組織法律或地方制度法規定進用之下列政治性任命人員：
+一、依政治考量而定進退之人員。
+二、依憲法或法律定有任期及任命程序獨立行使職權之人員。
+前項各款人員，不包括司法院大法官、最高法院院長、最高行政法院院長、公務員懲戒委員會委員長及最高法院檢察署檢察總長。
+第一項政務人員之職務級別、範圍、任免、俸給、退職、撫卹、行為規範及權利義務等有關事項，另以法律定之。
+第　五　條　　常務人員，指各機關組織法規中，除政務人員、法官與檢察官外，定有職稱及依法律任用、聘任之人員。
+前項聘任人員之範圍、職務等級、資格條件、薪給、考核、陞遷、退休及撫卹等有關事項，另以法律定之。
+第　六　條　　法官與檢察官，指下列人員：
+一、司法院大法官、最高法院院長、最高行政法院院長、公務員懲戒委員會委員長與委員、各法院之法官、試署法官、候補法官。
+二、最高法院檢察署檢察總長、各法院檢察署之檢察長、主任檢察官、檢察官、試署檢察官、候補檢察官。
+前項法官與檢察官之任用、陞遷、給與、權利、義務及保障等有關事項，另以法律定之。
+第　七　條　　公務人員自就（到）職之日起，與國家發生公法上職務關係，並依法行使權利及履行義務。
+第　八　條　　公務人員有下列情事之一者，終止其與國家之公法上職務關係：
+一、經懲戒予以撤職。
+二、依法免職或解職。
+三、任用資格不符經依法撤銷任用。
+四、依法先派代理，經銓審定不合格或逾限不送審而停止代理。
+五、依法退休（職）、資遣或辭職生效。
+六、任期屆滿卸職。
+七、依法解聘或聘期屆滿。
+八、死亡。
+第　九　條　　為確立公務倫理、充實專業知能、提升服務效能及增進公共利益，應樹立公務人員核心價值。
+前項核心價值由考試院定之。
+第二章　權利與保障
+第　十　條　　公務人員非依法律，不得予以撤職、休職、免職、停職、解職、解聘、退休（職）或資遣。
+第十一條　　公務人員除未定任期之政務人員外，其身分不受黨派之影響。
+第十二條　　公務人員於休職、停職或留職停薪期間，仍具公務人員身分。但不得執行職務。
+第十三條　　公務人員於其休職、停職或留職停薪原因消滅後，得請求復職。服務機關或其上級機關，除法律另有規定外，應許其復職。
+前項復職，應回復原職務或相當之其他職務。
+第十四條　　公務人員除政務人員外，因機關裁撤、組織變更或業務緊縮致被裁減時，除法律另有規定外，其服務機關、上級機關或承受其業務之機關，應依法律予以轉任、派職或退休、資遣。
+第十五條　　公務人員之辭職，除有危害國家安全之虞或法律、契約另有規定或訂定外，機關長官或其上級機關不得拒絕。
+辭職應以書面為之，機關長官或其上級機關並應於收受辭職書之次日起一個月內核准，或認有前項得拒絕辭職之情形者，於一個月內明理由拒絕之；逾期未為核准或拒絕者，視為照准，並以期滿之次日為生效日期。但公務人員指定離職生效日期為一個月之後者，以該日期為生效日期。
+第十六條　　公務人員有依法支領俸（薪）給、退休（職）給與、資遣給與及保險給付之權利；其於在職期間死亡者，遺族有依法請領撫卹金之權利。
+第十七條　　公務人員有使用其官銜、職稱之權利。
+第十八條　　公務人員依法參加訓練及進修時，各機關得視經費狀況，提供公務人員訓練進修之相關補助。
+第十九條　　公務人員服務滿一定年資，並符合規定條件者，有休假之權利。
+前項服務年資、條件及休假日數等有關事項，於公務人員請假規則中定之。
+第二十條　　公務人員為加強為民服務、提升工作效能、維護其權益、改善工作條件並促進聯誼合作，得組織或加入公務人員協會。
+各機關不得因公務人員組織或加入公務人員協會，而予以不公平對待或不利處分。
+第一項公務人員協會之組織、管理及功能等有關事項，另以法律定之。
+第二十一條　　國家應維護公務人員之尊嚴與地位，增進其福利，並提供公務人員執行職務之必要措施及良好工作環境。
+第二十二條　　國家應保障公務人員執行職務之安全。
+第二十三條　　公務人員依法令執行職務而涉訟時，其服務機關應延聘律師為其辯護及提供法律上之協助。
+第二十四條　　公務人員之身分、官職等級、俸（薪）給、工作條件、權益救濟及其他權益事項應予保障。
+前項公務人員權益之保障，另以法律定之。
+第三章　義務與服勤
+第二十五條　　為加強公務人員自律、建立行為準則、型塑公務人員優質文化及提升政府施政效能，應訂定公務人員服務守則。
+前項服務守則由考試院定之。但職務性質特殊人員，得由各該主管機關增訂其應遵守之服務守則，並函送銓部備查。
+第二十六條　　公務人員應依法宣誓或於服務誓言簽名以代宣誓。
+公務人員應遵守誓言，依法令執行職務，致力於維護國家與人民之權益及公務人員之信譽。
+公務人員對主管業務，應注重研究發展，並主動提出革新建議。
+第二十七條　　公務人員初任、再任、調任或轉任，除法令另有規定外，應於接奉派令之日起三十日內就（到）職；其有正當理由者，得請求延長之，延長期間以三十日為限。
+駐外人員之調任應於人事命令發布日起三個月內就（到）職，但有其他不可歸責於當事人之特殊事由，得請求延長之，並於該特殊事由終止後三十日內就（到）職。
+公務人員未能依前二項規定之期限就（到）職者，其派令失其效力。
+第二十八條　　公務人員對於長官監督範圍內所發之命令有服從之義務，如認為該命令違法，應負口頭或書面報告之義務；該管長官如認其命令並未違法，而以書面署名下達時，公務人員應即服從；其因此所生之責任，由該長官負之。但其命令有違反刑事法律者，公務人員無服從之義務。
+前項情形，該管長官非以書面署名下達命令者，公務人員得請求其以書面署名為之，該管長官拒絕時，視為撤回其命令。
+公務人員對於長官所發命令，以上級長官之命令為準。其有主管長官與兼管長官者，以主管長官之命令為準。
+依據法律獨立行使職權之公務人員，就其職權之行使，不適用前三項之規定。
+第二十九條　　公務人員應絕對保守國家機密及公務機密。對於機密事件，無論是否主管事務均不得洩漏；離職後，亦同。
+公務人員未經長官許可，不得以個人或代表機關名義，任意發表有關職務之談話。但具政務人員身分之行政首長，不在此限。
+公務人員就應守秘密之事項為證言時，應經服務機關或原服務機關之許可。
+第三十條　　公務人員除法令所定外，不得兼任他項公職或執行業務；其依法令兼職者，不得兼薪，並不得妨礙其本職。
+依法令兼職者，於離去本職時，其兼職亦應同時免兼。
+第三十一條　　公務人員兼任教學或研究工作，應經服務機關之許可；機關首長應經上級主管機關許可。
+公務人員兼任非以營利為目的之事業或團體之職務，應經服務機關許可；機關首長應經上級主管機關許可。但兼任無報酬、非實際執行業務、未影響本職工作，且屬公益性社團法人或社會團體之職務，不在此限。
+第三十二條　　公立學術研究或科技機構研究人員，提供研究發展成果予中央二級或相當二級以上機關核定技術移轉或與政府合作之民營營利事業者，經其服務機構許可後，得兼任該民營營利事業職務，或兼任董事、監察人；並得以技術作價取得該營利事業之股權，不受第三十四條第一項第五款及第七款規定限制。但均不得兼薪。
+公立學術研究或科技機構首長，實際參與研究者，經上級主管機關許可，得適用前項規定。
+前二項之兼職及技術作價取得之股權，服務機構應與民營營利事業訂定收取回饋金；其回饋金收取、比例及上限，由各公立學術研究或科技機構定之。
+前三項公立學術研究或科技機構及研究人員，由考試院會同行政院認定之。
+第一項、第三十一條及第三十四條第一項第五款之各項兼職許可之辦理方式及不予許可情事；其辦法，由考試院定之。
+第三十三條　　公務人員應遵守行政中立；有關行政中立事項，另以法律定之。
+第三十四條　　公務人員不得有下列行為：
+一、罷工、怠職或其他足以產生相當結果之行為。
+二、發起、主辦、幫助、參與以暴力破壞政府之集會、遊行、示威或抗議。
+三、假借職務上之權力、機會或方法，故意加損害於他人。
+四、利用職權、公款或職務上持有、知悉之消息，直接或間接圖自己或他人不法利益。
+五、兼任以營利為目的之公司或團體之職務。但經服務機關或上級主管機關指派或遴薦擔任政府直接或間接投資事業之董事、監察人或理、監事或相當職務者；或依第三十二條第一項或第二項規定者，不在此限。
+六、經營營利事業或投資於屬其服務機關監督之營利事業。但就（到）職後三個月內將就（到）職前已持有之股權信託予信託業者，不在此限。
+七、投資於非屬其服務機關監督之營利事業而其所有股份總額超過該營利事業股本總額百分之十者。但就（到）職後三個月內將就（到）職前已持有超過該營利事業股本總額百分之十之股權信託予信託業，或降低持股比例不超過該營利事業股本總額百分之十者，不在此限。
+八、與團體或個人從事不法利益交易活動。
+九、其他法律禁止或限制之行為。
+公務人員依前項第五款但書規定兼任國營事業之董事、監察人或理、監事者，除法律另有規定外，不得再兼任該國營事業推動合併或成立控股公司或其子公司之董事長、副董事長或相當之職務。
+公務人員違反第一項規定，其情節重大者，應先予停職；有關情節重大之認定標準，由考試院會同行政院定之。
+第三十五條　　公務人員不得為圖自己或他人之不法利益而關說或請託，亦不得接受此項關說或請託。
+第三十六條　　公務人員有隸屬關係者，無論涉及職務與否，除法令另有規定外，不得贈受財物。
+公務人員於職務上之行為，其本人、配偶、直系血親或共同生活之親屬，均不得贈受財產上或非財產上利益。
+公務人員因公務禮儀贈受財物之規範及處理程序；其辦法，由考試院會同行政院定之。
+公務人員貪瀆之檢肅及財產之申報事項，依有關法律規定辦理。
+第三十七條　　公務人員執行職務，遇有涉及本人、配偶或三親等以內血親、姻親利害關係之事件，應行迴避。其他法令另有嚴格規定者，從其規定。
+服務機關或上級機關發現有前項應行迴避之情事而未依規定迴避者，應令其迴避，並另行指定執行職務人員。
+第三十八條　　公務人員應維護身心健康，如罹病致影響職務之執行時，應即就醫或休養；服務機關於必要時得命其接受檢查或療養。
+第三十九條　　公務人員因執行職務，知有犯罪嫌疑者，除法律有特別規定者外，應即向長官報告，並向檢察官或司法警察官告發。
+第四十條　　公務人員對於職務上所經管之文書、財物，應盡善良管理人之義務。
+公務人員對於職務上所經辦之業務及經管之文書、財物，於離職時應妥為交代。
+前項交代有關事項，另以法律定之。
+第四十一條　　公務人員應配合組織與職務需要，接受在職訓練、發展性訓練或進修，以強化其職能。
+第四十二條　　公務人員辦公，應依法定時間，不得遲到早退。但其他法律有特別規定或有特別職務經長官許可者，不在此限。
+公務人員除法律另有規定外，每週應有二日作為例假。業務性質特殊之機關，得以輪休或其他彈性方式行之；公務人員法定辦公時間、例假調整、特殊機關（構）輪休之實施辦法，由行政院會同考試院定之。
+公務人員遇有天然災害發生或有發生之虞，除留守人員外，得停止辦公；停止辦公作業辦法，由行政院會同考試院定之。
+公務人員因公務或公益之需要，負有於辦公時間以外執行職務之義務。經服務機關指派於辦公時間以外執行職務者，應給予加班費、補休假、獎勵或其他相當之補償。
+公務人員除因婚、喪、疾病、分娩或其他正當事由外，不得請假；公務人員請假規則，由考試院會同行政院定之。
+第四十三條　　公務人員於離職後二年內，不得就與離職前五年內原掌理之業務有監督或管理之事項，為自己或他人不當利益，直接或間接與原任職機關及其所屬機關接洽或處理相關業務。
+公務人員依法須向監察院申報財產者於離職後三年內，不得擔任與其離職前五年內職務直接相關之民營營利事業及該營利事業持有已發行有表決權股份總數或資本總額超過半數之公司董事、監察人、經理、執行業務之股東或顧問。但有下列情形之一，不在此限：
+一、由政府或公營事業機構指派代表公股者。
+二、由政府透過政府捐助之財團法人、政府投資之民營營利事業或其再轉投資事業指派代表者。
+三、向考試院或其授權機關申請經許可者。
+考試院或其授權機關辦理前項之許可，應會同相關機關及遴聘專家學者組成審查會審核之；其組織、申請與審查程序及許可條件等有關事項之辦法，由考試院會同行政院定之。
+第一項及第二項規定，於其他法律另有嚴格規定者，從其規定。
+本法於中華民國○年○月○日施行前，已擔任第二項應受限制之職務者，得任職至該職務任期屆滿或離職止。
+第四十四條　　公務人員除依法令規定及長官監督範圍內之指示執行職務外，不負其他義務。
+第四十五條　　為因應機關用人需要，並避免機關職務長期代理，應訂定各機關職務代理相關規定。
+前項各機關職務代理排定、權責及期間等有關事項之辦法，由考試院會同行政院定之。
+第四十六條　　各機關得應業務需要，借調其他機關人員。
+前項借調對象、事由、程序、期間及借調人員權益等有關事項之辦法，由行政院會同考試院定之。
+第四章　管理基準
+第一節　考　　試
+第四十七條　　常務人員、法官或檢察官之任用，應經考試定其資格。其考試應本公平、公正與尊重專業判斷之原則，以公開競爭方式行之。
+前項考試有關事項，另以法律定之。
+第四十八條　　公務人員考試，不得因性別、宗教、種族、黨派，而有不合理之差別待遇，並應重視少數與弱勢族群應考人之權益。
+第四十九條　　公務人員考試，應配合國家發展、用人機關職能需求，決定應考資格、考試方法與技術，並訂定考試規則，擇優錄取。
+第二節　任用與陞遷
+第五十條　　各機關任用公務人員，應注意其品德及對國家之忠誠，並本專才專業、適才適所，為人與事之適切配合。如係主管職務，並應注意其領導能力。
+各機關任用公務人員，除法律另有規定外，不得因性別、宗教、種族、黨派而有差別對待。
+公務人員之任用，得依各類別公務人員特性需要，分別以法律定之。
+第五十一條　　公務人員之任用，應具有中華民國國籍及各該任用法規所定任用資格，並年滿十八歲以上者。
+第五十二條　　各機關任用公務人員，應符合其組織及任用法規所定員額、職稱、官等、官階、官稱、職等、資位、等級、級別或職系等有關規定。
+常務人員及司法院大法官、最高法院院長、最高行政法院院長、公務員懲戒委員會委員長、最高法院檢察署檢察總長以外之法官與檢察官，應依法送銓部銓審定。
+第五十三條　　常務人員之陞遷，應以功績為主，本內陞與外補兼顧，考量機關特性與職務需要，採公開、公平、公正之方式，擇優陞任或遷調歷練。
+前項陞遷有關事項，另以法律定之。
+第三節　俸給、獎金與福利
+第五十四條　　公務人員之俸（薪）給，應依其工作與責任，資績與人才延攬需要，依法訂定公平合理之標準支給，並得依各類別公務人員職務之特性需要及工作績效分別定之。
+第五十五條　　公務人員俸（薪）給數額之訂定及調整，應參酌國民所得、物價指數、經濟成長率、基本生活費用、民間企業薪資水準及政府財政狀況等因素，由行政院會商考試院辦理。
+行政院建議條文草案：
+第五十五條　　公務人員俸（薪）給數額之訂定及調整，應參酌國民所得、物價指數、經濟成長率、基本生活費用、民間企業薪資水準及政府財政狀況等因素，由行政院辦理。
+第五十六條　　為激勵公務人員士氣、獎勵特殊工作績效，以達成施政目標，提升行政效能，政府得視財政狀況發給獎金。
+前項獎金之適用對象、類別、條件及程序等有關事項之辦法，由行政院定之。
+第五十七條　　為安定公務人員生活，激勵工作士氣，政府應視財政狀況，規劃辦理相關福利措施。
+第四節　考　　績
+第五十八條　　公務人員之考核，除政務人員外，應綜覈名實、公正公平，作準確客觀之考核，充分發揮獎勵、培育、拔擢、輔導及懲罰之功能，以落實績效管理，提高行政效能及服務品質。
+前項考核結果，除應依法令予以適當之獎懲外，並應作為辦理陞遷、調職、指派受訓、薦送進修、調整工作項目及裁汰冗劣之重要依據。但其他法律另有規定者，從其規定。
+公務人員之考核，得依各類別公務人員特性需要，分別以法律定之。
+第五十九條　　公務人員著有勳績者，應依有關法令予以褒獎。
+第六十條　　為激勵公務人員工作意願及發揮工作潛能，以提高服務品質及工作績效，應訂定激勵及表揚相關規定。
+前項激勵及表揚之適用對象、種類及方式等有關事項之辦法，由考試院定之。
+第六十一條　　公務人員違法或失職者，應依法律受懲戒或依考核法令懲處。離職後始發現者，亦同。
+同一行為，以受一次懲戒或懲處處分為限。同時或先後受懲戒及懲處處分者，其懲處處分失其效力。
+第五節　退休、撫卹與保險
+第六十二條　　公務人員之退休（職）、撫卹及保險，應兼顧國家資源分配、社會公益及公務人員經濟安全保障等原則，並以激勵公務人員奮勉從公、貫徹服務民眾之理念，合理建構完善制度。
+前項退休（職）、撫卹及保險有關事項，另以法律定之。
+第六十三條　　各類別公務人員之服務年資，得併計為辦理退休（職）、資遣或撫卹之年資。但其他法律另有規定者，從其規定。
+第六節　保障與培訓
+第六十四條　　公務人員之權益救濟，應本公平、公正原則，依法審議決定。
+各機關不得因公務人員依法提起救濟而予以不公平對待或不利處分。
+第六十五條　　公務人員之訓練與進修，應與任用、考績及陞遷有效結合。
+公務人員之訓練與進修，其有關事項，另以法律定之。
+第六十六條　　為利公務人員參加訓練進修，各培訓機關（構）應加強協調聯繫，完備運作機制並整合訓練資源。
+行政院建議條文草案：
+第六十六條　　為利公務人員參加訓練進修，各培訓機關（構）應加強協調聯繫，完備運作機制並整合訓練資源。
+前項運作機制由行政院、司法院與考試院定之。
+第六十七條　　為提升政府施政效能，各機關應充分運用公務人力資源並重視公務人員職涯發展。
+第五章　附　　則
+第六十八條　　公務人員違反第二十六條至第三十七條、第三十九條至第四十二條規定者，應按情節輕重予以懲處，並應列為考核及職務調整之重要參考。
+違反第四十三條第一項規定者，由銓部處新臺幣二十萬元以上一百萬元以下罰鍰；所得財產上利益，應予追繳。
+違反第四十三條第二項規定者，處二年以下有期徒刑，得併科新臺幣一百萬元以下罰金。
+犯前項之罪者，所得之利益沒收之。如全部或一部不能沒收時，追徵其價額。
+第六十九條　　派用人員及交通事業人員準用本法之規定。
+第七十條　　下列人員除法律另有規定外，準用本法之規定：
+一、聘用人員，準用第十一條至第十三條、第十五條、第十七條、第十九條至第二十六條、第二十八條至第四十條、第四十二條至第四十四條及第六十八條第二項至第四項之規定。
+二、公立學校兼任行政職務教師及公營事業機構對經營政策負有主要決策責任之人員，準用第三章及第六十八條之規定。
+三、民選地方行政首長準用第三章及第六十八條之規定。但第二十八條於依法令辦理地方自治事項及第二十九條第二項、第三十二條、第四十五條、第四十六條之規定，不在準用之列。
+四、依地方制度法規定以機要人員方式進用之人員準用第三章及第六十八條之規定。但第三十二條、第四十五條、第四十六條之規定，不在準用之列。
+前項第二款公營事業機構及人員，由行政院會同考試院認定之。
+第七十一條　　本法施行日期，由考試院會同行政院定之。
+主席：接下來宣讀修正動議。
+鄭委員天財等所提修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="400"><col WIDTH="403"><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><a NAME="TA7313435"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">考試院、行政院條文</p></td></tr><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">名稱　<u>公務員</u>基準法</p></td><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">名稱　<u>公務人員</u>基準法</p></td></tr><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.67cm; margin-right: 0.19cm; text-indent: -0.37cm">第二章　<u>權益、保障與救濟</u></p></td><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.67cm; margin-right: 0.19cm; text-indent: -0.37cm">第二章　<u>權利與保障</u></p></td></tr><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二十四條之一　<u>公務員</u>之權益救濟，應本公平、公正原則，依法審議決定。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>公務員依法提起權益救濟者，得向考試院申請法律扶助；其法律扶助由考試院另定之。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">各機關不得因<u>公務員</u>依法提起救濟而予以不公平對待或不利處分。</p></td><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第六十四條　<u>公務人員</u>之權益救濟，應本公平、公正原則，依法審議決定。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">各機關不得因<u>公務人員</u>依法提起救濟而予以不公平對待或不利處分。</p></td></tr><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 2.03cm; margin-right: 0.19cm; text-indent: -0.35cm"><span CLASS="sd-abs-pos" STYLE=" top: 0.63cm; left: -0.09cm; width: 820px"><hr></span>第六節　<u>培訓及進修</u></p></td><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 2.05cm; margin-right: 0.19cm; text-indent: -0.37cm">第六節　<u>保障及培訓</u></p></td></tr></table>
+提案人：鄭天財　　尤美女　　廖正井　　李貴敏　　王廷升
+尤委員美女等所提修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.11cm"><a NAME="TA2125666"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">公務人員基準法草案</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">現行條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm"><span CLASS="sd-abs-pos" STYLE=" top: 3.2cm; left: -0.12cm; width: 820px"><hr></span>第一條　為確立公務人員人事法制之基準，並規範權利、義務及管理基本原則，特制定本法；<u>本法未規定者，適用其他法律之規定。其他法律有與本法規定牴觸者，優先適用本條例。</u></p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">第一條　為確立公務人員人事法制之基準，並規範權利、義務及管理基本原則，特制定本法。</p></td></tr></tbody></table>
+提案人：尤美女
+連署人：鄭天財　　廖正井
+潘委員孟安等所提修正動議：
+按憲法第八章（第85條及第86條）及憲法增修條文第6條之規範意旨，公務人員係指經國家公開說明程序而任用之人員，則公務人員基準法草案（以下簡稱本草案）第3條將政務人員納入公務人員體系，似有與憲法牴觸之虞。次按本草案創設「常務人員」一詞，則現行人事法律名稱通稱之「公務人員基準法」，則必須配合本草案全部修改為「常務人員基準法」，法律名稱之文義解釋與體系解釋上，方屬一致；然尋此途反造成立法不經濟。爰建議將本草案名稱修正為「公務員基準法」，並將第三條修正為「公務員分為政務人員、公務人員、法官與檢察官」，以「公務人員」取代本草案所稱「常務人員」，本草案其餘條文中「公務人員」文字均一併修正為「公務員」，「常務人員」修正為「公務人員」；方與首開憲法及憲法增修條文之規範意旨相符。
+提案人：潘孟安　　尤美女　　柯建銘　　吳宜臻　　陳歐珀
+李委員貴敏等所提修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA4264490"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">公務人員基準法草案第二條修正動議對照表</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正動議條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">現行草案條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本法所稱公務人員，指於各級政府機關、公立學校（以下簡稱各機關）擔任組織法規所定編制內職務支領俸（薪）給之人員。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">前項規定不包括軍職人員、公立學校教師、派用人員、聘用人員、民選地方行政首長及依地方制度法規定以機要人員方式進用之人員。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm"><u>其他法律有關公務人員定義，與第一項規定牴觸者，應適用本法。但非屬人事之法律有特別規定者，不在此限。</u></p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本法所稱公務人員，指於各級政府機關、公立學校（以下簡稱各機關）擔任組織法規所定編制內職務支領俸（薪）給之人員。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">前項規定不包括軍職人員、公立學校教師、派用人員、聘用人員、民選地方行政首長及依地方制度法規定以機要人員方式進用之人員。</p></td></tr></tbody></table>
+提案人：李貴敏
+<hr>
+連署人：廖正井　　尤美女　　鄭天財　　陳歐珀　　王廷升　　林正二
+吳委員宜臻等所提修正動議：
+茲建議「公務人員基準法草案」條文之修正：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="400"><col WIDTH="403"><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><a NAME="TA8973962"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版制定條文</p></td></tr><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二十三條　公務人員依法令執行職務而涉訟時，其服務機關應延聘律師為其辯護及提供法律上之協助。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>前項情形，其涉訟係因公務人員之故意或重大過失所致者，其服務機關應向公務人員求償。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.71cm"><span CLASS="sd-abs-pos" STYLE=" top: 1.21cm; left: -0.09cm; width: 820px"><hr></span><u>公務人員因公涉訟輔助辦法，由考試院會同行政院定之。</u></p></td><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">第二十三條　公務人員依法令執行職務而涉訟時，其服務機關應延聘律師為其辯護及提供法律上之協助。</p></td></tr></table>
+提案人：吳宜臻　　潘孟安
+連署人：尤美女　　柯建銘
+吳委員宜臻等所提修正動議：
+茲建議「公務人員基準法草案」條文之修正：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="400"><col WIDTH="403"><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><a NAME="TA8768535"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版制定條文</p></td></tr><tr VALIGN="TOP"><td WIDTH="400" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 12.27cm; left: -0.09cm; width: 820px"><hr></span>第三十二條　公立學術研究或科技機構研究人員，提供研究發展成果予中央二級或相當二級以上機關核定技術轉移或與政府合作之民營營利事業者，經其服務機構許可後，得兼任該民營營利事業職務，或兼任董事、監察人；並得以技術作價取得該營利事業之股權，不受第三十四條第一項第五款及第七款規定限制。但均不得兼薪。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">公立學術研究或科技機構首長，實際參與研究者，經上級主管機關許可，得適用前項規定。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">前二項之兼職及技術作價取得之股權，服務機構應與民營營利事業訂定收取回饋金；其回饋金收取、比例及上限，由各公立學術研究或科技機構定之。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">前三項公立學術研究或科技機構及研究人員，由考試院會同行政院認定之。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.71cm"><span CLASS="sd-abs-pos" STYLE=" top: 3cm; left: -0.06cm; width: 820px"><hr></span>第一項、第三十一條及第三十四條第一項第五款之各項兼職許可之辦理方式<u>、</u>不予許可情事，<u>及研究人員兼任民營營利事業職務、董事或監察人之利益衝突監督</u>；其辦法，由考試院定之。</p></td><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第三十二條　公立學術研究或科技機構研究人員，提供研究發展成果予中央二級或相當二級以上機關核定技術轉移或與政府合作之民營營利事業者，經其服務機構許可後，得兼任該民營營利事業職務，或兼任董事、監察人；並得以技術作價取得該營利事業之股權，不受第三十四條第一項第五款及第七款規定限制。但均不得兼薪。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">公立學術研究或科技機構首長，實際參與研究者，經上級主管機關許可，得適用前項規定。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">前二項之兼職及技術作價取得之股權，服務機構應與民營營利事業訂定收取回饋金；其回饋金收取、比例及上限，由各公立學術研究或科技機構定之。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">前三項公立學術研究或科技機構及研究人員，由考試院會同行政院任定之。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">第一項、第三十一條及第三十四條第一項第五款之各項兼職許可之辦理方式及不予許可情事；其辦法，由考試院定之。</p></td></tr></table>
+提案人：吳宜臻　　潘孟安
+連署人：尤美女　　柯建銘
+尤委員美女等所提修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.11cm"><a NAME="TA921250"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">公務人員基準法草案</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">現行條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第三十二條　公立學術研究或科技機構研究人員，提供研究發展成果予中央二級或相當二級以上機關核定技術移轉或與政府合作之民營營利事業者，經其服務機構許可後，得兼任該民營營利事業職務，或兼任董事、監察人；並得以技術作價取得該營利事業之股權，不受第三十四條第一項第五款及第七款規定限制。但均不得兼薪。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">公立學術研究或科技機構首長，實際參與研究者，經上級主管機關許可，得適用前項規定。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>前二項之兼職及技術作價取得之股權，服務機構應與民營營利事業訂定收取回饋金。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>前三項之兼職任務及技術作價取得之股權上限、公立學術研究或科技機構及研究人員及回饋金之收取、比例、上限，由考試院會同行政院另以辦法定之。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">第一項、第三十一條及第三十四條第一項第五款之各項兼職許可之辦理方式及不予許可情事；其辦法，由考試院定之。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第三十二條　公立學術研究或科技機構研究人員，提供研究發展成果予中央二級或相當二級以上機關核定技術移轉或與政府合作之民營營利事業者，經其服務機構許可後，得兼任該民營營利事業職務，或兼任董事、監察人；並得以技術作價取得該營利事業之股權，不受第三十四條第一項第五款及第七款規定限制。但均不得兼薪。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">公立學術研究或科技機構首長，實際參與研究者，經上級主管機關許可，得適用前項規定。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">前二項之兼職及技術作價取得之股權，服務機構應與民營營利事業訂定收取回饋金；其回饋金收取、比例及上限，由各公立學術研究或科技機構定之。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm">前三項公立學術研究或科技機構及研究人員，由考試院會同行政院認定之。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">第一項、第三十一條及第三十四條第一項第五款之各項兼職許可之辦理方式及不予許可情事；其辦法，由考試院定之。</p></td></tr></tbody></table>
+提案人：尤美女
+<hr>
+連署人：鄭天財　　廖正井
+李委員貴敏等所提修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA392645"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">公務人員基準法草案第六十二條修正動議對照表</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正動議條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">現行草案條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第六十二條　公務人員之退休（職）、撫卹及保險，應兼顧國家資源分配、社會公益及公務人員經濟安全保障等原則，並以激勵公務人員奮勉從公、貫徹服務民眾之理念，合理建構完善制度。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>公務人員因違法、失職或怠忽職責，經移送懲戒或受刑事追訴者，前項退休（職）、撫卹及保險權益之申請應暫不受理或發放。如經懲戒處分確定或有罪確定者，前項退休（職）、撫卹及保險權益應予依法限制或剝奪。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">前<u>二</u>項退休（職）、撫卹<u>、</u>保險<u>及其權益之保障、限制或剝奪等</u>有關事項，另以法律定之。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第六十二條　公務人員之退休（職）、撫卹及保險，應兼顧國家資源分配、社會公益及公務人員經濟安全保障等原則，並以激勵公務人員奮勉從公、貫徹服務民眾之理念，合理建構完善制度。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">前項退休（職）、撫卹及保險有關事項，另以法律定之。</p></td></tr></tbody></table>
+提案人：李貴敏　　尤美女　　王廷升
+<hr>
+連署人：廖正井　　林正二　　鄭天財　　陳歐珀
+尤委員美女等所提修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA9233517"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">公務人員基準法草案</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">現行條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 2.83cm; left: -0.09cm; width: 820px"><hr></span>第七十一條　<u>考試院應於本法公布後六個月內，依本法規定修正、廢止或制（訂）定相關人事法規。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">本法施行日期，由考試院會同行政院定之。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">第七十一條　本法施行日期，由考試院會同行政院定之。</p></td></tr></tbody></table>
+提案人：尤美女
+連署人：鄭天財　　廖正井
+柯委員建銘等人提案：
+針對公務人員基準法草案內容有關公務人員定義包括政務人員部分，不僅有違憲之虞，立法架構上更充斥疊床架屋，並與其他法令相互扞格，甚至有關罰則部分亦缺乏明確性，因此要求退回公務人員基準法草案，不予審議。
+說明：
+一、由於公務人員基準法草案四進四出立法院，僅有一次大體審議，顯示本法草案審查之必要性備受質疑。
+二、為求立法審議，應另擇期召開公聽會，就立法之必要性及公務人員基準法之立法意旨，廣納各方之意見。
+提案人：柯建銘　　潘孟安　　吳宜臻　　尤美女
+尤委員美女等人提案：
+建請考試院會同行政院立即檢討非主管級人員領取主管職務加給的問題
+案由：鑑於民國90年3月30日由考試院會同行政院發布之公務人員加給給與辦法已將主管職務加給回歸正常法制，僅允任主管職務之人方得領之，惟礙於該辦法制定前，行政院針對特定職稱之公務人員無論是否任主管職均可領有主管職務加給已核定支給有案，為免影響原有公務人員之權益，因此於公務人員加給給與辦法第5條第3項規定「職責繁重、工作具有危險性之職務加給及工作性質特殊者之專業加給，在中華民國九十年三月三十日本辦法發布施行前，經行政院核定支給有案者，得不適用前二項之規定」。此一規定固然達到保障現職人員權益之目的，但卻同時造成不符法制之情況一再適用於新進或新任該職務之公務人員而永無落日可能，甚不合理。本席要求考試院會同行政院，應立即針對公務人員加給給與辦法制定前經行政院核定支給有案之「非主管者職務者」可領主管職務加給之部分予以檢討，並於三個月內提出改進之方法。是否有當？敬請公決。
+提案人：尤美女
+連署人：吳宜臻　　柯建銘　　潘孟安
+尤委員美女等人提案：
+《公務人員基準法草案》中關於公立學術研究或科技機構研究人員以技術作價取得股權部分，應如何針對產業別、研究者投資條件、限制門檻等事項加以規範，方能有效達到本草案第32條立法理由所示促成產學合作、技術研發之目的，又不會造成利益輸送及大開方便之門的弊端，有待相關權責機關及研究領域之學者專家共同討論方足以制定，建議本委員會於近期內召開公聽會，並廣納各方專業意見，以彙整共識。
+提案人：尤美女
+連署人：鄭天財　　廖正井
+主席：我們先來處理程序問題。現有兩個提案涉及程序問題，一個是提案A，建議退回公務人員基準法草案，不予審議。因為我們已經在審了，建議民進黨團是不是撤案？若不撤案，就進行處理因為現場司法及法制委員會的委員有超過5位。尤委員、吳委員是不是撤回不審議的提案？因為這是院會交付審查的法案，而且已經在審查了，退回也很奇怪。本席建議撤回提案A。那就撤回。提案C是開公聽會，針對內容涉及第三十二條的部分，我們等一下協商時再來做討論。
+報告委員會，提案條文及修正動議皆已宣讀完畢，現在進行逐條審查。審查過程中，若委員有意見，每位委員發言時間3分鐘。依照往例，有問題的條文就暫予保留，回過頭再來審查及協商。
+法案名稱因有提修正動議，所以暫予保留。
+第一章章名照行政院提案版本通過。
+第一條有修正動議，暫予保留。
+第二條有修正動議，暫予保留。
+第三條有修正動議，暫予保留。
+第四條照提案條文通過。
+第五條照提案條文通過。
+第六條照提案條文通過。
+第七條照提案條文通過。
+第八條照提案條文通過。
+第九條照提案條文通過。
+第二章章名暫予保留。
+第十條照提案條文通過。
+第十一條照提案條文通過。
+第十二條照提案條文通過。
+第十三條照提案條文通過。
+第十四條照提案條文通過。
+請尤委員美女發言。
+尤委員美女：主席、各位列席官員、各位同仁。因為大家對本法名稱究竟使用「公務人員」或「公務員」有意見，就會變成每一條條文若有牽涉到「公務人員」名稱的部分也變成要一起保留。
+主席：沒有關係，回過頭來我們也可以一起作處理，統一處理，配合改正即可。
+第十五條第二項「於一個月內敘明理由……」的「敘」打字時漏列了，增加一個「敘」字。第十五條修正通過。
+第十六條照提案條文通過。
+第十七條照提案條文通過。
+第十八條照提案條文通過。
+第十九條照提案條文通過。
+第二十條照提案條文通過。
+第二十一條照提案條文通過。
+第二十二條照提案條文通過。
+第二十三條暫保留。
+第二十四條照提案條文通過；修正動議第二十四條之一增列的部分保留。
+第三章章名照提案條文通過。
+第二十五條第二項「……函送銓敘部備查……」的「敘」字也漏列，增加一個「敘」字，第二十五條修正通過。
+第二十六條照提案條文通過。
+第二十七條照提案條文通過。
+第二十八條照提案條文通過。
+第二十九條照提案條文通過。
+第三十條照提案條文通過。
+第三十一條照提案條文通過。
+第三十二條暫予保留。
+第三十三條暫予保留。
+第三十四條暫予保留。
+第三十五條照提案條文通過。
+第三十六條照提案條文通過。
+第三十七條照提案條文通過。
+第三十八條照提案條文通過。
+第三十九條照提案條文通過。
+第四十條照提案條文通過。
+第四十一條照提案條文通過。
+第四十二條照提案條文通過。
+第四十三條暫予保留。
+第四十四條照提案條文通過。
+第四十五條照提案條文通過。
+第四十六條照提案條文通過。
+第四章章名照提案條文通過。
+第一節節名照提案條文通過。
+第四十七條照提案條文通過。
+第四十八條暫予保留。
+第四十九條照提案條文通過。
+第二節節名照提案條文通過
+第五十條暫予保留。
+第五十一條照提案條文通過。
+第五十二條第二項最後一段也是漏列2個字，「應送銓敘部銓敘審定」，本條暫予保留。
+第五十三條照提案條文通過。
+第三節節名照提案條文通過。
+第五十四條照提案條文通過。
+第五十五條暫予保留。
+第五十六條照提案條文通過。
+第五十七條照提案條文通過。
+第四節節名照提案條文通過。
+第五十八條照提案條文通過。
+第五十九條照提案條文通過。
+第六十條照提案條文通過。
+第六十一條照提案條文通過。
+第五節節名照提案條文通過。
+第六十二條暫予保留。
+第六十三條照提案條文通過。
+第六節節名暫予保留。
+第六十四條暫予保留。
+第六十五條照提案條文通過。
+第六十六條暫予保留。
+第六十七條暫予保留。
+第五章章名照提案條文通過。
+第六十八條暫予保留。
+第六十九條照提案條文通過。
+第七十條暫予保留。
+第七十一條暫予保留。
+第三十一條修正為暫予保留。
+吳委員宜臻：（在席位上）第六十三條保留。
+主席：第六十三條暫予保留。
+王委員廷升：（在席位上）第四十六條討論一下。
+主席：會，等一下我們會進行討論。第四十六條改為保留。
+報告審查會，保留的部分包括法案名稱、第一條、第二條、第三條、第二章章名、第二十三條、第二十四條之一、第三十一條、第三十二條、第三十三條、第三十四條、第四十三條、第四十六條、第四十八條、第五十條、第五十二條、第五十五條、第六十二條、第六十三條、第六十四條、第六十六條、第六十七條、第六十八條、第七十條、第六節節名、第七十一條。
+尤委員美女：（在席位上）加第十七條暫予保留。
+主席：第十七條暫予保留。現在休息協商。等一下對於各條有意見的，請在發言台發言，每位委員發言時間3分鐘。針對法案名稱先發言。
+請鄭委員天財發言。
+鄭委員天財：主席、各位列席官員、各位同仁。有關法案名稱要用公務人員基準法或公務員基準法。
+吳委員宜臻：（在席位上）上面會議狀態要改為發言。
+主席：逐條審查。
+鄭委員天財：我們從刑法對公務員的定義，還有從公務員服務法的定義、國家賠償法對公務員的定義，都是比較廣義的，而公務人員是比較狹義的，以上是第一點。第二點，銓敘部、考試院在提出公務人員基準法的時候，也特別提到是從公務人員服務法轉換、提升到更好的內容，所以是從公務員服務法轉換為公務人員基準法，所以名稱還是以「公務員」較為適當。如果從憲法的規定來看，不管是憲法本文或增修條文都寫得很明確，憲法第八十五條規定，公務人員之選拔，應實行公開競爭之考試制度。第八十六條也特別提到，公務人員的任用資格必須經過考試院依法考選詮定之。從這幾個條文來看，我認為使用「公務員」會比較恰當，而且考試院銓敘部給我的說明，對於為什麼可以用「公務人員」而不牴觸憲法的理由，我認為是很牽強的，憲法第四十一條是規定總統依法任免文武官員，並沒有很明確說公務人員包含政務人員。再談到監察委員的職掌，並沒有規定中央及地方公務人員包含政務人員，監察院可以彈劾政務人員是另外依照監察法等相關規定處理。而且你們提到憲法第八十五條、第八十六條，認為政務人員的退職是考試院職掌，事實上，從憲法第八十五條、第八十六條也看不出來。如果從憲法或增修條文的規定來看，用「公務人員」是一個很狹隘的，而且公務人員任用法就不包括法官、檢察官。如果我們現在把法案名稱定為公務人員基準法，是不是又混淆了大家已經習慣公務人員就是指依法考試任用的這些人？以上建議。
+主席：請李委員俊俋發言。
+李委員俊俋：主席、各位列席官員、各位同仁。有關法案名稱，本席有兩點意見，第一，根據憲法第八十五條、第八十六條、憲法增修條文，有關公務人員都是作比較限縮的定義，第八十五條指的是經過考試的，就是我們一般所稱的常務人員，所以，如果要將本法作為將來廣義的公務員的基準法，而使用作限縮性的公務人員這樣的名稱是不適當的，所以本席建議在這個部分，第一個以憲法的角度來看，比較適宜作廣義的解釋，所以應該採公務員基準法的名稱比較妥適。第二個部分，我記得在大體討論時，本席曾經請教過張部長，也提過本法最主要立法的目的是為了改變過去公務員服務法已經長久未修正，而且已經跟現在的時代有所脫離，所以有必要針對公務員相關的基準法規，甚至把所有的權利義務、救濟保障都規範在裡面，所以這部分還是比較適合作廣義的公務員的定義，所以，基於憲法的理由，基於本法原來立法的意旨是為了調整公務員服務法的部分，本席還是建議本法應該正名為公務員基準法。
+主席：這個部分要不要請張部長作綜合說明？還有沒有委員要針對法案名稱發言？
+請尤委員美女發言。
+尤委員美女：主席、各位列席官員、各位同仁。本法在此要先界定兩個概念，公務員與公務人員到底哪一個是狹義的？哪一個是廣義的？依照憲法第八十五條、第八十六條的規定，公務人員必須經過考試而取得資格，顯然公務人員是比較狹義的定義。今天我們要規範的不只是經過考試任用的這些公務人員，還包括其他的聘用人員、派用人員等等準用的人員，所以這裡應該要以廣義的公務員來界定，所以本席建議草案的名稱應該用公務員這個比較廣義的定義，用公務員的名稱才能涵蓋非經過考試而取得資格的這些人，而以準用的方式納入規範，所以本席建議本法的名稱改為公務員基準法。
+主席：請銓敘部張部長說明。
+張部長哲琛：主席、各位委員。在此向各位委員提出四點說明，第一點，實際上我們現在訂定公務人員基準法是一個人事法規，最主要的目的是作為我們現在所有人事法規裡面最高階的人事法規，與一般作用法性質不一樣，所以目前有關公務員懲戒法、刑法相關規定，它有它的特殊目的，我們當時訂定的目的是作為一個人事法規。
+第二點，從行憲以後，在人事法規還是用公務員這三個字的只有兩個法規，一個是公務員服務法，一個是公務員陞遷法，實際上在行憲以後，所有的人事法規都是歸到公務人員，而且每個法規的公務人員涵蓋的範圍都規定得非常清楚。
+第三點，這個案子在草擬的時候，經過無數次的座談會，以及邀請學者專家，我們在89年、91年、95年的版本，即使是在民進黨執政時期，還是現在，提出來的法案名稱都是採用公務人員。
+第四點，剛才委員提到是否與憲法的規定不相吻合？事實上我們要考慮到當時憲法訂定的立法意旨，依憲法第八十五條、第八十六條規定，公務人員一定要經過考試及格，但是在實際上，在實務上，現職的公務人員也有未經考試及格的，例如各機關的聘任人員，都沒有經過考試及格，立法意旨是說公務人員希望在政府機關服務的話，都要經過考試及格，但實際上，沒有經過考試及格的人員也是現實上存在，也是我們在公務人員基準法所規範的公務人員。而各位委員提到的，如果公務人員指狹義的定義，沒有包括特任官，我們就從憲法第九十七條來看，憲法第九十七條規定：監察院對於中央及地方公務人員，認為有失職或違法情事，得提出糾舉案或彈劾案，如涉及刑事，應移送法院辦理。剛才鄭天財委員還是認為這只規範常任文官，實際上現在監察院按照憲法第九十七條行使職權的對象當然包括政務人員，實際上政務人員被監察院糾舉或彈劾的案子層出不窮，如果認為對政務人員的糾舉或彈劾是按照監察院的監察法處理，各位委員可以想想看，是不是監察法違憲了？所以對於當時憲法明文的規定，我們必須要研究當時憲法訂定的本意。所以現在要更動的話，等於所有相關的條文都要更動，而且我們現在所有的人事法規一共190幾種，全部都用公務人員，如果要調整的話，等於要調整所有現行的人事法規。修憲以後我們都沒有用公務員的名稱，都是用公務人員作為法案名稱。以上補充說明，懇請各位委員支持。
+主席：現在部長講的，第一點，憲法第八十五條也是寫公務人員。第八十六條第一項第一款寫公務人員任用資格及第九十七條寫監察院行使職權針對中央及地方公務人員，第九十八條也是寫中央及地方公務人員。我想考試院和行政院有會銜過，都有討論過，是不是照提案版本？
+請李委員俊俋第二次發言。
+李委員俊俋：主席、各位列席官員、各位同仁。剛才張部長其實報告得很清楚，正因為如此，我國的公務員法規實在多如牛毛，其實我個人也曾在銓敘部服務過，到現在還是搞不清楚我們的法規是什麼，裡面的規定相當相當的複雜，既然這個法令要作為基準法，要作為所有人事相關法規的母法，它本來就要作最適切的定義，我們在這個基準法已經把政務人員納入，如果把政務人員納入，其實就不適合再用公務人員的定義，至於部長提到這涉及190多種相關法規都要修正，我認為沒有這麼複雜，公務人員的定義如果限縮在常任文官，其實沒有那麼複雜，也沒有那麼多需要修正的，但是一定要落實的是什麼？既然它要作為公務人員法的基準法，還是應該作最妥適的定義的規範，也就是說，如果你要把政務人員納入規範，它就不是憲法第八十五條、第八十六條、增修條文第六條所定義的公務人員，我認為本法的名稱應該還是用公務員基準法比較適切。
+主席：我要提醒一下，因為憲法的位階是最高的，我們可能會以憲法來作為基準，而且我們在修基準法，是一個上位法，法律當然不能逾越憲法的規定，除非去修憲。另外，包括這個基準法，並不是考試院想怎麼修就怎麼修，因為憲法增修條文就有明定，包括組改，我們也是先制定中央行政機關組織基準法，機關組織有個基準法，所以我們公務員也好、公務人員也好，也有一個基準法，也符合憲法增修條文的要求。
+請鄭委員天財發言。
+鄭委員天財：主席、各位列席官員、各位同仁。召集委員講得非常正確，在不修憲的情況下來訂定本法，這是非常正確的。因為憲法對於公務人員寫得很明確，就是公務人員之選拔應實行公開競爭之考試制度，又規定公務人員的任用資格應經考試院考選詮定之，但是政務人員的任用並沒有依照這個規定，所以對於剛才銓敘部所說的監察委員的職掌，那是另外一個解釋，監察委員對於中央及地方的公務人員在什麼情況下可以依法彈劾，現在包含了政務人員，那是另外一個解釋，所以非常明確的，對於公務人員是要依法任用、要考試的，這是非常明確的。
+另外，剛才提到到底要用公務員或公務人員，哪一個要修的法比較多？如果用公務員的話，其他法不用修，因為現在有的法叫做公務人員任用法、公務人員俸給法、公務人員考績法、公務人員保障法，還有很多很多叫作公務人員某某法，大概十幾個法都叫做公務人員某某法，而這些都是經過考試任用的，都不包含政務人員，而且這裡面還有很多不包含法官和檢察官，所以要修更多的法。如果我們用公務員基準法，大概沒有什麼法要修的。
+主席：請吳委員宜臻發言。
+吳委員宜臻：主席、各位列席官員、各位同仁。我再補充一條，其實我們憲法增修條文第六條也明定什麼叫做公務人員，關於考試院職掌的部分，它就會去處理所謂的公務人員的銓敘、保障、撫卹、退休與任免、考績、級俸、陞遷、褒獎，也就是說公務人員在我們目前法律的架構中，是受相關的保障，當然，裡面就不包含政務人員的部分。如果說沒有錯的話，目前在公法理論中，我們經常會舉一些例子，就是在刑法第十條的公務員指的就是依法令執行公務之人員，它其實是最廣義的公務員，在這個法律的架構下，最廣義的公務員可能就包含政務人員。今天我們在司法委員會修法的時候，我們自己都在討論這個法律應該要適用到政務人員，甚至要適用到法官、檢察官，可是我們在名稱上卻把它變成公務人員基準法，這與我們過去的公法理論、與我們過去在解讀刑法第十條定義依法令執行公務之人員叫做公務員這樣最廣義的部分，事實上是不太一樣的，所以在法律名稱上，我補充憲法增修條文第六條及刑法第十條廣義的定義，提供給各位委員及官員參考，希望名稱上能修正。
+主席：我們先休息協商，可能剛才張部長沒有說清楚，我們今天所提的修正版本公務人員基準法，大家的爭點可能一個是針對考試進來的公務員呢？還是泛指從事公務的人員，包括政務人員有沒有受到約制？應該是範圍界定的問題，我們先休息協商。
+休息
+繼續開會
+主席：現在繼續開會，補宣讀新增修正動議。
+廖委員正井等所提修正動議：
+建議增訂公務人員基準法草案第三十三條內容，修正條文如下：
+第三十三條　　公務人員應遵守行政中立；有關行政中立事項，另以法律定之。但為保障公務人員參政權，公務人員自參與政黨初選登記日起，本人及其具有公務人員身分之配偶得辦理留職停薪，留職停薪期間不受公務人員行政中立法之限制。
+為落實行政中立，凡政務人員、機要人員、法官與檢察官，自參與政黨初選登記日起，應先辭職。
+提案人：陳歐珀　　李俊俋　　吳宜臻　　廖正井　　尤美女　　王廷升
+主席：本日會議作如下決定：
+請考試院會同行政院人事總處及相關機關，就委員所提修正動議及發言意見，研擬妥適條文，於下次會議審查時，提供委員參考。
+本案另定期繼續逐條審查，現在散會。
+散會（16時40分）

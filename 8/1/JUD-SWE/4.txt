@@ -1,0 +1,531 @@
+立法院第8屆第1會期司法及法制、社會福利及衛生環境委員會第4次聯席會議紀錄
+時　　間　101年6月7日（星期四）下午2時33分
+地　　點　本院紅樓302會議室
+主　　席　呂委員學樟
+主席：出席委員已足法定人數，開會。進行報告事項。
+報　告　事　項
+一、宣讀上次會議議事錄。
+<hr>
+立法院第8屆第1會期司法及法制、社會福利及衛生環境委員會第3次聯席會議議事錄
+時　　間：中華民國101年5月30日（星期三）上午9時至12時37分、下午2時31分至5時28分
+地　　點：本院紅樓302會議室
+出席委員：王育敏　　吳宜臻　　林正二　　鄭天財　　趙天麟　　陳節如　　陳歐珀　　廖正井　　江惠貞　　李貴敏　　尤美女　　蘇清泉　　田秋堇　　林世嘉　　王惠美　　潘孟安　　劉建國　　呂學樟　　徐少萍　　鄭汝芬　　王廷升　　楊玉欣　　林國正　　吳育仁　　蔡錦隆　　楊　曜　　柯建銘　　謝國樑
+委員出席28人
+列席委員：楊麗環　　江啟臣　　蔡煌瑯　　黃偉哲　　蕭美琴　　蔡其昌　　段宜康　　李桐豪　　林佳龍　　邱文彥　　陳碧涵　　徐欣瑩　　邱志偉　　簡東明　　管碧玲　　蔣乃辛　　許添財　　陳亭妃　　李俊俋　　許智傑　　劉櫂豪　　蘇震清　　陳明文　　楊瓊瓔　　徐耀昌　　吳育昇　　潘維剛　　高金素梅　吳秉叡　　呂玉玲　　薛　凌　　張嘉郡　　林岱樺　　林鴻池　　林滄敏　　李慶華
+委員列席36人
+<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="412"><col WIDTH="300"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院衛生署署長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">邱文達</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 2.25cm; margin-right: 0.19cm">副署長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">賴進祥</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">中央健康保險局局長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">戴桂英</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">食品藥物管理局局長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">康照洲</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">疾病管制局局長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張峰義</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國民健康局局長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">邱淑媞</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">中醫藥委員會主任委員</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃林煌</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院研究發展考核委員會副主任委員</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">宋餘俠</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院人事行政總處副人事長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">顏秋來</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">銓部政務次長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳聰成</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處公務預算處專門委員</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳鈞富</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部社會司司長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">簡慧娟</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.51cm; margin-right: 0.19cm">家庭暴力及性侵害防治委員會執行秘書</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李美珍</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.51cm; margin-right: 0.19cm">國民年金監理會組長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">徐碧雲</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部兒童局局長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">張秀鴛</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">教育部人事處專門委員</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃靜華</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院勞工委員會勞工保險局人事室科長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">劉鴻嫻</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="412" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">外交部人事處組長</p></td><td WIDTH="300" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">薛秀媚</p></td></tr></table>
+主　　席：呂召集委員學樟
+專門委員：陳清雲
+主任秘書：劉彥麟
+紀　　錄：簡任秘書　蘇純淑
+簡任編審　葉育彰
+科　　長　周厚增
+報　告　事　項
+宣讀上次會議議事錄。
+決定：確定。
+討　論　事　項
+一、併案審查行政院函請審議「衛生福利部組織法草案」、本院委員趙天麟等20人擬具「衛生福利部組織法草案」、本院委員王育敏等45人擬具「衛生福利部組織法草案」及本院台灣團結聯盟黨團擬具「衛生福利部組織法草案」案。
+二、審查行政院函請審議「衛生福利部疾病管制署組織法草案」案。
+三、審查行政院函請審議「行政院衛生署食品藥物管理局組織法修正草案」案。
+四、審查行政院函請審議「行政院衛生署中央健康保險局組織法修正草案」案。
+五、審查行政院函請審議「衛生福利部國民健康署組織法草案」案。
+六、審查行政院函請審議「衛生福利部中醫藥研究所組織法草案」案。
+（本次會議有委員王育敏、吳宜臻、趙天麟、鄭天財、林正二、廖正井、尤美女、李貴敏、江惠貞、潘孟安、陳歐珀、蘇清泉、林世嘉、王惠美、陳節如、李俊俋、呂學樟、徐少萍、王廷升、林國正、黃偉哲、林岱樺、劉建國、許添財、楊玉欣、許智傑、鄭汝芬提出質詢；委員吳育仁、張嘉郡、蘇震清、謝國樑、楊曜、江啟臣等提出書面質詢）
+決議：
+一、報告及詢答完畢，另定期繼續審查。
+二、請行政院衛生署會同行政院研究發展考核委員會、行政院人事行政總處及相關機關，就委員發言意見與所提修正動議，除先與委員溝通外，並研擬妥適條文，於下次會議進行審查時提供委員參考。
+三、委員質詢時，要求提供相關資料或以書面答復者，請相關機關儘速送交個別委員及本聯席會。
+四、本（101）年5月31日（星期四）上午9時至12時、下午2時30分至5時30分，召開之司法及法制、教育及文化委員會第3次聯席會議，議事日程增列討論事項第二案：審查本院委員許智傑等19人擬具「衛武營藝術中心設置條例草案」案，請相關機關派員列席。
+散會
+<hr>
+主席：請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。
+進行討論事項。
+討　論　事　項
+一、繼續併案審查(一)行政院函請審議「衛生福利部組織法草案」、(二)委員趙天麟等20人擬具「衛生福利部組織法草案」、(三)委員王育敏等45人擬具「衛生福利部組織法草案」、(四)台灣團結聯盟黨團擬具「衛生福利部組織法草案」及(五)委員江惠貞等22人擬具「衛生福利部組織法草案」案。
+二、繼續審查行政院函請審議「衛生福利部疾病管制署組織法草案」案。
+三、繼續審查行政院函請審議「行政院衛生署食品藥物管理局組織法修正草案」案。
+四、繼續審查行政院函請審議「行政院衛生署中央健康保險局組織法修正草案」案。
+五、繼續審查行政院函請審議「衛生福利部國民健康署組織法草案」案。
+六、繼續審查行政院函請審議「衛生福利部中醫藥研究所組織法草案」案。
+主席：報告聯席會，本次會議新增江委員惠貞等22人擬具「衛生福利部組織法草案」案，併案審查。
+請江委員惠貞說明提案旨趣。（不在場）江委員不在場。
+報告聯席會，有關討論事項各案，上次聯席會審查決議：「報告及詢答完畢，另定期繼續審查。」現在就繼續審查。如果各位委員沒有意見，本次會議省略大體討論，直接進行逐條審查。
+請議事人員宣讀提案條文。
+一、衛生福利部組織法草案部分：
+行政院提案條文：
+名稱　衛生福利部組織法
+趙委員天麟等20人提案條文：
+名稱　衛生福利部組織法
+王委員育敏等45人提案條文：
+名稱　衛生福利部組織法
+台灣團結聯盟黨團提案條文：
+名稱　衛生福利部組織法
+江委員惠貞等22人提案條文：
+名稱　衛生福利部組織法
+行政院提案條文：
+第　一　條　　行政院為辦理全國衛生及福利業務，特設衛生福利部（以下簡稱本部）。
+趙委員天麟等20人提案條文：
+第　一　條　　行政院為辦理全國衛生及福利業務，特設衛生福利部（以下簡稱本部）。
+王委員育敏等45人提案條文：
+第　一　條　　行政院為辦理全國衛生及福利業務，特設衛生福利部（以下簡稱本部）。
+台灣團結聯盟黨團提案條文：
+第　一　條　　行政院為辦理全國衛生及福利業務，特設衛生福利部（以下簡稱本部）。
+江委員惠貞等22人提案條文：
+第　一　條　　行政院為辦理全國衛生及福利業務，特設衛生福利部（以下簡稱本部）。
+行政院提案條文：
+第　二　條　　本部掌理下列事項：
+一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。
+二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。
+三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。
+四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。
+六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。
+七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。
+八、中醫藥發展之政策規劃、管理、監督及研究。
+九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。
+十、其他有關衛生福利事項。
+趙委員天麟等20人提案條文：
+第　二　條　　本部掌理下列事項：
+一、衛生福利政策、法令、資源與服務之規劃、管理及監督。
+二、衛生福利事務之調查研究、管制考核、政策宣導、科技發展及國際合作。
+三、國民年金、全民健康保險、長期照護保險之政策規劃、管理及監督。
+四、社會救助、社會照顧、福利服務與社區發展之政策規劃、管理及監督。
+五、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+六、衛生福利人力資源之政策規劃、培訓、發展及管理。
+七、心理健康與物質成癮防治之政策規劃、管理及監督。
+八、中醫藥發展之政策規劃、管理、監督及研究。
+九、所屬中醫藥研究、社會福利與醫療機構之督導、協調及推動。
+十、其他有關衛生福利事項。
+王委員育敏等45人提案條文：
+第　二　條　　本部掌理下列事項：
+一、衛生福利政策、法令、資源與服務之規劃、管理及監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。
+二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。
+三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。
+四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。
+六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。
+七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。
+八、中醫藥發展之政策規劃、管理、監督及研究。
+九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。
+十、其他有關衛生福利事項。
+台灣團結聯盟黨團提案條文：
+第　二　條　　本部掌理下列事項：
+一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。
+二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。
+三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。
+四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。
+六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。
+七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。
+八、中醫藥發展之政策規劃、管理、監督及研究。
+九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。
+十、其他有關衛生福利事項。
+江委員惠貞等22人提案條文：
+第　二　條　　本部掌理下列事項：
+一、衛生福利政策、法令、資源與服務之規劃、管理及監督。
+二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。
+三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。
+四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。
+六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。
+七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。
+八、中醫藥發展之政策規劃、管理、監督及研究。
+九、所屬中醫藥研究、醫療機構與社會福利之督導、協調及推動。
+十、口腔健康及醫療政策之政策規劃、管理、監督及研究。
+十一、其他有關衛生福利事項。
+行政院提案條文：
+第　三　條　　本部置部長一人，特任；政務次長二人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等。
+趙委員天麟等20人提案條文：
+第　三　條　　本部置部長一人，特任；政務次長二人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等。
+王委員育敏等45人提案條文：
+第　三　條　　本部置部長一人，特任；政務次長二人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等。
+台灣團結聯盟黨團提案條文：
+第　三　條　　本部置部長一人，特任；政務次長二人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等。
+江委員惠貞等22人提案條文：
+第　三　條　　本部置部長一人，特任；政務次長二人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等。
+行政院提案條文：
+第　四　條　　本部置主任秘書，職務列簡任第十二職等。
+趙委員天麟等20人提案條文：
+第　四　條　　本部置主任秘書，職務列簡任第十二職等。
+王委員育敏等45人提案條文：
+第　四　條　　本部置主任秘書，職務列簡任第十二職等。
+台灣團結聯盟黨團提案條文：
+第　四　條　　本部置主任秘書，職務列簡任第十二職等。
+江委員惠貞等22人提案條文：
+第　四　條　　本部置主任秘書，職務列簡任第十二職等至第十三職等。
+行政院提案條文：
+第　五　條　　本部之次級機關及其業務如下：
+一、疾病管制署：規劃與執行傳染病之預防及管制事項。
+二、食品藥物管理署：規劃與執行食品、藥物與化粧品之管理、查核及檢驗事項。
+三、中央健康保險署：規劃及執行全民健康保險事項。
+四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。
+五、社會及家庭署：規劃與執行老人、身心障礙者、婦女、兒童及少年福利及家庭支持事項。
+六、國民年金局：執行國民年金事項。
+國民年金局未設立前，其業務得委託其他政府機關（構）執行。
+趙委員天麟等20人提案條文：
+第　五　條　　本部之次級機關及其業務如下：
+一、疾病管制署：規劃與執行傳染病之預防及管制事項。
+二、食品藥物管理署：規劃與執行食品、藥物與化粧品之管理、查核及檢驗事項。
+三、中央健康保險署：規劃及執行全民健康保險事項。
+四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。
+五、社會及家庭署：規劃及執行老人、身心障礙者、婦女及家庭支持事項福利。
+六、兒童及少年福利署：全國性兒童福利之策劃、委辦、督導及與家庭有關之兒童福利事項。
+七、國民年金局：執行國民年金事項。
+國民年金局未設立前，其業務得委託其他政府機關（構）執行。
+王委員育敏等45人提案條文：
+第　五　條　　本部之次級機關及其業務如下：
+一、疾病管制署：規劃與執行傳染病之預防及管制事項。
+二、食品藥物管理署：規劃與執行食品、藥物與化粧品之管理、查核及檢驗事項。
+三、中央健康保險署：規劃及執行全民健康保險事項。
+四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。
+五、家庭福利署：規劃與執行兒童及少年、老人、身心障礙者、婦女福利與權益、人口政策、家庭支持及長期照顧事項。
+六、國民年金局：執行國民年金事項。
+國民年金局未設立前，其業務得委託其他政府機關（構）執行。
+台灣團結聯盟黨團提案條文：
+第　五　條　　本部之次級機關及其業務如下：
+一、疾病管制署：規劃與執行傳染病之預防及管制事項。
+二、食品藥物管理署：規劃與執行食品、藥物與化粧品之管理、查核及檢驗事項。
+三、中央健康保險署：規劃及執行全民健康保險事項。
+四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。
+五、社會及家庭署：規劃與執行老人、身心障礙者、婦女及家庭支持事項。
+六、兒童及少年福利署：全國性兒童及少年福利與發展策劃、委辦及督導等事項。
+七、國民年金局：執行國民年金事項。
+國民年金局未設立前，其業務得委託其他政府機關（構）執行。
+江委員惠貞等22人提案條文：
+第　五　條　　本部之次級機關及其業務如下：
+一、疾病管制署：規劃與執行傳染病之預防及管制事項。
+二、食品藥物管理署：規劃與執行食品、藥物與化粧品之管理、查核及檢驗事項。
+三、中央健康保險署：規劃及執行全民健康保險事項。
+四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。
+五、社會及家庭署：規劃與執行老人、身心障礙者、婦女、兒童及少年福利及家庭支持事項。
+六、國民年金局：執行國民年金事項。
+國民年金局未設立前，其業務得委託其他政府機關（構）執行。
+行政院提案條文：
+第　六　條　　本部為應業務需要，得報經行政院核准，派員駐境外辦事，並依駐外機構組織通則規定辦理。
+趙委員天麟等20人提案條文：
+第　六　條　　本部為應業務需要，得報經行政院核准，派員駐境外辦事，並依駐外機構組織通則規定辦理。
+王委員育敏等45人提案條文：
+第　六　條　　本部為應業務需要，得報經行政院核准，派員駐境外辦事，並依駐外機構組織通則規定辦理。
+台灣團結聯盟黨團提案條文：
+第　六　條　　本部為應業務需要，得報經行政院核准，派員駐境外辦事，並依駐外機構組織通則規定辦理。
+江委員惠貞等22人提案條文：
+第　六　條　　本部為應業務需要，得報經行政院核准，派員駐境外辦事，並依駐外機構組織通則規定辦理。
+行政院提案條文：
+第　七　條　　本部有關醫事業務司司長或副司長其中一人及技監、簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本部各職稱之官等職等或級別及員額，另以編制表定之。
+趙委員天麟等20人提案條文：
+第　七　條　　本部有關醫事業務司司長或副司長其中一人及技監、簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本部各職稱之官等職等及員額，另以編制表定之。
+王委員育敏等45人提案條文：
+第　七　條　　本部有關醫事業務司司長或副司長其中一人及技監、簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本部各職稱之官等職等或級別及員額，另以編制表定之。
+台灣團結聯盟黨團提案條文：
+第　七　條　　本部有關醫事業務司司長或副司長其中一人及技監、簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本部各職稱之官等職等或級別及員額，另以編制表定之。
+江委員惠貞等22人提案條文：
+第　七　條　　本部有關醫事業務司司長或副司長其中一人及技監、簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本部各職稱之官等職等及員額，另以編制表定之。
+行政院提案條文：
+第　八　條　　本法施行日期，由行政院以命令定之。
+趙委員天麟等20人提案條文：
+第　八　條　　本法施行日期，由行政院以命令定之。
+王委員育敏等45人提案條文：
+第　八　條　　本法施行日期，由行政院以命令定之。
+台灣團結聯盟黨團提案條文：
+第　八　條　　本法施行日期，由行政院以命令定之。
+江委員惠貞等22人提案條文：
+第　八　條　　本法施行日期，由行政院以命令定之。
+二、衛生福利部疾病管制署組織法草案部分：
+名稱　衛生福利部疾病管制署組織法
+第　一　條　　衛生福利部為辦理傳染病之預防及管制業務，特設疾病管制署（以下簡稱本署）。
+第　二　條　　本署掌理下列事項：
+一、傳染病預防與管制（以下稱防疫）政策之規劃、執行及相關法規之研擬。
+二、各種傳染病（以下稱疫病）之預防、控制、調查、研究及檢驗。
+三、國內疫病之通報、疫情監視與國際疫情之蒐集及交換。
+四、疫病爆發之因應整備及緊急應變處理。
+五、防疫藥物、公費疫苗、生物製劑之供應及法定傳染病之預防接種。
+六、國際港埠之疫病檢查（以下稱檢疫）與衛生管理及外籍勞工之衛生管理。
+七、疫病檢驗方法之訂定及檢驗認證、生物安全管理。
+八、防疫及檢疫專業人員之培訓。
+九、防疫與檢疫業務之國際合作及交流。
+十、其他有關疫病管制事項。
+第　三　條　　本署置署長一人，職務列簡任第十三職等；副署長二人，職務列簡任第十二職等。
+前項人員中二人，得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+第　四　條　　本署置主任秘書，職務列簡任第十一職等。
+第　五　條　　本署之研究員及副研究員，得比照教育人員任用條例相關規定聘任之；其退休、撫卹比照教師相關規定辦理，並報衛生福利部核定。
+第　六　條　　本署各組組長或副組長其中一人、各中心主任或副主任其中一人及簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本署得置醫事人員，其任用依醫事人員人事條例之規定。
+本署各職稱之官等職等或級別及員額，另以編制表定之。
+第　七　條　　本法施行前，行政院衛生署疾病管制局依原行政院衛生署預防醫學研究所組織條例第九條規定聘任之研究人員，依原組織條例之規定聘任。
+第　八　條　　本法施行日期，由行政院以命令定之。
+三、行政院衛生署食品藥物管理局組織法修正草案部分：
+名稱　衛生福利部食品藥物管理署組織法
+第　一　條　　衛生福利部為辦理食品、藥物與化粧品之管理、查核及檢驗業務，特設食品藥物管理署（以下簡稱本署）。
+第　二　條　　本署掌理下列事項：
+一、食品、藥物、化粧品（以下簡稱食品藥物化粧品）管理政策之規劃與執行及相關法規之研擬。
+二、食品藥物化粧品之查驗登記、審核、給證、備查與藥物人體試驗之審查及監督。
+三、食品藥物化粧品業者之生產流程管理、輸入查（檢）驗、流通、稽查、查核及輔導。
+四、食品藥物化粧品之檢驗、研究、實驗室認證、風險評估與風險管理及中藥、植物性藥材之檢驗。
+五、食品藥物化粧品之安全監視、危害事件調查及處理。
+六、管制藥品之稽核、通報、預警、教育宣導與第一級、第二級管制藥品之輸入、輸出、製造及販賣。
+七、食品藥物化粧品消費者保護措施之推動。
+八、食品藥物化粧品事務之國際合作及境外管理作業。
+九、其他有關食品藥物化粧品之管理事項。
+第　三　條　　本署置署長一人，職務列簡任第十三職等；副署長二人，職務列簡任第十二職等。
+前項人員中二人，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+第　四　條　　本署置主任秘書，職務列簡任第十一職等。
+第　五　條　　本署之研究員及副研究員，必要時得比照教育人員任用條例相關規定聘任之；其退休、撫卹比照教師相關規定辦理，並報衛生福利部核定。
+第　六　條　　本署各組組長或副組長其中一人及簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本署各職稱之官等職等或級別及員額，另以編制表定之。
+第　七　條　　本法施行日期，由行政院以命令定之。
+四、行政院衛生署中央健康保險局組織法修正條文草案部分：
+名稱　衛生福利部中央健康保險署組織法
+第　一　條　　衛生福利部為辦理全民健康保險業務，特設中央健康保險署（以下簡稱本署）。
+第　二　條　　本署掌理下列事項：
+一、全民健康保險業務之政策綜合規劃。
+二、全民健康保險承保業務之規劃及執行。
+三、全民健康保險財務業務之規劃及執行。
+四、全民健康保險醫療給付業務、醫療費用支付業務及醫務管理業務之規劃及執行。
+五、全民健康保險藥品特材業務之規劃及執行。
+六、全民健康保險醫療服務審查業務與醫療品質提升業務之規劃及執行。
+七、全民健康保險資訊業務之規劃及執行。
+八、其他有關全民健康保險業務事項。
+第　三　條　　本署置署長一人，職務比照簡任第十三職等或列簡任第十三職等；副署長二人，職務列簡任第十二職等。
+前項人員中二人，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+第　四　條　　本署置主任秘書，職務列簡任第十一職等。
+第　五　條　　本署掌理第二條第四款、第五款及第六款業務、各分區業務組組長或副組長其中一人及簡任技正員額總數五分之一，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+本署各職稱之官等職等或級別及員額，另以編制表定之。
+本署各職稱之員額，其總數為二千七百九十七人至三千零三十三人，不納入中央政府機關總員額法所定員額範圍。
+第　六　條　　本法施行前，本署具有公務人員任用資格及第四項、第五項具有轉任本署職務資格之現職人員，其有關比照改（轉）任官職等級及退撫事項，由考試院會同行政院另以辦法定之。但依該辦法改任之人員經銓敘部審定之官職等、俸級所支給之俸給，如低於本法施行前之薪給者，准依其意願補足差額，其差額並同待遇調整而併銷，支領差額期間不得請領生活津貼；或選擇不補足差額，並依規定請領生活津貼。
+前項人員，不受公務人員考試法、公務人員任用法有關特考特用及轉調規定之限制。但再轉調時，以原請辦考試機關及所屬機關、本署之職務為限。
+本法施行前，本署未具有公務人員任用資格之現職人員，得適用原有關法令之規定，繼續任用至離職或退休時為止。
+本法施行前，本署已進用之現職人員，經原技術人員任用條例銓敘審定有案或經專門職業及技術人員高等、普通考試及格者，得自本法修正施行之日起，具有轉任本署職務之資格。
+本法施行前，本署已進用之現職人員，具行政院所屬金融保險事業機構雇員升等考試及格資格者，得自本法修正施行之日起，具有轉任本署職務之資格。
+前二項人員均得自本法修正施行之日起，依其意願選擇轉任本署相當職務，並依本法修正施行日之薪資作為補足待遇差額之計算標準，或選擇依本條第三項規定辦理，並應於本法修正施行後三個月內擇定，一經擇定即不得變更。前二項所定具有轉任本署相當職務資格之條件，非有其他法律規定，於轉任本署以外之政府機關（構）或公立學校時，不適用之。
+本法施行前，本署原聘（僱）用占缺之約聘（僱）人員及原僱用之業務助理，於本法施行後，均列冊管制繼續任原職，並不得低於原適用法令規定之標準，繼續辦理至離職或退休時為止。
+本法施行前，本署原進用之駐衛警，其薪津、退職、資遣等依各機關團體學校駐衛警設置管理辦法之規定辦理，其所支給之薪津如低於本法施行前之薪津者，准依其意願補足差額，其差額並隨同待遇調整而併銷，支領差額期間不得請領生活津貼；或選擇不補足差額，並依規定請領生活津貼。
+本法施行前，本署原正式編制內之工級人員，依工友管理要點規定繼續僱用，有關比照支領餉給事項依該要點規定辦理。其所支給之餉給如低於本法施行前之薪給者，准依其意願補足差額，其差額並隨同待遇調整而併銷，支領差額期間不得請領生活津貼；或選擇不補足差額，並依規定請領生活津貼。
+第一項、第八項及第九項所稱待遇調整，指全國軍公教員工待遇之調整、職務調動（升）、年度考績（核）晉級或升等所致之待遇調整。
+第　七　條　　本法施行日期，由行政院以命令定之。
+五、衛生福利部國民健康署組織法草案部分：
+名稱　衛生福利部國民健康署組織法
+第　一　條　　衛生福利部為辦理國民健康促進及非傳染病之防治業務，特設國民健康署（以下簡稱本署）。
+第　二　條　　本署掌理下列事項：
+一、國民健康促進政策之規劃、推動與執行及相關法規之研擬。
+二、癌症、心血管疾病與其他主要非傳染病防治之規劃、推動及執行。
+三、國民健康生活型態建構之規劃、推動及執行。
+四、菸害防制之規劃、推動及執行。
+五、國民營養之規劃、推動及執行。
+六、生育健康之規劃、推動及執行。
+七、口腔、視力與聽力保健之規劃、推動及執行。
+八、國民健康監測與研究發展之規劃、推動及執行。
+九、國民健康促進及非傳染病防治有關之國際合作。
+十、其他有關國民健康事項。
+第　三　條　　本署置署長一人，職務列簡任第十三職等；副署長二人，職務列簡任第十二職等。
+前項人員中二人，必要時得依醫事人員人事條例規定，由師(一)級之相關醫事人員擔任。
+第　四　條　　本署置主任秘書，職務列簡任第十一職等。
+第　五　條　　本署之研究員及副研究員，必要時得比照教育人員任用條例相關規定聘任之；其退休、撫卹比照教師相關規定辦理，並報衛生福利部核定。
+第　六　條　　本署各組組長、副組長其中一人及簡任技正員額總數五分之一，必要時得依醫事人員人事條例之規定，由師(一)級之相關醫事人員擔任。
+本署各職稱之官等職等或級別及員額，另以編制表定之。
+第　七　條　　本法施行日期，由行政院以命令定之。
+六、衛生福利部中醫藥研究所組織法草案部分：
+名稱　衛生福利部中醫藥研究所組織法
+第　一　條　　衛生福利部為辦理中醫藥之研究，特設中醫藥研究所（以下簡稱本所）。
+第　二　條　　本所掌理下列事項：
+一、中醫理論及診斷基準之研究。
+二、中醫醫療技術之療效評估。
+三、中藥材基源鑑定、種源保存及培育之研究。
+四、中藥藥理成分之分離、純化、鑑定及其他藥物化學有關之研究。
+五、中藥藥理、毒理與相關安全性之研究及療效評估。
+六、中藥及其製劑品質基準之研究。
+七、中醫藥典籍之收集、保存、研究及發展應用。
+八、中醫藥研究與專業人員之培訓及國際合作。
+九、其他有關中醫藥研究事項。
+第　三　條　　本所置所長一人，職務列簡任第十二職等，必要時得比照專科以上學校校長之資格聘任；副所長一人，由研究員兼任。
+第　四　條　　本所置主任秘書，職務列簡任第十職等。
+第　五　條　　本所研究員、副研究員、助理研究員及研究助理比照教育人員任用條例相關規定聘任之；其退休、撫卹比照教師相關規定辦理，並報衛生福利部核定。
+第　六　條　　本所各職稱之官等職等及員額，另以編制表定之。
+第　七　條　　本法施行日期，由行政院以命令定之。
+主席：針對本日議程討論事項所列各案，另有委員提出修正動議及附帶決議。
+一、衛生福利部組織法草案部分：
+修正動議部分：
+1-1衛生福利部組織法草案第二條條文修正動議
+有鑒於近年來，口腔健康執業環境改變，口腔健康之業務及科技蓬勃發展，其醫療輔助人員的需求性增加，以及全民口腔健康照護的品質提昇，口腔醫政及醫療體系重要性顯著提升，增加衛生福利部有關口腔健康相關業務之執掌，為能讓全民口腔健康照護獲得高品質的醫療照護；又，民眾使用傳統理療需求逐年提高，為確保民眾使用傳統理療的服務品質與避免糾紛，實有必要將傳統理療的專業人員之教、考、用納入管理。爰提出修正動議如下：
+一、增列第二條第一項第八款「口腔健康及醫療政策之政策規劃、管理、研究及監督。」
+二、其餘款次，依序遞增。
+三、原第二條第一項第八款修正後為第九款，作文字修正，增加「傳統理療」之政策規劃、管理及監督。
+提案人：呂學樟　　楊瓊瓔
+連署人：李貴敏　　王廷升　　王育敏　　廖正井　　鄭天財　　林岱樺　　江惠貞　　趙天麟　　林正二　　徐少萍
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="267"><col WIDTH="267"><col WIDTH="269"><tbody><tr><td COLSPAN="3" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA4888879"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部組織法草案第二條條文對照表</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正動議條文</p></td><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院提案條文</p></td><td WIDTH="269" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">說明</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 3.66cm; left: -0.09cm; width: 820px"><hr></span>第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源與服務之規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、<u>口腔健康及醫療政策之政策規劃、管理、研究及監督。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm"><u>九</u>、中醫藥發展<u>、傳統理療</u>之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm"><u>十</u>、所屬中醫藥研究、社會福利與醫療機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.91cm; margin-right: 0.19cm; text-indent: -0.35cm"><span CLASS="sd-abs-pos" STYLE=" top: 1.13cm; left: -0.11cm; width: 820px"><hr></span><u>十一</u>、其他有關衛生福利事項。</p></td><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源與服務之規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、社會福利與醫療機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="269" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、增列第八款，有關口腔健康相關業務之執掌，原第八款、第九款及第十款款次依序遞增。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、為能讓全民口腔健康照護獲得高品質的醫療照護，增列衛生福利部有關口腔健康相關業務之執掌，以建構更高品質安全的醫療環境。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、原第二條第一項第八款修正後為第九款，作文字修正，增加「傳統理療」之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">四、為確保民眾使用傳統理療的服務品質與避免糾紛，實有必要將傳統理療之政策、管理及監督納入衛生福利部之執掌。</p></td></tr></tbody></table>
+1-1-1修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA8209589"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部組織法草案第二條修正動議條文對照表：</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正動議條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版條文草案</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 12.27cm; left: -0.09cm; width: 820px"><hr></span>第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、<u>原住民族、</u>離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、<u>山地</u>離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td></tr></tbody></table>
+提案人：林正二　　鄭天財　　王廷升　　廖正井　　尤美女
+1-1-2修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA2198739"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部組織法條文修正如下：</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 5.91cm; left: -0.09cm; width: 820px"><hr></span>第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、<u>原住民族及離島居民醫療、健康照護、醫護人力培育、疾病防治之政策與法令規劃、管理、監督及研究。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">十、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.91cm; margin-right: 0.19cm; text-indent: -0.35cm"><span CLASS="sd-abs-pos" STYLE=" top: 0.57cm; left: -0.09cm; width: 820px"><hr></span>十一、其他有關衛生福利事項。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">六、護理產業、早期療育<u>、山地離島健康照護業務</u>之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm">十、其他有關衛生福利事項。</p></td></tr></tbody></table>
+提案人：鄭天財　　王廷升　　林正二　　廖正井　　吳宜臻　　尤美女
+1-1-3修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="267"><col WIDTH="267"><col WIDTH="269"><tbody><tr><td COLSPAN="3" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA2729153"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部組織法草案</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版條文</p></td><td WIDTH="269" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">說明</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第一條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照<u>顧</u>保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理<u>及長期照顧服務</u>、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康<u>促進、精神疾病防治、偏差行為預防</u>之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">—、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="269" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、長期以來民間團體及專家學者疾呼，長照政策應滿足人民普遍之照顧需求，政府不該僅提供殘補式福利，並應避免過度醫療化，故大多主張以「長期照顧」文字取代「長期照護」。民國<font FACE="Times New Roman, serif"><span LANG="en-US">100</span></font>年<font FACE="Times New Roman, serif"><span LANG="en-US">5</span></font>月<font FACE="Times New Roman, serif"><span LANG="en-US">2</span></font>日立法院第七屆社福及衛環委員會審查「長期照護服務法」草案時，當時一讀通過將草案名稱改為「長期照顧服務法」之意旨，基於此朝野立委及民間團體之共識，且未來長照保險將延續長照服務計畫，故建議將行政院版原本第二款有關「長期照護保險」文字，修正為「長期照顧保險」。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、參酌行政院原本規劃「衛生福利部」下設有「護理及健康照護司」，然護理相關政策之範圍，遠大於護理產業，故建議刪除「產業」二字；並建議加上「長期照顧服務」文字，使長照政策之涵蓋範圍，不致造成行政院版原有文字可能造成之誤解成該司之長照政策僅限於山地離島業務。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">三、建議衛生福利部應重視心理健康正向促進之相關政策與事前防範未然的積極作為，並加上「精神疾病防治、偏差行為預防」，以取代行政院版原有文字「物質成癮防治」之狹隘範疇，並落實「行政院衛生署精神醫療及心理衛生政策綱領」中相關問題的改善及策略規劃。</p></td></tr></tbody></table>
+提案人：尤美女　　吳宜臻　　潘孟安　　林世嘉　　鄭天財　　王廷升　　林正二　　陳歐珀
+<hr>
+1-1-4衛生福利部組織法第二條修正動議：
+依據衛生署國民健康局對台灣地區的調查報告顯示，95年12歲國小學童齲齒指數（CDMFT）2.58顆，居於亞洲末端，與世界衛生組織（ＷＨＯ）2010年「12歲兒童平均齲齒指數在2以下」的目標，仍有差距。無論是5-6歲學齡前兒童、18歲青少年、35-49歲成年人、65-74老年人恆牙齲齒指數DMFT均偏高；且國人男性口腔癌死亡率排列第四，有鑑於國人口腔健康狀況仍落後世界先進國家許多。目前行政院送審衛生福利部組織法草案，無論西醫或中醫乃至護理皆有司級之專責單位，獨缺牙醫無專責單位統籌辦理口腔健康業務’爰擬「衛生福利部組織法」草案，增列「口腔健康及醫療政策之政策規劃、管理、監督及研究」權限職掌，並設置「口腔健康司」，以祈國民口腔健康能與國際並駕齊驅，達到世界衛生組織之標準。
+說明：
+一、根據中華民國牙周病醫學會推估，國人成年人口中，超過八成患有牙周病。而衛生署國民健康局對台灣地區的調查報告亦顯示，100年5-6歲兒童口腔健康狀況乳齒齲蝕指數deft為5.44顆，95年12歲兒童齲齒指數（DMFT）為2.58顆，94-95年18歲青少年恆齒齲齒指數（DMFT）為4.86顆，92-93年35-49歲成年人恆齒齲齒指數（DMFT）為7.56顆，92-94年65-74歲老年人恆齒齲齒指數（DMFT）為15.81顆。與世界衛生組織訂定2010年5歲兒童90%以上沒有齲齒，12歲兒童恆牙齲齒指數低於2顆之目標，以及日本所推動「8020運動」八十歲仍保有二十顆自然牙均有相當之差距’在在顯示我國國民口腔健康狀況與世界先進國家落後許多。另，衛生署100年資料統計男性癌症死亡率，口腔癌排列第四，實不容忽視。
+二、世界各國無論已開發國家或開發中國家，如美、英、日、德及鄰國馬來西亞之政府均非常重視國民口腔健康，其衛生福利部組織架構均設置口腔健康獨立部門，以掌理口腔健康政策與相關業務。依據醫療法將現行醫療體系分為醫師（西醫）、中醫師及牙醫師，各依據其不同的醫學養成教育，取得不同之醫師證書，並以各專精的醫術提供不同的醫療服務，以照護全體國民健康。醫師（西醫）、中醫師及牙醫師的醫療業務互相獨立而無法取代、醫療生態與環境也各自不同而無法統籌管理，若無口腔健康專責單位，恐易造成醫療需求扭曲，無法妥善照顧國民口腔健康之困境。
+三、特別是近年來口腔健康執業環境改變，口腔健康之業務及科技蓬勃發展，其醫療輔助人員的需求性增加，以及全民口腔健康照護的品質提昇，口腔醫政及醫療體系重要性顯著提升，為能讓全民口腔健康照護獲得高品質的醫療照護，以及更安全的醫療環境，衛生福利部成立口腔健康專責單位掌理相關業務是有其必要性。
+提案人：尤美女　　李俊俋　　林世嘉　　潘孟安
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="267"><col WIDTH="267"><col WIDTH="269"><tbody><tr><td COLSPAN="3" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA827566"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部組織法草案</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">現行條文</p></td><td WIDTH="269" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">說明</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 10.41cm; left: -0.09cm; width: 820px"><hr></span>第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm"><u>十、口腔健康及醫療政策之政策規劃、管理、監督及研究。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.91cm; margin-right: 0.19cm; text-indent: -0.35cm"><span CLASS="sd-abs-pos" STYLE=" top: 1.13cm; left: -0.09cm; width: 820px"><hr></span>十一、其他有關衛生福利事項。</p></td><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="269" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、本條增列第十項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">二、近年來口腔健康執業環境改變，口腔健康之業務及科技蓬勃發展，其醫療輔助人員的需求性增加，以及全民口腔健康照護的品質提昇，口腔醫政及醫療體系重要性顯著提升，為能讓全民口腔健康照護獲得高品質的醫療照護，以及更安全的醫療環境，建議增列「口腔健康及醫療政策之政策規劃、管理、監督及研究」權限職掌，並設置「口腔健康司」，以維護國人口腔健康。</p></td></tr></tbody></table>
+1-1-5修正動議：
+根據衛生署國民健康局發佈，96-97年「台灣18歲以上人口牙周狀況及保健行為之調查」，顯示18歲以上成人44.9%有牙齦炎，54.2%罹患牙周炎，28.7%民眾認為自己有牙周病，及23.1%有定期就醫洗牙習慣，各種資料顯示，我國口腔健康狀況未能達到已開發國家水準。由此突顯出中央政府實需成立國人口腔衛生保健政策的專責單位，以強化保護國人口腔健康。另目前醫療法將現行醫療體系分為醫師、中醫師及牙醫師，各依據其不同的醫學養成教育，取得不同之醫師證書，並以各專精的醫術提供不同的醫療服務，以照護全體國民健康。醫師、中醫師及牙醫師的醫療業務互相獨立且無法取代、醫療生態與環境也各自不同而無法統籌管理。現行草案第二條第五款已有醫師職掌事項，同條第八、九款有中醫師職掌事項，獨缺牙醫的「口腔健康司」專責單位，若無口腔健康專責單位，恐易造成醫療需求扭曲，無法妥善照顧國民口腔健康之困境。爰於「衛生福利部組織法草案」中增設「口腔健康司」，並修正「衛生福利部組織法」草案第二條之規定：「本部掌理下列事項：
+一、衛生福利政策、法令、資源與服務之規劃、管理及監督。
+二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。
+三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。
+四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。
+六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。
+七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。
+八、中醫藥發展之政策規劃、管理、監督及研究。
+九、所屬中醫藥研究、醫療機構與社會福利之督導、協調及推動。
+十、口腔健康及醫療政策之政策規劃、管理、監督及研究。
+十一、其他有關衛生福利事項，以保護國人口腔健康。
+是否有當？敬請公決。
+提案人：江惠貞　　蘇清泉　　楊瓊瓔　　呂學樟
+1-1-6衛生福利部組織法草案第二條修正動議：
+依據衛生署國民健康局對台灣地區的調查報告顯示，無論是5-6歲學齡前兒童、12歲國小學童、18歲青少年、35-49歲成年人、65-74老年人恆牙齲齒指教DMFT均比世界衛生組織WHO目標值2顆高出許多，且國人男性口腔癌死亡率排列第四，有鑑國人口腔健康狀況仍落後世界先進國家許多。目前行政院送審衛生福利部組織法草案，無論西醫或中醫乃至護理皆有司級之專責單位，獨缺牙醫無專責單位統籌辦理口腔健康業務，爰擬「衛生福利部組織法」草案，增列「口腔健康及醫療政策之政策規劃、管理、監督及研究」權限職掌，並設置「口腔健康司」，以維護國人口腔健康。
+提案人：劉建國　　田秋堇　　吳宜臻　　林世嘉　　尤美女　　潘孟安　　何欣純
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="267"><col WIDTH="267"><col WIDTH="269"><tbody><tr><td COLSPAN="3" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA7522394"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部組織法草案修正動議條文對表</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正動議條文</p></td><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院提案條文</p></td><td WIDTH="269" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">說明</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 9.29cm; left: -0.09cm; width: 820px"><hr></span>第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm"><u>十、口腔醫療與健康之政策規劃、管理、監督及研究。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.91cm; margin-right: 0.19cm; text-indent: -0.35cm"><span CLASS="sd-abs-pos" STYLE=" top: 1.13cm; left: -0.08cm; width: 820px"><hr></span>十一、其他有關衛生福利事項。</p></td><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="269" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、依據醫師法醫師即為西醫師、牙醫師、中醫師三大體系，在醫學養成教育也獨自有不同的教育體系，分別依其長考取執業執照，並獨立執業無法於醫療專業領域跨行執業。綜觀世界先進國家（如美國、英國、德國、日本、及鄰近馬來西亞）政府，均非常重視國民口腔健康，其衛生福利部組織架構均設置口腔專責獨立部門，以掌理口腔醫療政策與相關業務。爰於政府組織架構應針對不同的醫療體系，分別獨立設置專責單位，以妥善照全民健康。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、目前行政院提案之衛生福利部組織法草案，無論西醫或中醫乃至護理皆有司級之專責單位，獨缺牙醫無專責單位統籌辦理口腔健康業務，爰擬「衛生福利部組織法」草案，增列「口腔醫療及保健之政策規劃、管理、監督及研究」權限職掌，並設置「口腔健康司」，以維護國人口腔健康。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">三、基於國人對於傳統理療之需求居高不下，如無國家之監督管理，可能導致品質良莠不齊，徒增國人健康風險與糾紛。</p></td></tr></tbody></table>
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.74cm; margin-top: 0.19cm"><a NAME="TA8565790"></a><font FACE="Times New Roman, serif"><span LANG="en-US">1-1-7</span></font>衛生福利部組織條例修正動議：</p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>新修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">原修正條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣傳、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、<u>護理人力及長期照護系統之政策規劃、管理及監督</u>。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣傳、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、疾病管制署：規劃與執行傳染病之預防及管制事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、食品藥物管理署：規劃與執行食品、藥物與化妝品之管理、查核及檢驗事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、中央健康保險署：規劃及執行全民健康保險事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、社會及家庭署：規劃與執行老人、身心障礙者、婦女、兒童及少年福利及家庭支持事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、國民年金局：執行國民年金事項、國民年金局未設立前，其業務得委託其他政府機關（構）辦理。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">七、<u>署醫局：署立醫院政策之研擬、執行及管理</u>。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、疾病管制署：規劃與執行傳染病之預防及管制事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、食品藥物管理署：規劃與執行食品、藥物與化妝品之管理、查核及檢驗事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、中央健康保險署：規劃及執行全民健康保險事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、社會及家庭署：規劃與執行老人、身心障礙者、婦女、兒童及少年福利及家庭支持事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">六、國民年金局：執行國民年金事項、國民年金局未設立前，其業務得委託其他政府機關（構）辦理。</p></td></tr></tbody></table>
+提案人：吳宜臻　　王廷升　　劉建國
+<hr>
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="267"><col WIDTH="267"><col WIDTH="269"><tbody><tr><td COLSPAN="3" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.74cm; margin-top: 0.19cm"><a NAME="TA7911340"></a><font FACE="Times New Roman, serif"><span LANG="en-US">1-1-8</span></font>衛生福利部組織法草案第二條修正動議：</p></td></tr><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正動議條文</p></td><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院提案條文</p></td><td WIDTH="269" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">說明</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 20.05cm; left: -0.09cm; width: 820px"><hr></span>第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理與督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展<u>及傳統理療</u>之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療<u>及傳統理療</u>機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本部掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理與督導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、護理產業、早期療育、山地離島健康照護業務之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">七、心理健康相關政策與物質成癮防治之政策規劃、管理及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、中醫藥發展之政策規劃、管理、監督及研究。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">十、其他有關衛生福利事項。</p></td><td WIDTH="269" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">基於國人對於傳統理療之需求居高不下，如無國家之監督管理，可能導致品質良莠不齊，徒增國人健康風險與糾紛。</p></td></tr></tbody></table>
+提案人：劉建國
+<hr>
+連署人：尤美女　　趙天麟
+1-2修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="267"><col WIDTH="267"><col WIDTH="269"><tbody><tr><td COLSPAN="3" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA7056025"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部組織法草案</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="267" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版條文</p></td><td WIDTH="269" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">說明</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 13.38cm; left: -0.09cm; width: 820px"><hr></span>第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、疾病管制署：規劃與執行傳染病之預防及管制事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、食品藥物管理署：規劃與執行食品、藥物與化品之管理、查核及檢驗事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、中央健康保險署：規劃及執行全民健康保險事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、國民健康署：規劃與執行國民健康促進及非傳染之防治事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、社會<u>福利</u>及家庭署：規劃與執行老人、身心障礙者、婦女、兒童及少年福利及家庭支持事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、國民年金局：執行國民年金事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">國民年金局未設立前，其業務得委託其他政府機關（構）執行。</p></td><td WIDTH="267" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、疾病管制署：規劃與執行傳染病之預防及管制事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、食品藥物管理署：規劃與執行食品、藥物與化品之管理、查核及檢驗事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、中央健康保險署：規劃及執行全民健康保險事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、國民健康署：規劃與執行國民健康促進及非傳染之防治事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、社會及家庭署：規劃與執行老人、身心障礙者、婦女、兒童及少年福利及家庭支持事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、國民年金局：執行國民年金事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm">國民年金局未設立前，其業務得委託其他政府機關（構）執行。</p></td><td WIDTH="269" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">建議第五款增列「福利」二字，以正名為社會福利之專責機關，以符合民間對社會福利政策應有三級專責機關之期待。且經民國<font FACE="Times New Roman, serif"><span LANG="en-US">100</span></font>年<font FACE="Times New Roman, serif"><span LANG="en-US">10</span></font>月<font FACE="Times New Roman, serif"><span LANG="en-US">5</span></font>日行政部門與民間社福團體之協調會議，達成共識結論為新增「社會福利及家庭署」。截至<font FACE="Times New Roman, serif"><span LANG="en-US">101</span></font>年<font FACE="Times New Roman, serif"><span LANG="en-US">5</span></font>月<font FACE="Times New Roman, serif"><span LANG="en-US">31</span></font>日前，共有<font FACE="Times New Roman, serif"><span LANG="en-US">94</span></font>個社福團體及<font FACE="Times New Roman, serif"><span LANG="en-US">244</span></font>人連署支持衛生福利部下設置「社會福利及家庭署」。足見「社會福利及家庭署」之名稱及組織架構，具備多數民意共識基礎。</p></td></tr></tbody></table>
+提案人：尤美女　　陳節如　　廖下井
+<hr>
+1-2-1修正動議：
+有關衛生福利部組織法草案第五條第一項第五款，茲將文字修正如下：
+「第五條　本部之次級機關及其業務如下：
+五、家庭福利署：規劃與執行兒童及少年、老人、身心障礙者、婦女福利與權益及家庭支持事項。」
+提案人：王育敏　　呂學樟
+連署人：廖正井　　林正二　　李貴敏　　楊玉欣
+附帶決議部分：
+1-A、有鑒於各先進國家如美、英、日、德及鄰國馬來西亞之政府均非常重視國民口腔健康，其衛生福利部組織架構均設置口腔健康獨立部門，以掌理口腔健康政策與相關業務；加上近年來，口腔健康執業環境改變，口腔健康之業務及科技蓬勃發展，其醫療輔助人員的需求性增加，以及全民口腔健康照護的品質提昇，口腔醫政及醫療體系重要性顯著提升，為能讓全民口腔健康照護獲得高品質的醫療照護，以及更安全的醫療環境，衛生福利部成立口腔健康司掌理相關業務有其必要性。又，民眾使用傳統理療需求逐年提高，為確保民眾使用傳統理療的服務品質與避免糾紛，實有必要將傳統理療的專業人員之教、考、用納入管理。爰提案建議，衛生福利部應於司級單位增列口腔健康專責單位，設置「心理及口腔健康司」並將「中醫藥司」改為「中醫藥及傳統理療司」，納入傳統理療人員之執業管理。
+提案人：呂學樟　　李貴敏　　王廷升　　王育敏　　趙天麟　　鄭天財　　林岱樺　　林正二　　江惠貞　　楊瓊瓔　　廖正井　　徐少萍
+1-B、本院委員尤美女等8人，鑒於組織改造工程中，行政院現行規劃「衛生福利部」下心理健康司之人力配置僅有25人，然依據我國心理衛生之重要政策方針「行政院衛生署精神醫療及心理衛生政策綱領」，在心理衛生體系中，未來衛生福利部應成立專責國人心理健康事務之部門，加強衛生行政、醫療及公共衛生體系內縱向與橫向協調與整合，落實衛生、社政、勞政與民間組織等服務體系之連結及分工，以建構整合性、連續性之照護網絡及轉銜機制。在心理衛生服務之面向，則應整合政府各單位及民間團體資源，連結各級預防與治療資源，建立具整合性、可近性的心理衛生服務平台，提供具性別、族群、年齡敏感度的心理健康服務。因此，除自殺防治、物質濫用防治及危機處理外，更應加強婦幼心理衛生、老年心理衛生及社區心理衛生之促進。爰此，建議衛生福利部下之心理健康司，為落實「行政院衛生署精神醫療及心理衛生政策綱領」，未來應增加所需相關人力之配置。是否有當？敬請公決。
+提案人：尤美女　　林世嘉　　吳宜臻　　林正二　　潘孟安　　鄭天財　　陳歐珀　　王廷升
+1-C、原住民族的標準化死亡率與平均餘命，和台灣民眾有明顯差距，例如2005年標準化死亡率為千分之10.1，約為同年台灣地區標準化死亡率（千分之5.3）的1.9倍；又例如2006年原住民男性與女性平均餘命分別為64.04歲、73.41歲，分別比台灣男性（74.86歲）少10.82歲、比台灣女性（81.41歲）少8歲，這些數據顯示原住民平均餘命的差距，也表示原住民醫療保健的服務供給和健康需求之間仍存有鴻溝。
+雖衛生署自1990年醫療網第二期計畫將山地離島地區列為加強基層醫療網之工作項目，然而此計畫的執行仍僅限於衛生署，而非跨部會全面的推動，原住民仍在政策決定與擬定的過程中缺席；而且，目前負責原住民健康醫療業務的中央主管機關－衛生署，僅僅設一個山地離島科，層級過低，對亟待提昇醫療及健康的原住民族而言，成效仍屬有限。
+為加強提昇原住民族及離島居民之健康、醫療照護、醫護人力培育、疾病防治等各項業務成效，要求衛生福利部應設置「原住民族及離島健康司」。
+提案人：鄭天財　　王廷升　　吳宜臻　　尤美女　　林正二
+1-D、為確實推動保護政策，達到事權統一，資源統合之目的，爰將心理健康司中之加害人處遇及預防服務方案之規劃、推動及督導移至保護服務司。
+提案人：吳宜臻　　王廷升
+連署人：劉建國
+1-E、行政院於立法說明中，明白指出：衛福部之成立是為了要因應整合醫療照護與社會福利的專責機關來處理步入高齡化社會，醫療照護與安養需求大增的問題，爰將「護理及健康照護司」更名為「護理及長期照護司」，並將「身心障礙鑑定及醫療輔具服務之發展、推動與相關法規之研訂」業務移至社會及家庭署，「原住民族地區醫事人力及服務體系之發展與推動」以及「離島地區醫事人力及服務體系之發展與推動」移至醫事司。此外，將社會及家庭署之相關「居家、社區及機構照顧制度、人力及資源發展之規劃、推動及執行」移入「護理及長期照護司」。
+提案人：吳宜臻　　王廷升　　劉建國
+1-F、本院委員尤美女等人，鑒於組織改造工程中，行政院現行規劃「衛生福利部」下心理健康司之人力配置僅有25人，與民間期待應有40人相距甚遠。依據我國心理衛生之重要政策方針「行政院衛生署精神醫療及心理衛生政策綱領」，在心理衛生體系中，未來衛生福利部應成立專責國人心理健康事務之部門，加強衛生行政、醫療及公共衛生體系內縱向與橫向協調與整合，落實衛生、社政、勞政與民間組織等服務體系之連結及分工，以建構整合性、連續性之照護網絡及轉銜機制。在心理衛生服務之面向，則應整合政府各單位及民間團體資源，連結各級預防與治療資源，建立具整合性、可近性的心理衛生服務平台，提供具性別、族群、年齡敏感度的心理健康服務。因此，除自殺防治、物質濫用防治及危機處理外，更應加強婦幼心理衛生、老年心理衛生及社區心理衛生之促進。爰此，建議衛生福利部下之心理健康司，為落實「行政院衛生署精神醫療及心理衛生政策綱領」，未來應增加所需相關人力之配置。是否有當？敬請公決。
+提案人：尤美女　　陳節如　　廖正井
+1-G、本院委員尤美女等人，鑒於組織改造工程中，行政院現行規劃之「衛生福利部社會及家庭署處務規程」草案，該署之下將分別設立「兒少婦女組」、「身心障礙組」、「老人福利組」、「家庭支持組」，然草案中「兒少婦女組」職掌當中，有關婦女福利、婦女權益保障、婦女社會參與、婦女經濟安全等政策及福利業務，與兒童、少年福利政策及業務，並無直接相關性；反而與「家庭支持組」職掌當中單親、外籍配偶、高風險及特殊需求家庭扶助、支持家庭照顧能力服務方案、家庭支持服務等政策及業務，其關聯性更高。爰此，建議該署改設「婦女及家庭組」，將婦女福利及家庭支持編為一組，並增加其中婦女福利之相關人力配置，且將婦女福利、婦女權益保障、婦女社會參與、婦女經濟安全等政策及福利業務之職掌移至「婦女及家庭組」下，兒少福利則另外設組。是否有當？敬請公決。
+提案人：尤美女　　吳宜臻　　鄭天財　　潘孟安
+二、衛生福利部疾病管制署組織法草案部分：
+修正動議部分：
+修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA8103979"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部疾病管制署組織法草案對照表</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm"><span CLASS="sd-abs-pos" STYLE=" top: 2.43cm; left: -0.09cm; width: 820px"><hr></span>第五條　<u>本法施行前，原聘任之研究人員，得適用原有關法令之規定，繼續聘任至離職時為止。</u></p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">第五條　本署之研究員及副研究員，必要時得比照教育人員任用條例相關規定聘任之；其退休、撫卹比照教師相關規定辦理，並報衛生福利部核定。</p></td></tr></tbody></table>
+提案人：尤美女　　潘孟安　　陳歐珀　　林世嘉
+三、行政院衛生署食品藥物管理局組織法修正草案部分：
+修正動議部分：
+修正動議：
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA2981421"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">行政院衛生署食品藥物管理局組織法修正草案對照表</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第二條　本署掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、食品、藥物、化粧品（以下簡稱食品藥物化粧品）管理政策之規劃與執行及相關法規之研擬。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、食品藥物化粧品之查驗登記、審核、給證、備查與藥物人體試驗之審查及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、食品藥物化粧品業者之生產流程管理、輸入查（檢）驗、流通、稽查、查核及輔導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、食品藥物化粧品之檢驗、研究、實驗室認證、風險評估與風險管理及中藥、植物性藥材之檢驗。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">五、食品藥物化粧品之安全監視、危害事件調查及處理。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">六、管制藥品之稽核、通報、預警、教育宣導與第一級、第二級管制藥品之輸入、輸出、製造及販賣。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm"><u>七、國內膳食調查</u>。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">八、食品藥物化粧品消費者保護措施之推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">九、食品藥物化粧品事務之國際合作及境外管理作業。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">十、其他有關食品藥物化粧品之管理事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>前項掌理事項之食品風險評估，應設立獨立性風險評估審議小組。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>前項審議小組，應由中央主管機關邀集相關機關、專家學者、民間團體代表及社會公正人士共同組成，其中專家學者、民間團體代表與社會公正人士不得少於小組總人數三分之二，且任一性別不得低於三分之一。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm; margin-bottom: 0cm"><u>前項審議小組應有二分之一以上委員出席；決議時，應經出席委員過半數同意。決議比例相同時，由主席決定之。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: 0.74cm"><u>前項審議小組委員有利害關係者，應自行迴避，不得參與審議。</u></p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">第二條　本署掌理下列事項：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">一、食品、藥物、化粧品（以下簡稱食品藥物化粧品）管理政策之規劃與執行及相關法規之研擬。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">二、食品藥物化粧品之查驗登記、審核、給證、備查與藥物人體試驗之審查及監督。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">三、食品藥物化粧品業者之生產流程管理、輸入查（檢）驗、流通、稽查、查核及輔導。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">四、食品藥物化粧品之檢驗、研究、實驗室認證、風險評估與風險管理及中藥、植物性藥材之檢驗。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">五、食品藥物化粧品之安全監視、危害事件調查及處理。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">六、管制藥品之稽核、通報、預警、教育宣導與第一級、第二級管制藥品之輸入、輸出、製造及販賣。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">七、食品藥物化粧品消費者保護措施之推動。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">八、食品藥物化粧品事務之國際合作及境外管理作業。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm">九、其他有關食品藥物化粧品之管理事項。</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">（刪除本條）</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">第五條　本署之研究員及副研究員，必要時得比照教育人員任用條例相關規定聘任之；其退休、撫卹比照教師相關規定辦理，並報衛生福利部核定。</p></td></tr></tbody></table>
+提案人：尤美女　　吳宜臻　　潘孟安　　林世嘉　　鄭天財　　王廷升　　林正二　　陳歐珀
+<hr>
+附帶決議部分：
+3-A、本院委員尤美女等人，鑒於目前行政院衛生署食品藥物管理局透過「全國健康食品及膠囊錠狀食品非預期反應通報系統」、「食品中毒管理資訊系統」、「國際食品快速通報」等，蒐集與食品安全相關之訊息，倘發現有食品安全相關警訊，即刻進行相關查詢與處理，必要時啟動風險評估機制提交評估委員會，進行安全疑慮之分析，然而有關啟動食品安全健康風險評估之要件仍闕如。建請食品藥物管理局於兩個月內研擬完成啟動食品安全健康風險評估之要件；是否有當？敬請公決。
+提案人：尤美女　　林世嘉　　潘孟安　　吳宜臻　　鄭天財　　王廷升　　林正二　　陳歐珀
+3-B、本院委員尤美女等人，鑒於行政院衛生署食品藥物管理局之各專家諮議委員會，有建立獨立性審查之必要，以秉持專家學者利益迴避之精神，防止任職於利害相關產業或公司之專家學者，及申請主管機關研究經費補助之專家學者，影響科學評估與審議之獨立性。建請食品藥物管理局，參考歐盟之「利益申報」（Declarations of Interests）做法，要求委員會（包括諮議會、諮議小組、委員會）成員主動揭露其相關利益關係，包括是否承接主管機關補助研究案、是否任職於營利事業、任職之營利事業名稱與擔任職位，並於其網站上公開。是否有當？敬請公決。
+提案人：尤美女　　林世嘉　　潘孟安　　吳宜臻　　鄭天財　　王廷升　　林正二　　陳歐珀
+3-C、食品藥物管理署掌理之食品風險評估，應設立獨立性風險評估審議小組
+行政院食品藥物管理署組織法第二條掌理事項之食品風險評估，應設立獨立性風險評估審議小組。
+該審議小組，應由中央主管機關邀集相關機關、專家學者、民間團體代表及社會公正人士共同組成，其中專家學者、民間圓體代表與社會公正人士不得少於小組總人數三分之二，且任一性別不得低於三分之一。
+該審議小組應有二分之一以上委員出席；決議時，應經出席委員過半數同意。決議比例相同時，由主席決定之。
+食品藥物管理署組成風險評估審議小組前，對於選任之委員候選人，應調查並要求其揭露相關之利益關係，包括是否承接主管機關補助研究案、是否承接營利事業與風險評估審議案相關之研究案等事項；並將候選人所揭露之上述項目，於組成該審議小組前七日公告在食品藥物管理署網站。
+候選人有利害關係者，應自行迴避之。
+提案人：尤美女　　陳節如　　趙天麟　　廖正井
+四、衛生福利部國民健康署組織法草案部分：
+修正動議部分：
+5-1修正動議：衛生福利部國民健康署組織法草案
+<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA4624857"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">衛生福利部國民健康署組織法草案對照表</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">第五條　<u>本法施行前，原聘任之研究人員，得適用原有關法令之規定，繼續聘任至離職時為止。</u></p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm">第五條　本署之研究員及副研究員，必要時得比照教育人員任用條例相關規定聘任之；其退休、撫卹比照教師相關規定辦理，並報衛生福利部核定。</p></td></tr></tbody></table>
+提案人：尤美女　　潘孟安　　陳歐珀　　林世嘉
+<hr>
+主席：現在處理討論事項所列第一案，即繼續併案審查(一)行政院函請審議「衛生福利部組織法草案」、(二)委員趙天麟等20人擬具「衛生福利部組織法草案」、(三)委員王育敏等45人擬具「衛生福利部組織法草案」、(四)台灣團結聯盟黨團擬具「衛生福利部組織法草案」及(五)委員江惠貞等22人擬具「衛生福利部組織法草案」案。
+有關本案逐條處理的程序，有委員提出修正動議或有意見的條文就暫行保留，沒有意見的條文就先通過。
+現在進行逐條處理。
+現在處理法案名稱。各版本的法案名稱均相同。
+請問各位，法案名稱照行政院提案條文及各委員提案條文通過，有無異議？（無）無異議，通過。
+現在處理第一條。第一條並無委員提出修正動議。請問各位，對第一條照行政院提案條文通過，有無異議？（無）無異議，通過。
+現在處理第二條。第二條有委員提出修正動議，第二條保留。
+現在處理第三條。第三條並無委員提出修正動議，而且行政院提案條文與各委員提案條文均相同。請問各位，對第三條照行政院提案條文及委員提案條文通過，有無異議？（無）無異議，通過。
+現在處理第四條，第四條並無委員提出修正動議，但江委員惠貞等提案條文與行政院提案條文及其他各委員提案條文不同。江委員惠貞等提案條文是「本部置主任秘書，職務列簡任第十二職等至第十三職等。」，行政院提案條文及其他各委員提案條文則是「本部置主任秘書，職務列簡任第十二職等。」。
+有關這個部分，我要向江委員說明，原本我是通案處理的，對於各部會的主任秘書，我當時的建議也是職務列簡任第十二職等到第十三職等，但是在上會期王院長協商時被幹掉了，本席希望將來對於這個部分應該要通案處理，因為原本已經通過的15個部會的主任秘書都是簡任第十二職等，將來我會責成考試院針對職等部分另做個通盤考量，就請江委員支持行政院版本，好嗎？
+江委員惠貞：（在席位上）好。
+主席：請問各位，對第四條照行政院提案條文通過，有無異議？（無）無異議，通過。
+現在處理第五條。第五條有委員提出修正動議，第五條保留。
+現在處理第六條。第六條並無委員提出修正動議，而且各版本條文均相同。請問各位，對第六條照行政院提案條文通過，有無異議？（無）無異議，通過。
+現在處理第七條。第七條因為銓敘部有意見，第七條保留。
+現在處理第八條。請問各位，對第八條照行政院提案條文通過，有無異議？（無）無異議，通過。
+現在針對保留條文休息協商。
+休息
+繼續開會
+主席：現在繼續開會。針對衛生福利部組織法第二條及第五條，行政院提出整合版的再修正條文。
+第　二　條　　本部掌理下列事項：
+一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。
+二、全民健康保險、國民年金、長期照護保險之政策規劃、管理及監督。
+三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。
+四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及督導。
+六、護理及長期照護服務產業、早期療育、原住民族及離島地區之健康照護政策規劃、管理及監督。
+七、心理健康及精神疾病防治相關政策與物質成癮防治之政策規劃、管理及監督。
+八、中醫藥發展、傳統調理之政策規劃、管理、監督及研究。
+九、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。
+十、口腔健康及醫療政策之政策規劃、管理、監督及研究。
+十一、其他有關衛生福利事項。
+第　五　條　　本部之次級機關及其業務如下：
+一、疾病管制署：規劃與執行傳染病之預防及管制事項。
+二、食品藥物管理署：規劃與執行食品、藥物與化粧品之管理、查核及檢驗事項。
+三、中央健康保險署：規劃及執行全民健康保險事項。
+四、國民健康署：規劃與執行國民健康促進及非傳染病之防治事項。
+五、家庭福利署：規劃與執行兒童及少年、老人、身心雎礙者、婦女福利與權益、家庭支持及長期照顧事項。
+六、國民年金局：執行國民年金事項。
+國民年金局未設立前，其業務得委託其他政府機關（構）執行。
+主席：經協商，作如下結論：
+衛生福利部組織法：
+第二條修正如下：「本部掌理下列事項：
+一、衛生福利政策、法令、資源之規劃、管理、監督與相關事務之調查研究、管制考核、政策宣導、科技發展及國際合作。
+二、全民健康保險、國民年金、長期照顧（護）財務之政策規劃、管理及監督。
+三、社會救助、社會工作、社會資源運用與社區發展之政策規劃、管理及監督。
+四、家庭暴力、性侵害、性騷擾防治與其他保護服務業務之政策規劃、管理及監督。
+五、醫事人員、醫事機構、醫事團體與全國醫療網、緊急醫療業務之政策規劃、管理及監導。
+六、護理及長期照顧（護）服務、早期療育之政策規劃、管理及監督。
+七、原住民族及離島居民醫療、健康照顧（護）、醫護人力培育、疾病防治之政策與法令規劃、管理、監督及研究。
+八、心理健康及精神疾病防治相關政策與物質成癮防治之政策規劃、管理及監督。
+九、中醫藥發展、傳統調理之政策規劃、管理、監督及研究。
+十、所屬中醫藥研究、醫療機構與社會福利機構之督導、協調及推動。
+十一、口腔健康及醫療照護之政策規劃、管理、監督及研究。
+十二、其他有關衛生福利事項。」
+第五條保留。
+第七條第一項照行政院提案條文通過，第二項修正如下：「本部各職稱之官等職等及員額，另以編制表定之。」
+請問各位，對協商結論有無異議？
+吳委員宜臻：（在席位上）主席，方才只有協商條文的部分，但本席與其他委員還提出了很多附帶決議的提案，這些提案與條文有關，請問這些附帶決議提案是怎麼處理？
+主席：附帶決議還沒有處理，這些附帶決議就一併保留送協商。
+報告聯席會，有關衛生福利部組織法的附帶決議保留，並送政黨協商。
+尤委員美女：（在席位上）其他組織法的部分呢？
+主席：下次擇期再審，因為這是連動的，部本部的組織法還沒有確定，其他單位的組織法是審不下去的。
+請問各位，對協商結論有無異議？（無）無異議，通過。
+報告聯席會，討論事項第一案作以下決議：
+一、本案審查完竣，擬具審查報告，提請院會公決。
+二、本案須交由黨團協商。
+三、院會討論時，由呂召集委員學樟補充說明。
+討論事項第二案至第六案，另定期繼續逐條審查。
+本次會議到此結束，現在散會。
+散會（16時33分）
