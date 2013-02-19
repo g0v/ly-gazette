@@ -1,0 +1,539 @@
+立法院第8屆第2會期社會福利及衛生環境委員會第37次全體委員會議紀錄
+時　　間　中華民國102年1月3日（星期四）下午2時35分
+地　　點　本院群賢樓801會議室
+主　　席　劉委員建國
+主席：出席委員已足法定人數，現在開會。
+進行報告事項。
+報　告　事　項
+一、宣讀上次會議議事錄。
+<hr>
+立法院第8屆第2會期社會福利及衛生環境委員會第36次全體委員會議議事錄
+時　　間：102年1月2日（星期三）上午9時2分至下午1時20分
+下午2時38分至6時8分
+地　　點：本院群賢樓801會議室
+出席委員：吳育仁　　江惠貞　　陳節如　　蘇清泉　　蔡錦隆　　徐少萍　　楊　曜　　陳歐珀　　田秋堇　　王育敏　　林世嘉　　劉建國　　楊玉欣　　鄭汝芬　　趙天麟
+（委員出席15人）
+列席委員：陳亭妃　　楊麗環　　李貴敏　　吳宜臻　　李昆澤　　林佳龍　　廖正井　　盧嘉辰　　李桐豪　　管碧玲　　林正二　　江啟臣　　鄭天財　　邱文彥　　簡東明　　許添財
+黃文玲　　蕭美琴　　陳其邁　　賴士葆　　徐欣瑩　　黃偉哲　　羅明才　　高金素梅　潘維剛　　楊瓊瓔　　蔡其昌
+（委員列席27人）
+<table WIDTH="607" CELLPADDING="2" CELLSPACING="0"><col WIDTH="101"><col WIDTH="290"><col WIDTH="204"><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US"><font FACE="華康中黑體, monospace">列席官</font><font FACE="華康中黑體, monospace">員</font><font FACE="華康中黑體, monospace">：</font></span></font></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><br></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><br></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="RIGHT" STYLE="margin-right: 0.07in"><u><font FACE="華康細明體, monospace"><span LANG="en-US">上午</span></font></u></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院勞工委員會主任委員</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">潘世偉</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="RIGHT" STYLE="margin-left: 0.22in; margin-right: 0.07in"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 1.03in"><font FACE="華康細明體, monospace"><span LANG="en-US">副主任委員</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">郭芳煜</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">職業訓練局局長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">林三貴</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工保險局總經理</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">羅五湖</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工安全衛生研究所所長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">林進基</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工退休基金監理會主任委員</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">黃肇熙</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工保險基金監理委員會主任委員</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">高寶華</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞資關係處處長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">劉傳名</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞動條件處副處長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">謝倩蒨</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工福利處處長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">孫碧霞</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工保險處處長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">石發基</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工安全衛生處處長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">傅還然</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">勞工檢查處處長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">吳世雄</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">綜合規劃處處長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">李來希</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">統計處統計長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">鄭文淵</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">法規委員會執行秘書</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">王尚志</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院經濟建設委員會副主任委員</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳小紅</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.59in"><font FACE="華康細明體, monospace"><span LANG="en-US">人力規劃處組長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">謝佳宜</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院主計總處副主計長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">鹿篤瑾</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US"><font FACE="華康中黑體, monospace">列席專家</font><font FACE="華康中黑體, monospace">學者：</font></span></font></p></td><td WIDTH="290" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">國立政治大學法學院院長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">郭明政</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">台灣勞工陣線秘書長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">孫友聯</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">台中直轄市總工會秘書長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">林杰弘</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US"><font FACE="華康中黑體, monospace">列席官</font><font FACE="華康中黑體, monospace">員</font><font FACE="華康中黑體, monospace">：</font></span></font></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><br></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><br></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="RIGHT" STYLE="margin-right: 0.07in"><u><font FACE="華康細明體, monospace"><span LANG="en-US">下午</span></font></u></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部次長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">簡太郎</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="RIGHT" STYLE="margin-left: 0.22in; margin-right: 0.07in"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">社會司司長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">簡慧娟</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">地政司副司長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">王靚琇</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">統計處科長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">吳裕豐</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">營建署國民住宅組副組長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳淑娟</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">法務部參事</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳文琪</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">教育部國民及學前教育署高中職組組長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">李秀鳳</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院主計總處公務預算處專門委員</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">許永議</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院農業委員會農糧署糧食儲運組組長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">潘　芝</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院衛生署全民健康保險小組組長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">洪碧蘭</span></font></p></td></tr><tr><td WIDTH="101" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="290" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.15in; margin-right: 0.07in; text-indent: 0.73in"><font FACE="華康細明體, monospace"><span LANG="en-US">食品藥物管理局組長</span></font></p></td><td WIDTH="204" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">謝定宏</span></font></p></td></tr></table>
+主　　席：劉召集委員建國
+專門委員：鄭光三
+主任秘書：楊夢濤
+紀　　錄：簡任秘書　戴文堅
+簡任編審　鄭翔勻
+科　　長　王曉蘭
+薦任科員　馬華玫
+報　告　事　項
+一、宣讀上次會議議事錄。
+決　定：議事錄確定。
+二、邀請行政院年金制度改革小組召集人江宜樺、行政院勞工委員會主任委員潘世偉、行政院經濟建設委員會副主任委員、行政院主計總處副主計長等就「勞保年金改革之方案內容、執行進度、修法時程及年金制度改革小組之勞動政策座談會歷次會議紀錄」列席報告，並備質詢。
+（委員吳育仁、江惠貞、陳節如、蘇清泉、蔡錦隆、徐少萍、劉建國、陳歐珀、田秋堇、王育敏、吳宜臻、楊曜、江啟臣、黃偉哲、趙天麟及林佳龍等16人提出質詢，均經行政院勞工委員會主任委員潘世偉、行政院經濟建設委員會副主任委員陳小紅、行政院主計總處副主計長鹿篤瑾等即席答復及台灣勞工陣線秘書長孫友聯、台中直轄市總工會秘書長林杰弘、國立政治大學法學院院長郭明政等列席說明。）
+決　定
+一、本日報告及詢答完畢。
+二、委員鄭汝芬所提書面質詢列入紀錄，刊登公報，並請相關機關於2週內以書面答復本會與本會委員及質詢委員。
+三、本日會議委員所提質詢未及答復部分（含委員質詢中要求提供之相關資料）亦請相關機關於2週內以書面答復本會與本會委員及質詢委員。
+討　論　事　項
+審查本院委員林佳龍等30人擬具「社會救助法部分條文修正草案」、委員何欣純等19人擬具「社會救助法第四條之一條文修正草案」、委員蔡其昌等26人、委員何欣純等22人分別擬具「社會救助法第五條條文修正草案」、委員邱志偉等25人、委員吳宜臻等32人分別擬具「社會救助法第五條之一條文修正草案」、委員楊瓊瓔等20人擬具「社會救助法第五條之二條文修正草案」、委員盧秀燕等38人、委員姚文智等22人分別擬具「社會救助法第十三條條文修正草案」及委員鄭天財等22人擬具「社會救助法第十六條之一條文修正草案」等10案。
+（委員蔡錦隆、王育敏、陳節如、徐少萍、林佳龍、蘇清泉、江惠貞及劉建國等8人提出質詢，均經內政部次長簡太郎等即席答復。）
+決　議
+一、審查本院委員林佳龍等30人擬具「社會救助法部分條文修正草案」、委員何欣純等19人擬具「社會救助法第四條之一條文修正草案」、委員蔡其昌等26人、委員何欣純等22人分別擬具「社會救助法第五條條文修正草案」、委員邱志偉等25人、委員吳宜臻等32人分別擬具「社會救助法第五條之一條文修正草案」、委員楊瓊瓔等20人擬具「社會救助法第五條之二條文修正草案」、委員盧秀燕等38人、委員姚文智等22人分別擬具「社會救助法第十三條條文修正草案」及委員鄭天財等22人擬具「社會救助法第十六條之一條文修正草案」等10案，結果：
+(一)委員何欣純等提案第四條之一條文，不予修正，維持現行條文。
+(二)委員蔡其昌等及委員何欣純等提案第五條條文，均不予修正，維持現行條文。
+(三)第五條之一，照委員陳節如、吳宜臻等7人所提修正動議修正為：
+「第四條第一項及第四條之一第一項第一款所稱家庭總收入，指下列各款之總額：
+一、工作收入，依下列規定計算：
+(一)已就業者，依序核算：
+1.依全家人口當年度實際工作收入並提供薪資證明核算。無法提出薪資證明者，依最近一年度之財稅資料所列工作收入核算。
+2.最近一年度之財稅資料查無工作收入，且未能提出薪資證明者，依臺灣地區職類別薪資調查報告各職類每人月平均經常性薪資核算。
+3.未列入臺灣地區職類別薪資調查報告各職類者，依中央勞工主管機關公布之最近一次各業初任人員每月平均經常性薪資核算。
+(二)有工作能力未就業者，依基本工資核算。但經公立就業服務機構認定失業者或五十五歲以上經公立就業服務機構媒介工作三次以上未媒合成功、參加政府主辦或委辦全日制職業訓練，其失業或參加職業訓練期間得不計算工作收入，所領取之失業給付或職業訓練生活津貼，仍應併入其他收入計算。但依高級中等學校建教合作實施及建教生權益保障法規定參加建教合作計畫所領取之職業技能訓練生活津貼不予列計。
+二、動產及不動產之收益。
+三、其他收入：前二款以外非屬社會救助給付之收入。
+前項第一款第一目之二及第一目之三工作收入之計算，原住民應依中央原住民族事務主管機關公布之原住民就業狀況調查報告，按一般民眾主要工作所得與原住民主要工作所得之比例核算。但核算結果未達基本工資者，依基本工資核算。
+第一項第一款第一目之二、第一目之三及第二目工作收入之計算，十六歲以上未滿二十歲或六十歲以上未滿六十五歲者，依其核算收入百分之七十計算；身心障礙者，依其核算收入百分之五十五計算。
+第一項第三款收入，由直轄市、縣（市）主管機關認定之。
+申請人家庭總收入及家庭財產之申報，直轄市、縣（市）主管機關得予訪查；其有虛偽不實之情形者，除撤銷低收入戶或中低收入戶資格外，並應以書面限期命其返還已領之補助。」
+(四)委員楊瓊瓔等提案第五條之二條文，不予修正，維持現行條文。
+(五)委員林佳龍等提案第十一條條文，不予修正，維持現行條文。
+(六)委員林佳龍等提案第十一條之一至第十一條之三條文，均不予增訂。
+(七)委員盧秀燕等及委員姚文智等提案第十三條條文，均不予修正，維持現行條文。
+(八)第十六條之一，照委員鄭天財等提案第十六條之一條文通過。
+(九)本10案業已併案審查完竣，擬具審查報告提請院會公決；院會討論本法案前，不須交由黨團協商，並由召集委員劉建國於院會討論本案時作補充說明。
+另通過附帶決議1項：
+(一)鑑於貧富差距日愈擴大，經濟弱勢者，更需要急難救助及生活扶助，中央主管機關內政部等應積極推動「食物銀行」之設置，並於三個月內向立法院提出社會救助法之修正草案，以完善社會救助制度。
+提案人：陳節如
+連署人：劉建國　　王育敏　　徐少萍　　林佳龍　　鄭天財
+二、委員楊曜及鄭汝芬所提書面質詢列入紀錄，刊登公報，並請相關機關於2週內以書面答復本會與本會委員及質詢委員。
+三、本日會議委員所提質詢未及答復部分（含委員質詢中要求提供之相關資料）亦請相關機關於2週內以書面答復本會與本會委員及質詢委員。
+散會
+<hr>
+主席：請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。
+進行討論事項。
+討　論　事　項
+一、併案審查本院委員江惠貞等20人、委員劉建國等18人、委員蘇清泉等23人、委員徐少萍等17人、委員陳節如等19人、委員林世嘉等21人、委員田秋堇等27人分別擬具「醫療糾紛處理及醫療事故補償法草案」、委員蔡錦隆等24人、委員吳宜臻等24人分別擬具「醫療事故補償法草案」、委員蔡錦隆等24人擬具「醫事爭議處理法草案」及委員吳宜臻等24人擬具「醫療糾紛處理法草案」等11案。
+二、併案審查本院委員趙天麟等19人、委員廖國棟等21人、委員賴士葆等25人、委員林世嘉等18人分別擬具「醫療法增訂第八十二條之一條文草案」、委員徐少萍等30人擬具「醫療法第八十二條及第八十二條之一條文修正草案」、委員蔡正元等25人擬具「醫療法第八十二條條文修正草案」、委員李應元等29人擬具「醫療法部分條文修正草案」及委員劉建國等18人擬具「醫療法第八十二條、第八十二條之一及第一百零七條之一條文修正草案」等8案。
+主席：今天的議程是：一、併案審查本院委員江惠貞等20人、委員劉建國等18人、委員蘇清泉等23人、委員徐少萍等17人、委員陳節如等19人、委員林世嘉等21人、委員田秋堇等27人分別擬具「醫療糾紛處理及醫療事故補償法草案」、委員蔡錦隆等24人、委員吳宜臻等24人分別擬具「醫療事故補償法草案」、委員蔡錦隆等24人擬具「醫事爭議處理法草案」及委員吳宜臻等24人擬具「醫療糾紛處理法草案」等11案。二、併案審查本院委員趙天麟等19人、委員廖國棟等21人、委員賴士葆等25人、委員林世嘉等18人分別擬具「醫療法增訂第八十二條之一條文草案」、委員徐少萍等30人擬具「醫療法第八十二條及第八十二條之一條文修正草案」、委員蔡正元等25人擬具「醫療法第八十二條條文修正草案」、委員李應元等29人擬具「醫療法部分條文修正草案」及委員劉建國等18人擬具「醫療法第八十二條、第八十二條之一及第一百零七條之一條文修正草案」等8案。
+現有委員要求程序發言，第一位請徐委員少萍發言。
+徐委員少萍：主席、各位同仁。感謝主席今天早上針對醫療事故賠償法跟醫糾法召開公聽會，雖然之前我們排了很多會議，針對這兩個法進行大體討論、專案報告，可是因為醫療事故賠償法是新的，醫療糾紛算是舊的，今天早上我們召開公聽會邀請很多專家學者，讓我們受益很多，我覺得這些意見都非常寶貴，我覺得這場公聽會應該要早點開，讓我們聽了之後，回去好好把條文再重新看一下。在今天早上召開公聽會之後，下午就要進行條文的審查，但依照我從以前擔任立委到現在的慣例，沒有行政院版本，我是不參與審查的，剛才我看了一下，行政院版並沒有列為我們今天審查的各個版本之一。上次美牛事件也是一樣，沒有行政院版，我們大家都是不審的，等到行政院版本出來之後，我們才審，所以我們是以行政院版為中心，再就不同的版本，大家來做比較，至少行政院版本是經過很多專家學者做過專業討論，所以我們審查法案一向都以行政院版本為主要的審查版本，然後再參考其他的版本，今天行政院版沒有來，我覺得不宜審查，我們也了解綁在一起的這兩個案子非常重要，但是我相信我們應該能很快把它審查完畢，可是不急於今天下午，謝謝。
+主席：請田委員秋堇程序發言。
+田委員秋堇：主席、各位同仁。首先我贊成今天下午開始進行逐條審查。其次，我反對很快把它審查完畢，因為這是一個非常重要的法案，且這個會期只剩下幾天了，醫糾法跟補償法我們已經等了多少年，既然今天召委已經把它排入議程，七、八個委員的版本也全都進來了，而事實上行政院版本也等於已經進來了，行政院版本不就在這裡嗎？上上禮拜，台大公共衛生學院在審查時，就是拿著這個版本在討論，這個版本天下皆知，沒有進來是誰的責任？上星期五的院會，我苦苦拜託林鴻池委員簽署不復議，就連民進黨、親民黨李桐豪召委、台聯黃文玲召委，全部都簽了，就只有林鴻池委員不簽，我還請問他是否要復議，他說他不復議，既然不復議，為什麼他不簽不復議的連署？就讓行政院的版本可以提早進來，不用再等兩個禮拜的復議期，如果各黨團都不復議，硬壓著行政院版本的醫糾和補償法，還要等兩個星期的復議期，這樣不是浪費時間是什麼？如果現在是我們會期剛開始，那本席也就算了，可是這會期快結束了，早上我已經跟大家報告過，我也拜託國民黨籍的委員同仁去跟林鴻池委員溝通，結果那位委員就跟我老實說，他說因為蔡錦隆委員下週要排，所以林鴻池委員不簽，也就逼得劉建國召委排入時，沒有行政院版本或是為了等行政院版本，我們就放棄，下午不要進入逐條，我覺得這不是私心私用嗎？我覺得非常沒有意思。今天如果要行政院版本，我影印給大家就是了，行政院版本可以一併討論，事實上，行政院版本跟很多委員的版本很像，我相信今天要進入逐條一點困難都沒有。再者，若要等兩個禮拜的復議規定是寫在憲法裡面，不得違反；本席就投降、放棄，但是並沒有。若我們突襲其他的黨，突然把它排進來，也沒有去徵求大家連署不復議，那麼我們對不起大家，我們跟大家說抱歉，可是我們也沒有啊，我們也對得起大家，今天等這個法等了那麼多年，為什麼一定要等行政院版本？之前，我們排大體詢答時，行政院版本沒有進來，所以我們沒有進行逐條，而且我也不贊成逐條，可是今天行政院版本也進來了，沒有任何黨團會去復議，行政院版本就長成這樣，就在本席這裡，如果要的話，本席負責影印給大家。
+主席：請陳委員歐珀程序發言。
+陳委員歐珀：主席、各位同仁。在程序發言之前，我想早上我們都參加過公聽會，本席之所以發言簡短，是因為本席期待我們今天能開始審查醫糾，踏出救命第一步。我是希望今天下午能開始審查，不過審查這個法案必須慎重，不一定今天要過，但是必須今天開始審，這是我們的責任，不要在我們委員會耽擱任何一天，各界對此有很大的期待，相信大家昨天都看到馬總統治國週記中的美食專家－梁幼祥的姊姊因抽脂死亡的新聞，本席看到這則新聞也覺得很痛苦。類此案例，報紙天天都有，今天早上聽了各界的意見，大家都各說各話，各種版本都很齊全，我們委員會每個人都有我們的專業知識，所以我們希望今天能夠開始審，由委員會踏出我們要踏出的第一步，不要又耽擱我們委員會排定的議程。如果審不完，沒關係，下週我們請蔡召委繼續主持，我們總是當一天和尚撞一天鐘，讓它今天能夠順利審查，特別是醫療法第八十二條之一的部分，社會期待很久了，所以本席程序發言是在強調：我們要開始審查醫糾，踏出救命第一步，除了是救大家的命，也是本委員會應盡的職責之一，希望主席能夠裁示照這樣來辦理，謝謝。
+主席：請趙委員天麟程序發言。
+趙委員天麟：主席、各位同仁。我想我們應該有一個基本共識，就是關於醫療法第八十二條之一及醫糾法，基本上，針對修法的方向，不分朝野我們都是支持的，或許大家對裡面的一些細節內容有不同的看法，但這是非常難得的機會，我相信無論是蔡召委或劉召委，我們認為都有必須通過這個條文的共識，這部分未來如果能獲得通過，也是朝野大家難得共同享有拯救醫療環境的成就感。但是在今天早上的公聽會，我曾經說過，我們之所以提醫糾，是為了不要讓醫糾通過，或各種議事規則導致這樣的案子在本會期沒有機會做深入的討論，那麼真的就是一項罪過，這也是本席所憂心的，所以在此本席要積極建議，早上劉召委也特別提到，如果蔡召委、劉召委都同意的話，就算我們今天開始審，也不會有結論，所以我們可以今天開始審查，下禮拜接著再審，在這個會期，進度能走到什麼程度，就走到什麼程度，但下禮拜是最後一次委員會，就目前所達成的共識來講，就算蔡召委下禮拜排，也不可能在下個禮拜審完，在這樣的情況下，我們註定這個會期不會有結果，那我覺得這件事就很可惜。當然對於上午的會議，我們要肯定衛生署，但是在這邊，我也要提醒衛生署，就是你們的動作太慢，如果你們的動作能快一點的話，在此，我們就不必委員之間還要彼此動員、討論，所以在這種情況之下，或許執政黨黨團真的可以考慮一下，因為你們都是執政團隊，既然執政團隊慢了點，我們可否拜託我們執政黨黨團在這裏幫一下忙，我們不要讓今天又空轉，這樣就真的可惜。最後，我要強調我們絕對不是在進行議事上的爭鬥，純粹是要讓醫糾法、醫療法第八十二條之一，能夠盡速完成審議，所以本席是支持今天作這樣的安排，而且我覺得田委員講得有道理，因為幾個禮拜前，政院版就進來了，大家都仔細閱讀過，也都做好功課了，完全沒有偷襲的問題，實在是因為可能有一些考量，所以復議部分沒有簽，這些我們也都不追究了，因此，今天可否不要提出散會動議、會議不要空轉，讓這個案子能開始進行討論，說不定下禮拜就有一個很不錯的進展，我想那將是大家共同的功勞。謝謝。
+主席：請蘇委員清泉程序發言。
+蘇委員清泉：主席、各位同仁。我很贊同趙委員天麟的講法，但是我們蔡召委一再堅持程序正義。我跟大家報告，趙委員天麟說這個會期註定過不了，我倒不這樣認為，如果今天進行大體討論，然後下禮拜一、三、四都排入議程，排了之後，朝野如果沒有意見，連行政院版一起來……
+徐委員少萍：（在席位上）大體討論過了……
+蘇委員清泉：下禮拜一、三、四三天都排，這樣在這個會期還是可以二讀、三讀，只是看大家要不要而已。
+主席：請蔡委員錦隆程序發言。
+蔡委員錦隆：主席、各位同仁。我非常感謝，因為今天所排的這3個案子，我都是提案人，我之所以感謝，是要感謝大家對這3個案子的關心和支持，大家都有這樣的共識，希望通過後能對我們的醫護提供一些保障，改善我們的醫療環境，所以一直以來這個案子都受到大家深切的關注，但是再怎麼關心，程序正義還是要維持。過去我當召委，審議美牛案、社福案時，也因為行政院版沒有來或是有部分案子沒有進來，我們大家就程序上一直發言，認為行政院版及其他版本沒有併進來，所以這部分不能這樣審。今天本席既身為召委，又是提案人，我也知道大家都認為這3個案子通過，對我們醫界是有幫助的，所以我在想如果我們今天，就如同趙天麟委員剛才所講的作充分討論，充分討論完之後，再把所有的意見彙整，於下禮拜1月8日時，因為過了復議期，我們可以正式排入議程，那我們就簡單多了。如果我們能夠趕快通過這個案子，這樣的話，就可以在這個會期三讀通過本案。如果今天出了委員會，我們要併行政院版進行朝野協商，那等於還要一個月朝野協商的時間，這樣等於宣告這個會期是完全過不了了，我想大家都有共同的心，是否我們努力，讓這個案子能在今天作充分討論，彙整我們所有的意見，做成大體結論，然後於下禮拜併行政院版，由我排入議程，並審查完成送出委員會，而且如果朝野都達成共識，就不用送交朝野協商，本會期將可以三讀通過，這樣的話，不僅程序圓滿，而且能顧及我們大家的意見，讓這3法同時完成審查，來幫助我們的醫護。謝謝。
+主席：請楊委員曜程序發言。
+楊委員曜：主席、各位同仁。其實我們在審查這個法案的同時，也在創設一個制度，我剛才聽到大家好像很急著要讓這個法出委員會，甚至要讓這個法在這個會期通過，其實我是認為不應該那麼急，因為本席已經詳細看過所有版本的法條，我自己也思考過，我認為裡面必須要討論的東西真的太多了，不管是大體詢答或是逐條審查，都有很多東西，我希望本委員會不要把這幾個法案，當作一項業績，因為一項制度的創設並沒有那麼容易，萬一法條訂定得不夠嚴謹，以後所產生出來的制度是沒有辦法解決問題的，沒有辦法解決問題，就有可能衍生出比原本更複雜的問題，屆時，這項責任該由誰來承擔？我希望大家是不是能夠停下來想一想，有沒有必要大家都把重點放在什麼時候審查完畢？其實什麼時候審查完畢並不是重點，假如以衛生署的進度來看，真的不是重點，要不然他們的版本不會這麼慢才出來，重點是在我們怎麼讓這一部法律能夠有效解決目前醫師所碰到的困境，同時保障所有醫療事故裏面的當事人或受害家屬，這才是重點。我希望大家能夠想一想，把這個案好好的想，慢慢的談，完整的審查，讓他能有一個很好的法律面的東西出來，日後產生很好的制度，謝謝。
+主席：請田委員秋堇程序發言
+田委員秋堇：主席、各位同仁。我不知道我們現在是在亂什麼，說這個法這麼要緊；說這個法讓我們國家、百姓、醫界以及受醫療傷害的病患家屬等了那麼久，所以今天下午一排進議程，我們大家不是應該趕快進入逐條審查，去年11月21日就大體詢答過了，我們有哪個法案是不斷大體詢答的嗎？我的意思是，今天早上的公聽會，我們已經不斷的講了，上禮拜醫改會在立法院就舉辦過一場公聽會了，上上禮拜黃達夫院長，在台大的公共衛生學院也舉辦過公聽會，還有本席在擔任召委時，也排了好幾次有關不責難補償制度的專案報告，那時我們就是在催促行政院，就行政院版本，我們當然不會怪衛生署，衛生署已經送到行政院，是行政院把人家耽誤了，現在既然已經送進來，上星期五，本席就在院會裡拜託各個黨團提同意不復議的簽署，民進黨黨團柯建銘簽了，親民黨黨團李桐豪也簽了，台聯黨團的三位委員同仁也都簽了，就是林鴻池委員不簽，本席就跟他說，他簽了之後，我們今天就可以排逐條審查，行政院版本就可以進來，我剛才聽到好多人說，因為行政院版本沒有進來，所以有所缺憾，我認為行政院版本已經天下皆知，有多少人討論過，如果大家認為今天行政院版本一定要進來，就請林鴻池委員現在進來簽，他簽了之後，本委員會的議事人員就可以趕快把行政院版本影印給大家，我剛才也建議，若行政院版本沒有正式進來，還在等復議期，那就一併討論，而不是一併審查。至於下週蔡錦隆委員要怎麼排，我們沒有意見，問題是今天這個態勢是怎麼樣？民進黨來排就不行嗎？只要他簽一下，行政院版本就可以進來。上星期我請教過林鴻池委員，他說國民黨黨團也不會提復議，所以為什麼不肯簽同意不提復議的連署呢？到底誰是執政黨？我已經搞不清楚了。你們說要繼續開公聽會，進行大體詢答，我已經當了8年的立委，所有的東西就是要進到條文裡面來，一翻兩瞪眼，大家一字一句的來喬、來講、來論嘛！為什麼你這個字要放進去，為什麼你這個字不肯放進去？之前我就提到，上屆審查二代健保時，就曾發生一個慘痛的例子，無論是公聽會或專案報告全部都沒有問題，就是用家戶總所得的方式，可是連在院會上，財政部長都沒有跟楊志良署長表示他是反對家戶總所得的，等到進行逐條討論時，財政部長竟然說家戶總所得的方式他辦不到，沒有辦法配合衛生署，這讓我實在無法置信，本來不想公開把他們漏氣，所以休息時間我私下問楊志良，在院會時，財政部長都沒有跟你說他反對家戶總所得嗎？楊志良那時是低著頭，默默的苦笑、默默的搖搖頭。所以我們就是要所有的東西都進入逐條討論，不同的部會若有不同的意見，都可以站出來表示意見啊！若不進入逐條討論，可能大家說的都是好聽的話，比方說他很有遠見、他很關心，結果一進入逐條討論，就講成另一套，變成補充保費了，所以本席建議今天進入逐條討論，大家來好好討論，至於下個禮拜蔡錦隆委員要怎麼安排，我們也沒有辦法過問，但是行政院版本就在這裡，如果大家堅持行政院版本也要放進來，就請林鴻池委員進來簽個字同意不復議，這樣行政院版本就可以進來了。謝謝。
+主席：請蔡委員錦隆程序發言。
+蔡委員錦隆：主席、各位同仁。我記得本席提出這兩個案子的時候，因為一直沒有行政院版，所以我們就不審，而徐少萍委員還特別強調，若沒有行政院版，他就不審，好不容易等到行政院版來了，則程序正義總是應該要讓它完成，若今天只有審委員版本，沒有併行政院版一起審查的話，這跟原來在審議這兩個法案時，不就衝突了嗎？
+田委員秋堇：（在席位上）叫林鴻池委員進來簽字……
+蔡委員錦隆：田委員，你是拿給誰簽我不知道，但至少到今天為止，你還沒有問過我。換言之，沒有人找過我來簽名，但是我要告訴各位，我們大家心裡的想法都是一樣的，希望這部法能夠趕快通過，但這也是要符合程序正義的。謝謝。
+主席：本席可能要補充說明一下，我排這個案子進來，如果有違背任何程序上的規定，即違反了哪一條規定，請清楚的講出來，而且如果你們講得出來，就請馬上把我送到立法院紀律委員會，我絕對無所怨言。
+今天在公聽會最後，當時徐少萍委員、江委員惠貞皆在場，我也特別提到這個會期快要結束了，我當召委只剩下今天這一天，蔡委員還有下個禮拜3天可以當召委，這個案子我們已把對照表都做出來了，裡面有包含行政院版以及各個版本的差異之處。此外，我在公聽會上還提到，可能會有很大爭議是來自基金以及鑑定的部分，而這裡面有五十幾條，雖然各個委員的版本和行政院版在條次上差不了多少，但這兩個這麼重大的東西，可能一天都審查不完，我還特地強調說，今天我們已經完成大體討論以及兩次的專案報告，包括早上舉辦的公聽會，然後台大也辦了公聽會，國會工作坊也在上禮拜辦了公聽會，上個會期也有辦過相關公聽會，如果各位要再舉辦公聽會，我也不會有意見，但並不是這個委員會現在要審查了，就一定代表會有所謂的保留或是一個月的協商期，也不是代表下個禮拜有3天的審查，就不會有保留，就沒有一個月的協商期，審查法律不是這樣子馬上就去作設定的。
+再者，我還特別強調，如果蔡召委、大家願意合作，把這個案子快速進行審查，我個人並不會認為這個案子是我排的，就全部一定要由我審到完，因為我們的時間有限，所以我要特別強調，我安排的我可以接受，下禮拜蔡召委要繼續排，我不會有意見，但是我說這些話的前提是，因為這個案子的關係，我可以做這樣的讓步，但是未來可能我們兩位都沒有再擔任召委，換成別人擔任召委，則在召委的協商會議中應特別提到，同一議案是由輪值排下去的召委一直來將其審查完畢，不然爾後大家就可能會互相搶來搶去，這樣對委員會是不好的，這個案曾經在上一屆討論二代健保時，兩位召委為了搶排議程一事上可說是吵了很久，造成相當不好的氣氛，所以方才在公聽會上，我就已經強調，我可以接受這樣的安排，因為這個案子大家有高度的共識，但是高度的共識指的是即刻進行審查，而不是針對每個條文大家有高度共識，畢竟五十幾條的條文要有共識並不是很簡單，然今天為了一個院版沒有排進來，就說我違背相關程序，那就必須跟我講清楚，我到底違背了哪一條的規定？現在立法院不分朝野，對此共提出11個版本，結果卻沒有辦法進入實質審查，一定要等到院版併案才可以討論，我當了3年多的立委，徐少萍委員當了6屆立委，他表示一定要等院版來才審查，這個我表示尊重，但我絕對從頭到尾都不會說任何的法案一定等院版進來後才要審查，沒有這個道理，同時也沒有這樣的規定，立法院就是立法院，我們不是行政院立法局，況且社環委員會已有11位委員提出版本，結果竟沒有辦法進入審查，我覺得我當召委是失職的，我並沒有要搶什麼credit，但這些條文在基金這一關，可能搞個半天都搞不出來，我可以把這份對照表及差異分析表分給大家參考，而且我也把院版影印好了，馬上可以發下去，讓大家去對照這些版本中的差異點，老實說，這些都不是很困難的事情，唯獨基金的部分還有一些相關的條文，真的是不太容易去處理，畢竟這中間還有滿大的爭議。況且今天梁法官有提到，司法院是有說同意的，同時希望針對幾個文字做一些修正，但是之前梁法官的說法並不是如此，且在公聽會上他也不是第一次說這樣的話。此外，在12月20日，我還特別排了專案報告，各位如果對我今天排這個法案有意見，那天就應該糾正我，那天的議程是邀請行政院衛生署邱署長、法務部次長、行政院主計總處副主計長、司法院等就101年12月13日行政院院會通過之「醫療糾紛處理及醫療事故補償法草案」及「醫療法第八十二條之一修正草案」之條文內容、要旨與修法歷程列席報告並備質詢。我不只大體詢答完畢，我連行政院的版本都排了專案報告，所以我實在不知道我違背了什麼程序，我跟大家的心情都一樣，我們就進行審查，有問題的話就來討論，所以誰來安排都是一樣的，不然我現在可以離開，換國民黨的人來主持。
+林委員鴻池：（在席位上）協商一下。
+主席：但是你要告訴我，我違背什麼程序啊！這又不是我第一次擔任召委，如果我做得比較不好，就請你們告訴我，同時告訴我違背了什麼程序，然後馬上將我送到立法院的紀律委員會，我願意接受懲處，甚至禁足我半年之內不可以踏進衛環委員會，這些我都沒有意見，總之，不能說我違背程序啊！
+徐委員少萍：（在席位上）這是慣例，而不是說什麼程序……
+主席：不好意思，沒有慣例！我們也曾經有案子的院版沒有進來，然後我們仍進行審查，這個議事人員可以調出來給大家看。
+徐委員少萍：（在席位上）重大案子都應有行政院版。
+主席：這個案子當然是重大案子，我也願意尊重，但是方才在公聽會我就特別強調，我不曉得行政院衛生署出了什麼毛病，13日院會就已經通過了，甚至14日各大報紙以全版來報導這件事情，直到15日，這個案子為何還沒有辦法送到程序委員會？為何18日上午11時前沒有辦法送到程序委員會？偏偏要等到下午呢？這部分我實在想不透，所以你們要提出解釋啊！而且他們的版本早就公告了，所以我才認為各委員應對這個案子特別重視，各委員的助理可能早就把衛生署的版本download下來交給各位委員，包括中間的差異何在，各位也可以問你們各辦公室的助理，這部法有這麼好審嗎？有人提議今天不要進行逐條討論，我想這就讓大家來公決，我沒有意見，但並不是今天討論就保留協商或是下個禮拜3天就一定可以討論完畢，然後不須有1個月的協商期，這話可能說得太快了，因為裡面真的有一些爭議是尚未解決的。總之，我是善意提醒，至於誰來主持讓這個案子得以通過，我沒有意見。
+現在休息5分鐘。
+休息
+繼續開會
+主席：現在繼續開會。請蘇委員清泉程序發言。
+蘇委員清泉：主席、各位同仁。經過柯總召、林鴻池執行長、劉召委、蔡召委跟大家協商的結果，第一，現在就開始進行逐條審查，今天審查的條文不出委員會；第二，我們審查到下午5時30分；第三，後續的條文下個禮拜就由蔡召委接力審查；第四，四黨淬礪在這個會期把這3個案子完成審查。謝謝。
+主席：方才那是蘇委員的建議。
+請徐委員少萍程序發言。
+徐委員少萍：主席、各位同仁。沒關係，今天假設兩黨有共識的話，就照這樣來做，我沒有意見，但是我還是很堅持，若沒有行政院版，我就不參與審查，下個禮拜行政院版提出來後，我一定從頭到尾參與，基本上，若沒有行政院版，就很容易不知道該如何審查，像有一些條文就有十幾個版本，內容可能都是一樣的，雖然行政院版的內容也可能會一樣。
+此外，平常我們就是會宣告依行政院提案條文通過，可是若十幾個版本當中沒有行政院版，則到時要依哪個版本通過呢？是依江委員惠貞版、蘇委員清泉版、劉委員建國版或是蔡委員錦隆版的呢？還是你們都不是很在乎，反正誰排前面就依誰的版本通過？所以沒有行政院版時，在審查時是有一些麻煩的，但是我再說一遍，今天沒有行政院版我就不審，下禮拜有行政院版的話，我就一定從頭坐到尾。謝謝。
+主席：關於該一點，我要補充一下，如果行政院版和委員版內容是一樣時，我通常都會做出依行政院版及各委員版本通過的宣告，所以這部分是沒有問題的。還有行政院版稍後會發給各位，因為已經印好了，而這是我自己花錢做的。
+請楊委員曜程序發言。
+楊委員曜：主席、各位同仁。蘇委員清泉方才最後一點提到這個會期要讓其出委員會一事是否為共識呢？本席認為，不應該做這樣的設定，關於醫療糾紛，我敢說這裡可能沒有人比我面對的還要多，像我從澎湖搭飛機過來，上面就載有4架輪椅，即有4位老人必須坐在輪椅上搭飛機過來台灣，事實上，澎湖的醫療糾紛真的是多到你們沒有辦法想像，若能有一個制度讓澎湖人得到一些補償，難道我不希望嗎？可是我更希望的是，這個案子能夠慢慢的審、好好的談，把法律面做到最完善，讓以後的制度運作起來沒有問題，假如可以的話，就將其審完，可是不要先做預設的立場，就是這個會期一定要過，畢竟不是這樣在拚業績的。
+其實還是有很多沒有浮出檯面的醫療糾紛存在，方才我就跟陳歐珀委員提到，在澎湖沒有什麼大醫院，澎湖最大的醫院就只是區域醫院而已，可是相對於澎湖鄉親以及一般就醫者而言，這還算是很大的醫院了，此外，其在訴訟上的證據也算是所謂的獨占。再來，澎湖人在訴訟上的各種管道及能力也都比一般台灣人民差很多，既然大家都很重視這部法，甚至有11位委員提出相關版本，大家就慢慢審，真的不要急！
+主席：請柯委員建銘程序發言。
+柯委員建銘：主席、各位同仁。首先，能夠順利審下去是大家的共識，至於誰對誰錯我們就姑且不論了，不過楊曜委員方才說的話則是我比較care的，也就是蘇清泉委員提到的，基本上，我認為不是誰要爭相去擔任召委，爭的應該是版本內容如何正確通過，這個才是重點，大家應該要有這樣的想法，所以下禮拜由蔡錦隆委員擔任召委繼續審下去是ok的，但下禮拜只有3天可以審查，而蘇清泉委員表示下禮拜3天就要審查完畢，我是認為不要有預設任何的立場。
+還有，應該先好好審查醫糾法，然後再來審查醫療法，不要忘了消費者的權益，所有的公平正義一定要維持著，這一點若立法院沒有維持到，那就太不應該了，像我也是醫生出身，深知若立法不周延招致社會反彈時，則大家就會沒有地方跑了，所以法案就好好審，不要設定這個會期一定會通過，立法院有一百多位委員，所以還有100位委員沒有來這裡，此外，屆時各政黨的立場是如何，大家都是要表態的，所以法案就好好審，有共識之後才有可能三讀通過，若硬要出委員會的話，到時朝野協商也是沒有辦法通過的，甚至這屆任期結束也是沒有辦法處理，所以這種法案沒有人是用表決來決定的，一定是要大家協商出一個共識才行，所以本席建議大家就好好審查，不要吵架，也不要有任何的預設，然後抱持一個衡平的立場來看待這個事情。謝謝。
+主席：再補充一個簡單的說明，方才委員有提出一些相關的意見，基本上，我們把這個案子排進去是希望病醫法三方可以創造出三贏，也就是站在病人的角度來做思考，法律審查方面方才我有特別提到，應該也不至於今天就有案子可以出得了委員會，或是今天就可以保留協商，或是換成下個禮拜來審查，則所有的案子就可以通通都通過，不需經由朝野協商，這可能預設得太快了，事情可能沒有那麼簡單。
+我也一直有提到，除了11位委員的版本之外，加上院版就有12個版本，裡面有幾個條文的差異性還是滿大的，若要有共識，則大家要有一番的討論，才有辦法慢慢的達成共識，而且也不一定是在今天或是在下個禮拜。基本上，會希望可以進入實質的討論是因為這個會期我們已經排過專案報告及大體討論，其實醫糾法草案在第6屆賴清德委員等就已經提出過了，後來為何胎死腹中？為何第7屆完全都沒有討論到呢？這次第8屆當中我們有機會再度提出來討論，也催促行政院提出相對應版本，我要特別強調的是，在這個過程當中是沒有什麼爭論的，但是站在國會議員的角度，當我看到委員版本這麼多，我理應排進去議程，不需等待院版進來後才要開始審查，我們是一個立法院，絕對不是行政院的立法局。
+現在進行逐條討論。併案審查本院委員江惠貞等20人、委員劉建國等18人、委員蘇清泉等23人、委員徐少萍等17人、委員陳節如等19人、委員林世嘉等21人、委員田秋堇等27人分別擬具「醫療糾紛處理及醫療事故補償法草案」、委員蔡錦隆等24人、委員吳宜臻等24人分別擬具「醫療事故補償法草案」、委員蔡錦隆等24人擬具「醫事爭議處理法草案」及委員吳宜臻等24人擬具「醫療糾紛處理法草案」等11案，請議事人員逐條宣讀後再逐條處理。
+陳委員節如：（在席位上）我還沒有作提案說明。
+主席：因為有新的提案進來，所以我們要做提案說明。
+請提案人陳委員節如說明提案旨趣。時間為3分鐘。
+陳委員節如：主席、各位列席官員、各位同仁。我們是秉持著維護病人權益提出這個草案，病人權益獲得必要的保障，醫療糾紛事件處理的程序上也要找出真相，避免將來錯誤的機制產生，而且調解和補償的內容如果可以讓病人一方理解和接受的話，自然可以降低醫療糾紛的訟源。
+醫糾發生的時候，醫院必須兩天內與病人聯繫，針對醫糾進行說明、溝通，且醫院必須在一天至兩天內免費提供完整的資料，另外，相關醫事專業知識團體也應主動提供協助，針對重大醫療事件，我們認為應該要成立一個常設獨立專案調查小組，而不是發生事件後才來成立，以避免上次台大愛滋捐獻、衛生署球員兼裁判的狀況再次發生。
+由於調解屬於民事範疇，因此，我們認為刑事告訴跟自訴的限縮是不合理的，況且刑事案件只有半年的追訴期，如果因為調解而剝奪病人提出刑事訴訟的權益，對病人並不公平，此外，調解時必須要有至少3位背景不同的調解委員參與，客觀的處理調解，避免病家覺得調解委員偏頗醫界，調解委員如果認為調解案符合補償的資格，應該要主動告知病家。還有，醫療糾紛進入調解的案件時，可以建立醫糾爭議事件的資料庫，由這些資料可以讓醫界進行檢討及改進，避免未來發生類似的事件。
+針對補償案件的審查，我們應該也要涵蓋醫療倫理學家、病人權益促進團體等在內，以保障病家的權益，希望各位委員能夠跨黨派支持病人權益保障的立場與條文，也希望衛生署也能夠秉持公義社會的國家願景來為病人權益做妥善的把關。謝謝。
+主席：請提案人吳委員宜臻說明提案旨趣。
+吳委員宜臻：主席、各位列席官員、各位同仁。針對醫療糾紛的處理以及醫療糾紛的補償，本席在提案的時候有考慮到這兩項要進行的程序以及要處理的問題是否一致的部分，即這兩項是否應放在同一部法還是應該要割裂處理，在之前幾次於社環委員會的質詢當中，我是一直要求衛生署要去面對的是，在處理醫療糾紛時，要想一想為何病人要透過訴訟來處理，是不是真的是走投無路？是不是醫生在處理醫糾時，因為有專業的門檻，所以讓病人不放心或是覺得溝通有障礙，甚至會覺得醫院或是醫療機構的說明都是在說謊，因為有這樣的落差，是不是會讓醫療糾紛處理會更困難？所以我認為在醫糾處理程序的問題上應該要去面對的是，這個醫糾處理程序要如何讓一個專業人士，甚至能夠去兼顧病人權益觀點，這部分確實應該要去強化調解程序中專業的介入，包括專業的委員以及專業的調處程序，但是有一個前提，就是不能強迫病人一定要先走調解這條路，事實上，這是會影響病人的訴訟權，也會限制病人的權利保障，而且這也不符合我們國家的法制。所以我認為在醫糾處理程序的部分，原則上同時讓病人有選擇權，即他可以選擇要專業調解，甚至可以利用本法所設立的醫療諮詢機構去諮詢、去評估訴訟的可能性。
+另外，針對醫療糾紛補償的部分，本席也一再強調，這並不是讓醫生留下買路錢的一個基金補償或是現金補償，而是讓病人去評估，在不究責醫生或是醫療機構的情況下，有沒有可能讓病人先行補償，讓他們可以重新生活、重新開始或是進行復健，而不要只是陷在訴訟及醫療糾紛裡面，所以本席一直認為這兩個應該要切割處理，而且我有另外考慮到生產風險補償機制的部分，若硬要放在院版或是委員版醫療糾紛中，再去做一個準用醫療糾紛補償的規定的話，則我想對於生產風險的部分，其實有很多的事件事實上並不涉及醫療人員等相關人員疏失的問題，有非常多是無法預期的，則這時要如何準用或是適用呢？因此，這在法律的適用上是有問題的，所以本席認為，醫療糾紛補償應該像藥害救濟或是以其他無過失、無究責的救濟方式來處理，這樣切割處理也會讓病人放心，不會認為走了補償就不可以訴訟或是走了訴訟就不可以補償，也沒有所謂為醫療院所或是醫生留下買路財。
+總之，這些部分應該切割處理，才可以看出醫療衛生機構、衛生署是更有誠意的，願意用更專業的方式來協助處理醫療糾紛。謝謝。
+主席：現在進行逐條審查。
+進行法案名稱。
+江委員惠貞等20人提案條文：
+法案名稱　醫療糾紛處理及醫療事故補償法草案
+劉委員建國等18人提案條文：
+法案名稱　醫療糾紛處理及醫療事故補償法草案
+蘇委員清泉等23人提案條文：
+法案名稱　醫療糾紛處理及醫療事故補償法草案
+徐委員少萍等17人提案條文：
+法案名稱　醫療糾紛處理及醫療事故補償法草案
+陳委員節如等19人提案條文：
+法案名稱　醫療糾紛處理及醫療事故補償法草案
+林委員世嘉等21人提案條文：
+法案名稱　醫療糾紛處理及醫療事故補償法草案
+田委員秋堇等27人提案條文：
+法案名稱　醫療糾紛處理及醫療事故補償法草案
+蔡委員錦隆等24人提案條文：
+法案名稱　醫事爭議處理法草案
+吳委員宜臻等24人提案條文：
+法案名稱　醫療糾紛處理法草案
+蔡委員錦隆等24人提案條文：
+法案名稱　醫療事故補償法草案
+吳委員宜臻等24人提案條文：
+法案名稱　醫療事故補償法草案
+主席：先把印好的院版以及院版和各版本的對照表發給大家做參考，那是我們做的。
+相信大家手上都有行政院版了，行政院版的法案名稱是「醫療糾紛處理及醫療事故補償法草案」，這跟7位委員的版本也是一樣的，而吳委員宜臻及蔡錦隆委員，則是將其分為兩部法律來處理。
+針對法案名稱，依慣例先請行政單位說明。
+請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。首先，感謝委員安排醫療糾紛處理及醫療事故補償等相關法案來進行審查。有關法案名稱的部分，其實衛生署之前是有考慮到這兩部分是否要合併或是切割的事情，但我們覺得整個醫療糾紛的處理跟醫病之間的關係其實是一個相輔相成的配套措施，兩部分當然可以切開，不過未來在法案相關處理的過程中，對於醫療糾紛處理及醫療事故補償，我們希望兩者能夠有一個相關的連結且前後有所呼應，這樣對於維護病人相關權益可以更加的完整，所以決定將其定在同一部法律當中。謝謝。
+主席：請吳委員宜臻發言。
+吳委員宜臻：主席、各位列席官員、各位同仁。我不懂為何醫療糾紛處理法及醫療事故補償法分立然後同時送進立法院審查後會對病人的權益會有什麼樣的損害，也不懂將兩者綁在一起又有什麼特別的保障，像院版醫療糾紛補償的部分，我們也看不到真正的大餅在那裡，你們應該要做出來給大家看啊！你們將兩者綁在一起，不過是強化了所謂醫療處理的程序，甚至還要求一定要走調解的程序，本席一直強調，這樣子做只是讓病人更加懷疑，這是不是強迫病人一定要走這個程序，否則就會不予補償或是根本不走補償這個程序呢？所以兩者應切割處理，且依立法院的議事運作，事實上這兩部分還是可以併案送出委員會，這是立法院自己的問題，不應該把這個東西變成病人權益保障上的一個擔憂，所以本席對名稱的部分是有意見的，即兩者是可以切割處理，名稱不應該綁在一起。謝謝。
+主席：請另外一位提案委員蔡委員進來。
+在此之前，請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。因為醫療法第八十二條之一可能會造成病人、病人家屬跟醫師、醫界之間的對立、衝突，所以才會針對醫療糾紛處理及醫療事故補償提出院版及委員版的草案，有部分委員提到，醫療事故補償這一塊目前不管是院版或是委員版，對於病人或是病人家屬是否有實質或是足夠的釋疑呢？還有，這是否對他們來說更有保障，換言之，是否更有法律或是政府來做他們的靠山呢？
+我們不得不承認，若要引用美國或是歐洲的無過失補償或是更進一步的代位求償，則以台灣的現況跟政府的財源來看，這是一個最大的考驗，其實院版願意成立一個基金來做補償，其實並不是在限縮病人或病人家屬權益的取得，事實上我們看過太多的案例，幾乎每個人都說要真相，當然我們應該用各種的方式給其真相，但不可否認，像我每個月進進出出醫院有好幾次，我看到了太多無謂的糾紛，之所以提出醫療糾紛處理及醫療事故補償法，是希望大家可以面對現實，每個人都有很多的陳情及故事，但我們仍是要面對一個整體性的問題，比方說目前醫療體系當中真的到最後被判刑的到底有多少位？或許根本沒有多少位醫生被抓去關，反觀現在醫生不願意到醫院服務，這對所有的病人及民眾來說，可說是最大的困境，因此，或許我們沒有辦法像國外那樣的全盤到位，但國外之所以那麼做，是否因為他們有更好的背景，比方說有更好的稅收，他們的企業、民間團體有更好的捐助及挹注，所以以目前台灣的狀況來看，目前找到最好的方式就是這樣，雖不滿意但我仍希望醫療糾紛處理及醫療事故補償並不是在剝奪病人及其家屬的權利，而是希望有一個完整的配套模式，來處理病人、病人家屬及醫療機構所面臨的困境，所以我還是主張醫療糾紛處理及醫療事故補償應放在一起，以利前後呼應，雖然吳委員及蔡委員是希望將兩部分分開處理，但稍後若認為原來這樣配套的方式有不夠周詳之處，其實還是可以想辦法來補強這樣的配套，讓其更臻完善。總之，我還是主張法案名稱為「醫療糾紛處理及醫療事故補償法」。謝謝。
+主席：請陳委員節如發言。
+陳委員節如：主席、各位列席官員、各位同仁。其實到第四章、第二十五條以前都是在談醫糾，第四章之後則是在談補償，只有後面的罰則是兩者放在一起的，所以在處理罰則的時候要小心來予以分別處理。本席認為，我還是認為應該要放在一起來討論，況裡面兩者的相關條文都是分開來規定的，所以還是希望以我們幾位委員所提的法案名稱來處理，畢竟這樣並不會造成混淆，因為前面規定醫糾，後面規定補償。謝謝。
+主席：請田委員秋堇發言。
+田委員秋堇：主席、各位列席官員、各位同仁。我覺得放在一起或是將其分開都各有利弊，早期全國醫師公會有一位理事曾經打電話給我表示，他們希望能夠將其分開，然對我而言，分開或是一起我都不堅持，後來林奏延副署長跟我說，本來衛生署有兩個版本，一個是合在一起，另一個是分開的，最後送到行政院的為何是合在一起的呢？就是他們擔心一個會過，另一個不會過，如果醫糾過補償沒有過，則醫糾等於一場空，這樣的理由我認為有道理，也可以接受，所以我就跟醫師公會說，我覺得林副署長的意見是有道理的，所以後來大家也都沒有其他的聲音，因此，我是可以接受法案名稱為「醫療糾紛處理及醫療事故補償法」。謝謝。
+主席：現在進行處理，關於法案名稱，江委員惠貞版、蘇委員清泉版、徐委員少萍版、陳委員節如版、林委員世嘉版、田委員秋堇版、劉委員建國版及行政院版的法案名稱都是一樣，所以就照各個提案委員版本通過，請問各位，有無異議？（無）無異議，通過。
+進行第一章章名。
+江委員惠貞等20人提案條文：
+第一章　　總　　則
+劉委員建國等18人提案條文：
+第一章　　總　　則
+蘇委員清泉等23人提案條文：
+第一章　　總　　則
+徐委員少萍等17人提案條文：
+第一章　　總　　則
+陳委員節如等19人提案條文：
+第一章　　總　　則
+林委員世嘉等21人提案條文：
+第一章　　總　　則
+田委員秋堇等27人提案條文：
+第一章　　總　　則
+吳委員宜臻等24人提案條文：
+第一章　　總　　則
+主席：第一章章名就照各個提案委員版本通過，請問各位，有無異議？（無）無異議，通過。
+進行第一條。
+江委員惠貞等20人提案條文：
+第　一　條　　為妥適處理醫療糾紛，增進醫病關係和諧，保障病人就醫權益，特制定本法。
+劉委員建國等18人提案條文：
+第　一　條　　為公正、迅速、妥適處理醫療糾紛，維護醫病雙方權益，增進醫病關係和諧，減輕訟累，進而提升醫療品質，合理使用醫療資源，改善醫療執業環境，保障病人就醫權益，特制定本法。
+本法未規定者，適用其他有關法律之規定。
+蘇委員清泉等23人提案條文：
+第　一　條　　為妥適處理醫療糾紛，並保障當事人權益，促進醫病關係和諧，特制定本法。
+徐委員少萍等17人提案條文：
+第　一　條　　為妥適處理醫療糾紛，增進醫病關係和諧，改善醫療執業環境，保障病人就醫權益，特制定本法。
+陳委員節如等19人提案條文：
+第　一　條　　為妥適處理醫療糾紛及事故，增進醫病關係和諧，改善醫療環境，保障病人就醫權益，特制定本法。
+有關醫療糾紛及事故之處理，依本法規定。本法未規定者，適用其他法律。
+林委員世嘉等21人提案條文：
+第　一　條　　為妥適處理醫療糾紛，增進醫病關係和諧，改善醫療執業環境，保障病人就醫權益，特制定本法。
+田委員秋堇等27人提案條文：
+第　一　條　　為妥適處理醫療糾紛，保障病人就醫權益，增進醫病關係和諧，改善醫療執業環境，特制定本法。
+本法未規定者，適用其他有關法律之規定。
+蔡委員錦隆等24人提案條文：
+第　一　條　　為妥善處理醫事爭議，增進醫病關係和諧，特制定本法。
+吳委員宜臻等24人提案條文：
+第　一　條　　為保障病人就醫權益，增進醫病關係和諧，妥適處理醫療糾紛，改善醫療執業環境特制定本法。
+蔡委員錦隆等24人提案條文：
+第　一　條　　為使醫療風險合理分擔，醫療事故受害人獲得及時適當補償，並增進醫病關係和諧，特制定本法。
+吳委員宜臻等24人提案條文：
+第　一　條　　為分擔醫療事故風險結果，促進病人權益保護，增進醫病關係和諧，改善醫療執業環境，特制定本法。
+主席：請陳委員節如發言。
+陳委員節如：主席、各位列席官員、各位同仁。法律規定得愈仔細、愈小心愈好，我的版本第二項提到「有關醫療糾紛及事故之處理，依本法規定。」但很多版本並沒有特別提到「醫療糾紛及事故之處理」等文字，然後第二項後段提到「本法未規定者，適用其他法律。」等文字，其他委員等版本幾乎都有提到，可是行政院版就沒有提到，所以「本法未規定者，適用其他法律。」等文字應該要加進去才是。謝謝。
+主席：請衛生署法規會高參事說明。
+高參事宗賢：主席、各位委員。關於第二項的「本法未規定者，適用其他法律。」現在的法制作業上都不寫這些文字，因為這是當然的，所以這些文字都不寫了。
+主席：田委員秋堇版、林委員世嘉版、徐委員少萍版、江委員惠貞版都跟院版的差不多，吳委員宜臻版就有一點不一樣，陳委員節如版的內容就像他方才發言時所提到的，而我的版本也是有點不一樣，前面多了「公正、迅速」等字。
+請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。今天審查的醫療糾紛處理及醫療事故補償法，除了解決醫病之間的困境之外，希望能夠對病人及病人家屬能夠有多一點尊重，所以在這個地方，我比較了一下本條的內容，建議採吳宜臻委員的版本，雖然其實內容都一樣，但是吳委員的提案把順序做了一個調整，我覺得還不錯。吳委員的提案是「為保障病人就醫權益，增進醫病關係和諧，妥適處理醫療糾紛，改善醫療執業環境特制定本法。」我覺得這樣的順序感覺上比較nice一點，不知道衛生署能否同意？其實本條的內容跟你們的版本都一樣，只是我們認為站在病人與病人家屬的立場，以保障他們的權益為出發，是不是更妥當？請主席詢問大家的意見，看看能否採用吳宜臻委員的版本。
+主席：謝謝江委員的建議，這個OK啦，請看看有沒有遺漏之處。
+請衛生署林副署長說明。
+林副署長奏延：主席、各位委員。「改善醫療執業環境」之後要加上「，」。
+主席：第一條就照吳委員宜臻的版本，在「改善醫療執業環境」之後加上「，」修正通過，請問各位，有無異議？（無）無異議，修正通過。
+進行第二條。
+江委員惠貞等20人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+劉委員建國等18人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+蘇委員清泉等23人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+徐委員少萍等17人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+陳委員節如等19人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+林委員世嘉等21人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在地方為直轄市政府、縣（市）政府。
+田委員秋堇等27人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+蔡委員錦隆等24人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+吳委員宜臻等24人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+蔡委員錦隆等24人提案條文：
+第　二　條　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。
+吳委員宜臻等24人提案條文：
+第　二　條　　本條例所稱主管機關，為行政院衛生署。
+江委員惠貞：（在席位上）這部分應該有一定的體例，請法制人員說明。
+主席：請衛生署法規會高參事說明。
+高參事宗賢：主席、各位委員。現在的立法體例通常都用「本法所稱主管機關：在中央為行政院衛生署；」，然後地方的部分則分開規定，就是「在直轄市為直轄市政府；在縣（市）為縣（市）政府。」
+主席：本條陳節如委員、田秋堇委員、徐少萍委員、江惠貞委員的版本都與行政院版本相同，林世嘉委員的版本「在地方為直轄市政府、縣（市）政府」的規定有點怪怪的。
+本條就照陳委員節如、田委員秋堇、徐委員少萍、江委員惠貞、蔡委員錦隆、吳委員宜臻、劉委員建國及蘇委員清泉等提案條文通過。
+進行第三條。
+江委員惠貞等20人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生傷害、殘廢或死亡結果之事故。
+三、當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。
+劉委員建國等18人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生傷害、殘廢或死亡結果之事故。
+三、當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。
+四、醫療機構：指醫療法所規定之公、私立醫院和診所。
+五、醫事機構：指主管機關所核准設立之醫事檢驗機構、醫事放射機構、職能治療機構、物理治療機構。
+六、醫事人員：指依法領有專門職業證書並從事醫療工作之執業人員。
+七、醫療傷害：指醫事人員於醫療機構或醫事機構內，進行檢驗、治療或其他類似之正當處置所造成病人之傷害。
+蘇委員清泉等23人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生傷害、殘廢或死亡結果之事故。
+三、當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。
+徐委員少萍等17人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生傷害、殘廢或死亡結果之事故。
+三、當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。
+陳委員節如等19人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生傷害、障礙或死亡結果之事故。
+三、當事人：指與醫療糾紛或事故有關之醫事人員、醫療（事）機構、病人或其他依法得提起訴訟之人。
+林委員世嘉等21人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生傷害、殘廢或死亡結果之事故。
+三、當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。
+田委員秋堇等27人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生傷害、殘廢或死亡結果之事故。
+三、當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。
+蔡委員錦隆等24人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫事爭議：指病人與醫事人員或醫療機構間，因醫事服務衍生責任歸屬之爭議。
+二、當事人：指醫事爭議有關之醫事人員、醫療機構、病人或其依法得提起訴訟之人。
+吳委員宜臻等24人提案條文：
+第　三　條　　本法用詞，定義如下：
+一、醫療糾紛：指病人與醫事人員或醫療（事）機構間，對於醫療行為不良結果之責任歸屬之爭議。
+二、醫療事故：指病人因接受醫療行為而發生死亡或重大傷害之結果。
+三、當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。
+吳委員宜臻等24人提案條文：
+第　三　條　　本法條例用詞，定義如下：
+一、醫療事故：指病人因接受醫療行為而發生傷害、殘廢或死亡結果之事故。
+二、生產醫療事故：指產婦、胎兒及嬰兒於生產過程中所受到之傷害或死亡。
+三、障礙：指符合身心障礙者權益保障法所定障礙類別、程度者。但不包括因心理因素所致之情形。
+四、嚴重疾病：指主管機關公告之全民健康保險重大傷病範圍但不包括慢性精神疾病。
+五、醫用者：係指接受醫療行為者。
+六、系統性錯誤：指因醫療機構之組織、制度、決策或設備等機構性問題，致醫療行為發生之不良結果。
+主席：針對第三條，向各位做個說明，陳節如委員、田秋堇委員、林世嘉委員、徐少萍委員、江惠貞委員、吳宜臻委員等提案條文與衛生署的版本一樣。
+陳委員節如：（在席位上）不一樣。
+江委員惠貞：（在席位上）不一樣。
+主席：對不起，行政院的版本多一個系統錯誤。
+請陳委員節如發言。
+陳委員節如：主席、各位列席官員、各位同仁。關於第三條第二項，本席所提版本規定「醫療事故：指病人因接受醫療行為而發生傷害、障礙或死亡結果之事故。」，「障礙」之用語與身權法的用語「身心障礙」相同，用「殘廢」一詞比較不雅、不妥，所以本席將之改為「障礙」。
+請問行政院版醫療事故的定義是什麼？
+主席：請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。有關醫療事故之定義，我們的定義還是病人接受醫療行為而非所謂的「醫療服務」，還是鎖定在醫療行為，也就是病人接受醫療行為而發生死亡跟重大傷害之結果，所以重點還是在死亡跟重大傷害這部分。
+陳委員節如：請問「重大傷害」的定義是什麼？
+許處長銘能：重大傷害就是指中度及以上的身心障礙。
+陳委員節如：請問「系統性錯誤」是什麼？
+許處長銘能：有關「系統性錯誤」，因為有幾個團體，例如醫改會，提出在進行醫療糾紛真相調查時發現，有些錯誤不應完全歸責於醫事人員本身，可能是醫院整體的制度或相關系統導致產生的錯誤。對於這部分，我們應透過相關的機制將其找出來，而不能只歸責於醫事人員就作罷，所以我們才會在條文中定義何謂系統性錯誤，對於之後的條文引用相關的系統性錯誤的部分進行更多的改善，希望不僅改善醫事人員的錯誤，也要改善系統性的錯誤。
+陳委員節如：行政院版「醫療事故」的定義僅針對死亡跟重大傷害加以界定，對不對？
+許處長銘能：是。
+陳委員節如：那請問「重大傷害」的定義呢？
+許處長銘能：我剛才已說明，就是身心障礙手冊中至少中度以上的障礙。
+陳委員節如：那算是重大傷害？
+許處長銘能：對。
+陳委員節如：那「系統性錯誤」指的是醫院本身的問題嗎？
+許處長銘能：指因醫院本身的制度、法規、設施、設備或決策過程中造成的傷害，這並非醫事人員個人本身的錯誤，所以我們的醫療風險補償金中也包括醫療機構要繳交的部分，不全然只有醫事人員。
+陳委員節如：系統性的錯誤是指醫療機構的組織、制度、決策或設備、設施等機構性問題，致醫療行為發生不良之結果，是這樣嗎？
+許處長銘能：對，是。
+陳委員節如：多位委員的提案中有「殘廢」一詞，本席建議「殘廢」一詞應改為「障礙」，或者照行政院版的文字，應該也可以。
+許處長銘能：是，謝謝。
+陳委員節如：今天行政院版沒有併案審查，請問主席要怎麼裁定？
+主席：還是可以，行政院版就以修正動議方式提出即可。
+請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。本席具體提出修正動議，建議第三條第二項修正為「醫療事故：指病人因接受醫療行為而發生死亡或重大傷害之結果。」；另外增列第四項「系統性錯誤：指因醫療機構之組織、制度、決策或設備設施等機構性問題，致醫療行為發生之不良結果。」
+主席：請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。委員提案第三項中有關當事人定義這部分，建議「病人或其依法得提起……」增列一「他」字，修正為「病人或其他依法得提起訴訟之人。」
+主席：請問你指的是那一個委員的提案？
+許處長銘能：包括江委員惠貞等的提案、劉委員建國等提案中第三項，有關「當事人」這部分皆規定為「當事人：指與醫療糾紛有關之醫事人員、醫療（事）機構、病人或其依法得提起訴訟之人。」在「其」字後面應加上「他」字，修正為「其他」。
+陳委員節如：（在席位上）那就用我的條文，他講的就是我的版本。
+許處長銘能：對，就是委員的版本。
+主席：請委員提個修正動議，這樣比較快。
+請陳委員其邁發言。
+陳委員其邁：主席、各位列席官員、各位同仁。有關第三條的名詞定義，之前本席跟吳宜臻委員等曾經提出一個生產風險補償條例草案，當時衛生署署長也同意生產的醫療風險跟一般疾病的風險不同，跟一般疾病的型態也不同，所以應該在醫療糾紛處理及醫療事故補償相關的法律中訂定專章的方式來針對生產的風險進行特別的處理。當然最根本的原因在於，醫療風險的補償跟一般醫療事故的補償在法律上到底要採取無過失責任主義、部分過失責任主義或者過失責任主義，這部分要做個釐清。假如這部分沒有在生產的風險跟一般醫療的風險做很清楚的規範，當然對於相關的包括補償的對象，例如產婦及嬰兒的權益都會有所牽涉。簡單地講，我認為生產的醫療風險應該採取無過失責任主義，換言之，在生產的過程中所承受的傷害或醫療行為對健康的損害，應該採取無過失責任的補償；至於在醫療糾紛處理及一般醫療事故補償中，採取部分過失責任主義，由當事人分擔部分責任是合理的，所以我認為在第三條的名詞定義中應增列生產醫療事故這一項。不過，我不知道衛生署的態度究竟打算如何處理生產的醫療事故或其相關的風險，因為生產的風險畢竟跟一般疾病的風險不同。所以，假如衛生署同意，我認為第三條中應先就生產醫療事故加以定義，如此後續才能用法條加以處理。可能也不一定要訂定專章，或許可以考慮增列一條或兩條就其相關的責任、風險的分攤做個清楚的規定，我認為這樣處理本法會較為完善，我們同時可以兼顧到目前醫療體系四大皆空的問題，也可以處理一般醫療事故的輕重責任不同的問題。這部分要先就教於衛生署。
+主席：請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。謝謝委員的建議。有關生產風險這部分，就衛生署整體的思維而言，的確較為不同，所以我們對於未來整個執行推動的範圍會做一個相關的規範。針對未來要補償的制度跟機制這部分，我們現在所框定的是在不確定過失的情況下進行補償為範圍，當然未來是不是整個委員會要朝向所謂的no-fault的概念來推動，其實也涵蓋類似有關於生產風險的部分來處理。
+陳委員其邁：請問衛生署到底贊不贊成？你一味只講「未來」、「未來」，未來我就不擔任立委了，這是署長那天答應我的。處長，這部分不會太困難，只需要一個或兩個條文即可，假如衛生署願意，而且你們也在試辦，試辦過程也累積了一些經驗，對立法而言這都是很好的基礎，所以這部分不會太困難，假如衛生署同意，本法就會更為周延。我覺得這件事不能再推遲「未來」再說，婦產科現在已經招不到醫生了，衛生署還一味只想拖延到未來再處理。坦白講，我並不是替婦產科講話，我是替病人講話，因為採取無過失責任主義能讓病人的權益獲得比較大的保障，對不對？
+許處長銘能：是，對。
+陳委員其邁：所以如果你也同意，我們就先把條文放進去，到最後假如真的弄不出來，我們再來協商，可不可以？
+許處長銘能：是，尊重委員的意見。
+主席：現在休息5分鐘進行溝通，這樣比較清楚。
+休息
+繼續開會
+主席：現在繼續開會。請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。有關解釋名詞這部分，本席會比較尊重法界人士的說法，因為委員表達的是我們的關心，以及我們希望透過法律條文，對於我們看到的社會現狀加以處理，但是要明列為法律條文時仍有其一定的寫法跟立法體例。剛才法務部提供的意見是，因為後面的條文中必須解釋的名詞還不少，所以這一條顯然有些爭議。比如剛才陳其邁委員建議「婦女生產醫療事故」這部分應另立一項，所以後面的條文其實還有不少需要解釋的名詞，為避免有所疏漏，本席建議本條先保留。第二，剛才蘇清泉委員建議今天會議開到5點半，因為相關的版本真的很多，我也知道各個委員的版本可能各自有所堅持或表述，我認為若未把行政院版併案審查，在對照時真的會徒增不少困擾，所以我的建議是，今天會議就討論到第三條保留為止告一段落。
+主席：謝謝江委員。請陳委員節如發言。
+陳委員節如：主席、各位列席官員、各位同仁。請議事人員或衛生署把條文再做一番整理，做一份對照表，現在條文亂七八糟，例如蔡錦隆委員等提案第四條我一直找不到。應該以行政院版的條次為準，把其他委員相同的條文整理出來，這樣我們看起來才會方便，否則現在這樣「霧煞煞」，我們究竟要翻到哪一頁？還是以行政院版作為對照較清楚，但現在都沒有，所以確實第三條以後就無法再審查了，再審查下去，頭腦都會開花。建議主席還是等他們整理出來再處理，否則現在這樣很難處理。
+主席：謝謝陳委員。請王委員育敏發言。
+王委員育敏：主席、各位列席官員、各位同仁。剛才這樣審下來，我發現的確有問題，明明其實就是行政院的條文，但是因為尚未付委審查，還要勞煩委員再寫修正動議，我覺得這根本就是「加了工」（多費工），這樣審法案真的很怪。而且我也覺得應該讓幕僚人員能把最完整的對照版整理出來，這樣其實是最審慎的方式。我很贊成剛才陳委員講的，應以行政院版本為主，把眾多版本的對照條文完整地整理出來，這樣才能順利地審查下去。我覺得應該採取這種模式，否則真的越審越怪。而且我們已開始啟動審查程序，我覺得可以了，下禮拜繼續再接再厲。
+主席：這一點我一定要說明，很抱歉，請各位就座。如果各位不嫌棄，本人已經做了各委員提案與行政院版本的對照表，再印給大家參考，然後行政院也做了對照版，也可以印給大家，所以這部分應該不是重點。至於我們審查時是不是要依照行政院版的條文去提再修正動議，此點見仁見智，有時委員的版本比較好，比如剛才第一條時，我們就尊重江惠貞委員的建議，依照吳宜臻委員的版本通過，所以不一定要以行政院版為主，這一點提供給各位參考。現在先把行政院版本印給大家，好不好？
+林副署長奏延：（在席位上）這個版本好不好？
+主席：你的版本比較漂亮。你這個版本適合年紀比較大的人閱讀，我的版本比較適合年輕人閱讀，我們這兩份都提供給委員，拿到我的版本的就是比較年輕。現在馬上印給大家，我們能審查幾條就算幾條。
+第三條先行保留。
+請司法院行政訴訟及懲戒廳梁法官說明。
+梁法官哲瑋：主席、各位委員。第三條雖然保留，但司法院還是要表示一點意見供主管機關參考。目前包括各委員的版本及行政院的版本，就醫療糾紛跟醫療事故的條文文意上而言，並未排除公務員因執行公務關係從事醫療行為產生不良結果或造成病患有重大傷害或死亡之結果。比方國軍在從事急難救助時可能馬上實施醫療行為，類似這種情形若醫療行為產生糾紛或醫療事故時，各委員及行政院的版本條文中都未加以排除。沒有排除會造成何種困擾？因為我們的草案版本中對於醫療糾紛設有一個特殊的調解機制，這種行為本來是屬於國家賠償的領域，在國家賠償法制中採起訴前協議先行的機制，與本法採起訴前調解先行的機制並不相同，兩種制度顯有扞格，到底要採取哪一種機制就會產生法律競合的問題。當然，我們看到行政院版的立法說明中已把國家賠償的情形特別排除在外，但為求立法的明確性，我們建議把相關的說明內容提升到條文本身，讓適用法律的人能夠很清楚法條的規範。第二，即使院版立法說明欄中把國家賠償排除在醫療糾紛之外，但還有一個問題是，醫療事故這部分有沒有排除國家賠償？因公權力造成人民死亡或重大傷害之情形，到底能不能請求醫療事故的補償？關於這個問題，不管哪一個版本都看不出來國家賠償這種情形到底能不能請求醫療事故補償，這部分在院版也沒有清楚規範。當然，我私底下曾詢問過科長，他認為醫療糾紛排除了，醫療事故自然就排除，因為在他的觀念裡面，醫療糾紛範圍比較大，醫療事故包含在醫療糾紛裡面。但是我們要說，即使從院版自己提出來的文字去解讀也並非如此，因為醫療糾紛跟醫療事故有些部分重疊，有些部分並不重疊，所以不能說醫療糾紛這部分排除，醫療事故這部分也自然排除，這一點特別請主管機關在條文上納入考量。
+其次，第三條的名詞定義特別把「當事人」標舉出來，這樣規定的結果，後續的條文只要講到「當事人」，是不是都要參照這一條的解釋，如果是，恐怕當事人的範圍會變得很廣。例如第十五條的規定，調解時如果當事人未到場就會產生一定的失權效果，而此處的「當事人」，依照第三條的定義是包括所有有權的人都是當事人，那可能會變成申請調解者雖然有到場，但是只要其他當事人不到場也會造成申請者的失權效果，解釋起來就會產生困擾。我們的建議是，其實「當事人」是訴訟法上的觀念，其範圍並不固定，各個適用法律的人在適用各該條文時，自己就可解讀出各該法條所指的當事人範圍為何，不用特別給予定義，若給予定義，反而會造成後續條文在解釋上跟前面條文產生不符的現象，這是第二個建議。謝謝。
+主席：謝謝梁法官的兩項建議，這部分請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。國防部或其所屬醫事人員在緊急狀況之下所產生的醫療糾紛並不適用本法，因為就概念上而言，那種行為是屬於特殊救災程序下的行為，並不屬於醫療程序之下所做的醫療行為。
+主席：梁法官建議把立法說明的文字直接列入法條中，這樣能夠讓適用者很清楚地有所依循。
+許處長銘能：但是假如國家賠償法制相關要件已另有法律規定，是否從其規定即可？假如再把相關規定寫進來，會不會多此一舉？或者會不會寫得不夠，除了國防部這部分以外，是不是還要把其他有關國賠的部分全部寫進來？這樣恐怕會舉例不完。是不是比照……
+陳委員節如：（在席位上）他剛剛講到醫療糾紛跟醫療事故是不一樣的，你們在法條上要怎麼去處理？
+許處長銘能：糾紛跟事故當然不一樣，因為有事故未必有糾紛。
+陳委員節如：（在席位上）對啊！現在整個行政院版的條文部分，你們要去整理好，他說接下來有些部分不一樣喔！
+主席：那是針對當事人那部分，他剛才說的是兩項建議。
+許處長銘能：對，那是當事人的部分。
+主席：那當事人的部分呢？
+許處長銘能：有關當事人這部分，我們當初的確希望把所有跟醫療糾紛有關係的人全部放進來，但是我們跟司法院討論後發現，確實在適用後面不同條文時會產生當事人範圍不同的情形，如果在第三條全部納入定義中，的確在解釋上會產生一些落差。包括本署的法規會代表也認為，由於不同的狀況會有不同的當事人範圍，若在第三條給予定義將很難適用各種不同的狀況。所以我們也贊同刪除第三條有關當事人的定義這一項，然後回歸到原本的條文，依照各個不同條文的狀況去做當事人的認定即可。
+主席：所以你們接受梁法官的第二項建議，不在法條中定義「當事人」。但是針對國賠那部分……
+王委員育敏：（在席位上）其他的法律涉及到國賠時是不是會特別訂定進去？
+主席：請司法院行政訴訟及懲戒廳梁法官再補充說明。
+梁法官哲瑋：主席、各位委員。本院的立場是，尤其是醫事糾紛的部分，如果要排除國家賠償之適用，應該明定成條文文字，至於條文文字如何擬定？既然本條要保留，是否請主管機關回去後再把文字細酌一下，如果主管機關認有必要亦可私下與本院討論，但本院不宜代替主管機關擬定條文。
+第二，醫療事故補償是不是一定要排除請求國家賠償之適用？這部分也要請主管機關再審酌。醫療糾紛這部分排除是因為醫療糾紛處理機制中的事前調解機制與國家賠償的起訴前先行協議會產生扞格之處，所以必須排除，但是有時是國家自己從事醫療行為而造成醫療事故，當事人要請求事故補償是不是要一律加以拒絕？這部分的思考是否一定要依循醫療糾紛處理的規範予以排除？這部分我覺得主管機關可以再深思。剛剛私底下討論時，主管機關的想法是應該一概排除，但我認為這兩者既然屬於不同體系，兩者的立法目的亦不相同，是否一定要排除？如果沒有必要排除，當然醫療事故這部分就不必要把國賠排除掉，以上補充說明。謝謝。
+主席：請衛生署醫事處石科長說明。
+石科長村平：主席、各位委員。我瞭解司法院所提的問題，當初在院會討論時提到曾有國防部的醫官因執行公權力而被派出做醫療行為，一旦發生醫療事故時，可不可以走民間的途徑進行調解，也就是第三條第一款所定義的醫療糾紛，或者發生需要賠償的狀況時是否可適用本法之補償？所以我們在行政院版的說明欄中提到「又本法所定醫療糾紛，係屬病人對於醫事人員或醫療（事）機構之私權爭議」，當時這部分也經過法務部的代表幫忙說明，所以我們在行政院版的說明欄中強調了這一點。是否屆時針對醫療糾紛與醫療事故這部分，我們都在說明欄中強化乃指私權爭議，因為公權力的問題本來就會走國賠等公權力特殊途徑去處理。這也是剛剛各位立委在審查第一條時所討論的第二項「本法未規定者，適用其他法律之規定。」此乃法理原理之當然，所以我們建議在說明欄中強化說明，把法條原意講清楚即可。
+主席：請江委員惠貞發言。
+江委員惠貞：主席、各位列席官員、各位同仁。關於公領域的糾紛，本來就有國賠法可以處理，請問梁法官，為何你還會聯想到本法與國賠法的競合問題？本席在看這些條文的時候，完全不會想到還有國賠這部分，要把它混進來。
+主席：請司法院行政訴訟及懲戒廳梁法官說明。
+梁法官哲瑋：主席、各位委員。報告委員，因為第三條是定義，定義的作用就是依照文字就可以界定出事件的範圍，以第三條醫療糾紛的定義而言，醫療糾紛係指病人因為醫事人員的醫療行為產生的不良結果，此處條文文意的「醫事人員」跟「醫療行為」都無法排除掉公務員因為執行公權力而從事醫療行為，所以……
+江委員惠貞：所以你會擔心未來本法通過後，他反而可能會有兩種求償方式，除採國賠途徑向國家索賠外，還能透過本法再去求償，是不是？你是擔心這樣嗎？
+梁法官哲瑋：是，如果在定義上未將其排除，事實上就是包括在裡面，等於他又可以請求國賠，而且也可以請求醫事糾紛的民事賠償。因為定義上未將其排除在外，所以我認為若考慮到明確化，應明文排除。
+江委員惠貞：這部分請法務部也提供一點意見，因為我們怎麼想都不會想到這點，請問陳參事，梁法官的疑慮會不會發生？
+主席：請法務部陳參事說明。
+陳參事文琪：主席、各位委員。關於同是公務員的情形，可能會有國賠跟本法競合的問題，我們可能要考量有沒有針對特別的事項，譬如針對醫療行為這種特殊型態會不會變成國家賠償的特別法？在兩法的適用上，到底哪一個優先適用？當然在立法的時候，可以做一個立法政策的考量。我們認為若以法條明定，將來在法律的適用上可能會比較明確。
+江委員惠貞：如果不明定排除公權力行為這部分之適用，可能產生的狀況是兩者都會選擇適用，要不然就是會選擇優於他自己的賠償來適用，是不是這樣？
+陳參事文琪：先以法律適用的一般情形來講，當然是特別法優先，在……
+江委員惠貞：國賠法應該屬於特別法？
+陳參事文琪：國賠法規範的是公務員執行公權力時因故意或過失而滋生損害時的賠償責任，其實就公務員而言會包括軍職身分與非軍職身分者，其實都會有這個問題，譬如公立醫院……
+江委員惠貞：你剛才講特別法優於一般法，對不對？
+陳參事文琪：對。
+江委員惠貞：基本上你要申請國賠的話，一定要有行使公權力之人所造成的傷害或死亡，才可能符合國家賠償的要件，所以它應該優先於我們現在要制定的醫糾及賠償，你們認定有必要制定這個法嗎？你們都是學法的，結果衛生署的法制人員與法官、檢察官弄出來這樣的東西，那我們要問誰呢？把全國的教授都找來嗎？不是這樣子啊！你剛才提到特別法優先於普通法，公權力的行使並非一般人所能適用，不是一般的事件所能適用，你們現在擔心的是什麼？
+主席：請司法院民事廳周法官說明。
+周法官舒雁：主席、各位委員。我來補充梁法官與陳參事的說明，如果今天是一個公營的醫院，例如榮總，它所進行的醫療行為統統屬於委任契約，都是私權的糾紛，都是民事訴訟，剛才梁法官與陳參事提到的是說國家去做一些急難救助，那個明顯是個執行公權力的行為，確實會落到國家賠償法所要規範的範疇之內。今天補償也是一個公法上的法律關係，如果我們今天在法律上明定，就會變成國家對人民的義務，人民就有請求補償的權利，同樣地，國家賠償也是人民對國家請求賠償的權利，兩種權利競合的時候，要讓何者優先，誠如陳參事所講的，這是我們立法政策的問題，如果主管機關認為統統走國家賠償的方式，雖然很多學者認為國家賠償是人民對國家的請求，應該是公法上的權利義務關係，但是目前我們國家賠償法還是定位在由民事庭受理，類似私權的糾紛。所以在立法政策上，如果今天主管機關認為還是要讓人民去走類似傳統行使公權力的時候發生損害？還是要走傳統類似民事訴訟的國家賠償法比較困難？我覺得這也是主管機關的行政政策或大院所做的立法政策上的選擇，其實我們都予以尊重，只是說在選擇上，我們要讓人民選擇類似……
+江委員惠貞：國賠法與醫糾補償最大的不同在於國賠並非立即進入民事庭，還有先前與公務部門的協商這部分。
+周法官舒雁：對，國賠規定人民要與國家先行協議。
+江委員惠貞：協議的過程也有一定的機制，事實上，民眾申請國賠的案子會送到民事庭的比例相對就少多了。
+周法官舒雁：與一般侵權行為相比，現在越來越多，因為人民比較有權利意識，所以現在請求國家賠償的訴訟也越來越多，其實，這與本法規範的醫療糾紛，也就是與民事訴訟類似的機制。今天梁法官想提醒的是說就國家行使公權力這一塊，要讓人民去走現在類似醫療糾紛，民事比較艱難的這一塊，或者說也讓人民可以請求因為基於平等、相類似的情況，同樣是醫療行為，今天因為他是急難救助發生的醫療行為就排除在補償的範圍之外，對於人民而言是否公平？主管機關能否考慮畢竟急難救助發生醫療糾事故的案例少之又少，比醫療事故更少，有沒有必要排除掉？
+江委員惠貞：這就是關鍵，根據我們的經驗，其實一般民眾考慮到能向國家求償時，第一個選擇就是向國家求償，而不是再透過醫糾或醫事補償。我認為一者比例低，二者民眾的思考如果能向政府求償，一定先向政府求償，現在擔心的是如果兩條法律都可以適用，他會不會兩缸水都要？我們擔心的只是這樣，如果不會這樣的話，我們認為沒有必要排除。
+周法官舒雁：其實有可能會這樣，所以看政策上是要予以排除或作如何規定，我們基本上沒有太大的意見，我們只是希望可以明定。
+江委員惠貞：衛生署要把自己的想法說清楚。
+主席：請王委員育敏發言。
+王委員育敏：主席、各位列席官員、各位同仁。從剛才的詢答聽下來，其實司法單位的意見是希望規定能更明確，從衛生署的說明也可以看到衛生署的立場很明顯就是要排除，例如國防部醫事人員奉命救災的部分，是排除在醫糾法的賠償範圍，所以剛剛梁法官的意思是說，如果很明確的話，建議把說明的文字提到條文裡面，就是讓它有個法源依據、更明確化，如果是基於這樣的觀點，本席認為並無不妥，剛剛的建議相對客觀，衛生署在說明也說得非常清楚，只是你們認為沒有必要納入條文，但是司法單位建議把說明的內容納入條文之中，讓它更明確化，衛生署在執行上有何困難之處？因為看起來沒什麼困難，文字也都寫在說明裡面了，他們認為會造成模糊的效果，民眾可能有兩條路可以選擇。
+主席：請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。這部分當初在行政院討論的時候，在主席政委的裁示之下，他認為只要在說明欄寫清楚即可，但是梁法官也提出說明欄可能會不清楚，希望能夠納入條文中，但是如果納入條文的話，可能還會有一些情況，今天我們只排除國賠法嗎？是不是還有我們沒想到而沒有寫進去的部分？
+王委員育敏：例如什麼情形？
+許處長銘能：現在我一時想不出來是否還有其他類似的部分，例如後面有關補償的部分，有領到藥害或疫苗補償的部分，我們在這裡不重複補償，是有類似的條文，是不是我們在後面的補償把這部分排除掉，不要在這裡寫這部分的排除，因為只有針對補償這部分的排除。
+王委員育敏：所以你們在後面的條文也把藥害的放進來？
+許處長銘能：因為這裡如果排除的話，未來醫療糾紛也可以走調解方式，如果排除掉的話，這群人就不進入調解。因為講的是醫療糾紛，糾紛的部分都是私權，要把這部分在這個地方去做調整。公權的部分其實有國家的程序在做處理。
+王委員育敏：對，但是他剛才建議的只有國家賠償這一塊，你們的意見究竟為何？
+許處長銘能：其實我們在施打疫苗的部分，因為施打疫苗也是國家公權力的行使，如果施打疫苗發生任何事故，也是由疫苗基金處理，那一塊也是行使公權力的部分，但走的就不是國賠程序，走的是疫苗補償的機制。藥害也是一樣，藥害當然是屬於一般民間醫療行為這一塊，當初之所以推動疫苗的補償，就是因為施打疫苗是公權力的行使，是執行國家政策，那一塊在這個地方也沒有排除。
+王委員育敏：如果依照你的說法，你是希望納入，讓民眾有雙重選擇？
+許處長銘能：不是，我是說在後面所謂的補償對象裡面，如果他已經得到其他補償，就排除在本法的補償範圍，是寫在後面排除的規定。
+王委員育敏：我知道，但就這個部分是你們自己在說明裡面特別提出國賠這個問題，剛才梁法官的意見也是針對這一點。
+許處長銘能：對，他說要入法。
+王委員育敏：他希望能夠入法，你們的歧見有這麼大嗎？因為你們在說明欄也說明要排除國賠。
+許處長銘能：對，在說明欄裡面寫的，但是……
+王委員育敏：所以問題在哪裡呢？我覺得這個問題其實沒有那麼大。
+許處長銘能：問題在於梁法官建議這個不是放在說明欄，而是寫進法條，這是唯一最大的差異。
+王委員育敏：入法有什麼不ok的地方？如果能夠更明確，有什麼不妥的地方？本席納悶的是這個地方，因為你們也主動在說明裡面講了，他現在只是希望把說明的東西提高到法律的位階，讓它更清楚，除非這與你們的政策立場有相扞格的地方。
+許處長銘能：沒有。
+王委員育敏：如果也沒有，我不知道這有這麼嚴重嗎？
+主席：請司法院行政訴訟及懲戒廳梁法官說明。
+梁法官哲瑋：主席、各位委員。我們之所以建議在第三條的部分講清楚，而非在後面規定拿到補償以後，在什麼情況下，要將拿到的賠償排除掉或扣除掉，是因為這裡講到醫事糾紛裡面在講醫療行為，這是概念的問題，就是說在概念上，這裡的醫療行為不分公的醫療行為或私的醫療行為，統統包括在內，後續就會跑出國家賠償的問題，這邊本來用國賠處理，但是民事的糾紛調解又與之並行，就會產生困擾，所以我們建議不如在源頭定義的地方就把醫療行為界定清楚，既然你們認為只針對私的醫療行為，是不是請你們把私的醫療行為這樣的概念寫清楚，將它從立法說明提升到條文上，你這邊是私的醫療行為，後續所有公的醫療行為產生的國賠問題，自然而然地統統不會跟這邊發生競合，這樣就一了百了，後面也不用去訂什麼賠償要扣除，這都不會產生問題，所以我們才建議在第三條界定清楚，對你們來說是一勞永逸。第二，這些醫療糾紛如果要排除，醫療事故補償這邊是不是也要把公的醫療行為造成可不可以補償這件事情也要一併排除，如果要的話，也要一併訂清楚。亦即，醫療行為是公的？私的？還是兩者都包括？我們只是希望能夠明文規定，否則現在對我們來說就是統統都有，就會產生國賠和糾紛調解並行的情形。
+主席：請蘇委員清泉發言。
+蘇委員清泉：主席、各位列席官員、各位同仁。現在汽車強制險的肇事致死賠償金額是160萬元。
+主席：200萬元。
+蘇委員清泉：如果肇事人非常明確，例如A被B撞死，B有購買強制險，這200萬元的賠償沒有問題，因為B是肇事者非常清楚。但是如果找不到肇事者，他還是可以申請200萬元，但這是代位求償，不知道要求誰的償，肇事者也許抓得到，也許抓不到，但是這200萬元和其他的給付，如果他有拿到公家的錢都要扣掉。現在醫療糾紛用公權力設置基金，例如這個人發生車禍，但是找不到肇事責任者，後來他發生醫療糾紛再來請求這筆補償，他是這條可以請、那條也可以請？還是要扣掉？這跟剛才講的意思差不多，你們還沒有想到這些吧？
+主席：請衛生署林副署長說明。
+林副署長奏延：主席、各位委員。沒有討論到此。
+蘇委員清泉：這可能也要講清楚，因為這與藥害一樣，藥害的部分，將來也是要扣掉。
+主席：請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。我們目前思考的只有醫療行為產生的事故、糾紛這一塊的部分進行補償，至於他前面到底是什麼原因，車禍、癌症或其他的病產生的狀況到醫院以後，我們就不論他前面那一塊是否有糾紛。
+蘇委員清泉：這一塊都是外加的？全部都外加？
+許處長銘能：是。
+蘇委員清泉：那這筆錢很大條。
+主席：請陳委員節如發言。
+陳委員節如：主席、各位列席官員、各位同仁。本席舉個例子，請衛生署來說明。你們現在的對象就是在醫院發生的事故才處理，對不對？
+主席：請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。醫院或診所，醫療機構。
+陳委員節如：當有一個人開飛機，如果撞死了就沒問題，就國賠，如果沒撞死，他還要去醫院治療，這個人在醫院治療過程中，如果醫院也有疏失的話，雖然他是軍人，後續有國家賠償的責任，可是到醫院後，也跟醫院發生關係，你現在只限到醫院來的，那這個人是不是兩邊都可以拿？
+許處長銘能：前面其他事故所產生的損害的部分，當然有那一塊的求償，可能是國家賠償，但是那一塊的部分並不等同於醫療糾紛或醫療事故。
+陳委員節如：所以這個人可以拿兩邊，是不是？
+許處長銘能：對，其實梁法官所講的就是兩邊都是醫療糾紛、醫療事故的情形，而委員所講的一邊是醫療事故，一邊是意外事故或其他事故，兩邊是不同的內涵。
+陳委員節如：什麼情況下會兩邊都是醫療事故？
+許處長銘能：兩邊都醫療事故的情況下，其實今天是一個醫療事故或醫療糾紛，但是屬性不一樣，一個是私權行為所產生的事故，例如我們到醫院看病。但是，今天有一個公權力行使下的醫療行為，在這個醫療行為發生的事故，因為是在公權力下執行醫療行為，它所產生的事故理論上要走國家賠償，因為它是依照國家的法律執行的，不像我們今天是因為疾病……
+陳委員節如：那是賠償的部分，但是你在醫糾的部分沒有產生啊？你這是到醫院才產生的。
+許處長銘能：對，現在講的是醫療行為，而國防部講的是他今天進行救難或救護是國家所派遣，那也是一個醫療行為，雖然不在醫院裡面執行，但也是執行醫療行為，我們所界定的是醫療行為，而不是認定他在醫院所執行的醫療行為，還是醫院外所執行的醫療行為，所以才會有這樣疑慮。
+陳委員節如：所以你這邊要講清楚，否則到時候他兩邊都會求償，是不是說他有拿到那邊，這邊就不能調解、處理？這怎麼解釋？我搞不懂。
+主席：請衛生署林副署長說明。
+林副署長奏延：主席、各位委員。這個我們等一下再跟司法院、法務部一起討論，我們就把它加上去，把說明的部分拉到條文，讓它明確化。
+陳委員節如：如果他行使公權力到醫院發生事故，這邊也一樣要賠償、要處理？
+林副署長奏延：分開，我們是想把它分開。
+陳委員節如：法條裡面就要寫清楚要怎麼分。
+林副署長奏延：我們會把它再訂清楚。
+陳委員節如：例如視障或身心障礙的，因為馬路有一個坑洞，他走下去而受傷，到這裡是國賠。而他因為受傷到醫院去，這就是我們這部分，他是不是兩邊都可以拿？
+林副署長奏延：兩邊都可以，如果是這樣的情況，是可以。
+陳委員節如：照你們所講的，是那邊要扣掉，這邊才賠償，所以這部分真的糾葛不清、很模糊，這個事故很有可能發生，比比皆是，而非只有一、二件，我們碰到非常多，我覺得法官講的非常對，應該要考慮進去。
+主席：不好意思，我覺得這沒有那麼複雜，剛才周法官有提到，你們政策上如何制訂才是重點。
+陳委員節如：（在席位上）他們說那邊拿了，這邊就不能拿了。
+主席：這也沒道理，我借用剛才蘇委員的說法，我不知道這樣比喻對不對，車禍是屬於行車事故，開車的人開的是公務車，在行使公權力的時候撞到人，撞死了，被他撞死的人能否申請強制險200萬的補償？可以嘛！而國賠法第二條規定得很清楚，他因為故意或過失而損害這個人的自由、權利，甚至造成死亡，他依法就可以提起國家賠償，你不能說國家賠償要把200萬元的強制險扣掉，不能拿這筆錢？這有點矛盾，應該不是這樣。梁法官的意思應該不是這樣，我聽得很清楚，如果訂了一個法條之後，你可以領這條，不能領那條，這就亂掉了，不是這樣，是因為衛生署在訂這個法的時候，就把國防部及其他機關所屬醫事人員因奉派執行救災或特殊勤務的情形排除，既然你在立法說明這樣寫，倒不如明確化，將它提升到法條裡面，這是梁法官的建議，反過來說，你們願意這樣做嗎？你們如果沒有要這樣做，就連立法說明都不能提，我這樣講不知道有沒有比較清楚？
+陳委員節如：（在席位上）這個事情會牽扯到醫療行為這邊來，一定要在醫院醫治，本來沒死，如果被醫生醫死了，那要怎麼處理？會翻臉啊！
+主席：這條很嚴重，要好好討論。
+請陳委員其邁發言。
+陳委員其邁：主席、各位列席官員、各位同仁。衛生署的版本提到國防部及其他機關醫事人員因奉派執行救災或特殊勤務而發生醫療行為，榮總算不算是你們規範的範圍？臺大算不算？不算喔！為什麼不算？救人救災也是醫療行為，對不對？哪有救災救人就排除，叫他去走國家賠償的路？
+主席：請衛生署醫事處許處長說明。
+許處長銘能：主席、各位委員。最主要還是要有公權力的行使。
+陳委員其邁：他也有公權力啊！臺大醫院的醫師也有公權力啊！他也是公務員啊！
+許處長銘能：雖然是公務員，但是它所執行的醫療行為的部分，在……
+陳委員其邁：你怎麼區分一定要有天災地變時，醫生去救人才算是行使公權力？醫師在醫院正常的時間救人就不是行使公權力？你用什麼標準來區分？要頒布緊急命令才算？其他時間不算？我的意思是說你沒有一個很明確的標準來區分他行使公權力，你按照國家賠償法的規定，這些全部都是公務員，假如他在執行職務時有故意或過失，就會衍生相關賠償的責任，不是這樣嗎？他們的身分是公務員啊，這沒有錯啊！
+許處長銘能：我們現在認為公立醫院所執行的相關醫療服務或行為的部分，都是一種執行業務，不是依法律去執行法律，是執行業務，因為機構設置就是要提供醫療服務，他其實是一個業務的提供、服務的提供，所以他是一個機構，但不是一個機關。
+陳委員其邁：現行的法律規定，實務上，公立醫院都沒有病人申請國家賠償成功的案例嗎？不要說判刑，有沒有起訴的？
+主席：請司法院民事廳周法官說明。
+周法官舒雁：主席、各位委員。刑事的部分，可能要請刑事廳梁法官表示意見，但是剛才委員所提到的公立醫院的醫生，今天如果在醫院所做的一般醫療行為，目前法院實務上都認為是私法上、民法上的委任契約，那是屬於私法的範疇，不是執行公權力。
+陳委員其邁：所以在司法院都沒有任何適用國家賠償的案例？
+周法官舒雁：公立醫院的醫生如果發生醫療糾紛的話，都是民事的侵權行為損害賠償。
+陳委員其邁：都沒有病人提出國家賠償？都沒半個案例？那我們今天在討論什麼？
+周法官舒雁：沒有。
+陳委員其邁：那不是都排除了嗎？還有什麼好討論的？
+主席：請司法院行政訴訟及懲戒廳梁法官說明。
+梁法官哲瑋：主席、各位委員。它到底是國賠事件還是一般私法上的損害賠償事件，可能不是用一個醫事機構到底是不是國家設立的標準來判斷，而是從他的行為來判斷，至於怎麼判斷，有時候一個私的醫療機構也有可能從事公權力醫療，例如他被委託行政，今天如果國家徵召私的醫療機構一起去救災，就算是一個私的醫療機構，甚至救到人了，把他送到一個醫療機構、診所，開始實行救災，因為整個行為都是在做公的救災行為，其實不用去管提供醫療服務的是一個私的機構或公的機構，而是從行為的屬性來看，這樣才來判斷他是公的還是私的。所以剛才委員提到公立的醫療機構有沒有可能成立國家賠償，那就要看他今天所為的醫療行為是不是因為國家的強制性的行政救助或其他重大的公益性目的，而去對人從事這種醫療行為。如果不是這種例外情形，一般的民眾自願去就醫就比較是屬於私的。
+陳委員其邁：那SARS呢？假如是大規模的傳染病，像SARS期間緊急的醫療行為是否適用國家賠償？
+梁法官哲瑋：這涉及某個行為的公、私法界定，因為我們不宜涉入個案，所以如果從比較一般性的狀況來分析的話，……
+陳委員其邁：我現在就不是在講個案，我只是在講一個疾病的名稱叫「SARS」。
+梁法官哲瑋：如果是強制性的，比方說國家為了控制傳染病的風險，不管你願不願意就醫，都沒有讓你有選擇的餘地，為了控制疫情而那樣做，就公法理論來解釋的話，一般而言，這是一個公的行為。
+陳委員其邁：那我再請教一下，不管公立醫院或軍方醫院，都沒有任何民眾提出國家賠償的案例嗎？
+周法官舒雁：委員剛才講到SARS，在我的印象當中，SARS過後，法院民庭確實曾經受理過和SARS有關的國家賠償訴訟，但是訴訟結果我並不確定，因為我沒有去追蹤。
+陳委員其邁：我的意思是，要把醫療糾紛的處理和醫療事故的補償並列，在邏輯上和技術上確實會有一些問題。梁法官要表達的意思就是二者應該拆開，對不對？你應該講清楚啊，怎麼都講不清楚！是不是這樣？假如我沒有誤會的話，你的意思應該是這樣吧。
+梁法官哲瑋：我的意思應該沒有涉及到那邊。我只是說，如果要把公的醫療行為所導致的糾紛或補償排除在今天這整部法以外的話，就麻煩在醫療糾紛和醫療事故的部分都界定清楚，說不包括……
+陳委員其邁：現在的問題是，要在這裡界定這些的話，你剛剛提到SARS是國家公權力的強制性與否，衛生署的說明則是所謂的緊急情況、特殊勤務、救災，二者的標準並不一致。一會兒是用強制做標準，一會兒又用勤務的特殊性做標準，這在定義上會造成到底是要走這條路還是那條路的疑問。這點你要怎麼排除？所以我才理解為，你的意思好像是乾脆把這個法的兩個部分切開，這樣可能是比較好的處理方式。
+梁法官哲瑋：應該不是這個意思。我的意思只是，如果在立法說明中把它限定在這幾個例子上，將導致其他沒有被舉到的例子就不清楚；如果在定義上就把它排除，只限定在私的醫療行為，光是這樣的概念界定，在法院適用上就可以依照一般公、私法區分的這種行政法上的原理，每個個案自然都可以很清楚地判斷是公還是私。剛剛提到強制性，像SARS，這只是舉例，因為委員舉到這個例子，我就用一個抽象理論套在這上面，得出一個結論，其實並不限於個案的那種例子。
+陳委員其邁：你的意思是說這部分還是走國賠嘛！對不對？可是如果要排除這個部分，我認為實務上還是有點困難。我的意思就是，像國防部等等的部分要怎麼排除？你又要怎麼區分？因為醫療行為本身就是有其急迫性，不然他為什麼要去看醫生？這不會因為勤務、場所或疾病種類而有所不同啊！
+梁法官哲瑋：這邊到底要不要排除，衛生署有他們身為主管機關的立場，我們尊重他們的立場。
+陳委員其邁：我知道你的意思，可是我的意思是，你把問題點出來，而這個問題卻無法解決。並不是像你說的，把它切開，分成兩條路，各走各的就好，所以還是有得吵！
+梁法官哲瑋：這是立法裁量的評估，我們可能不適宜表示意見。謝謝。
+主席：剛才周法官就是說，這是衛生署的政策，如果你硬要把它排除，就把它往上提到法條的位階，不然就不要；簡單說就是這樣而已。是不是這樣？我可以這樣說嗎？
+陳委員其邁：這就是困擾所在啊！
+主席：為什麼周法官點頭，梁法官卻不點頭？
+梁法官哲瑋：我的意思是要看他們怎麼決定，只是希望把條文寫清楚而已，倒是沒有另外附帶一句「不然就不要」，因為這種決定我們也不敢做。
+主席：但是我剛才那個比喻就會發生這種狀況。我那個比喻就類似你擔心的狀況，他硬要給人家排除，這是有問題的啦！就是有公務人員開公務車的那個例子。
+梁法官哲瑋：其實像陳委員和主席剛才提的情形，只要在定義這邊把所謂醫療行為到底是公的還是私的界定清楚，在法院來看其實不會有困擾。就會變成說，像剛剛委員提的，他前階段是走路時因為公有公共設施有瑕疵而產生損害，比方說腳踝扭傷，因為是公的設施導致的，所以腳踝扭傷的部分原則上應該是走國賠；可是他到醫療機構就醫，而且這是一個私的醫療行為，結果因為這個醫療行為導致他的腳踝越醫問題越大，最後截肢。對我們來說，就是切分開來，前面公的部分造成損害的因果關係只到腳踝扭傷的部分，可是後續醫事人員處理得不好，導致他最後被截肢的另外這塊損害部分就是一個私的醫療行為。那是可以分得開的，在法理上也應當二者並行，沒有什麼奇怪的地方，因為人民在兩邊都有權利。劉委員提的例子應該也是這樣，也就是說，一個公的、因為執行公務產生的損害，損害範圍到哪裡界定清楚之後，可能就是國賠的問題；但是如果他到了醫療院所，醫事人員又有過失，把它的傷害越擴越大，所擴大的部分就變成是私的糾紛的問題。所以這其實是可以分開的，而且也可以並行。
+陳委員節如：（在席位上）就怕這邊的賠償會扣到那邊。
+主席：我的比喻不是這樣啦。根本就不需要走到這一步，因為那個人就已經死了啊！所以他是不是可以去申請200萬的強制險的款項？他申請到之後，因為他是公務人員，他可能是故意或過失而導致這個人死亡，而且事情是在他執行公權力的時候發生的，這樣他是不是也可以依照國賠法申請國賠？申請國賠之後，可能會把200萬的強制險的部分扣掉嗎？不可能啊！
+梁法官哲瑋：委員提的這個案子，強制險是可以申請的，國賠也可以請求，這是沒有錯的。至於強制險領到的部分是不是可以從國賠的部分扣抵下來，就要看強制汽車責任保險法有沒有特別規定這是視為賠償的一部分，不管是民事或公法上的賠償。如果有這樣的特別規定，也就是視為一部分的話，是要依法扣除；如果沒有這樣的規定，可能就變成兩邊都可以請求。所以我們可能還要再查一下條文。
+主席：我用這樣的比喻就是因為按照我的理解是沒有這樣的規定，可是現在行政院提案條文第三條要把國防部或其他機關所屬醫事人員執行公權力的情形排除掉，這樣是不是會有一些問題？
+周法官舒雁：因為發生車禍，強制汽車責任保險所給付的保險金，或補償基金給付的補償金，在當事人來請求損害賠償的時候會扣掉，那一部分強制汽車責任保險的保險人是可以代位被害人去跟加害人求償。目前強制汽車責任保險法的設計是這樣，所以不會有剛才委員所提到的擔心兩邊重複受償的問題。
+主席：不是這樣吧！
+請林委員世嘉發言。
+林委員世嘉：主席、各位列席官員、各位同仁。我覺得這個東西不是很大的問題，不必討論太多。重點是行政院提案條文第十條，就是現在討論這個定義是為了迴避刑事責任部分的不處理。行政院提案條文第十條的規定是病人或其他依法得提起民事訴訟之人，未依法申（聲）請調解者，不得提起醫療糾紛事件之民事訴訟，本席的版本則是民事和刑事都不能提，所以我覺得這是責任部分的處理，這樣定義就好；剛剛那樣都扯太遠了。
+主席，我覺得這部分沒有爭議，不要再講了，差不多了。
+主席：針對第三條，有一項修正動議。
+江委員惠貞等所提修正動議：
+第三條　第二款修正為「醫療事故：指病人因接受醫療行為而發生死亡或重大傷害之結果。」
+第三款修正為「當事人：……病人或其他依法得提起訴訟之人。」
+增列第四款：「系統性錯誤：指因醫療機構之組織、制度、決策或設備設施等機構性問題，致醫療行為發生之不良結果。」
+提案人：江惠貞　　劉建國
+連署人：蘇清泉　　楊玉欣　　王育敏
+主席：第三條保留。針對「當事人」的定義，也是下禮拜審查時再做處理。
+謝謝各位，本日會議到此結束，現在散會。
+散會（17時42分）

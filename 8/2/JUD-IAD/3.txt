@@ -1,0 +1,466 @@
+立法院第8屆第2會期司法及法制、內政委員會第3次聯席會議紀錄
+時　　間　中華民國101年12月19日（星期三）下午2時30分
+地　　點　本院紅樓302會議室
+主　　席　廖委員正井
+主席：報告聯席會，出席委員已足法定人數，現在開會。進行報告事項。
+報　告　事　項
+一、宣讀上次會議議事錄。
+<hr>
+立法院第8屆第2會期司法及法制、內政委員會第2次聯席會議議事錄
+時　　間：中華民國101年11月7日（星期三）上午9時1分至11時56分
+地　　點：本院紅樓302會議室
+出席委員：江啟臣　　林正二　　廖正井　　李貴敏　　邱文彥　　李俊俋　　黃文玲　　陳超明　　高金素梅　徐欣瑩　　尤美女　　姚文智　　呂學樟　　王惠美　　張慶忠　　鄭天財　　謝國樑　　潘孟安　　吳育昇　　林國正　　段宜康　　陳其邁　　柯建銘　　王廷升
+委員出席24人
+列席委員：陳亭妃　　邱議瑩　　陳歐珀　　蕭美琴　　黃偉哲　　吳秉叡　　許添財　　楊瓊瓔　　林佳龍　　薛　凌　　盧秀燕　　李桐豪　　黃昭順　　盧嘉辰　　蔣乃辛　　江惠貞　　林世嘉　　陳淑慧　　管碧玲　　林滄敏　　邱志偉　　簡東明　　潘維剛
+委員列席23人
+請假委員：吳宜臻
+委員請假1人
+<table WIDTH="608" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="322"><col WIDTH="209"><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康中黑體, monospace"><span LANG="en-US">列席官員：</span></font></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部部長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">李鴻源</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部營建署署長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">葉世文</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部消防署署長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">葉吉堂</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部兒童局主任秘書</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳坤皇</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部土地重劃工程處處長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">李舜民</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部國土測繪中心主任</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">劉正倫</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院研究發展考核委員會副主任委員</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">戴豪君</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院人事行政總處副人事長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">顏秋來</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">銓部常務次長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">其梅</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">國防部作戰及計畫參謀次長室聯合作戰處副處長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">李天龍</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">中央選舉委員會法政處處長</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">賴錦珖</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院災害防救辦公室參議</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">馮德榮</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="322" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院主計總處公務預算處專門委員</span></font></p></td><td WIDTH="209" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辜儀芳</span></font></p></td></tr></table>
+主　　席：廖召集委員正井
+專門委員：陳清雲
+主任秘書：劉彥麟
+紀　　錄：簡任秘書　蘇純淑
+簡任編審　葉育彰
+科　　長　周厚增
+報　告　事　項
+宣讀上次會議議事錄。
+決定：確定。
+討　論　事　項
+一、繼續併案審查行政院函請審議「內政部組織法修正草案」、本院親民黨黨團擬具「內政部組織法修正草案」及本院委員林正二等25人擬具「內政部組織法修正草案」案。
+二、繼續併案審查行政院函請審議「內政部消防署組織條例修正草案」及本院委員管碧玲等21人擬具「內政部消防署組織條例第十一條條文修正草案」案。
+三、繼續審查行政院函請審議「內政部國土管理署組織法草案」案。
+四、繼續審查本院委員王進士等19人擬具「內政部都市發展局組織法草案」案。
+決議：
+一、逕行逐條審查。
+二、「內政部組織法修正草案」等3案：
+(一)草案名稱、第一條、第三條、第四條、第六條、第七條，均照行政院提案通過。
+(二)草案第二條，照行政院提案，除第一款條文保留，送院會處理、第四款修正為：「宗教輔導、殯葬管理、國家禮制、國民禮俗、祭祀公業與神明會管理政策之規劃、推動及法規之研擬、解釋。」、第五款修正為：「人民團體、合作事業輔導政策、培力事項之規劃、推動及法規之研擬、解釋。」及增列第六款為：「市區道路、共同管道政策之規劃、推動及法規之研擬、解釋; 公共設施工程業務規劃、設計及執行。」，原第六款至第十一款款次依序順移為第七款至第十二款外，餘均照案通過。
+(三)草案第五條，照行政院提案，除第三款句首刪除「災害防救及」文字外，餘均照案通過。
+(四)現行條文第二條至第四條、第八條之一、第九條、第十六條、第十七條、第二十條、第二十條之一、第二十一條至第二十三條，均照行政院提案刪除。
+(五)通過附帶決議2項：
+1.政府組織改造目標在提升行政效能及效率，惟組織精簡改造的成功，亦有賴有公務人員調適配合，以順利業務銜接與公務人力調整，為加快組織之改造進程，行政院及內政部相關單位應積極溝通使公務人員調適配合，以減少組織改造可能之內部干擾。
+提案人：謝國樑
+連署人：尤美女　　林正二　　呂學樟
+2.針對基隆與台北市或新北市是否合併的問題，內政部應予更多關注，故建請內政部應就相關合併議題，分別於基隆、台北市及新北市各辦二場大型公聽會，其中並應邀請基隆市、台北市及新北市政府首長與會參加。
+提案人：謝國樑
+連署人：呂學樟　　林正二　　尤美女　　陳超明　　王惠美　　邱文彥
+(六)通過其他提案1案：
+合作及人民團體司不宜變更名稱說明：
+1.依照中央行政機關組織基準法，內政部下設單位以「處務規程」定之，因此，在此次內政部組織改造中，將合作及人民團體司之設置，亦符合憲法基本國策規定，彰顯憲法第145條：「合作事業應受國家獎勵與扶助」之精神。
+2.再按內政部「處務規程」第十一條該司管理事項設計也以政黨以外，合作事業之規劃、輔導及管理為要。
+3.強要將經行政院充分討論，已規劃移出至衛生福利部之社會福利業務，再行移回並變更相關名稱極為不妥，應維持原名稱以符實際業務執掌並落實憲法精神。
+提案人：謝國樑
+連署人：尤美女　　林正二　　呂學樟
+三、「內政部消防署組織條例修正草案」等2案：
+(一)草案名稱，修正為：「內政部消防署組織法」。
+(二)草案第一條末句，修正為：「特設消防署（以下簡稱本署）。」
+(三)草案第二條，除第九款修正為：「搶救風災、震災、火災、爆炸災害、海嘯之指揮、管制、聯繫、督導及其他重大災害事故配合搶救之規劃、聯繫、督導。」及委員管碧玲等4人所提增列第十八款修正動議保留，送院會處理外，餘均照行政院提案通過。
+(四)草案第三條至第八條，均照行政院提案通過。
+(五)現行條文第一條、第四條、第五條、第八條至第十條、第十二條、第十三條、第十五條、第十七條，均照行政院提案刪除。
+(六)委員管碧玲等21人提案第十一條，保留，送院會處理。
+(七)通過附帶決議1項：
+由於日前爆發消防署防救災設備採購弊案，也使社會大眾質疑政府防救災能力是否受到嚴重影響，因此，建請內政部、消防署等相關單位，應即就防救災設備進行總檢，並於一個月內提出相關檢討報告及擬定補強之道。
+提案人：謝國樑　　林正二
+連署人：吳宜臻　　廖正井
+四、「內政部國土管理署組織法草案」案：
+(一)草案名稱、第三條至第七條，均照案通過。
+(二)草案第一條，除首句修正為：「內政部為辦理國土規劃、利用、管理及住宅等業務，……」外，餘均照案通過。
+(三)草案第二條，除第五款修正為：「住宅補貼、住宅資訊及國民住宅管理之督導、推動; 社會住宅之督導、推動及興辦。」及第六款修正為：「都市更新與新市鎮開發之規劃及推動。」外，餘均照案通過。
+五、本院委員王進士等19人擬具「內政部都市發展局組織法草案」案：不予審議。
+六、以上各案，均審查完竣，擬具審查報告，提請院會公決。
+七、討論事項第一案、第二案，均須交由黨團協商，其餘各案，均不須交由黨團協商。
+八、院會討論時，由廖召集委員正井出席說明。
+九、委員質詢時，要求提供相關資料或以書面答復者，請相關機關儘速送交個別委員及本聯席會。
+散會
+<hr>
+主席：因在場委員人數不足，議事錄暫不確定。
+進行討論事項。
+討　論　事　項
+一、繼續併案審查行政院函請審議「原住民族委員會組織法草案」及委員高金素梅等20人擬具「原住民族委員會組織法草案」案。
+二、審查委員高金素梅等21人擬具「原住民族委員會文化發展局組織法草案」案
+主席：本次聯席會討論事項行政院提案業經上個會期聯席會議審查決議「報告及詢答完畢，另定期繼續審查」，本次聯席會議繼續審查。
+因高委員金素梅另有提案，現在請提案人高委員金素梅說明提案旨趣。（不在場）高委員不在場。
+因討論事項已經報告及詢答完畢，各位委員如果沒有異議，我們就省略大體討論，開始進行逐條審查。請議事人員宣讀討論事項第一案的提案條文。
+一、原住民族委員會組織法草案：
+行政院提案條文：
+第　一　條　　行政院為統合原住民族政策，保障原住民族權利，特設原住民族委員會（以下簡稱本會）。
+高委員金素梅等提案條文：
+第　一　條　　行政院為統合原住民族政策，保障原住民族權利，特設原住民族委員會（以下簡稱本會）。
+行政院提案條文：
+第　二　條　　本會掌理下列事項：
+一、原住民族政策、制度、法規之綜合規劃、協調及推動。
+二、原住民身分與原住民族之認定、部落之核定、原住民族自治與原住民族國際交流之規劃、審議、協調及推動。
+三、原住民族教育、文化、語言保存與傳承及傳播媒體之規劃、審議、協調及推動。
+四、原住民健康促進、社會福利、工作權保障、就業服務之規劃、協調及推動。
+五、原住民族經濟、觀光、產業、金融服務與原住民族地區部落基礎建設之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。
+六、原住民族土地與自然資源之開發、利用、經營、保育、管理、傳統生物多樣性知識保護之規劃、協調、原住民族傳統領域土地回復與管理之規劃、協調及糾紛處理。
+七、所屬原住民族文化發展機構之督導、協調及推動。
+八、其他有關原住民族事項。
+高委員金素梅等提案條文：
+第　二　條　　本會掌理下列事項：
+一、原住民族政策、制度、法規之綜合規劃、協調及推動。
+二、原住民身分與原住民族之認定、部落之核定、原住民族自治與原住民族國際交流之規劃、審議、協調及推動。
+三、原住民族教育、文化、語言保存與傳承及傳播媒體之規劃、審議、協調及推動。
+四、原住民健康促進、社會福利、工作權保障、就業服務之規劃、協調及推動。
+五、原住民族經濟、觀光、產業、金融服務與原住民族地區部落基礎建設之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。
+六、原住民族土地與自然資源之開發、利用、經營、保育、管理、傳統生物多樣性知識保護之規劃、協調、原住民族傳統領域土地回復與管理之規劃、協調及糾紛處理。
+七、所屬文化發展局之督導、協調及推動。
+八、其他有關原住民族事項。
+行政院提案條文：
+第　三　條　　本會置主任委員一人，特任，由原住民擔任；副主任委員三人，其中二人職務比照簡任第十四職等，另一人職務列簡任第十四職等；副主任委員中，二人應由原住民擔任。
+高委員金素梅等提案條文：
+第　三　條　　本會置主任委員一人，特任，應由原住民擔任；副主任委員三人，其中二人職務比照簡任第十四職等，另一人職務列簡任第十四職等，其中二人應由原住民擔任。
+行政院提案條文：
+第　四　條　　本會置委員十九人至二十九人，其中原住民族各族代表應至少一人依聘用人員聘用條例聘用，其聘期隨主任委員異動而更易；餘均為無給職，由主任委員提請行政院院長就原住民族代表、有關機關代表及學者、專家派（聘）兼之，任期二年，任滿得連任，但委員為有關機關代表者，其任期隨職務異動而更易。
+前項委員，應有二分之一以上人數具原住民族身分。
+高委員金素梅等提案條文：
+第　四　條　　本會置委員十九人至二十九人，其中原住民族各族代表應至少一人依聘用人員聘用條例聘用，其聘期隨主任委員異動而更易；餘均為無給職，由主任委員提請行政院院長就原住民族代表、有關機關代表及學者、專家派（聘）兼之，任期二年，任滿得連任，但委員為有關機關代表者，其任期隨職務異動而更易。
+前項委員，應有二分之一以上人數具原住民身分。
+行政院提案條文：
+第　五　條　　本會置主任秘書，職務列簡任第十二職等。
+高委員金素梅等提案條文：
+第　五　條　　本會置主任秘書，職務列簡任第十二職等。
+高委員金素梅等提案條文：
+第　六　條　　本會設文化發展局，規劃、執行原住民族文化發展事項、原住民族傳統智慧創作保護事項及經營；其組織以法律定之。
+行政院提案條文：
+第　六　條　　本會各職稱之官等職等及員額，另以編制表定之。
+前項人員，得優先進用具原住民身分者。
+高委員金素梅等提案條文：
+第　七　條　　本會各職稱之官等職等及員額，另以編制表定之。
+前項人員，具原住民身分者應優先任用。
+行政院提案條文：
+第　七　條　　本法施行日期，由行政院以命令定之。
+高委員金素梅等提案條文：
+第　八　條　　本法施行日期，由行政院以命令定之。
+主席：剛剛因為在場委員人數不足，現在確定議事錄。請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。
+現在請議事人員宣讀討論事項第二案的提案條文。
+二、原住民族委員會文化發展局組織法草案：
+高委員金素梅等提案條文：
+第　一　條　　原住民族委員會為辦理原住民族文化發展業務及原住民族傳統智慧創作保護業務，特設文化發展局（以下簡稱本局）。
+第　二　條　　本局掌理下列事項：
+一、原住民族文化資產之調查、研究、保存、指定、登錄、公告、推廣、審議及執行。
+二、原住民族地區文物（化）館營運輔導、人才培育及館際合作交流。
+三、原住民族圖書、影音資料之數位化、加值設計與運用推廣之規劃、協調、審議及執行。
+四、原住民族表演藝術、音樂及舞蹈之調查、研究、保存、推廣及執行。
+五、原住民族傳統技藝、藝術環境、藝術教育之規劃、推廣及執行。
+六、原住民族工藝產業之開發、輔導、審議、推廣及執行。
+七、原住民族傳統智慧創作之申請、認定、登記、公告、證書之核發、換發、註銷、認證標記之授與、撤銷、廢止之規劃、協調、審議、輔導及執行。
+八、國內外原住民族文化交流之規劃、協調、審議及執行。
+九、原住民族文化藝術教育推廣之規劃、協調、審議及執行。
+十、其他有關原住民族文化發展事項。
+第　三　條　　本局置局長一人，職務列簡任第十三職等，必要時得比照專科以上學校校長或教授之資格聘任；副局長一人，職務列簡任第十二職等。
+第　四　條　　本局置主任秘書，職務列簡任第十一職等。
+第　五　條　　本局各職稱之官等職等及員額，另以編制表定之。
+第　六　條　　因本局組織調整現職人員及隨同業務移撥人員工作權益保障事項，依行政院功能業務與組織調整暫行條例規定辦理。
+第　七　條　　本法施行日期，由行政院以命令定之。
+主席：另有委員提出修正動議。
+1.鄭委員天財等所提修正動議：
+【修正動議】
+原住民族委員會組織法條文修正如下：
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="298"><col WIDTH="300"><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><a NAME="TA6643229"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">修正條文</span></font></p></td><td WIDTH="300" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院條文</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: -0.15in"><font FACE="華康細明體, monospace"><span LANG="en-US">第一條　行政院為統合原住民族政策，保障原住民族權<u>益，辦理原住民族業務</u>，特設原住民族委員會（以下簡稱本會）。</span></font></p></td><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">第一條　行政院為統合原住民族政策，保障原住民族權<u>利</u>，特設原住民族委員會（以下簡稱本會）。</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第二條　本會掌理下列事項：</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">一、原住民族政策、制度、法規之綜合規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">二、原住民身分與原住民族之認定、部落之核定、原住民族自治<u>、</u>原住民族國際交流之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">三、原住民族教育、文化、語言保存與傳承及傳播媒體之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">四、原住民健康促進、社會福利、工作權保障、就業服務<u>、法律服務</u>之規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">五、原住民族<u>住宅、</u>經濟、觀光、產業、金融服務、原住民族地區<u>部落飲水、</u>部落基礎建設之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">六、原住民族土地與自然資源之開發、利用、經營、保育、管理、傳統生物多樣性知識保護之規劃、協調、原住民族傳統領域土地回復與管理之規劃、協調及糾紛處理。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">七、所屬原住民族文化發展機<u>關</u>之督導、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">八、<u>所屬原住民族文獻及文物機構之興辦、督導、管理、輔導、獎勵及推動。</u></span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in"><font FACE="華康細明體, monospace"><span LANG="en-US">九、其他有關原住民族事項。</span></font></p></td><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第二條　本會掌理下列事項：</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">一、原住民族政策、制度、法規之綜合規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">二、原住民身分與原住民族之認定、部落之核定、原住民族自治<u>與</u>原住民族國際交流之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">三、原住民族教育、文化、語言保存與傳承及傳播媒體之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">四、原住民健康促進、社會福利、工作權保障、就業服務之規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">五、原住民族經濟、觀光、產業、金融服務與原住民族地區部落基礎建設之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">六、原住民族土地與自然資源之開發、利用、經營、保育、管理、傳統生物多樣性知識保護之規劃、協調、原住民族傳統領域土地回復與管理之規劃、協調及糾紛處理。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">七、所屬原住民族文化發展機<u>構</u>之督導、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">八、其他有關原住民族事項。</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第六條　<u>本會之次級機關（構）及其業務如下：</u></span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">一、<u>原住民族文化發展局：規劃與執行原住民族之文化發展及傳統智慧創作保護。</u></span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in"><font FACE="華康細明體, monospace"><span LANG="en-US">二、<u>原住民族博物館：研究、採集、整理、編輯、典藏、展示、教育及推廣原住民族文獻及歷史文物。</u></span></font></p></td><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">（本條新增）</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第七條　本會各職稱之官等職等及員額，另以編制表定之。</span></font></p><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: 0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">前項人員，<u>應</u>優先進用具原住民身分者。</span></font></p></td><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第六條　本會各職稱之官等職等及員額，另以編制表定之。</span></font></p><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">前項人員，<u>得</u>優先進用具原住民身分者。</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in"><span CLASS="sd-abs-pos" STYLE=" top: 0.46in; left: -0.04in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">第八條　本法施行日期，由行政院以命令定之。</span></font></p></td><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">第七條　本法施行日期，由行政院以命令定之。</span></font></p></td></tr></table>
+提案人：鄭天財　　林正二　　吳宜臻
+2.林委員正二等所提修正動議：
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="300"><col WIDTH="302"><tbody><tr><td COLSPAN="2" WIDTH="606" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.73in; margin-top: 0.07in"><a NAME="TA5936685"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">原住民族委員會組織法草案第二條條文修正動議對照表：</span></font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">修正動議條文</span></font></p></td><td WIDTH="302" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院版草案條文</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in; margin-bottom: 0in"><span CLASS="sd-abs-pos" STYLE=" top: 5.05in; left: -0.04in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">第二條　本會掌理下列事項：</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">一、原住民族政策、制度、法規之綜合規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">二、原住民身分與原住民族之認定、部落之核定、原住民族自治與原住民族國際交流之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">三、原住民族教育、文化、語言保存與傳承及<u>通訊</u>傳播媒體之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">四、原住民健康促進、社會福利、工作權保障、就業服務之規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">五、原住民族經濟、觀光、產業、金融服務、<u>住宅、</u>原住民族地區部落基礎建設與<u>部落更新</u>之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">六、原住民族土地<u>、海域</u>與自然資源之<u>規劃、</u>開發、利用、經營、保育、管理、<u>原住民族地區區域計畫與</u>傳統生物多樣性知識保護之規劃、協調、原住民族傳統領域土地回復與管理之規劃、協調及糾紛處理。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">七、所屬<u>機關辦理</u>原住民族文化發展<u>事務</u>之指導及監督。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in"><font FACE="華康細明體, monospace"><span LANG="en-US">八、其他有關原住民族事項。</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第二條　本會掌理下列事項：</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">一、原住民族政策、制度、法規之綜合規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">二、原住民身心與原住民族之認定、部落之核定、原住民族自治與原住民族國際交流之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">三、原住民族教育、文化、語言保存與傳承及傳播媒體之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">四、原住民健康促進、社會福利、工作權保障、就業服務之規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">五、原住民族經濟、觀光、產業、金融服務與原住民族地區部落基礎建設之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">六、原住民族土地與自然資源之開發、利用、經營、保育、管理、傳統生物多樣性知識保護之規劃、協調、原住民族傳統領域土地回復與管理之規劃、協調及糾紛處理。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">七、所屬原住民族文化發展<u>機構</u>之督<u>導、協調</u>及<u>推動</u>。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">八、其他有關原住民族事項。</span></font></p></td></tr></tbody></table>
+提案人：林正二　　鄭天財
+連署人：呂學樟　　楊瓊瓔　　李貴敏　　簡東明　　廖正井
+3.邱委員文彥等所提修正動議：
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="199"><col WIDTH="199"><col WIDTH="201"><tbody><tr><td COLSPAN="3" WIDTH="606" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.73in; margin-top: 0.07in"><a NAME="TA4812281"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">「原住民族委員會組織法」草案修正動議</span></font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="199" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">修正條文</span></font></p></td><td WIDTH="199" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">原條文</span></font></p></td><td WIDTH="201" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">說明</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="199" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in; margin-bottom: 0in"><span CLASS="sd-abs-pos" STYLE=" top: 4.54in; left: -0.04in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">第二條　本會掌理下列事項：</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">一、原住民族政策、制度、法規<u>及諮商</u>之綜合規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">二、原住民身分與原住民族之認定、部落之核定、原住民族自治與原住民族國際交流之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">三、原住民族教育、文化、語言保存與傳承及傳播媒體之規劃、政策及法規之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">四、原住民健康促進、社會福利、工作權保障、就業服務之規劃協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">五、原住民族經濟、觀光、產業、金融服務與原住民族地區部落基礎建設之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">六、<u>原住民族土地、自然資源之傳統生物多樣性知識之調查、規劃、協調、保護、利用、管理，原住民族傳統領域之研究、調查、諮商、規劃、協調、公告、權益回復及糾紛處理</u>。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">七、所屬原住民族文化發展機構之督導、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.36in; margin-right: 0.07in; text-indent: -0.14in"><span CLASS="sd-abs-pos" STYLE=" top: 0.42in; left: -0.04in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">八、其他有關原住民族事項。</span></font></p></td><td WIDTH="199" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第二條　本會掌理下列事項：</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">一、原住民族政策、制度、法規之綜合規劃、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">二、原住民身分與原住民族之認定、部落之核定、原住民族自治與原住民族國際交流之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">三、原住民族教育、文化、語言保存與傳承及傳播媒體之規劃、政策及法規之規劃、審議、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">四、原住民健康促進、社會福利、工作權保障、就業服務之規劃協調及推動。</span></font></p><p STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">五、原住民族經濟、觀光、產業、金融服務與原住民族地區部落基礎建設之規劃、協調、原住民族綜合發展基金之規劃、管理及輔導。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">六、原住民族土地與自然資源之開發、利用、經營、保育、管理、傳統生物多樣性知識保護之規劃、協調、原住民族傳統領域土地回復與管理之規劃、協調及糾紛處理。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">七、所屬原住民族文化發展機構之督導、協調及推動。</span></font></p><p CLASS="western" STYLE="margin-left: 0.37in; margin-right: 0.07in; text-indent: -0.15in"><font FACE="華康細明體, monospace"><span LANG="en-US">八、其他有關原住民族事項。</span></font></p></td><td WIDTH="201" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">參酌原住民族基本法有關諮商之精神，並修正文字。</span></font></p></td></tr></tbody></table>
+提案人：邱文彥　　江啟臣　　吳育昇
+4.林委員正二等所提修正動議：
+<table WIDTH="611" CELLPADDING="2" CELLSPACING="0"><col WIDTH="300"><col WIDTH="302"><tbody><tr><td COLSPAN="2" WIDTH="607" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.73in; margin-top: 0.07in"><a NAME="TA5563884"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">原住民族委員會組織法草案第三條條文修正動議對照表：</span></font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">修正動議條文</span></font></p></td><td WIDTH="302" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院版草案條文</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in"><span CLASS="sd-abs-pos" STYLE=" top: 1.11in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">第三條　本會置主任委員一人，特任，<u>為行政院政務委員，</u>由原住民擔任；副主任委員三人，其中二人職務比照簡任第十四職等，另一人職務列簡任第十四職等；副主任委員中，二人應由原住民擔任。</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">第三條　本會置主任委員一人，特任，由原住民擔任；副主任委員三人，其中二人職務比照簡任第十四職等，另一人職務列簡任第十四職等；副主任委員中，二人應由原住民擔任。</span></font></p></td></tr></tbody></table>
+提案人：林正二　　鄭天財
+連署人：呂學樟　　楊瓊瓔　　李貴敏　　簡東明　　廖正井
+4-1.吳委員宜臻等所提修正動議：
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="199"><col WIDTH="199"><col WIDTH="201"><tbody><tr><td COLSPAN="3" WIDTH="606" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.73in; margin-top: 0.07in"><a NAME="TA2708790"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">原住民族委員會組織法草案建議修正條文</span></font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="199" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">建議修正條文</span></font></p></td><td WIDTH="199" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院條文</span></font></p></td><td WIDTH="201" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">修正理由</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="199" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in"><span CLASS="sd-abs-pos" STYLE=" top: 3.08in; left: -0.04in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">第三條　本會置主任委員一人，特任，<u>由行政院長指定一名政務委員擔任，且其為原住民</u>；副主任委員三人，其中二人職務比照簡任第十四職等，另一人職務列簡任第十四職等；副主任委員中，二人應由原住民擔任。</span></font></p></td><td WIDTH="199" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: -0.15in"><font FACE="華康細明體, monospace"><span LANG="en-US">第三條　本會置主任委員一人，特任，由原住民擔任；副主任委員三人，其中二人職務比照簡任第十四職等，另一人職務列簡任第十四職等；副主任委員中，二人應由原住民擔任。</span></font></p></td><td WIDTH="201" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">原住民族是最早在台灣這塊土地上生活的族群，也因為多次外來殖民的治理而使得傳統領域土地與文化的流失，基於多元文化主義以及族群轉型正義的理念，我們政府與社會更應重視原住民族權益。爰此，原民會的主委應是行政院長指定一名政務委員來擔任，且其為原住民身分，除了表達政府對於原住民族與其族群事務的重視，也讓原民會主委有一定的位階協調其他部會協助原住民族事務。</span></font></p></td></tr></tbody></table>
+提案人：吳宜臻
+連署人：廖正井　　鄭天財
+5.林委員正二等所提修正動議：
+<table WIDTH="611" CELLPADDING="2" CELLSPACING="0"><col WIDTH="300"><col WIDTH="302"><tbody><tr><td COLSPAN="2" WIDTH="607" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.73in; margin-top: 0.07in"><a NAME="TA8880578"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">原住民族委員會組織法草案第四條條文修正動議對照表：</span></font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">修正動議條文</span></font></p></td><td WIDTH="302" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院版草案條文</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in; margin-bottom: 0in"><span CLASS="sd-abs-pos" STYLE=" top: 1.44in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">第四條　本會置委員十九人至二十九人，其中原住民族各族代表應至少一人<u>為專任委員職務比照簡任第十三職等</u>；餘均為無給職，由主任委員提請行政院院長就原住民族代表、有關機關代表及學者、專家派兼之，任期二年，任滿得連任，但委員為有關機關代表者，其任期隨職務異動而更易。</span></font></p><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: 0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">前項委員，應有二分之一以上人數具原住民族身分。</span></font></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第四條　本會置委員十九人至二十九人，其中原住民族各族代表應至少一人<u>依聘用人員聘用條例聘用，其聘期隨主任委員異動而更易</u>；餘均為無給職，由主任委員提請行政院院長就原住民族代表、有關機關代表及學者、專家派<u>（聘）</u>兼之，任期二年，任滿得連任，但委員為有關機關代表者，其任期隨職務異動而更易。</span></font></p><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">前項委員，應有二分之一以上人數具原住民族身分。</span></font></p></td></tr></tbody></table>
+提案人：林正二　　鄭天財
+連署人：呂學樟　　楊瓊瓔　　李貴敏　　簡東明　　廖正井
+6.林委員正二等所提修正動議：
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="300"><col WIDTH="302"><tbody><tr><td COLSPAN="2" WIDTH="606" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.59in; margin-top: 0.07in"><a NAME="TA5693126"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">增訂原住民族委員會組織法草案第五條之一條文修正動議對照表：</span></font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">修正動議條文</span></font></p></td><td WIDTH="302" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院版草案條文</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in"><span CLASS="sd-abs-pos" STYLE=" top: 0.68in; left: -0.04in; width: 610px"><hr></span><u><font FACE="華康細明體, monospace"><span LANG="en-US">第五條之一　本會設文化發展局，規劃與執行原住民族文化發展及傳統智慧創作保護等事項。</span></font></u></p></td><td WIDTH="302" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">（無）</span></font></p></td></tr></tbody></table>
+提案人：林正二　　鄭天財
+連署人：呂學樟　　楊瓊瓔　　簡東明　　廖正井
+7.尤委員美女等所提修正動議：
+原住民族委員會組織法草案第六條－修正動議
+說明：
+一、查原住民族委員會目前具公務人員任用資格人數總計為126人，其中具原住民身分者為62人（佔總人數49%），非原住民為64人（佔總人數51%）；復查原住民族委員會簡任以上職等人數為24人，其中具原住民身分者為10人（佔簡任職等人數42%），非原住民為14人（佔簡任職等人數58%）；原住民族委員會科長職務人數為20人，其中具原住民身分者為9人（佔科長職務人數45%），非原住民為11人（佔科長職務人數55%）。
+二、原住民族委員會之成立，除係為主管原住民族事務之專責中央機關，亦兼負進用原住民就業及培養原住民高階文官之責，尤其該會刻正推動原住民族自治，自當以身作則，然人事現況卻非如此，突顯該會的人事現況必須檢討改進，應以法律規範其進用原住民比率。
+三、參考原住民族工作權保障法第七條第三項及其施行細則第八條，對原住民機構、法人或團體之認定，係指原住民社員、會員、理監事、董監事及股東人數，達百分之八十以上者，爰提案建議原住民族委員會組織法草案第六條條文如下：
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="298"><col WIDTH="300"><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><a NAME="TA9305338"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">修正條文</span></font></p></td><td WIDTH="300" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="JUSTIFY" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院條文</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="298" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p CLASS="western" STYLE="margin-left: 0.21in; margin-right: 0.07in; text-indent: -0.14in; margin-bottom: 0in"><span CLASS="sd-abs-pos" STYLE=" top: 1.55in; left: -0.04in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">第六條　本會各職稱之官等職等及員額，另以編制表定之。</span></font></p><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: 0.29in"><u><font FACE="華康細明體, monospace"><span LANG="en-US">前項人員，簡任、薦任、委任各官等人員具原住民身分者，均應達百分之八十以上。本法所定進用原住民比率，自本法公布日起，依公布日進用情形為計算基準，逐年遞增百分之五。</span></font></u></p></td><td WIDTH="300" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.07in; margin-bottom: 0in"><font FACE="華康細明體, monospace"><span LANG="en-US">第六條　本會各職稱之官等職等及員額，另以編制表定之。</span></font></p><p CLASS="western" STYLE="margin-left: 0.22in; margin-right: 0.07in; text-indent: 0.29in"><font FACE="華康細明體, monospace"><span LANG="en-US">前項人員，<u>得優先進用具原住民身分者。</u></span></font></p></td></tr></table>
+提案人：尤美女　　柯建銘　　林正二　　鄭天財　　吳宜臻
+主席：另有附帶決議兩案，其內容如下：
+A.
+一、行政院原住民族委員會（以下簡稱原民會）85年成立，預算約二億元、員額55人；隨政策變遷，原分散各機關之預算與業務相繼移入原民會統合辦理，人力且未隨同移撥或增加，迄今預算雖然成長已逾百億元，且因預算員額匡限，衍生空有預算卻無專業正職人力執行業務執行業務窘境。原民會執掌面相廣泛，業務涵蓋原鄉偏遠，幅員遼闊，文化復振，經濟發展與各項建築迫切龐雜，鑒此，決議：配合組織修正，原民會組織設6個業務單位，4個輔助單位，1個3級機關辦事；實際（預算）員額（不含所屬機關）初期不得少於185人，並於二年內分階段調足至280人，相關員額增列之人事費，請行政院主計總處等機關配合編列。
+二、為落實憲法增修條文第10條第11項「國家肯定多元文化，並積極發展原住民族語言文化。」及原住民族基本法第10條規定：「政府應保存與維護原住民族文化，並輔導文化產業及培育專業人才」等規定，且鑒原住民族文化發展之核心事項如傳統智慧創作之保護、文化資產之保存、文化創意產業之發展及南島民族文化交流等事項，均屬高度公權力之行使，爰依立法院第七屆朝野黨協商結論：文化園區管理局維持三級機關定位，名稱改為原住民族文化發展局，實際（預算）員額調整為92人，相關員額增列之人事費，請行政院主計總處等機關配合編列。
+提案人：高金素梅　林正二　　鄭天財　　簡東明　　廖正井　　陳其邁　　陳超明　　李俊俋　　黃文玲　　陳雪生　　江啟臣　　姚文智　　吳宜臻　　紀國棟　　尤美女
+B.行政院原住民族委員會（以下簡稱原民會）85年成立，預算約二億元、員額55人；隨政策變遷，原分散各機關之預算與業務相繼移入原民會統合辦理，人力且未隨同移撥或增加。鑒此，決議：配合組織修正，原民會組織設6個業務單位，4個輔助單位，1個3級機關辦事；實際（預算）員額（不含所屬機關）初期不得少於185人，並於二年內分階段調足至280人。原住民族文化發展局，應於二年內實際（預算）員額調整為92人，相關員額增列之人事費，請行政院主計總處等機關配合編列。
+提案人：林正二
+連署人：吳宜臻　　鄭天財　　尤美女
+主席：現在請提案人高委員金素梅說明提案旨趣。
+高委員金素梅：主席、各位列席官員、各位同仁。本席針對第六條有提案，就如同原民會的說明一樣，拿凍省之前跟現在相較，時間跟預算都跟以前不相同了。在文化方面，我們的確很希望原住民文化能夠獲得保護、延續，雖然原民會每年約有將近70幾億的預算，但全都是過路性質，即大部分還是給縣市政府執行，單就文化的部分來看，原民會編列的預算大概只有1點多億，這些預算卻要負責原住民14個族群，但文化部並沒有針對原住民事務來編列相關的預算，也就是說，原民會在編列原住民文化這部分，預算才1點多億，而我們期望的是我們在屏東有一個文化園區，這部分目前只是在做為一些觀光文化的業務，所以我們希望將屏東的文化園區提升，讓其專門用於原住民文化的發展，事實上，我們現在有相當多原住民文化方面的法律問題是必須要有公權力的，所以我們希望文化發展局能夠變成機關，而並非只是一個機構。
+再來就是機關、機構用人彈性的問題，依據現行聘用人員聘用條例或是將來銓敘部擬定的聘用人員人事條例，其實都是可以採用的，所以用人方面並不是問題，以上說明。謝謝。
+主席：條文及修正動議皆已宣讀完畢，我們現在進行逐條審查。
+現在針對討論事項第一案進行審查。
+請問各位，對名稱「原住民族委員會組織法」有無異議？（無）無異議，通過。
+關於第一條，鄭委員天財等提議修正為「行政院為統合原住民族政策，保障原住民族權益，辦理原住民族業務，特設原住民族委員會（以下簡稱本會）」，請問各位，有無異議？（無）無異議，修正通過。
+請問各位，對第二條「本會掌理下列事項：」部分照行政院提案條文通過有無異議？（無）無異議，通過。
+請問各位，對第二條第一款照行政院提案條文「一、原住民族政策、制度、法規之綜合規劃、協調及推動。」通過有無異議？
+吳委員宜臻：（在席位上）提案第3頁第二條第一款邱委員文彥等3人有提案修正，他們現在不在場，所以要如何理？
+主席：我們一樣來處理好了，謝謝吳宜臻委員的提醒，他們就是建議第二條第一款在法規之後加上「及諮商」等3字，其實後面有規定「協調」，而協調就是諮商了。
+吳委員宜臻：原民會這邊如果原來政策、制度、法規之綜合規劃如果沒有函令的解釋諮商或是對民服務的解釋諮商，則這樣規定就不宜，如果有的這方面的解釋，那就當然可以加上「諮商」等字，不然如果沒有相關函令的解釋諮商或是對民服務的解釋諮商，則本來就是本於職權來對法規進行解釋，然後還有法規的協調及業務的推動，所以有沒有「諮商」這兩字就不是那麼重要，但若原住民政策如果有對第一線來進行，包括相關法令的解釋、諮商的提供等部分有必要的話，則「諮商」兩字就可以加進去，這部分原民會要自己弄清楚啊！
+主席：應該是「原住民族政策、制度、法規」這些部分的「綜合規劃、協調及推動。」所以「諮商」應該放在後面才對。
+鄭委員天財：按邱委員的文字來看，是指跟原住民族的諮商，恐怕是不需要吧！原民會要跟原住民族諮商嗎？
+吳委員宜臻：第1頁鄭委員天財等提案的第四款，其實有去處理關於法律諮詢服務的提供，所以邱委員文彥若是針對原住民族法律協助方面的事務，那就不適宜將「諮商」這樣的文字放在第一款。
+鄭委員天財：邱文彥委員待會會來，所以這部分先保留一下，讓他說明看看。
+主席：好，我們先暫時保留。
+第二款第2行「原住民族自治與原住民族國際交流」鄭委員建議修正為「原住民族自治、原住民族國際交流」請問各位，有無異議？（無）無異議，修正通過。
+第三款第3頁林正二委員建議在第二行「及傳播」修正為「及通訊傳播」，請問各位，有無異議？
+孫主任委員大川：主席、各位委員。通訊可能比較屬於NCC的權責，跟原民會比較有關的，主要還是傳播媒體的部分，所以可否維持「傳播媒體」，然後「通訊」兩字不要列入？
+主席：林正二委員有何看法？
+鄭委員天財：在林委員還沒有說明之前，回到剛才的第二款，吳委員和尤委員建議還是用行政院版本，即還是用「與」字。
+主席：所以鄭委員不堅持？
+鄭委員天財：不堅持。
+主席：那第二款就回復原來行政院的版本。
+至於第三款，林委員有什麼看法？
+林委員正二：主委說的通訊跟數位有沒有關係？
+孫主任委員大川：跟主政的有關係，我是認為傳播媒體就可以把通訊等事項都涵蓋在裡面，因為若跟NCC的職權有重複，就容易造成一些衝突，其實現在跟原民台、跟傳播媒體有關的事務，也要跟NCC做協商。
+林委員正二：所以你是說「通訊」兩字是不必的，NCC已經有了？
+孫主任委員大川：是的，他們主政，我們……
+林委員正二：所以「通訊」兩字拿掉後，也有涵蓋我方才所提數位的部分嗎？
+孫主任委員大川：是的。
+林委員正二：是真的嗎？
+孫主任委員大川：真的。
+林委員正二：我們原住民可不要被人家騙了！
+孫主任委員大川：真的，有一些部分都可以處理的。
+林委員正二：你目前是原住民當中最聰明的。
+孫主任委員大川：不！不！我是最笨的。
+林委員正二：我尊重主委的意見，但還是要看看其他委員有什麼意見。
+主席：他是這樣講的，就是第二條規定了本會掌理下列事項，這樣一來他擔心會跨到NCC的職權，不過他這部分講得很客氣，但他講對了。
+林委員正二：對，我們不應超過NCC的職權，但是這裡面有包括數位的部分，是不是這個意思？
+主席：對。因林正二委員不堅持，所以第三款依行政院版本通過。
+第四款的部分，鄭委員天財建議在「就業服務」後面加一個「法律服務」。
+孫主任委員大川：報告主席，原民會也非常同意。
+主席：所以第四款就依鄭委員天財所提的修正內容通過。
+第五款鄭委員天財、林委員正二都建議在「原住民族」後面加上「住宅」兩字，然後後面「部落基礎建設」鄭委員天財建議修正為「部落飲水基礎建設」；林委員建議「部落基礎建設」修正為「部落更新基礎建設」。請問各位，有無異議？
+請原民會孫主任委員說明。
+孫主任委員大川：主席、各位委員。關於第五款，住宅的部分應該放進來，我們同意，現在也非常需要，特別是與都市原住民有關。關於部落飲水這部分，請各位委員思考一下，因為現在關於原住民的簡易自來水，讓原民會去主導這個工作，多位委員應該了解，長期以來，一直有維護及安全上的問題，我們原本很希望，屬於部落飲水的這部分，能讓經濟部水利署主掌，如果歸到原民會，可能在人力上必須有相當大的支持，以現在原民會的狀況，我們每次處理簡易自來水都非常困難，請委員理解並諒解。
+至於部落更新部分，因為部落基礎建設中已包含這部分，以及部落新風貌也都有在做，是涵蓋在裡面的，因為本來就在做，所以，請委員考慮是否可以不加進去，就照行政院版的文字。
+林委員正二：主委，在原基法第十六條中，很清楚地談到部落更新，因此，本席才在這裡加上部落更新。
+孫主任委員大川：部落新風貌有在做，因為如果加了，也是人力上的問題。我當然希望加入，但部落更新所需要的經費及專業性都要很大，以現在原民會的規模，大概在部落風貌及文化語匯支持的部分較能勝任，如果要做部落更新，牽涉到硬體技術，所以……
+林委員正二：主委，因為我們原住民部落中有很多是違建，你的部落風貌只是做週邊，部落更新是較著重在內部。
+孫主任委員大川：報告委員，關於這部分，其實長期以來，我們希望營建署的合作，事實上，這和部落的基礎建設，包括永久屋，實際執行的是營建署，以原民會現在的狀況及專業，大概沒辦法……
+林委員正二：所以你的意思是，你的工作僅止於部落風貌，對部落更新方面是沒有能力的，是嗎？
+孫主任委員大川：我們希望這類工作，能由內政部……
+林委員正二：現在我要加強你的能力，賦予你這個責任。
+孫主任委員大川：謝謝委員，不過我有義務將實際狀況及原民會的……
+林委員正二：你的幕僚正在研究，這問題先擱著，讓他們提出讓本席滿意的答覆。
+高委員金素梅：本席請問主委，你剛才說到，讓自來水部分回歸到專業的水利署去，本席是很同意，請問你現在與水利署的溝通進行得如何？
+孫主任委員大川：我們現在已經在……
+高委員金素梅：沒有問題了，是不是？
+孫主任委員大川：他們必須……
+高委員金素梅：因為如果今天不訂進去，水利署又不同意的話，就會變成原住民部落飲用水沒人管的狀態，不可以這樣哦！所以我們要了解你與水利署間的橫向聯繫進行得如何？本席是同意回歸到專業。
+孫主任委員大川：對……
+高委員金素梅：因為原住民部落飲用水需要專業處理，鄉公所及縣政府都沒有這方面的專業，我們可以看到，每次我們編列預算，縣政府的工作不力，有個例子很離譜，它接個管子直接在水中取水，要不就是放置於風災發生時容易崩塌的地方，所以每次修好後，風災一來，這自來水系統就毀損了，完全沒有專業考量，因此本席建議也同意，將之回歸到專業的水利署。原因是，原住民部落多在水土保護區，我們被限制耕作，讓乾淨的水流到大都會區，可是我們卻沒有相對專業的自來水、飲用水，這工作絕非鄉公所及縣政府所能完成，它製造非常多國家財政重複編列的惡性循環。所以，本席建議它回歸到中央，但是，不知主委在這方面與水利署的溝通進行得如何？
+其次，部落更新部分也是同樣的問題，今天內政部營建署未派代表與會，飲用水及部落更新的問題與兩個部會有關，主委，你一定要很明確地告訴我們，你的橫向聯繫進行得如何？謝謝。
+林委員正二：主委，我非常強調部落更新要放在條文中，我們賦予原民會權力，如果將部落更新交給內政部，內政部管的太多了，有時會忽略掉原住民，因此，本席建議直接將部落更新當成原民會的主要工作，不要放給其他單位，我們賦予你這個權力，你就有責任去做。至於高金委員提到有關飲用水的意見，本席表示尊重，但仍應聽聽提案人鄭天財委員的看法如何。不知道原民會的幕僚，針對部落更新有沒有其他意見？
+孔委員文吉：我已經舉手很久了，針對這一條，我們原住民地區的水有簡易自來水、灌溉水及自來水，如果部落飲水放在原民會的話，大概原民會只能管到簡易自來水的部分，自來水是經濟部水利署及自來水公司的職掌；還有一個是無自來水地區的灌溉用水，是由農田水利會掌管。所以，如果將部落飲水放在這一條，給原民會主管的話，原民會是無法管到簡易自來水之外的灌溉用水及自來水，因為一個是經濟部，一個是農委會的職掌。因此，本席建議不要將部落飲水放入這一條中，本席也是希望以後水的問題，儘量不要讓原民會管，而應回歸到專責單位，就如同農路，我們請農委會水保局做。因為原民會是政策協調的單位，不是工程單位，原民會不要管太多，只要做好政策法令的規劃協調的工作。原民會不是工程單位，如果把工程交給你們做，你們執行得不好，到立法院又被我們批評，所以，在組織的部分，有關水及農路等，儘量回歸到中央的專責單位，因此，必須做好橫向聯繫協調，一定要講好，農路部分給農委會水保局，水的部分給經濟部水利署。原民會以後就不必管這些了，因為你們要研究的法令太多了。
+另外，關於部落更新，在廣義上，它包含產業、基礎設施計畫等，是否可以將部落更新納入部落基礎產業部分，本席贊成行政院版的文字。
+鄭委員天財：我再說明一下，文字拿掉很容易，重點是在於水利署要不要接，因為長期以來，在原民會未成立時，台灣省政府就有建設廳、水利局，他就是不做，原住民部分，早期有民政聽，後來成立的台灣省原住民行政局，一直以來都是如此，在他們的觀念及腦海中就是這樣，我不知道你們這段時間協調得如何，他有沒有同意要接呢？現在簡易自來水都是原民會在做，水利署願不願意接這個業務？不要到時候落空了，就像農業部分，精省之前，台灣省原住民行政局還有在做相關農業的部分，在精省之後，因為原民會的職掌沒有列，農委會也不做，就造成兩頭落空的情況，所以，請原民會作一說明。
+孫主任委員大川：報告主席及各位委員，其實在這次組改的核心部分，原民會最深的考量，的確是職掌的核心工作，有些牽涉到實際用到的工程，要有人去執行的單位，要有專業也要有人力，我想各位委員都了解，原民會成立十多年來，我們有很多基礎的工作，包括自來水這些事，到最後都是要委託縣政府及鄉公所，我們長久以來，一直在這些地方受到很多責難，不是原民會要推卸責任，而是如果今天很明確地將原民會中關於飲水及部落更新的事情，是由主管機關負責，我們應該賦予他這些責任，除非讓原民會變成很大的部，有二、三個執行機關，否則，將會一直惡性循環，我們會加強這些，聯繫一定要做，但也希望各位委員能夠支持，讓這些工作回歸到專業上，因為這一直是原民會很大的困難，如果部落更新這部分能改成部落風貌，因為我們這幾年都在做，所以應該是可以的……
+主席：我們要把握時間，因為本席曾在地方任職過，現在中央的水利署及地方的水務局包含河川，他們已有界面了，部落飲水自來水部分，自來水也有一個界限，他只拉管線到馬路，從馬路到你家裡是由住戶自己負擔的。第一、剛才孫主委是將中央機關與地方政府的界面講得很清楚。第二、有關林委員所提部落更新的部分，也是一樣的情形，其實，孫主委說由部落風貌來管的話比較正確，因為，都市更新是蠻複雜的業務，如容積率、建蔽率等都是專業問題，可能由營建署來做比較專業。據本席聽大家的發言，我認為孫主委講得很清楚，如果將職掌列在這裡，將來其他的部會就不管了，就推給原民會自己管，最後會變成這樣，大家要注意。
+鄭委員天財：長期以來，一直到現在為止，簡易自來水部分，水利署都沒在管，原住民地區的簡易自來水一直都是原民會在做。
+主席：所以，既然是他的業務，就把它加進去，是嗎？
+鄭委員天財：我是這樣認為，不然會兩邊落空，本席是擔心會落空。本席在上會期曾質詢水利署，一談到簡易自來水，他就講原民會，因為權責一直沒有劃分，你說歸給他，他願意做也無所謂，但是他不願意做，此其一。其二，在私設的經費上不一樣，原民會做的可以將管線一直拉到家裡，都由原民會負擔；但水利署自來水公司的管線只到馬路，馬路到家裡的部分用戶自己負擔。我們原住民地區都是山地鄉，沒有自來水，都是簡易自來水，到底他要不要做？
+主席：現在這樣，鄭委員，在非原住民地區的一般地區的自來水管線，的確只有拉到馬路，從馬路到住戶部分由住戶負擔，可能是原民會對原住民特別照顧，才把管線拉到家裡，這是對原住民的特別照顧。
+簡委員東明：水的部分，我們因為經常到原住民地區現勘及協調，情況真的是推來推去，我想如果沒有統一的解決方式的話，始終無法解決問題，所以我非常贊成將水的部分交給濟經部水利署辦理，如果大家有機會到山上原住民地區看一看，一個部落簡易自來水的管線不是只有一條，有時是二、三十條，非常複雜，牽來牽去也影響到環境，而且水質如何我們也不知道，我相信水的問題是非常專業的，按照你們的做法，簡易自來水是非常簡單，只要把水牽到家裡，沒有管理，都交給地方自組管理委員會，自己還要經常繳費，我想自來水的問題，還是應交給專業來做，目前原住民地區的供水率有的不到2%，甚至不到10%，最主要的就是因為自來水公司把問題推給原民會去做，所以，本席還是建議交給濟經部水利署做專業處理。
+主席：其實孫主委是愛護你們，交給水利署，經費由水利署去負擔，如果是交給原民會，水利署踢出來，經費就由原民會負擔，所以如果從經費來考量，他是聰明的。
+尤委員美女：其實上面講的是規劃協調，並沒有說他自己去設置。所以，原民會的工作並不是全部都是自己去做，其實是要負責與其他部會溝通與協調，所以，在此處「原住民族之飲水及部落更新之規劃協調」應由原民會去做，否則現在其他的部會看到原住民的部分，就認為是屬於原民會的，他們真的就不管，原民會又說在職掌中也沒寫，所以他也不管的話，真的會落空。因此，原民會要做的不是自己去做，而是與其他部會的溝通與協調。
+孫主任委員大川：關於這個部分，我們是這樣看的，如果很明確，因為喝水的安全及水的提供，是人的基本權利，其實以原民會現在的人力，在照顧原住民時，都是提心吊膽的，因為在水的檢查及品質控管上，我們當然會要求協助，但長期以來情況就不是這樣，所以，我們希望能夠明確化。
+主席：我來幫你講，我覺得孫主委講的沒錯，因為水利的問題真的是很專業，弄得不好就垮掉，還是要水利署比較專業。鄭天財委員不堅持了嘛！對不對？
+尤委員美女：這裡並沒有說他去設置，是他要去規劃協調。
+主席：他就沒有能力規劃嘛！你怎麼聽不進去呢？他就已經跟你講了嘛！他不堅持嘛！
+林委員正二：我對部落更新有堅持，因為原基法第十六條寫得非常清楚，我一個字一個字唸給你聽：「政府應策訂原住民族住宅政策，輔導原住民建購或租用住宅，並積極推動部落更新計畫方案。」寫得清清楚楚，你要推翻它，把它送給內政部！
+孫主任委員大川：報告委員，它就說是「政府」，政府包括內政部，這是各部會的專業分工，我們就是常常被推來推去，主要是這樣，所以就應該責成內政部，針對部落更新的工作應做什麼樣的規劃，若讓原民會做，是做不好的，而且我們沒有專業……
+林委員正二：按照你的意思，我們希望將來在內政部，例如營建單位，要加入這些字眼才對，在這之間，你要積極地充份與他們溝通與協調，不要不聞不問，說他們在開會，我就不理了，我們立委在開會，也看到內政部也不管部落更新。誠如剛才鄭天財委員所說，那是因為過去的歷史告訴我們，水利單位從來不關心原住民的飲水設施，所以，鄭天財委員才提議要放在原民會的組織內，很清楚的，這是歷史告訴我們的一個缺失，要交給你們來做，現在你們推給專業，我不反對，但希望你的橫向協調溝通要做好一點，因為你是最聰明的人。
+孫主任委員大川：我們一定會加強。
+林委員正二：這部分我不堅持。
+主席：其實孫主委，我倒很希望你們應該好好把原住民每一個部落，規劃出一個原住民規範的房子，由各縣市或原民會補助，照這個樣子來蓋房子。所以，我非常欣賞當初游錫堃院長在宜蘭縣政府推動的方案，人民照我的規範蓋房子，我就補助多少錢，於是大家就照那樣的格式蓋，所以，違章建築就會很少，你們現在對原住民也是一樣，我在桃園縣政府時很喜歡拉拉山，可是看到房子都是鐵皮屋，於是由縣政府幫他設計，並編列預算補助，幫他蓋好房子，現在看到那邊的景觀好像蒙古包一樣，不是很漂亮嗎？所以，你們應該做這樣的事。
+孫主任委員大川：其實我們也在努力，而且我們跟千千岩助太郎，就是以前對原住民傳統住屋做的設計，這也是台灣整個的問題，像蘭嶼半穴居、石板屋的處理，我們現在大概是在永久屋在做文化語彙的部分有一些支持。
+主席：下禮拜安排到蘭嶼去好了。現在先把這條處理好。
+林委員正二：主席，這一條就這樣，但是順序上，如果將住宅放在第一個，好像比經濟還嚴重，詞句可以優美些，例如原住民族經濟放在最前面，然後才是住宅及其他等等。
+主席：好，照林委員正二的意見，把「住宅」改在後面。鄭委員天財不反對，第五款「金融服務」後面加「住宅」，其他照行政院版本。
+邱委員文彥提修正動議，請邱委員說明。
+邱委員文彥：其實我剛才欲發言的意思，與主席的決定是接近的，剛才那一款，我是認為基礎建設，包括水、電、道路等，都是屬於基礎建設，不需要把它單獨拉出來，而且，單獨拉出來給原民會，做起來太辛苦了，所以，我認為採用林正二委員的提案較為恰當。
+關於本席的修正動議，是在第一款「原住民族政策、制度、法規及諮商之綜合規劃、協調及推動。」我認為現在原住民事務，行政院應該更加重視，本席在上個會期花了點時間，很仔細看了國外對原住民事務的推動，其實諮商是非常重要的，因為原住民族基本法的精神，是在原住民族地區若有任何開發行為，應該徵詢他們的意見，獲得同意之後才可以推動，但是原住民事務在推動時，並無明確的諮商政策，也沒有SOP，所以本席將這個部分放進來，最主要的目的即在於此。
+主席：照你的意見，前面都是名詞，你所提的動詞應該放在後面。如政策、制度、法規等都是名詞。
+邱委員文彥：諮商不是動詞，consultation是一個名詞。諮商的過程是非常重要的，我是認為在這部分，原民會一直沒有很具體的作法。
+孫主任委員大川：邱委員的建議，的確是基本法中，很多關於原住民事務應有諮商的過程，如果諮商是要部落同意，我們現在也在做部落核定及部落會議的SOP，若是如此，的確放進來是很適當，在這部分原民會尊重委員的意見。
+主席：請問各位委員有沒有其他意見，是照邱委員文彥的意見通過嗎？
+尤委員美女：諮商是政府要去諮商原民會嗎？還是原民會去諮商部落？
+邱委員文彥：政府要諮商，原民會是主管的部會，所以他必須要有基本的政策及諮詢的原則及程序，在外國是這樣做的，它非常的清楚，就是落實原住民的基本權益。就是要有一個SOP，一個基本的policy，所以它稱為consultation policy。
+吳委員宜臻：不過，我對於「諮商」放這裡有些疑問，因為從前面的條文「原住民族政策、制度法規及諮商……」如果從前面的主詞來看，就會變成原住民族的諮商的綜合規劃，則到底是政府要去強化各種政策制定，去諮商原住民，還是原民會在政府部門內的諮商功能的綜合規劃推動？我覺得這文字的排列不太清楚，所以，本席建議，如果原基法中有諮商的精神，是不是把它定義清楚，不然以後在適用上會有一些疑慮。
+孔委員文吉：我覺得諮商擺在這裡，「諮商」看來看去都是動詞，不是名詞。因此，我建議如果諮商的精神要放進來，是不是變成「原住民族政策、制度、法規之綜合規劃、諮商、協調及推動」，還是把它放在動詞。
+段委員宜康：我覺得第六款是兩個部分，一是對原住民族的……
+主席：現在是在討論第一款。
+段委員宜康：原住民族政策、制度、法規及諮商之綜合規劃、協調及推動，這個「諮商」是指「原住民族政策、制度、法規」的諮商嗎？
+主席：諮商是另外一個。
+段委員宜康：是要建立一個諮商的制度嗎？
+邱委員文彥：對，諮商制度的綜合規劃、協調及推動。所以諮商是一個名詞。
+主席：沒有人相信諮商是一個名詞。孫主委，諮商是名詞，還是動詞？
+孫主任委員大川：主席，我們知道邱委員的意思，因為後面第六款中也有很多調查諮商的文字，「諮商」這個用語翻成中文後，在屬性上會有衝突，所以，除非我們找到更明確的用語，放在這裡看起來會有歧異，所以，是不是諮商的工作，經過同意權的行使等，在基本法中都有規範，為避免歧異，此處是否仍維持行政院版本較為清楚？因為「諮商」的用語在很多地方都出現，如果是要需要他的同意及經過諮商，其實在基本法第二十一條就可以……
+主席：好，要把握時間，邱委員，我們就尊重行政院版，不要再加了，好不好？因為意思已經到了。
+邱委員文彥：我建議改為「諮詢程序」。請大家學習接受一個新的字眼，「諮商」是最好的，但如果各位很堅持將它變成另一名詞，我也尊重大家。基本的精神是「諮商」，「諮商」及「諮詢」不一樣，「諮詢」是我問問你，你如果沒有意見，就操之在我；而「諮商」是雙向的溝通，communication的味道較大。
+吳委員宜臻：邱委員，我冒昧問一下，原基法內大部分條文的精神，都是要求政府要依照原住民族的意願，邱委員是希望將「依原住民族意願」的程序，能在原住民族組織法的職掌中確認進去，如何去遵守依照原住民族的意願嘛！則為什麼不直接寫成「及原住民族意願諮商」，就是把主詞確認清楚，否則大家在講「諮商」時，若不熟悉原基法，他會不清楚「諮商」，是針對政策法令的「諮商」，還是要去落實原基法中應依原住民族意願的「諮商」？
+高委員金素梅：有沒有可能另定一款？因為本席是蠻同意邱委員所提，事實上，現在我們雖然有原基法，但不論是縣政府或民間企業，根本沒有遵循原基法的意願，他們的說法是子法還沒訂出來，邱委員的意思是原民會必須要把SOP訂下來，我也覺得這是很重要的，邱委員，是不是可以另定一款，把它寫清楚。
+邱委員文彥：為了不耽誤大家的時間，我以後再另外提好了。最重要的是，我希望能落實原基法的精神，而我參考國外非常多的案例，他們都是用「諮商」這個字眼，因為它能真正落實原基法的精神且保障原住民的權益，現在是被漠視的部分，為什麼要放在第一條，就是因為它是原住民族的重要工作，等同於政策、制度及法規，是一個重要的過程。如果各位有意見，我就撤回好了。
+段委員宜康：邱委員不需要這樣，其實大家是有些困惑，我試著這樣理解，「諮商」放在這裡是會有混淆，因為第一款講的是原住民族政策、制度、法規的推動，你所謂的「諮商」不是原住民族的法規，而有可能是其他的部會在他們的職掌內，例如美麗灣的開發，是在原住民族的傳統領域，但是並非原民會的主管事項，它就沒有諮商。也就是說反而是在其他部會所職掌的業務，會有這樣的狀況，所以，其實原民會應將這個程序訂出來，在傳統領域也好，或是與原住民相關的事務上，將「諮商」或「諮詢」的程序訂出來，這是原民會的責任。如果把「諮商」放在這裡，就會把它限於「原住民族政策、制度、法規」的諮商，所以，若將它放在同一款裡面，會有所混淆。
+吳委員宜臻：本席有建議文字，我希望邱委員不要放棄，就是落實原住民族基本法之諮商程序，我的意思是，就把政府要落實原基法的諮商程序訂成文字就好了，我認為只是缺一個主詞，會混淆剛才段委員所講的諮商的對象或主體，所以，我們把它訂清楚，它其實強化的是原基法中政府很多的措施及作為，必須尊重、依照原住民族的意願，而為了要尊重這個意願，它有一套程序要走，事實上原民會應落實那個程序，甚至協助各級政府去落實這個程序，我會認為直接把它訂出來就好了，不要不訂定。
+邱委員文彥：我是不是要再嘗試一下，在我看到的資料裡，在進行「諮商」時，必須要有一個基本的政策，它稱為consultation policy，此外，還有諮商綱領及行政作業程序SOP，所以「諮商」是一個大包，等同於法規一般，本席特別把它挑出來，就是要落實原基法的精神，如果是一個名詞，可以是諮商的綱領，因為它必須統合、規劃，去落實、推動。所以，如果「諮商」不清楚，就明確一點，變成「諮商的綱領」。
+尤委員美女：主席，本席建議增加一款，就是：政府對原住民族事務之諮商綱領及程序之訂定及執行或落實，就是另增加一款。
+孔委員文吉：本席聽了邱委員的意見，非常敬佩，因為現在很多原住民地區及原住民權益的案子，已經發生問題了，就是因為其他政府機關沒有與原民會諮商。好比台東縣政府所主管的美麗灣一案，或是與卑南族有關的案子，甚至花蓮縣政府要設置養雞場的案子都是如此。邱委員的意思就是原民會常常是被架空的，所以我們要求原民會應該跟別的政府部會溝通，如果他們要使用原住民的自然資源或土地時，一定要跟原民會諮商，以保障原住民的權益。所以我覺得一定要增加一款規定，我們不要輕言放棄諮商的機制，這部分一定要寫清楚。這一點很重要，要不然原民會只能自己做自己的，人家要推動什麼政策也不會諮商原民會，例如原住民的保留地上有台大實驗林，這些土地問題也很難解，所以我們要給原民會這樣的諮商權利。
+孫主任委員大川：其實原住民委員會有許多和原住民權益有關的諮商工作，這部分本來就應該要訂定相關規範，包括我們現在正在做的部落意願或部落公決同意權的部分也是如此。我認為在組織法當中把這部分規定進去，可能位置和名稱所帶來的歧異會比較大，所以有沒有可能把子法訂出來，然後從那個部分來作處理？如果委員們堅持的話，那麼是不是可以加上第七款的規定。其實我對於「諮商」這個名詞的中文語意有一些疑慮，但如果委員堅持的話，是不是可以加上第七款「原住民族意願諮商程序之規劃、協調及推動」的規定？
+鄭委員天財：加上「職掌」又有什麼用？即使加上「職掌」，也只能訂定行政規則而已。以大家所關心的復興鄉是否要成為直轄市之一區的問題而言，他們都不徵詢原民會的意見，如果是這樣的話，規定了職掌又有什麼用呢？事實上，我們應該設法強化原住民族基本法的規範，規定只要政策涉及到原住民的問題，那麼就必須經過原民會同意的相關程序，這樣才有依據可以規定相關程序，也才有法律的授權。如果沒有法律授權，光依職掌來訂定行政程序，人家根本不甩你啊！
+主席：鄭委員天財總算把這個問題拉回原點了，第一、各部會要處理與原住民有關的議題時，因為已經訂有原住民族基本法，所以不能違反基本法的精神。第二、我們今天所要訂定的是職掌範圍，現在大家討論的方向好像偏掉了，鄭委員天財不愧曾為原民會副主委，他講的很正確，我希望大家能夠把焦點拉回來。按照原住民族基本法的規定，各部會所推動的政策都不能違反原住民族基本法的精神。今天所要訂定的是職掌範圍，也就是要討論原民會掌理哪些事項，這是組織法的問題，請大家不要跳脫這個討論的範圍，我們還是要把焦點拉回來。
+現在邱文彥委員已經不再堅持了，對不對？第六款倒是邱文彥委員比較專業的部分，行政院版本和各位委員所提出的版本差距很大，我們是不是可以用邱委員文彥等所提版本第六款的規定為主來作修正？第六款的變化比較多，邱文彥委員是把整個次序做了大調動，請問原民會對於邱委員文彥等所提版本第六款的規定有沒有什麼意見？
+孫主任委員大川：對不起，關於這個版本的細節我還不是很清楚，如果能夠以院版和高委員金素梅、林委員正二、鄭委員天財等所提出的版本為主可能會比較好。關於這部分，我是不是可以請蔡處長來說明？
+蔡處長正治：針對第六款的部分，我們認為院版和高委員金素梅、林委員正二、鄭委員天財等所提的版本，其實已經涵蓋邱委員文彥等所提版本的多數事項，所以我們建議以院版和高委員金素梅等所提的版本為基礎，並參酌林委員正二等所提版本來修正部分文字。因為林委員正二等所提版本有加上「海域」及「規劃」，所以這部分我們建議按照林委員正二等所提版本的意見通過。至於林委員正二版本所提到的「原住民族地區區域計畫」，根據我們的瞭解，內政部將來打算要以國土計畫法來取代現行的區域計畫法，為了配合未來的修法趨勢，我們建議將林委員正二版本所提到的「原住民族地區區域計畫」等文字刪除。昨天我才剛參加由陳振川主委所主持的國土計畫法草案研修會議，其實他們已經將原住民族的土地和海域放到全國國土計畫的特定區域計畫之中，經過原民會的積極爭取，他們已經將其納入國土計畫法的修正條文當中，所以我們建議將林委員正二版本所提的「原住民族地區區域計畫」等文字刪除，以配合將來的修法趨勢，謝謝。
+林委員正二：這和將來我們要推動原住民族自治事項時，會不會有所衝突？
+孫主任委員大川：不會，應該是會有所關聯，但是不會有衝突。
+報告委員，是不是可以請我們的同仁將修正後的條文唸一遍，這樣大家才會比較清楚，然後再看委員們同不同意。
+主席：已經很清楚了啊！大家可以看看第3頁的條文對照表，就是第一行及第二行按照林委員正二等所提修正動議的文字通過，第三行則是將「原住民族地區區域計畫與」等文字刪除，恢復行政院版本的文字。
+蔡處長正治：是的。
+主席：請問各位，有沒有什麼意見？
+吳委員宜臻：本席同意林委員正二等所提前半段將「海域」的部分加進去，然後在第二個部分他也將原住民族土地、海域與自然資源之規劃放進去。就某種程度來講，將來土地或海域的規劃可能也可以和內政部的國土計畫接軌，我認為原本的文字大概可以涵括將來土地和海域的規劃，所以我覺得兩者是差不多的，如果擔心將來可能會有扞格的話，那麼「區域計畫」等文字也可以不要加上去。
+林委員正二：我必須提出我的疑問，按照蔡處長剛才的講法，國土計畫法當中有所謂的原住民族特定計畫是不是？
+蔡處長正治：是的。
+林委員正二：那是特定計畫，而不是區域計畫。我們希望在國土計畫的規劃當中，原民會能夠擁有主導權，所以我建議還是把它列入條文當中好不好？也就是把「區域計畫」改為「特定計畫」。
+主席：請研考會戴副主任委員說明。
+戴副主任委員豪君：關於林委員提案條文在土地、自然資源之外加上「海域」兩個字的問題，針對海域部分，未來有海域主管機關的職掌考量，而且這部分也涉及漁業法方面的考量，所以這部分是不是可以建請委員維持土地和自然資源等文字，因為海域的部分可能會涉及未來海域主管機關的職掌及漁業法的問題。
+高委員金素梅：原基法本來就有訂定海域方面的規定，所以海域的部分還是要規範進去，這也是屬於原民會所要處理的部分。
+林委員正二：根據原住民族基本法的規定，我們必須訂定原住民族土地及海域法，我們不能跳脫原基法的精神啊！
+戴副主任委員豪君：因為我們現在所討論的是職掌事項，而目前原住民族土地及海域法草案還在研擬當中，將來這項法案通過之後，當然原民會就可以依照這項作用法去行使它的職權。
+林委員正二：土地及海域法是原住民族基本法的子法，我們是根據原住民族基本法來制定其他法律，這是一項母法啊！
+邱委員文彥：本席所提修正動議的前半段是談到原住民族的土地和自然資源，原條文的文字一開始就談到開發、利用，其實現在全世界對於原住民族的土地或資源都是採取保護的主張，特別是生物多樣性和傳統智慧的保護也很重要，照理說，這方面應該要作調查、規劃、協調、保護，這才是真正的重點，而不是一開始就在講開發、利用。為什麼我沒有特別把土地和海域切割開來？其實這部分會有一點爭議，因為土地法第一條條文就規定得很清楚：「本法所稱土地，謂水陸及天然富源。」水就包括河川、湖泊、海洋，所以在土地法的概念當中，就已經清楚規定包括海洋在內。究竟由誰負責管理海洋？其實全世界有很多不同的體制，就我們現在的體制來看，這方面是有一點疑問的，因為有些法規是設在地方政府的，比如海洋污染防治法規定各縣市政府必須管理所轄海域，但是從國家的海域經營管理角度來看，這部分應該是由內政部地政司負責管理，所以內政部地政司根本不贊成由各地方政府來管理海域。以澳洲大堡礁而言，面積非常的大，長有兩千多公里，寬至少也有上百公里，究竟相關海域由誰負責管理？是中央負責管理？還是地方負責管理？澳洲的做法是三海浬以內由各省負責管理，超過三海浬的海域，則是由聯邦負責管理，所以這方面的體制都不太一樣。基本上，土地已經可以涵括，但如果各位覺得不放心，一定要加上海域的話，那就把海域放上去吧！
+其次是回歸到諮商的概念，其實原住民族傳統領域範圍很廣，它包括土地和海域，我們知道，各個部落對於土地或海域的觀念不太一樣，而且決策的程序也不一樣。所以原住民族傳統領域之研究、調查、諮商都非常重要，就像美麗灣的事情一樣，本席之所以把這部分切割開來處理，主要是希望能夠對原住民的土地和自然資源給予真正的尊重和保護。另外，對於原住民族的傳統領域，應該要作深入瞭解及諮商，以確保他們的權益。
+大家一直對諮商有意見，這是很可惜的，其實我們現在是在創造歷史，大家只要把aboriginal consultation打到電腦上去搜尋，就會發現有上萬筆的資料都在談這件事情。大家都以為這只是一個動詞而已，但以加拿大來講，包括環評的程序和原住民文化資產保存的程序都一樣，他們的諮商程序如下：第一是進行評估作業，第二是提供經費來作consultation，第三是指定機關或單位來主其事，第四是協調程序必須透過協定或取得共識的方式來進行，第五是必須要有備忘錄，所以他們的consultation是一整套的package，並不是只有一個guideline、protocol、agreement或procedure而已。本席認為用諮商這樣的字眼是非常正確的，也許各位不是很瞭解，但上會期我花了一、兩個月的時間一直在看這方面的相關資料，如果各位還是沒有辦法瞭解的話，那麼今天就到此為止，謝謝。
+主席：相信大家都受惠很多，以邱委員文彥的版本和林委員正二的版本來說，林委員正二的版本就是將原住民族地區的「區域計畫」改為「特別計畫」……
+高委員金素梅：針對第六款，本席建議採用邱委員文彥的提議，因為我覺得邱委員文彥的版本規範得非常清楚，對於原住民權益的保障也很周全，包括傳統領域的研究、調查、諮商、規劃、協調、公告、權益回復及糾紛處理都提到了，我覺得這樣的條文內容寫得很仔細也很具體，所以幾位原住民委員討論之後，我們覺得邱委員文彥版本所提的第六款規定會比較周全，而林委員的意思是他也同意採用邱委員文彥的版本，但是在「土地」後面要加上「海域」。
+主席：請問各位委員同意高委員金素梅的意見嗎？也就是在邱委員文彥版本的「土地」後面加上「海域」，請問林委員正二可以接受嗎？
+林委員正二：可以啊！但是「原住民族地區特定計畫」這部分也要放進去。
+主席：我很佩服高委員金素梅的智慧，她一下子就看出問題所在，其實一開始我也是主張以邱委員文彥的版本為主，站在原住民的立場，應該要儘量維持原住民地區的風範。坦白講，我感到最遺憾的是金門沒有保持戰地風光，幾乎都被破壞掉了，金門實在是很可惜。
+其次，剛才原民會蔡處長也提到政府已經在進行國土計畫，國土計畫是大案子，而國土計畫這個大案子已經把原住民特定計畫放進去了，所以林委員正二所擔心的問題不會發生，政府一定會把原住民地區維護好，而且是列在特定計畫當中，其實特定計畫比區域計畫還要嚴謹，所以林委員正二所擔心的問題根本不會發生。
+林委員正二：那就是這一款加註「原住民族土地、海域、自然資源及傳統生物多樣性……」，這樣本席可以接受。
+主席：第六款就按照邱委員文彥等所提版本加上「海域」二字修正通過，請問各位，有無異議？（無）無異議，修正通過。
+現在討論第七款。
+段委員宜康：這部分和第六條有所連動，所以可能要等到討論第六條……
+主席：等到討論第六條的時候，再回過頭來一併討論這個部分。
+針對第三條「本會置主任委員一人，特任」的部分，有幾位委員主張由行政院政務委員擔任，也就是說，將來主任委員必須由行政院政務委員擔任。關於這部分，是不是可以請人事總處顏副人事長來說明一下？
+顏副人事長秋來：主席、各位委員。針對第三條，行政院版的規定是：「本會置主任委員一人，特任，由原住民擔任；……」，依照行政院組織法第五條的規定：「行政院置政務委員七人至九人，特任。政務委員得兼任前條委員會之主任委員。」所謂前條委員會也包括原住民族委員會在內。這部分牽涉到行政院長的人事權，也就是說，哪些委員會的主任委員可以由政務委員來兼任，這部分必須由院長來審酌。所以人事總處和研考會的意見都是建議維持行政院版本，賦予院長任命原民會主任委員的權利，謝謝。
+主席：請問各位委員可以接受這樣的意見嗎？
+林委員正二：當然不接受啊！
+邱委員文彥：我可以瞭解委員同仁提出這項修正動議的精神，主要是希望政府能夠更重視原住民族委員會，但是這方面涉及目前的行政體例。就本席的瞭解，政務委員是不管部的部長，主要負責跨部會協調，以前只有由政務委員去兼某一個機關的首長，而沒有首長兼任行政院政務委員的情形。現任國科會主委朱敬一過去曾擔任過政務委員，但是在他擔任主委時，就不能兼任政務委員。我們知道，政務委員的人數是一定的，也許指派比較適當的政務委員才是正辦，以兼任的方式來處理，似乎和現在的人事分派不太一致。
+關於第四條的部分，本席也在此一併說明，其實只有像NCC那種獨立委員會才會有專任委員，所以我們在修正第三條和第四條的時候，可能也必須考慮人事總處的意見，畢竟行政院院長有其人事運用的權利。除了必須考量長久以來的慣例之外，更重要的是要設法找到真正適合的人才來擔任相關事務的協調整合，我想這才是正辦，謝謝。
+主席：請問各位還有沒有其他意見？
+孔委員文吉：本席比較贊成原民會主委能夠由政務委員來兼任，也就是由政務委員來兼任原民會主任委員。這個問題在上一屆會期時也引發很多爭議，因為當時民進黨委員陳瑩堅持原民會主委一定要由政務委員來兼任，後來行政院無法接受，所以預算協商全部停止。如今我們重新再提出這個主張，最主要的原因在於原民會在行政院當中，可說是一個最邊際化的單位，即使要推動跟原住民政策非常相關的政策，也不會徵詢原民會的意見，所以我們認為原民會主委應該像蒙藏委員會的委員長羅瑩雪一樣，由政務委員來兼任。如果是這樣的話，就可以由他自己來主審自治法和土地海域法，根本不用再找羅瑩雪，孫大川如果可以當政務委員的話，那麼就可以由他自己來主審，這就是為什麼我們要把這條條文放進來的原因，因為我們不希望再發生第二個羅瑩雪事件。
+吳委員宜臻：本席也支持這樣的看法，其實原民會有許多業務都必須進行跨部會協調，我認為由政務委員兼任原民會主任委員，才能真正做好族群事務跨部會協調的工作，不然的話，很多人都會忘記還有原民會或客委會的存在，只要涉及到少數族群的事務，每次都有人會忘記要和他們溝通協調，所以我認為這樣的提案是恰當的。
+主席：這部分送請黨政協商，大家不要再浪費時間討論了好不好？
+孔委員文吉：條文修改一下就好了，我們支持這樣的精神。如果大家都沒有意見的話，那麼讓它直接通過就好了。
+主席：這部分就比照國發會的做法，就是特任，由行政院政務委員兼任……
+高委員金素梅：我同意這樣，這樣就不會……
+主席：然後送請黨政協商好不好？
+吳委員宜臻：原住民身分要記得，不要漏掉了。
+主席：這在條文當中就有規定了，「特任」之後就有提到「由原住民擔任」，這部分就送請黨政協商。
+針對第四條，有委員主張職務比照簡任第十三職等。
+林委員正二：本席不堅持，請問主委和副人事長堅持嗎？
+顏副人事長秋來：我們建議維持行政院版。
+主席：既然如此，那麼第四條就按照行政院提案條文通過。
+針對第五條，沒有委員提出修正動議，因此第五條照行政院提案條文通過。
+針對第六條，請研考會戴副主任委員先來說明一下。
+戴副主任委員豪君：有關文化園區發展局的部分，我知道各位委員都非常關心，事實上，行政院研考會也曾和原民會多次協商。針對目前位於屏東的文化園區，我們同意將其由四級機構提升為三級機構。有很多委員的提案都是針對它的定位所提出來的，究竟它是機關？還是機構？針對這個問題，本人在此作以下的統一說明。
+首先，有委員關心是不是只有機關才能行使公權力的問題，有關原住民智慧財產創作條例等，這些都涉及到智財權的保護。依照中央機關組織基準法的規定，機構是由原來的機關切割一部分權限由其執行，所以原民會原本就有這樣的職權可以執行這樣的條例，也就是可以把這個部分交由機構來執行，這方面不會有行使公權力上的疑慮。
+其次，機構在用人方面確實會有比較多的彈性，包括機關首長可以比照教育人員或大學教授的資格來聘任，而它在聘用人員方面也會有一定的彈性，包括國立傳統藝術中心、國立工藝研究發展中心，大概都有類似這樣的彈性作法。當然我們也瞭解考試院正在推動聘任人員條例，不過草案目前還在考試院內部進行審議當中。當然未來可以藉此解決一部分的問題，但是在現在的狀況下，機構在用人方面相對是比較有彈性的。
+再者，機構可以有一些作業基金，這些作業基金可以拿來做為文化園區將來發展之用，這樣比較能夠在經費運用上具備一些彈性。
+最後，未來如果它變成三級機關的話，其實目前各縣市政府都有成立原住民族事務委員會，包括直轄市和縣市政府都有類似的作法，如此一來，在機關的溝通協調上，如果是由三級機關來跟縣市政府的一級政務官進行相關溝通的話，在層級上確實有一些值得商酌之處。我們也曾和原民會討論過這個問題，目前原民會內部組織上多增了一個處，當然這方面我們尊重原民會的權責，但如果這個處是類似文化發展處這樣的單位，那麼將來就可以以原民會整體的資源來跟地方政府進行相關協商，對各縣市政府的原民主管機關而言，這樣也能獲致比較好的溝通。當然我們也支持這樣的單位在員額配置方面應該要有所提升，當然員額評鑑方面必須配合人事行政總處來處理。對於目前的文化園區，或是未來的文化發展中心，我們希望能夠在員額上給予一定的支持與強化。以上就是針對第五條和第六條的說明，謝謝。
+主席：目前林委員正二和高委員金素梅的意見是一樣的，而鄭委員天財的提案內容又更詳細了，其中還提及原住民族文化發展局和原住民族博物館，是不是可以請這三位委員商量一下，看看要用哪個版本送請黨政協商？
+鄭委員天財：我來說明一下，也希望段委員能夠瞭解，為什麼我要把原住民族博物館列入原民會組織法當中？原本我是不想列進去的，而我是從文化部那邊著手，現在台灣總共有十幾個博物館，包括故宮博物院、故宮嘉義分院、國史館、位於中興新村的台灣文獻館，以及文化部所屬的史前博物館等等，另外還有教育部所屬的科博館、工藝館等等，但就是沒有原住民族博物館。一開始我並沒有說要另外成立一個新的博物館，因為我認為文化部所屬的兩個館可以考慮，第一個是位於新公園的國立台灣博物館，第二個是位於台東的國立史前文化博物館，我希望能夠用這兩個博物館其中之一來更名，但光只是要更名而已，文化部就阻礙重重，提出很多意見。其實在審查研考會預算時，本席就曾提出一項決議，那就是請研考會和文化部進行協調。因為上次組改的時候沒有考慮到這個部分，所以請研考會與文化部進行協調，將這兩個館其中之一更名為原住民族博物館，但是他們卻還要加上「可行性」這幾個字。
+之後潘孟安委員提醒本席一件事，他說我們可以自己蓋，所以我才會把這部分的規定加上去。當然我也知道要另外設立一個博物館並不是那麼容易，可能還要增加人力等等，而本席的最終目標是要納到黨政協商、提高層級，到底是由文化部所屬的這兩個館其中之一來更名？還是要另外蓋一個新的博物館？這方面本席並不堅持，但是我希望第六條能夠以本席的版本送請黨政協商。
+主席：好，那這樣子就是把鄭委員天財的版本和行政院版本一起送政黨協商。
+林委員正二：行政院沒有版本啊！
+主席：有。
+林委員正二：行政院有意見嗎？
+主席：他尊重你們的意見。
+林委員正二：那就通過了，幹嘛還要協商？
+主席：要，要協商。
+林委員正二：你們不是不堅持了嗎？
+主席：研考會有意見啦！他剛才已經表達過了。
+林委員正二：難怪宋餘俠不敢來，真的太過分了。
+主席：還是送政黨協商，好不好？
+林委員正二：不是啦！今天就通過，直接進行二讀啦！
+主席：如果沒有送政黨協商，到時候行政院又擋下來，不是更糟糕。
+林委員正二：那前面的條文也要協商嗎？
+主席：不必，就只有這一條，還有政務委員兼任的那一條，送政黨協商。
+高委員金素梅：本席剛剛跟鄭委員討論之後，決定用本席的版本，但是加入鄭委員版本的第二項。
+鄭委員天財：如果是用我的版本，後面就加上「其組織以法律定之。」
+高委員金素梅：都可以啦！
+主席：這樣會很奇怪喔！原來的版本是「本會設文化發展局，規劃、執行原住民……」，然後咚一下，加個第二項「原住民博物館」，不是很奇怪嘛！那你第一項應該修正為「本會設文化發展局及原住民博物館……」啊！
+林委員正二：主席，我們尊重大家的意見，就用鄭委員天財的文字內容，但本席堅持不要送政黨協商。前面我們討論那麼多，都可以通過了，獨獨這一條需要政黨協商，如果弄到政黨協商，那就糟糕了，行政院會打敗我們這些人，你知道嗎？其他黨派都支持我們，獨獨行政院，尤其是研考會反對我們這個案子，我們原民會絕對沒有意見啊！
+主席：不是！政黨協商一定要邀請我們幾個原住民委員去參加，不能他們私底下就協商。
+林委員正二：如果邀請我們原住民參加，我們的意見現在就可以決定了啊！怎麼還要弄到第二輪，我們再去參加呢？這不對啊！
+主席：文化部綜合規劃司有話要說，請李司長說明。
+李司長連權：文化部代表綜合規劃司司長李連權表示一點意見。剛剛我請示過龍部長，如果原民會單獨成立原住民族博物館，而行政院也同意的話，本部不表示意見。如果涉及台灣史前文化博物館名稱問題，龍部長已經答應孔委員文吉、林委員正二及鄭委員天財，表示會召開諮詢委員會，就名稱問題徵詢大家的意見，然後再作最後的定案。但是如果涉及改隸問題，問題就比較複雜，因為涉及組織法及整個文化完整性的問題，本部對這部分不表贊同，就是如果涉及改隸問題，從文化部改隸為原民會，本部不表贊成。謝謝。
+孔委員文吉：主席，有關原住民博物館，龍部長並不是反對，而是必須再研究，剛剛司長講的沒有錯。另外，研考會可能有意見，但是不敢講，那我們就先通過，再送政黨協商。
+廖委員國棟：剛剛龍部長在中常會談話有短暫提到原住民文化部分，意思就是全力支持原住民組織法相關提案，所以，呼應剛剛林委員正二的意見，就全部通過。
+主席：剛剛鄭委員天財也講得很清楚，如果現在通過，不送協商，到時候還是會拉出來協商，一樣的意思啊！
+林委員正二：那要找我們這幾個比較聰明的原住民委員過去協商。
+主席：好，那就這樣處理。
+另外，尤委員美女針對第六條提出一個修正動議。請人事總處顏副人事長說明。
+顏副人事長秋來：有關尤委員提的第六條修正動議，院版第二項規定是「前項人員，得優先進用具原住民身分者。」高委員的提案是「應優先任用」，尤委員的動議是規定了一個比率，對此，我們沒有太大意見，但這裡面有幾個問題敬請各位委員斟酌。以尤委員的版本來講，我不知道原民會有沒有考量一個問題，就是這裡面規定的各官等比率都在80%以上，但原民會現有各官等比率為何？這是第一點必須考量的，假定現在委任的比率是70%或60%，但是尤委員版本規定「自本法公布日起，依公布日進用情形為計算基準，逐年遞增百分之五。」但是這些人是常任文官，不可能隨便弄走，那要達到80%就會有困難。這點，可能要請原民會說明。統統定在80%這個比率，到底合理不合理，將來人的來源有沒有問題？人事總處站在人事幕僚機關立場，特別提醒原民會，恐怕要針對這部分再做精算。謝謝。
+主席：請原民會孫主任委員說明。
+孫主任委員大川：主席、各位委員。關於這個部分，原民會現在在進用具有原住民身分的同仁上，是逐年加強，但如果是規定不能超過60%，或50%這樣的最低門檻，我覺得是比較好的方式。最主要原因是，我一直覺得原住民的事務並不是只有原住民的事，當然，我們很願意我們的同胞有更多機會到政府機關任職，但是如何讓漢人朋友對原住民有更多的認識，參與整個原住民委員會的運作，也是非常重要，事實上，在擴大原住民影響力部分，這是有其一定的意義。我這幾年到原民會來，看到很多漢人同仁都非常努力，也因為他們的加入，讓他們最初對原住民的誤解、對原住民很多事物的無法認同，有了相當大的改變，所以，我個人覺得門檻定在80%可能有點硬，還是有個比較彈性的作法會比較好。
+目前我們簡任官原住民同仁已達52%，薦任官也達到48%，委任部分是75%，大概是一半一半比率，我覺得保持這樣的彈性，讓漢人朋友可以更認識原住民，這也是我們很重要的資產。
+林委員正二：60%怎樣？
+主席：你們要把孫主委的話全部聽完，這是我個人的看法：第一，要讓漢人進入原民會，可以更容易了解原住民事務。如果設定80%一定的比率，不一定對原住民好。第二，我記得在機場條例時，你們也做了硬性規定，最後反而害了原住民。我覺得高委員金素梅的意見「應優先任用」就很好，以後有出缺就優先任用，這樣反而是真正照顧到原住民，如果採用比率制，我覺得不一定對原住民好。
+孔委員文吉：主席，我非常贊成尤委員的意見，因為尤委員是直接把比率定在條文裡，其實我們有很多法條也是規定「應優先進用」，譬如原住民族教育法，但是現在原住民地區原住民老師進用比率只有19%，追究其原因，就在於比率沒有明確規定。或許，剛剛人事總處顏副人事長的說法沒有錯，也就是人事總處不反對訂定比率，但是請原民會精算後看怎樣的比率比較適合。像自由貿易港區，上次我們本來是要訂定5%比率，後來折衷訂了3%，所以，本席認為還是應該在條文中把比率定出來。
+主席：孔委員，你提到自由貿易港區，我就舉個例子說明，以大園來講，整個比率人口就沒有那麼多，怎麼把原住民加進來？這是第一個。第二，我覺得我這個人比較能接受大家的意見，就像剛剛提到的，出缺一個，進用一個，為了維持比率，又不能隨便換人，今天如果有個漢人在這方面真的很優秀，我們想把他吸收進來，但礙於比率規定，卻不能進用他，我的意思是，我們不是不照顧原住民，但如果彈性被限制了，最後可能會害了你們原住民。我認為應該像剛剛高委員的意見，就是出缺後，應優先進用，這樣反而會比你們做這樣的限制要好。如果你們一定要堅持設下比率，我也不反對，只是以我的眼光來看，高委員的版本「應優先任用」，已經把你們的意思強烈表達出來。
+孔委員文吉：原住民族教育法也是規定「應優先進用原住民族的教師、校長」，但現在專任教師只占19%，代課老師百分之二十幾，所以，我覺得還是訂定比率，比照工作權保障法及自由貿易港區條例訂定比率比較好。
+主席：好，副人事長並不堅持，只是提醒原民會注意精算，剛剛孫主委說比率可以降下來，他也不堅持，研考會沒有意見，那本席也不堅持，就照你們的意思，我只是愛護你們，如果你們要定比率……
+在場人員：定80%馬上會出問題。
+林委員正二：剛剛講50%不及格，80%又是中上，及格是60%，我在學校服務二十多年，60分是原住民最喜歡的數目字，就60%。本席建議「應達80%以上」修正為「不得低於60%」。
+尤委員美女：主席，我的版本之所以會做這樣的規定，是因為原住民族工作權保障法施行細則第八條規定，本法第十一條所稱原住民機構、法人或團體，指經政府立案，其負責人為原住民，且原住民社員、會員、理監事、董監事及股東之人數，達百分之八十以上……」這裡指的雖然是原住民機構，我們現在講的是原民會，而原民會其實就是政府機關，負責處理原住民事務。另外，同法中也提到，原住民合作社的社員人數，原住民人數要達到80%，所以，本席在這裡訂定80%並不是空穴來風，其實是有法源根據的。
+剛剛人事總處提到，如果「依公布日進用情形為計算基準，逐年遞增百分之五」有困難，因為不能把現有的人趕走，那麼工作權保障法中有一條提到，「俟非原住民公務人員出缺後，再行進用。」這也是一個方式，就是逐年有出缺，再慢慢換成原住民。所以，本席提一修正意見，就是把「依公布日進用情形為計算基準，逐年遞增百分之五」修正為「本法所定進用原住民比率，現有員額未達比率者，俟非原住民公務人員出缺後，再行進用。」可不可以？
+鄭委員天財：副人事長剛才說的很好，如果有這樣的疑慮，那就加入「俟非原住民公務人員出缺後，再行進用。」這句話，這樣就不會產生副人事長剛剛提到的問題。
+主席：那就趕快修改一下。沒關係，好漢不吃眼前虧，他們不聽老人言，最後可能會有問題。
+尤委員美女：建議第二項修正為「……百分之八十以上。本法所定進用原住民比率，現有員額未達比率者，俟非原住民公務人員出缺後，再行進用。」
+主席：我聽不懂。
+林委員正二：主席，我提出一點個人看法。當然我們非常尊重高委員金素梅所提的「應」，但是孔委員講的也有道理，每次我們定「應優先進用」，本來有5個名額，用人機關就優先進用1個，那也只有6個啊！可能就會有這樣的現象，明明是規定80%啊！好，現在本席就折衷，也不要60%了，就改為不得低於50%，因為就像剛剛副人事長講的，簡任比率是52%，薦任是48%，委任是75%，加起來是175除以3，算一算差不多60%。
+孔委員文吉：我講一個數據讓孫主委知道，美國印第安事務局進用的原住民籍公務人員是90%以上，加拿大的北方及民族事務部，進用的原住民籍有八成以上。
+主席：請大家注意聽。有關尤委員美女所提第六條修正動議第二項修正為「前項人員，簡任、薦任、委任各官等人員具原住民身分者，不得低於百分之六十。本法所定進用原住民比率，現有員額未達比率者，俟非原住民公務人員出缺後，再行進用補足。」請問各位，有無異議？（無）無異議，修正通過。
+現在處理行政院版本第七條。本條照案通過，條次依序調整。
+另外，高委員金素梅提出一個原住民委員會文化發展局的組織法草案，但是如果依據鄭委員天財的版本，目前尚未擬定原住民博物館組織條例草案，這會不會有問題？
+鄭委員天財：博物館不一定要組織條例。我查過文化部所屬博物館，都沒有組織條例啊！
+主席：請研考會說明。
+戴副主任委員豪君：三級機構還是需要，另外，機構通常是不寫在組織法裡。
+鄭委員天財：假設國家政策上決定要設這個博物館，並不是馬上可以設，那麼早弄個組織條例也沒有必要，可以邊蓋博物館，邊擬定組織條例啊！其實，這個會不會設都是問題，如果真的要設，也可以先成立籌備處，以往都是這樣處理的，這不會有問題。
+主席：報告委員會，本法案有關條次問題，授權議事人員依據剛剛通過的條文調整。
+另外，剛剛有個第七款，是要用「機關」，還是「機構」？那就一起保留協商。高委員金素梅所提的原住民委員會文化發展局的組織法草案也一併納入協商。
+附帶決議部分呢？人事總處有意見。
+林委員正二：如果你講了，就不能協商喔！
+顏副人事長秋來：如果是依照林委員的意思，一起送協商，那我就不再表示意見。
+高委員金素梅：附帶決議就通過啊！
+顏副人事長秋來：沒有，我們有意見。我們之所以對此持保留意見，是因為現在原民會組織法還沒有通過，原民會內部組織的設立，到目前為止，行政院也還沒有定案，所以，應該設幾個處、業務職掌範圍都不清楚，而員額配置是要和業務配套，當初委員會曾通過一個決議，就是原民會員額初期不得少於185人，當時協調時，人事局是同意，但是今天提出來的附帶決議是「並於二年內分階段調足至280人」，現在在整個業務狀況都還不確定的情形下，我們是建議這部分應該刪除，等將來原民會組織法通過後，處務規程也定案了，要設多少處、多少科確定後，我們再來和原民會協調員額問題。100年9月15日我們到原民會進行員額評鑑時，原民會也在場，當時我們就表示，原住民族土地與海域法草案尚未送立法院審議，原住民族自治法草案在第7屆審議時，也沒有通過，因為整個業務牽涉到這兩個法，所以，我們認為員額評鑑結論暫不處理，但是，原民會一直認為他們的員額過少，所以，當天我們也做成決定，就是原民會會本部和文化園區管理局薦任以上，也就是核心人力，我們統統予以補足，那次原民會的預算員額我們增加了16人，文化園區管理局增加3人，剩下的員額，因為現行組織條例是把各類職稱、員額都定在組織條例中，剩下委任部分，我們認為並不是核心人力，留待以後再處理，至於薦任以上核心人力的編制員額和預算員額空缺，我們在那一次就統統補足，因為我們也認為確實有增加員額的必要。這是第一點。
+第二點，有關文化發展局部分，剛剛已經決定送協商，既然文化發展局部分要送協商，附帶決議又規定二年內要補到92人，似乎不太恰當。現在文化園區管理局預算員額19人，如果以92人來講，大概是增加3.8倍，但問題還不在這裡，問題在於原住民文化管理局部分要送協商，所以，我們建議這部分協商完後，再由人事總處、研考會會同原民會共同處理。誠如剛剛研考會戴副主委的說明，將來業務增加後，他們也會支持增加合理預算員額，這點，我們也同意。謝謝。
+主席：第一，委員提的附帶決議，我們大家都同意，那就通過。第二，協商以後要如何處理，我們再來調整。對不對？就這樣處理。
+林委員正二：本席認為剛剛副人事長這樣講，有點不負責任，預算員額是161人，現在才147人，而且這還是明年的人數，現在才131人……
+顏副人事長秋來：147人是今年的員額。
+林委員正二：那161呢？
+顏副人事長秋來：那是法定員額。
+林委員正二：對啊！我們喊了好幾年，到現在才只有147人。
+顏副人事長秋來：現在的法定員額是160人，預算員額是147人，剩下的13個員額，是辦事員和書記。上次我們已經把核心人力都補足了，如果現在要再補書記、辦事員，那就說不過去了。
+主席：附帶決議通過。
+高委員金素梅：好啦！按照你們的意見啦！可是問題是，長期以來，原民會的法定員額就是不足啦！
+尤委員美女：主席，剛才第六條的修正動議，前面加個「均」字，就是「均不得低於」。
+主席：好。以上二案均審查完竣，擬具審查報告，提請院會公決。二案均須交由黨團協商。院會討論時，由召集委員廖委員正井補充說明。
+本次會議到此結束，現在散會。
+散會（17時3分）

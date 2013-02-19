@@ -1,0 +1,1413 @@
+立法院第8屆第2會期交通委員會第19次全體委員會議紀錄
+時　　間　中華民國101年12月24日（星期一）上午9時、下午1時
+地　　點　本院紅樓201會議室
+主　　席　林委員明溱
+主席：出席委員已足法定人數，現在開會。進行報告事項。
+報　告　事　項
+一、宣讀上次會議議事錄。
+<hr>
+立法院第8屆第2會期交通委員會第18次全體委員會議議事錄
+時　　間：中華民國101年12月17日（星期一）上午9時2分至14時33分
+101年12月19日（星期三）上午9時3分至13時34分
+地　　點：本院紅樓201會議室
+出席委員：劉櫂豪　　羅淑蕾　　李昆澤　　楊麗環　　李鴻鈞　　魏明谷　　蔡其昌　　林明溱　　陳雪生　　葉宜津　　王進士　　盧嘉辰　　陳根德
+委員出席13人
+請假委員：管碧玲
+列席委員：李貴敏　　段宜康　　鄭天財　　江啟臣　　廖正井　　陳歐珀　　許添財　　林佳龍　　林德福　　李桐豪　　孔文吉　　林正二　　徐耀昌　　紀國棟　　張慶忠　　江惠貞　　林世嘉　　蕭美琴　　邱文彥　　蘇清泉　　吳育仁　　簡東明　　楊瓊瓔　　黃文玲
+姚文智　　徐欣瑩　　呂學樟　　潘維剛　　黃偉哲　　陳其邁　　趙天麟　　高金素梅
+吳育昇　　陳亭妃　　許忠信　　吳秉叡　　蔣乃辛　　邱志偉　　林滄敏　　何欣純　　羅明才　　王惠美
+委員列席42人
+<table WIDTH="608" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="251"><col WIDTH="279"><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康中黑體, monospace"><span LANG="en-US">列席官員：</span></font></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace">12</font><font FACE="華康細明體, monospace"><span LANG="en-US">月</span></font><font FACE="華康細明體, monospace">17</font><font FACE="華康細明體, monospace"><span LANG="en-US">日（星期一）</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><br></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">交通部部長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">毛治國</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">路政司司長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳彥伯</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">道安會執行秘書</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">謝潮儀</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">會計處會計長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">洪玉芬</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">法規會執行秘書</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">李明慧</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">公路總局局長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">吳盟分</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">公路總局副局長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳茂南</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">運輸研究所組長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">張開國</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">法務部參事</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">黃東焄</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內政部警政署交通組代理組長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">王賢基</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">　　　　　　　　科長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">蔡宗益</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">金融監督管理委員會保險局組長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳清源</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院衛生署食品藥物管理局簡任技正</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">邱志彥</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace">12</font><font FACE="華康細明體, monospace"><span LANG="en-US">月</span></font><font FACE="華康細明體, monospace">19</font><font FACE="華康細明體, monospace"><span LANG="en-US">日（星期三）</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><br></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">國家通訊傳播委員會主任委員</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">石世豪</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">　　　　　　　　副主任委員</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">虞孝成</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">綜合規劃處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">蔡炳煌</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">通訊營管處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳國龍</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">傳播營管處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">黃金益</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">資源技術處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳子聖</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">內容事務處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">何吉森</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">法律事務處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">謝煥乾</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">北區監理處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">鄭泉泙</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">中區監理處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">蕭祈宏</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">南區監理處處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">劉豐章</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">秘書室主任</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">黃琮祺</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">人事室主任</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">劉正元</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">主計室主任</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">黃雪櫻</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">政風室主任</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">張一民</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">電信警察隊代理隊長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">孔令果</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">交通部常務次長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">陳建宇</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">郵電司司長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">鄧添來</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">金融監督管理委員會銀行局局長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">桂先農</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">公平交易委員會委員</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">孫立群</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.03in"><br></p></td><td WIDTH="251" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院主計總處科長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">邱幼惠</span></font></p></td></tr></table>
+主　　席：魏召集委員明谷
+專門委員：尹章中
+主任秘書：郭子祥
+紀　　錄：簡任秘書　陳錫欽　副研究員　程谷川　簡任編審　黃碧玉
+科　　長　黃彩鳳　專　　員　郭惠津　薦任科員　江文雄
+12月17日（星期一）
+報　告　事　項
+一、宣讀上次會議議事錄。
+決定：議事錄確定。
+二、本院議事處101年12月5日函，為請本會審查行政院函請審議「道路交通管理處罰條例第八條、第三十五條及第六十七條條文修正草案」案，經提本院第8屆第2會期第10次會議報告後決定：「交交通委員會審查。」
+三、本院議事處101年5月30日函，為請本會審查本院委員丁守中等19人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第1會期第12次會議報告後決定：「交交通委員會審查。」
+四、本院議事處101年5月30日函，為請本會審查本院親民黨黨團擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第1會期第12次會議報告後決定：「交交通委員會審查。」
+五、本院議事處101年5月30日函，為請本會審查本院委員江啟臣等22人擬具「道路交通管理處罰條例增訂第三十五條之一條文草案」案，經提本院第8屆第1會期第12次會議報告後決定：「交交通委員會審查。」
+六、本院議事處101年6月6日函，為請本會審查本院委員蔡其昌等21人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第1會期第13次會議報告後決定：「交交通委員會審查。」
+七、本院議事處101年6月6日函，為請本會審查本院委員李昆澤等27人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第1會期第13次會議報告後決定：「交交通委員會審查。」
+八、本院議事處101年6月19日函，為請本會審查本院委員孫大千等20人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第1會期第14次會議報告後決定：「交交通委員會審查。」
+九、本院議事處101年10月3日函，為請本會審查本院委員蔡正元等20人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第2會期第1次會議報告後決定：「交交通委員會審查。」
+十、本院議事處101年10月11日函，為請本會審查本院委員盧嘉辰等18人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案，經提本院第8屆第2會期第2次會議報告後決定：「交交通委員會審查。」
+十一、本院議事處101年10月17日函，為請本會審查本院委員蔡其昌等18人擬具「道路交通管理處罰條例第六十七條條文修正草案」案，經提本院第8屆第2會期第3次會議報告後決定：「交交通委員會審查。」
+十二、本院議事處101年10月24日函，為請本會審查本院委員蔣乃辛等21人擬具「道路交通管理處罰條例第三十五條、第三十五條之一及第三十五條之二條文修正草案」案，經提本院第8屆第2會期第4次會議報告後決定：「交交通委員會審查。」
+十三、本院議事處101年10月31日函，為請本會審查本院委員李昆澤等22人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案，經提本院第8屆第2會期第5次會議報告後決定：「交交通委員會審查。」
+十四、本院議事處101年11月7日函，為請本會審查本院委員羅淑蕾等26人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第2會期第6次會議報告後決定：「交交通委員會審查。」
+十五、本院議事處101年11月14日函，為請本會審查本院委員徐欣瑩等34人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案，經提本院第8屆第2會期第7次會議報告後決定：「交交通委員會審查。」
+十六、本院議事處101年11月21日函，為請本會審查本院委員李貴敏等24人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，經提本院第8屆第2會期第8次會議報告後決定：「交交通委員會審查。」
+提案委員說明提案要旨。
+交通部部長毛治國就行政院、黨團及委員提案提出說明，並備質詢。
+（本次會議由提案委員李桐豪、李昆澤、蔡其昌、羅淑蕾說明提案要旨及交通部部長毛治國、路政司司長陳彥伯等就行政院、黨團及委員提案提出說明後，計有委員劉櫂豪、羅淑蕾、蔡其昌、魏明谷、楊麗環、李鴻鈞、王進士、林明溱、徐耀昌、葉宜津、李昆澤、黃偉哲、許添財、趙天麟等14人提出質詢，均經交通部部長毛治國、路政司司長陳彥伯、道路交通督導委員會執行秘書謝潮儀、公路總局局長吳盟分、內政部警政署交通組代理組長王賢基、法務部參事黃東焄及相關人員分別予以答復說明；委員潘維剛所提書面質詢，列入紀錄並刊登公報。）
+討　論　事　項
+一、併案審查
+(一)行政院函請審議「道路交通管理處罰條例第八條、第三十五條及第六十七條條文修正草案」案。
+(二)本院委員丁守中等19人擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+(三)本院親民黨黨團擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+(四)本院委員江啟臣等22人擬具「道路交通管理處罰條例增訂第三十五條之一條文草案」案。
+(五)本院委員蔡其昌等21人擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+(六)本院委員李昆澤等27人擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+(七)本院委員孫大千等20人擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+(八)本院委員蔡正元等20人擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+(九)本院委員盧嘉辰等18人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案。
+(十)本院委員蔡其昌等18人擬具「道路交通管理處罰條例第六十七條條文修正草案」案。
+(十一)本院委員蔣乃辛等21人擬具「道路交通管理處罰條例第三十五條、第三十五條之一及第三十五條之二條文修正草案」案。
+(十二)本院委員李昆澤等22人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案。
+(十三)本院委員羅淑蕾等26人擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+(十四)本院委員徐欣瑩等34人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案。
+(十五)本院委員李貴敏等24人擬具「道路交通管理處罰條例第三十五條條文修正草案」案。
+決議：
+一、說明及詢答完畢。
+二、審查結果：
+(一)第八條及第三十五條條文，均照行政院提案條文通過。
+(二)委員所提第三十五條之一及第三十五條之二條文，均不予增訂。
+(三)第六十七條條文，依照行政院提案，於第二項條文中「第六十一條第一項第三款、第四款後段」等文字後增列「、第六十二條第四項前段」，修正通過。
+三、併案審查行政院函請審議「道路交通管理處罰條例第八條、第三十五條及第六十七條條文修正草案」案、委員丁守中等19人擬具「道路交通管理處罰條例第三十五條條文修正草案」案、親民黨黨團擬具「道路交通管理處罰條例第三十五條條文修正草案」案、委員江啟臣等22人擬具「道路交通管理處罰條例增訂第三十五條之一條文草案」案、委員蔡其昌等21人擬具「道路交通管理處罰條例第三十五條條文修正草案」案、委員李昆澤等27人擬具「道路交通管理處罰條例第三十五條條文修正草案」案、委員孫大千等20人擬具「道路交通管理處罰條例第三十五條條文修正草案」案、委員蔡正元等20人擬具「道路交通管理處罰條例第三十五條條文修正草案」案、委員盧嘉辰等18人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案、委員蔡其昌等18人擬具「道路交通管理處罰條例第六十七條條文修正草案」案、委員蔣乃辛等21人擬具「道路交通管理處罰條例第三十五條、第三十五條之一及第三十五條之二條文修正草案」案、委員李昆澤等22人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案、委員羅淑蕾等26人擬具「道路交通管理處罰條例第三十五條條文修正草案」案、委員徐欣瑩等34人擬具「道路交通管理處罰條例第三十五條及第三十五條之一條文修正草案」案及委員李貴敏等24人擬具「道路交通管理處罰條例第三十五條條文修正草案」案，均審查完竣，擬具審查報告，提報院會討論。
+四、院會討論前，毋須交由黨團協商；院會討論本案時，由本會召集委員魏明谷補充說明。
+五、委員於質詢中要求提供相關書面資料或未及答復部分，請交通　部及相關單位儘速以書面答復。
+通過臨時提案3項：
+一、由於禁止酒駕政策，交通部和警政署均鼓勵喝酒者坐「計程車」回家。但連續發生震驚社會的計程車司機被毆打案件，都是因為計程車司機搭載喝醉酒的人，參考美國、日本等先進國家對於計程車司機安全均有保障的設施，例如美國或日本的計程車內設有防護隔板或安全設施，防止酒醉乘客因意識不清，無故騷擾或攻擊計程車司機。
+鑒於酒醉乘客若對計程車司機施以攻擊，例如打頭或勒頸，不只對計程車司機造成傷害，也可能影響駕駛，造成交通意外。爰此，要求交通部應該於1個月以內，針對「計程車車內安全」提出具體的管理做法，保障計程車司機與乘客安全。
+提案人：李昆澤　　劉櫂豪　　魏明谷　　蔡其昌
+二、對於酒駕的規定標準，交通部自102年1月1日起，對於「未領有駕照」、「初次領有駕照未滿2年」及「職業駕駛人」三類駕駛人，採取0容忍值。但為免除一般民眾之僥倖心理，對於酒駕之0容忍值應該全面擴大，至少應於6個月內即檢討全面擴大，在上述擴大方案實施前，於宣導上即應開始宣導酒駕之0容忍值。
+提案人：葉宜津　　李昆澤　　魏明谷
+三、為期更有效嚇阻及防制酒後違規駕車，對於國外有實施之加裝酒測自鎖裝置措施，建請交通部運輸研究所6個月內專案研究國內實施之可行性與其必要之配套。
+提案人：陳根德　　魏明谷　　盧嘉辰　　江啟臣
+12月19日（星期三）
+一、邀請國家通訊傳播委員會主任委員石世豪、交通部部長毛治國、金融監督管理委員會及公平交易委員會首長就「旺中集團併購中嘉案附加條件執行進度」、「行動寬頻業務釋照規劃」及「行動支付機制之未來交易安全性及公平性」進行專案報告，並備質詢。
+二、繼續審查102度中央政府總預算案附屬單位預算非營業部分有關國家通訊傳播委員會主管通訊傳播監督管理基金、有線廣播電視事業發展基金非營業預算（詢答及處理）。
+（以上一、二兩項一起詢答，詢答完畢即處理預算）
+（本次會議由國家通訊傳播委員會主任委員石世豪及公平交易委員會委員孫立群針對「旺中集團併購中嘉案附加條件執行進度」報告後，計有委員盧嘉辰、楊麗環、李昆澤、魏明谷、羅淑蕾、林明溱、李鴻鈞、蔡其昌、許忠信、鄭天財、許添財、林佳龍、李桐豪、王進士、邱志偉、葉宜津等16人提出質詢，均經國家通訊傳播委員會主任委員石世豪、公平交易委員會委員孫立群、金融監督管理委員會銀行局局長桂先農、交通部郵電司司長鄧添來及相關人員分別予以答復，另委員劉櫂豪、徐耀昌所提書面質詢，列入紀錄並刊登公報。）
+決議：
+一、報告及詢答完畢。
+二、「中華民國102度中央政府總預算案附屬單位預算」非營業部分有關國家通訊傳播委員會主管通訊傳播監督管理基金、有線廣播電視事業發展基金非營業預算，處理完畢。
+三、審查結果：
+通訊傳播監督管理基金
+(一)業務計畫部分：應依據基金來源與用途審查結果，隨同調整。
+(二)基金來源、用途及餘絀部分：
+1.基金來源：5億7,522萬1,000元，照列。
+2.基金用途：原列5億4,104萬5,000元，減列500萬元，科目自行調整，其餘均照列，改列為5億3,604萬5,000元。預算採統刪方式，應於送出交通委員會前，將其調整刪除項目送交通委員會。
+本項有委員提案26案，不予處理：
+(1)「通訊傳播資源技術業務監理計畫」下編列辦理寬頻上網速率量測調查分析2,500萬元，以調查各地寬頻上網實際速率，並分析業者廣告速率與實際量測速率產生落差原因，以達提升網路服務品質之目的。「寬頻速率量測計畫」辦理期間自102年度至104年度，核屬繼續經費，按預算法第39條規定，應揭露全部計畫之內容、經費總額、執行期間及各年度之分配額等資訊。惟NCC僅於通訊傳播基金102年度預算書列示當年度預算數2,500萬元，恐有悖法制。NCC應依規定補正，未補正之前預算全數凍結。
+提案人：楊麗環　　王進士　　羅淑蕾　　林明溱
+(2)通訊傳播事業財務狀況，涉及各公司之費率訂定、資金流向、資產配置等商業機密，監理機關於從事相關公務時亦有守密義務；準此，有關通訊傳播事業財務監理及查核業務，非屬事務性、專案性之性質，係NCC辦理通訊傳播監理業務之主要核心事項，不宜採勞務承攬方式辦理。102年度通訊傳播基金之「通訊事業監理計畫」及「傳播事業監理計畫」下賡續編列進用4位財務會計人員，經費共計299萬8千元，應全數刪除。
+提案人：楊麗環　　魏明谷　　羅淑蕾
+(3)通訊傳播監督管理基金102年度有關「一般行政管理計畫－服務費用－公共關係費」預算編列94萬8千元，係該會主任委員及副主任委員之特別費，惟NCC將特別費以公共關係費名義移編至非營業基金，顯有規避本院對特別費所做統刪決議之虞；另按102年度之中央政府總預算附屬單位預算共同項目編列作業規範規定，公共關係費係位應各類特種基金業務需要而編列於附屬單位預算中，且基金之來源如屬強制性收入者，非有具體理由，不得編列。綜上，NCC以公共關係費名義瑜特別收入基金中編列機關首長、副首長所需之特別費，不僅有違體制，亦有規避本院審查之虞，爰此，102年度有關「一般行政管理計畫－服務費用－公共關係費」預算編列94萬8千元，建議予以全數刪除。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(4)通訊傳播監督管理基金102年度有關「地區監理計畫－北區監理－服務費用－專業服務費」預算編列109萬7千元，其中辦理「如何提高電信管制射頻器材進口許可證網路申辦率及效能，以強化政府效能」委託研究計畫40萬元，惟查各區監理處係辦理查驗、監測、違規取締等執行單位，並非政策制定研擬單位，且中區、南區監理處並無辦理委託研究計畫，若有相關研究需求，應委由會內其他單位辦理為宜，爰此，102年度有關「地區監理計畫－北區監理－服務費用－專業服務費」預算編列109萬7千元，建議予以刪減40萬元。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(5)通訊傳播監督管理基金102年度有關「法制業務計畫－服務費用－專業服務費」預算編列720萬2千元，其中包括訴訟案件律師費、上訴裁判費等657萬元，較上（101）年度預算96萬元，增加561萬元，且無說明暴增之原因，顯有預算浮編之情形，爰此，102年度有關「法制業務計畫－服務費用－專業服務費」預算編列720萬2千元，建議予以刪減300萬元。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(6)通訊傳播監督管理基金102年度有關「通訊傳播監理政策企劃計畫－服務費用－專業服務費」項下之『委託研究計畫』預算編列400萬元，其中有一計畫名稱為『我國電信資費水準及國際趨勢之比較分析』，與上（101）年度辦理之『我國電信資費水準之變動趨勢及國際比較分析』，相似度高達95%。基於上年度計畫研究尚未完成，政策參考價值有待評估，逕又辦理相似度極高之研究計畫，恐有重複研究之情形，為避免造成政府預算浪費，爰此，102年度有關「通訊傳播監理政策企劃計畫－服務費用－專業服務費」項下之『委託研究計畫』預算編列400萬元，建議予以刪減200萬元。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(7)通訊傳播監督管理基金102年度有關「通訊傳播監理政策企劃計畫－資訊管理－專業服務費」編列預算2,096萬1千元，較上（101）年度編列1,493萬1千元，增加603萬元、成長40.39%，依據預算書說明該項業務係辦理委外服務評選案評審出席費、教育訓練、個人電腦駐點維修服務及各項資訊系統功能維護與更新，為例行性業務性質，依理預算不應有大幅成長之需求，基於撙節行政支出與參酌前（100）年度決算1,455萬5千元，爰此，102年度有關「通訊傳播監理政策企劃計畫－資訊管理－專業服務費」編列預算2,096萬1千元，建議予以刪減640萬6千元。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(8)通訊傳播監督管理基金102年度有關臨時人員、派遣人力及勞務承攬，分別預計進用23人、20人及56人，合計預算編列5,109萬2千元，較上（101）年度增加進用勞務承攬56人，預算增加2,361萬1千元，基於應撙節支出與減少非典型雇用人力，爰此，有關102年度有關臨時人員、派遣人力及勞務承攬經費編列5,109萬2千元，建議予以刪減1,000萬元。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(9)NCC於通訊傳播基金102年度預算案「通訊傳播資源技術業務監理計畫」下編列「寬頻速率量測調查分析」計畫25,000千元，該計畫辦理期間自102年度至104年度，核屬預算法所定「繼續經費」，NCC卻僅於通訊傳播基金以歲定經費方式編製預算，致無法得知嗣後年度經費需求情形，且未符預算法制及本院過去決議。爰此，凍結「通訊傳播資源技術業務監理計畫」－「專業服務費」－「寬頻速率量測調查分析」計畫10,000千元，俟NCC予以修正，並向委員會提出調查分析方式之書面說明後，始得動支。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+(10)為因應各地無線電視數位改善站建置，102年度通訊傳播基金於「通訊傳播資源技術業務監理計畫」下編列數位改善站電費2,052萬5千元及維護費1,820萬元等兩項預算，以確保建置完成後之數位改善站順利運作；其中電費係採補助方式辦理，而維護費則由NCC自行招商辦理，惟數位改善站所有權屬地方政府所有，後續維運工作NCC亦認為應由地方政府負責，其維護費卻由NCC編列並招商辦理，預算編列核有爭議。爰刪除「通訊傳播資源技術業務監理計畫」－「專業服務費」－「辦理數位改善站維護費」18,200千元。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+(11)102年度NCC循例於通訊傳播基金「一般行政管理計畫」之「服務費用」下，編列「公共關係費」948千元，係該會主任委員及副主任委員之特別費，其編列標準為主任委員每月5萬3千元、副主任委員每月2萬6千元；惟將特別費移編至特別收入基金編列，不僅不符體制，亦有規避本院對特別費所作統刪決議之嫌。爰此，予以刪除「公共關係費」948千元。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+(12)102年度NCC於通訊傳播基金「通訊傳播資源技術業務監理計畫」下，新增編列委託行政院研考會辦理「無障礙網路空間服務推廣經費」660萬元。經查，該計畫所編經費內容，每月人力成本高達8萬元至10萬元，恐未盡覈實、不符合市場一般行情。爰刪除該計畫1,000千元，以資撙節。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+(13)通訊傳播監督管理基金所編列之一般服務費，其係將文書作業人員、會計人員、客訴案人員、統計人員等事務採勞務外包方式處理，其均屬一般政務事項，其費用性質為人事費用，除不應編列於基金預算外，亦不應其政務事項尤其是核心事項之財務稽核、資金查核等工作採勞務派遺或勞務承攬方式處理，爰將其所有一般服務費6960萬元全數予以刪除。
+提案人：葉宜津　　蔡其昌　　魏明谷　　李昆澤
+(14)國家通訊傳播委員會為推動國際通訊傳播業務交流與合作所需國外旅費503萬8千元及大陸地區旅費90萬8千元，共計594萬6千元。但其非屬營業單位，其國外旅費及大陸地區旅費甚且高於必需時常與外國接洽業務之營業單位，且其均無說明其交流合作目的與國家，故予以刪除394萬6千元，其餘200萬則予以凍結，待其提出報告並經交通委員會同意後，始得動支。
+提案人：葉宜津　　蔡其昌　　魏明谷　　李昆澤
+(15)通訊傳播監督管理基金「一般行政管理計畫」項下編列公共關係費94萬8千元，其實係主委、副主委之特別費，但各機關之首長特別費均編列於公務機關之人事費用中，唯獨國家通訊傳播委員會之首長特別費編列於基金項目中，其與基金運用項目不合，亦不符體制，爰全部予以刪除。
+提案人：葉宜津　　蔡其昌　　魏明谷　　李昆澤
+(16)通訊傳播監督管理基金102年度通訊事業監理計畫相關經費1351萬9,000元，包括一般服務費所需經費366萬9,000元。
+惟國家通訊傳播委員會係為政府機關，竟帶頭違法大量運用非典型人力，讓勞工無法穩定就業、破壞就業市場機制。其中文書作業、客訴、電信業務營運統計皆應由國家通訊傳播委員會員工所應自行處理，何以外包給廠商處理，顯有疏失。爰此，建議全數刪除，以減輕國家財政負擔。
+提案人：魏明谷　　葉宜津　　蔡其昌
+(17)102年度NCC於通訊傳播基金「通訊傳播資源技術業務監理計畫」下，編列委託研考會辦理無障礙網路空間服務推廣經費660萬元，而研考會亦係委外辦理；據NCC提供明細資料顯示，內容包括無障礙網站人工檢測360萬元、網站無障礙輔導與諮詢客服192萬元、網站無障礙申請平台維護108萬元，其中人工檢測每月預計投入3個人力、單價10萬元，輔導與諮詢客服每月投入2個人力、單價8萬元，平台維護每月投入1個人力、單價9萬元。鑒於無障礙網站之檢測及認證業務不能因主管機關之變更而中斷，故相關網路平台之維護推廣，確有其必需，惟NCC所編經費內容每月人力成本高達8萬元至10萬元，恐未盡覈實、不符合市場一般行情，允應撙節編列。爰此，建議凍結本筆預算330萬元，俟國家通訊傳播委員會向本委員會提出書面報告後，始得動支。
+提案人：魏明谷　　葉宜津　　蔡其昌
+(18)通訊傳播監督管理基金102年度管理及總務費用相關經費6370萬6,000元，包括一般服務費所需經費219萬8,000元。
+惟國家通訊傳播委員會係為政府機關，竟帶頭違法大量運用非典型人力，讓勞工無法穩定就業、破壞就業市場機制。其中文書處理、一般庶務作業係由國家通訊傳播委員會員工所應自行處理，何以外包給廠商處理，顯有疏失。爰此，建議全數刪除，以減輕國家財政負擔。
+提案人：魏明谷　　葉宜津　　蔡其昌
+(19)通訊傳播監督管理基金102年度一般行政管理計畫相關經費1448萬5,000元，包括公共關係費所需經費94萬8,000元。
+按102年度之中央政府總預算附屬單位預算共同項目編列作業規範相關規定，公共關係費係為應各類特種基金業務需要而編列於附屬單位預算中，且基金之來源如屬強制性收入者，非有具體理由，不得編列；而特別費係為應機關首長及副首長公務所需編列於單位預算中，然NCC以公共關係費名義於特別收入基金中編列機關首長、副首長公務所需之特別費，不僅有違體制，亦有規避本院審查之虞。由於近年統刪決議皆未刪除該特別費，建議全數刪除本筆預算，以促其改進，將明年度預算回歸單位預算編列。
+提案人：魏明谷　　葉宜津　　蔡其昌
+(20)國家通訊傳播委員會轄下各項業務皆有承辦人員，因此業務承辦人員皆應為各項諮詢委員會的行政幕僚，但是在一般行政管理計畫項下，卻又特別編列"聘雇輔導員及行政專員協助廣播、電視節目與告內容管理及諮詢委員會等行政幕僚作業23人"。根據有關勞務派遣、勞務承攬人員業務性質，據行政院所訂運用勞動派遣應行注意事項第3點第1項規定：「各機關除依法律規定不得運用勞動派遣者外，得依下列業務檢討運用派遣勞工：(一)有關事務性、重複性及機械性等行政服務工作。例如：公文傳遞、環境清潔、事務機器設備維護、公務車輛駕駛、圖書出借、文書繕打、翻譯或校對、資訊、總機、倉儲管理及業務資料彙整登錄等事務。(二)有關一定事實之蒐集、查察或檢查協助工作。例如：停車場計時人員等事務。(三)專案性協助工作。例如：安養機構送餐服務及非屬醫療行為之照護服務、展場規劃或導覽服務等工作。(四)具期限性計畫之協助工作。例如：各機關科技專案計畫之協助工作。(五)其他經主管機關認定非屬核心業務且適宜委託民間辦理，不涉及公務安全、機密或執行公權力之業務項目。」。NCC將其主要業務廣播、電視節目與告內容管理及諮詢委員會等重要幕僚業務給勞務派遣或勞務承攬，實在不當。要求NCC該會應考量整體業務狀況，通盤檢討各類員額配置之允當性，因此建議將該項幕僚作業費用16,482千元全數刪除。
+提案人：管碧玲　　蔡其昌　　李昆澤　　魏明谷
+(21)國家通訊傳播委員會各項會議、公聽會及政策諮詢經費編列過於浮濫，在102年的預算中，編列費用高達12,630千元，如有以一年約52週來看，則每週開會的費用高達24萬元；如以專家學者的出席費來看，則可邀請6,315個專家學者人次，即每天可邀得25個專家學者供諮詢之用，此比例顯不合理，預算編列顯有浮濫之嫌，為撙節政府支出，要求刪減各項會議支出500萬元。
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="136"><col WIDTH="371"><col WIDTH="87"><tr VALIGN="TOP"><td WIDTH="136" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><a NAME="TA2196139"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">業務計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">計　　畫　　內　　容</span></font></p></td><td WIDTH="87" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER"><font FACE="華康細明體, monospace"><span LANG="en-US">費用（千元）</span></font></p></td></tr><tr><td ROWSPAN="2" WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">通訊傳播監理政策企劃計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理通訊傳播監理政策諮詢、公聽會及各項審查會</span></font></p></td><td WIDTH="87" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,794</p></td></tr><tr><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">通訊傳播相關活動、研討會議及圖書室線上資料庫訂閱</span></font></p></td><td WIDTH="87" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,250</p></td></tr><tr><td WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">傳播事業監理計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理傳播事業監理業務所需專家諮詢服務費、廣播電視事業營運評鑑、各類會議及查作業外聘學者出席費及審查費</span></font></p></td><td WIDTH="87" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">8,006</p></td></tr><tr><td WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">通訊傳播內容事務監理計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理通訊傳播內容事務各項諮詢評審及公聽會等所需出席、審查費</span></font></p></td><td WIDTH="87" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,000</p></td></tr><tr><td WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">法制業務計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">訴願審議委員會及國家賠償事件處理小組外聘委員之審查出席費、辦理座談</span></font></p></td><td WIDTH="87" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">580</p></td></tr><tr><td WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: 0.24in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">總計</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><br></p></td><td WIDTH="87" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">12,630<font FACE="華康細明體, monospace"><span LANG="en-US">千元</span></font></p></td></tr></table>
+提案人：管碧玲　　蔡其昌　　李昆澤　　魏明谷
+(22)國家通訊傳播委員會職工532人，但今年所編列購置個人電腦等相關設備達8,800千元，如以一般桌上型電腦3萬元計算，則汰換電腦數可達293台，已佔全部員工數的55%；而去年NCC在電腦等硬體經費亦編有9,376千元，其可汰換電腦數達312台，達全體員工數的59%，而前年電腦等硬體的決算數亦有4,335千元，可汰換電腦數為145台，亦佔員工數的27%，三年內NCC編列電腦等硬體等設備費用達22,511千元，可汰換電腦數達750台，是員工數的1.4倍，顯見NCC電腦等經費編列的浮濫與不合理，為撙節國家支出，要求刪減購置固定資產440萬元。
+提案人：管碧玲　　蔡其昌　　李昆澤　　魏明谷
+(23)針對國家通訊傳播監督管理基金今年在推動國際通訊傳播業交流與合作上，編列高達5,038千元的國外旅費與908千元的大陸地區旅費，卻未說明這筆近六百萬元的旅費之考察國家與考察內容，此預算編列顯然過於粗糙。有鑑於國家財政困難，以及當前通訊傳播等相關資訊取得容易快速的情況下，出國旅費應予以撙節，因此要求刪減國外旅費2,519千元及大陸地區旅費454千元，剩下全數凍結，俟提出詳細考察計畫，向交通委員會報告後，始得動支。
+提案人：管碧玲　　蔡其昌　　李昆澤　　魏明谷
+(24)國家通訊傳播委員會每年撥出數千萬國家預算委託學術機關進行通訊傳播業務等相關研究，但是所做出之研究計畫是否為NCC所用，或是束之高閣，毫無一套衡量標準。以99年的委託研究計畫"有線電視產業調查研究報告"為例，在該研究計畫中，即明確指出"經由會帳的調整，發現有線電視事業的報酬率不低，……主管機關進行有線電視業者費率的調整時，不必有太顧慮",但該份報告顯然未被NCC引用做為調整費率的參考，直至今年六月施俊吉教授發表的「有線電視市場結構與經營區調整政策」，認為有線電視系統業者的毛利，年年都在40%以上，才引發有線電視費率應降的反彈聲音。由此事可知，NCC對於自己委託的調查報告並不重視，因此建議102年的委託研究案約20,578千元，刪減10,000千元。
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="136"><col WIDTH="371"><col WIDTH="88"><tr VALIGN="TOP"><td WIDTH="136" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><a NAME="TA7740920"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">業務計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">委　託　研　究　計　畫</span></font></p></td><td WIDTH="88" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER"><font FACE="華康細明體, monospace"><span LANG="en-US">費用（千元）</span></font></p></td></tr><tr><td ROWSPAN="2" WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">通訊事業監理計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理固定通信網路成本模型及接續費委託研究計畫</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">8,000</p></td></tr><tr><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理固定通信綜合網路業務服務品質滿意度調查</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">700</p></td></tr><tr><td ROWSPAN="3" WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">傳播事業監理計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理檢視無線電視暨衛星廣播電視事業營運計畫執行情形之先期研究計畫</span></font></p></td><td ROWSPAN="3" WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">2,500</p></td></tr><tr><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">我國廣播電台之發展可行性研究計畫</span></font></p></td></tr><tr><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">檢視衛電視營運計畫書與違反營運相關規定之指標及判準之建制</span></font></p></td></tr><tr><td ROWSPAN="2" WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">通訊傳播資源技術業務監理計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理無線電頻譜鑑價機制之研究</span></font></p></td><td ROWSPAN="2" WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">3,000</p></td></tr><tr><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">新版無障礙網頁規範</span></font></p></td></tr><tr><td ROWSPAN="2" WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">通訊傳播內容事務監理計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">兒少電視節目及頻道內容之表現及觀察</span></font></p></td><td ROWSPAN="2" WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,900</p></td></tr><tr><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">廣播電台收聽行為調查研究</span></font></p></td></tr><tr><td WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">法制業務計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理防制濫發商業電子郵件相業務及執行完備通訊傳播權益保障暨法規置建計畫研究</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">4,078</p></td></tr><tr><td WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">地區監理計畫</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">辦理如何提高雷信管制射頻器材進口許可證網路申辦率及效能，以強化政府效能</span></font></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">400</p></td></tr><tr><td WIDTH="136" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">總計</span></font></p></td><td WIDTH="371" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><br></p></td><td WIDTH="88" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">20,578<font FACE="華康細明體, monospace"><span LANG="en-US">千元</span></font></p></td></tr></table>
+<hr>
+提案人：管碧玲　　蔡其昌　　魏明谷　　李昆澤
+(25)今（101）年7月以來，全國校園發起的「反媒體壟斷」呼聲獲得整體社會重視並迅速擴展，至9月1日匯聚成萬人請願運動，明確要求制定反媒體壟斷之專法，亦獲得社會支持。然NCC昧於社會殷切之期待，至今仍諉稱將於數位匯流發展方案之法規架構調整期程的第二階段，進行匯流形式規範架構調整，且在民國103年6月才完成。此一態度與進度無法為社會接受，而交通委員會亦於今年九月二十七日提出臨時動議，要求在本院第8屆第3會期結束前，向立法院提出反媒體壟斷之專法。因此要求凍結法制業務計畫預算13,635千元三分之一之預算，俟國家通訊傳播委員會向立法院提出反媒體壟斷之專法後，始得動支。
+提案人：管碧玲　　蔡其昌　　魏明谷　　李昆澤
+(26)通訊傳播監督管理基金102年度有關「通訊事業監理計畫」編列預算1,351萬9千元，有鑑於行政院消保處100年度消費爭議調查，電信通訊爭議案件占全部申訴案件29.69%，高居所有案件第一名，於今年10月1日本院交通委員會邀請國家通訊傳播委員會主委石世豪報告業務概況時，主委承諾成立「電信消費評議中心」機制，惟查迄今仍未見相關進度與報告，此事關係消費者權益甚大，爰此，102年度有關「通訊事業監理計畫」編列預算1,351萬9千元，建議予以凍結二分之一，俟有關電信消費評議中心機制規劃完成後，並向立法院交通委員會提出專案報告同意後，始得動支。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+3.本期賸餘：原列3,417萬6,000元，增列500萬元，改列為3,917萬6,000元。
+(三)解繳國庫：無列數。
+(四)補辦預算部分：無列數。
+(五)通過決議14項：
+1.102年度通訊傳播監督管理基金於「通訊傳播資源技術業務監理計畫」下編列數位改善站電費2,052萬5,000元及維護費1,820萬元等兩項預算，以確保建置完成後之數位改善站之運作，惟數位改善站所有權及維管權屬均為地方所有，國家通訊傳播委員會卻編列預算自行招標維護，為了保障民眾權益和基金運作，應於2個月內提出改善方案。
+提案人：羅淑蕾　　林明溱　　葉宜津
+2.鑒於頻譜資源本質上屬於國家資源，係一準公有財，頻譜交易所得利益理應全民共享。又網際網路的快速發展，對人民生活而言，網路已經和水、電一樣重要，國家應保障寬頻人權，使國民享有價格合理、頻寬足夠的無線寬頻通訊之基本權利。綜上，建請國家通訊傳播委員會於4G釋照規畫方案，應將最低頻寬保證納入網路品質的審核標準，以及關於4G釋照拍得的價金、頻譜使用權轉交易所產生的利益，應有回饋全體國民寬頻紅利的設計。
+提案人：李昆澤　　劉櫂豪　　魏明谷　　葉宜津　　蔡其昌
+3.無障礙網路空間服務推廣業務原係由行政院研究發展考核委員會辦理，100年2月間身心障礙者權益保障法通過後，國家通訊傳播委員會成為無障礙資訊、通訊技術及系統、網路平台、通訊傳播傳輸內容無歧視之主管機關，惟國家通訊傳播委員會迄今尚未訂定相關辦法，仍沿用行政院研究發展考核委員會所訂規定，而有關無障礙網頁之檢測及標章管理，102年度仍委由行政院研究發展考核委員會辦理。國家通訊傳播委員會既為法定之無障礙資、通訊技術主管機關，應儘速擬定相關辦法，方能有效執行相關業務。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+4.根據中華民國消費者文教基金會調查，國內電信業者提供給消費者選擇的手機上網資費，其費率級距並不符合消費者需求：目前市面上有16個非吃到飽收費方案，但卻有80%是低用量的方案（傳輸量500MB以下），惟一般而言，平常只看網頁、臉書（facebook）、電子郵件，每月上網量就容易超過1GB，且非吃到飽方案的超額費率超高，消費者不得已只好選擇吃到飽方案。
+鑒於目前大多數電信業者所提供的非吃到飽費率，對於需求量不大的消費者，不符合消費者實際使用習慣，等於迫使消費者得選擇吃到飽方案，相當不公平，爰此要求國家通訊傳播委員會應於3個月內要求業者訂出「手機上網的中量資費」方案，在傳輸量500MB與吃到飽方案之間，提供更多級距的傳輸量的資費方案，供消費者選擇。
+提案人：李昆澤　　魏明谷　　葉宜津　　蔡其昌
+5.有鑑於頻譜是國家稀有資源，各國莫不基於國民經濟、產業前景、社會公益、國家安全等多面向考量來擬訂頻譜策略與國家目標，眼見中國正積極以經濟力強力滲透台灣產業（如中國華為），對於事關近千億投資的4G發照，理應有更高的國家戰略觀點，以先進的電信服務整合政府公共服務之支援，如此才是我國ICT產業向上提升的一大契機。因此，爰要求不同之頻段特性與技術，應有不同的釋照目標、涵蓋率與拍賣條件，優良頻段應優先服務落後地區，並明定一個戰略級的頻段作為支援各個地區的民眾與政府部門緊急救難、醫療、與防救災應用之能力，例如交通智慧化、城鄉智慧化、以及提升治安與公共安全；另方面，政府應與業者充分協調並依其頻譜支援比例調降其頻率使用費。
+提案人：蔡其昌　　劉櫂豪　　李昆澤　　葉宜津　　魏明谷
+6.有鑑於頻譜是國家稀有資源，各國莫不基於國民經濟、產業前景、社會公益、國家安全等多面向考量來擬訂頻譜策略與國家目標，眼見中國正積極以經濟力強力滲透台灣產業，對於事關近千億投資的4G發照，理應有更高的國家戰略觀點，以先進的電信服務整合政府公共服務之支援，如此才是我國ICT產業向上提升的一大契機。因此，爰建請不同之頻段特性與技術，應有不同的釋照目標、涵蓋率與拍賣條件，優良頻段應優先服務落後地區，並明定一個戰略級的頻段作為支援各個地區的民眾與政府部門緊急救難、醫療、與防救災應用之能力；另方面，政府應與業者充分協調並依其頻譜支援比例調降其頻率使用費。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+7.有鑑於實現人人有寬頻的共同願景、無線寬頻能否順利普及、與數位落差是否縮減等公共利益，乃4G發照的優先目標。因此，爰要求國家通訊傳播委員會應明訂4G業者須承諾提升無線寬頻普及率與替代固網最後1哩之能力及以下之要求：
+(1)明訂主要4G執照擁有者其無線寬頻服務普及率、基本速率要求、室外與室內涵蓋率，及應達成之年限。最低基本速率要求且不應低於國外先進國家水準。
+(2)對絕大多數民眾而言，應享有2家以上皆具合理室外服務品質之主要行動寬頻業者且可供選擇。
+(3)於固網最後1哩缺乏有效競爭區域，應至少有1家非既有主要固網業者之4G無線寬頻服務具達成合理之室內寬頻涵蓋率與基本頻寬速率（如2Mbps以上），供更多民眾除ADSL、光纖、Cable Modem等既有上網方式以外也有新的選擇。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+8.101年度及102年度國家通訊傳播委員會於有線廣播電視基金分別編列1,190萬元及900萬元辦理頻道內容評鑑，採委外辦理方式先建構衡量指標，再依指標辦理內容評鑑。該計畫事關民眾視聽權益，爰要求國家通訊傳播委員會不僅需依評鑑結果作為日後推動有線電視分組付費政策之準據，更應將評鑑指標及評鑑結果依政府資訊公開法規定主動且完整公開，以滿足民眾知的權利，俾維消費者權益。
+提案人：蔡其昌　　李昆澤　　葉宜津　　魏明谷
+9.鑒於我國近年有許多業者，包括金融、交通、電信及物流業者等，都紛紛跨入行動支付市場，試圖將現有上述卡片的支付功能，移植到手機上，讓手機成為支付的新載具。經查，若5大電信業者與悠遊卡公司成立第三方授信服務管理平台之事業結合，將對我國正要起步的台灣行動支付產業而言造成聯合壟斷。爰要求公平交易委員會應舉辦公聽會後，始得決定上述業者之結合，避免破壞我國行動支付之交易秩序，損及廣大消費者之利益。
+提案人：魏明谷　　葉宜津　　林明溱　　蔡其昌
+10.鑒於旺中集團已擁有中時、中視、中天電視等媒體，社會各界質疑該集團併購中嘉，將造成媒體集中化和新聞壟斷。國家通訊傳播委員會雖於今（101）年年中審議後同意通過旺中案，但也訂出與中天新聞台完全切割、中視數位新聞台轉型為非新聞台、中視設立獨立編播制度等條件。惟目前國家通訊傳播委員會通過旺中案並列出25項附帶條件，卻未對該案提出申請期限，已依法可收回經營許可，致使該案一拖再拖，罔顧社會期待。爰建請國家通訊傳播委員會，若旺中集團針對此併購案於民國102年1月15日前未能達成其附帶條件，即依法駁回併購申請。
+提案人：魏明谷　　葉宜津　　蔡其昌
+11.為捍衛新聞媒體專業自主、維護言論多元性、健全媒體投資環境以及消弭社會質疑跨媒體產權集中及壟斷問題，爰此要求公平交易委員會、金融監督管理委員會及國家通訊傳播委員會處理跨媒體併購案應依法獨立行使職權，不受其他因素影響。
+提案人：楊麗環　　王進士　　羅淑蕾　　林明溱
+12.「行動寬頻業務釋照」涉及國家稀有頻譜資源之合理分配，攸關4G行動寬頻網路政策推動之成敗。為政策縝密規劃及執行順利，行政院、交通部及國家通訊傳播委員會於102年6月底「行動寬頻業務管理規則」公告前，須傾聽廣納社會各界意見，應就行動寬頻業務釋照召開公聽會，修訂管理規則符合市場現況。
+提案人：盧嘉辰　　李鴻鈞　　楊麗環　　林明溱　　王進士　　羅淑蕾　　陳根德
+13.通訊傳播監督管理基金102年度「通訊事業監理計畫」新增「委託辦理固定通信綜合網路業務服務品質調查」，基於監督與資訊公開之必要性，該項服務品質調查執行完成後，相關資料與數據，應於2周內提供予立法院交通委員會委員參考。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+14.為創造數位匯流時代的發展環境，廣電3法對於黨政軍條款之限制，不論是行政院版本放寬政府可間接投資10%，還是朝野協商版本改為間接投資5%，應回歸最基本的相同競爭環境與秩序，MOD既然與有線電視系統台都納入有線廣播電視法規範，建請為相同之法律規範，同樣經營收視平台、經營頻道，以達成廣電3法修法所要發展的數位匯流競爭環境，增加消費者有多元選擇收視的權利。
+提案人：羅淑蕾
+連署人：葉宜津　　魏明谷
+有線廣播電視事業發展基金
+(一)業務計畫部分：應依據基金來源與用途審查結果，隨同調整。
+(二)基金來源、用途及餘絀部分：
+1.基金來源：3億6,657萬5,000元，照列。
+2.基金用途：3億5,150萬8,000元，照列。
+本項有委員提案11案，不予處理：
+(1)有線廣播電視事業發展基金本年度執行多項委外計畫，計有「有線廣播電視現況調查及服務品質提升計畫」－「電視事業產業動態調查與發展研析」1,805千元、「有線廣播電視發展與研究計畫」－「宣導有線電視數位化計畫」4,396千元、「有線廣播電視發展與研究計畫」－「辦理頻道內容評鑑評估」9,000千元、「全民公平近用頻道計畫」－「公共頻道近用者使用現況調查」822千元，共計16,203千元，顯見業務委外計畫過於浮濫。爰統刪「有線廣播電視現況調查及服務品質提升計畫」、「有線廣播電視發展與研究計畫」、「全民公平近用頻道計畫」20%。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+(2)有線廣播電視事業發展基金為瞭解電視產業現況，特編列1,805千元做委外研究，然查類似的研究案，在民國99年，NCC已委託景文科技大學做"有線電視產業調查研究"，在102年通訊傳播監督管理基金亦委託做"檢視無線電視暨衛星廣播電視事業營運計畫執行情形之先期研究計畫"，有鑑於NCC內容類似的委外研究案件重複性高，不宜再重委託，要求應先針對內部的已有委外研究案進行研究分析，因此要求將"電視事業產業動態調查與發展研析費用"1,805千元全數刪除。
+提案人：管碧玲　　蔡其昌　　魏明谷　　李昆澤
+(3)有線廣電基金102年度預算案新增編列「全民公平近用公用頻道計畫」計370萬1千元，辦理項目包括公用頻道監督委員會開會事宜25萬2千元、全民公平近用公用頻道多方研討會議102萬7千元、公用頻道近用者使用現況調查82萬2千元、舉辦國際有線電視產業高峰論壇160萬元。經查，舉辦公用頻道多方研討會議及產業高峰論壇，不僅討論議題及與會人士性質相近，且預算編列亦欠合理，其中產業高峰論壇舉行4場次、160萬元，平均每場次需花費40萬元，而公用頻道多方研討會議舉行1至2天，預算高達102萬7千元，平均每天花費逾50萬元，顯見預算編列有欠覈實。爰刪除「全民公平近用公用頻道計畫」50%，並檢討其辦理效益與辦理方式。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+(4)有線廣電基金每年皆提供基金40%撥付當地直轄市、縣（市）政府，從事與有線廣播電視法有關地方文化及公共建設使用；有線廣電基金管理會每年依規定辦理考核，並請各地方政府就考核結果執行缺失及改進建議予以改善，且列為下年度考核重點，惟部分縣市卻連年發生相同缺失，其中以執行項目或編製項目與有線廣播電視法規定之從事有關地方文化及公共建設用途不符之情況最多。經查，無論考核結果如何，地方政府均可獲撥補助，考核結果與資源分配無法連結，使考核流於形式。爰此，凍結「撥付地方政府及捐贈公視計畫」－「撥付地方政府」50%，俟有線廣電基金管理會提出改善方案後，提出書面報告，始得動支。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津
+(5)有線廣播電視事業發展基金，其編列宣導有線電視數位化計畫439萬6千元，其辦理目的係推廣收視民眾瞭解有線電視數位化之發展趨勢、優點及便利性，俾讓收視戶充分運用及接受數位化之收視服務，其執行方案，係於北、中、南、東各辦理1場次宣導及座談。但有線電視數位化，目前單純係業者建置問題，根本無關民眾瞭解與否，縱使民眾瞭解數位化之收視服務，亦無從接受數位化之服務，且有線電視數位化，對於民眾影響不大，因此本項支出完全流於形式及浪費，爰予以全數刪除。
+提案人：葉宜津　　蔡其昌　　魏明谷　　李昆澤
+(6)有線電視數位化已是國家既定政策，近年來國家不斷投入大量經費進行電視數位化推動與宣導，且此亦為世界的潮流，因此面對此一不可逆之國家政策，實毋需再花費國家預算做"有線電視數位實驗區訂戶滿意度調查及影響評估之研究"，因此建議將研究案842千元費用全數刪除。
+提案人：管碧玲　　蔡其昌　　魏明谷　　李昆澤
+(7)有線廣播電視事業發展基金102年度「有線廣播電視發展與研究計畫」項下辦理『頻道內容評鑑評估』編列900萬元，上（101）年度亦編列1,190萬元，本案係採委外辦理方式先建構衡量指標，再依指標辦理內容評鑑，撰寫報告並給予等級，惟查評鑑結果並無對外公開，以致外界與消費者無從了解評鑑之內容與結果，不僅有違政府資訊公開法，也沒有維護消費者權益。基於監督與公開之必要，爰此，102年度「有線廣播電視發展與研究計畫」項下辦理『頻道內容評鑑評估』編列900萬元，建議予以全數凍結，俟向交通委員會提出101年度評鑑報告內容與結果後，始得動支。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(8)據消基會於101年9月間辦理之網路調查顯示，79.3%民眾認為有線電視每月收視費過高，83.6%民眾認為有線電視重播情形嚴重；而我國有線電視頻道數量雖多，惟目前僅有收視率之調查，至節目播出品質尚無客觀之量化指標可供評量。鑒此，101年度及102年度NCC於有線廣電基金分別編列1,190萬元及900萬元辦理頻道內容評鑑，採委外辦理方式先建構衡量指標，再依指標辦理內容評鑑。惟國家通訊傳播委員會係為主管機關，卻無完善且客觀之頻道評鑑機制及評鑑結果，致使頻道業者以低成本低品質之節目，不僅讓消費者無從選擇，亦損及消費者權益。爰此，建議凍結本筆預算400萬元，俟國家通訊傳播委員會向交通委員會提出書面報告，始得動支。
+提案人：魏明谷　　葉宜津　　蔡其昌
+(9)有線廣播電視事業發展基金編列旅運費101萬6千元，其中國外旅費編列85萬6千元、大陸地區編列15萬5千元，除有關訪問韓國部分有列說明外，其餘僅以赴國外、大陸地區開會及考察有線電視暨相關廣播電視服務發展情況及輔導政策等語帶過，亦即尚有79萬8千元未予說明，此部分爰予刪除50萬元。
+提案人：葉宜津　　蔡其昌　　魏明谷　　李昆澤
+(10)有線廣播電視事業發展基金102年度「有線電視普及發展與災害復健補助計畫」項下辦理『數位有線示範區及數位機會關懷補助方案』編列1,232萬1千元，惟查該計畫上（101）年度編列632萬1千元，但迄101年10月止並無業者參與，毫無成效可言，依目前執行狀況，102年度卻還增加一倍預算編列，恐會繼續再發生預算無法執行，爰此，102年度『數位有線示範區及數位機會關懷補助方案』編列1,232萬1千元，建議予以刪減600萬元。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+(11)有線廣播電視事業發展基金102年度「有線電視普及發展與災害復健補助計畫」項下辦理『補助偏遠及離島地區有線電視普及發展計畫』編列5,389萬2千元，惟查上（101）年度亦編列3,845萬8千元，但迄101年8月底全國尚有高雄市那瑪夏區及離島澎湖縣望安鄉、白沙鄉等10個村里地區被列為有線電視服務因故暫未到達區域，顯示預算執行成效不佳，爰此，102年度『補助偏遠及離島地區有線電視普及發展計畫』編列5,389萬2千元，建議予以刪減3,000萬元。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+3.本期賸餘：1,506萬7,000元，照列。
+(三)解繳國庫：無列數。
+(四)補辦預算部分：無列數。
+(五)通過決議10項：
+1.MOD屬於電信法規範，與有線電視系統台MSO屬於有線廣播電視法，乃不同的法律規範，造成不公平的競爭環境，也造成消費者收視選擇上的不便；朝野協商版本既將MOD納入有線廣播電視法規範，將MOD與有線電視系統台架構在相同規範基礎上，建請在法律適用上不得有差別待遇，國家通訊傳播委員會在上下架規章上應有相同之規範，以免造成競爭環境上的另一個不公平現象。
+提案人：羅淑蕾
+連署人：葉宜津　　魏明谷
+2.為保障MOD收視戶的權益，無線電視頻道14個必載頻道（如台視、公視、民視及華視等）在MOD無法收視或有被蓋台現象，建請國家通訊傳播委員會應速修改固網管理規則，強制有線廣播電視法14個必載頻道規定適用在MOD規範上，並於修改有線廣播電視法時，將MOD納入規範，而與有線電視系統台適用相同的法律。
+提案人：羅淑蕾
+連署人：葉宜津　　魏明谷
+3.根據有線廣播電視法第58條第1項：「系統經營者無正當理由不得拒絕該地區民眾請求付費視、聽有線廣播電視。」準此，系統經營業者應有完成經營區內佈線涵蓋範圍達百分之百之責，以保障偏遠、離島及原住民地區之收視權益。但依國家通訊傳播委員會所提供資料，截至101年8月底止全國尚有高雄市那瑪夏區瑪雅等10個村里及離島地區被列為有線電視服務因故暫未到達區域。而尚未完成建置之原因，高雄市那瑪夏區係因受莫拉克風災影響，道路中斷未暢通所致；至澎湖縣離島地區則因業者頭端設備尚未完成數位化，致無法使用微波系統傳送。為保障偏遠、離島及原住民等地區之收視權益，建請國家通訊傳播委員會應在1年內督導系統業者完成上述10個村里及離島地區有線電視建置作業。
+提案人：管碧玲　　蔡其昌　　李昆澤　　魏明谷
+4.我國有線電視頻道數量約有100台，看似具有多樣選擇性，惟其中部分頻道內容乏善可陳且重播率高，並不符合民眾需求。鑒於行政院已訂定2014年有線電視達成全面數位化之目標，屆時可承載之頻道數量將更多，節目內容亦應更趨多元，始能滿足民眾對各型態頻道之需求，進而達成有線電視數位化之目的。因此，主管機關實應儘速建立頻道評鑑機制及提出可昭公信之評鑑結果，以促進電視產業良性競爭，及協助民眾選擇優良頻道作為實施分級付費之參考。有鑑於此，國家通訊傳播委員會在101年度及102年度國家通訊傳播委員會於有線廣播電視基金分別編列1,190萬元及900萬元辦理頻道內容評鑑，由於上述頻道內容評鑑評估計畫，事涉民眾權益，且該評鑑結果可能作為日後推動有線電視分組付費政策之準據，因此要求國家通訊傳播委員會在評鑑結果出來後，應在1周內將該評鑑指標及評鑑結果依政府資訊公開法規定主動且完整公開，以滿足民眾知的權利，維護消費者權益。
+提案人：管碧玲　　蔡其昌　　李昆澤　　魏明谷
+5.截至101年8月底全國尚有高雄市那瑪夏區及離島澎湖縣望安鄉、白沙鄉等10個村里地區被列為有線電視服務因故暫未到達區域。依據有線廣播電視法第30條規定，系統經營者應於3年半完成佈線，另依同法第58條第1項，系統經營者無正當理由不得拒絕該地區民眾請求付費視、聽有線廣播電視。爰此，建請國家通訊傳播委員會應於6個月內責成系統業者依法完成經營區內佈線涵蓋範圍達百分之百，以保障偏遠、離島及原住民地區民眾之收視權益。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+6.有線廣電基金設立目的係為促進有線廣播電視事業之發展，惟經查上（101）年度因「促進有線廣播電視普及發展補助執行要點」等涉及有線廣播電視普及發展之相關補助辦法未及時修改，致「有線電視普及發展與災害復健補助計畫」雖編列6,056萬2,000元，惟迄101年8月底僅執行823萬8,000元，顯示國家通訊傳播委員會不僅未能對推動有線廣播電視普及發展規劃具體可行藍圖，且對已規劃之政策，執行利益欠佳。爰此，要求國家通訊傳播委員會應於1個月內檢討及修訂「促進有線廣播電視普及發展補助執行要點」等相關規定，以利促進有線電視數位化進度及普及發展程度。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津
+7.鑑於有線電視業者幾乎都是壟斷市場經營，毛利率高達四成，值此經濟蕭條、失業率創新高、百姓生活漸趨困難各界要求降價聲浪甚大。惟各縣市有線電視費率應同降價之時，國家通訊傳播委員會以業者高額利息支出及數位化推動進程等因素考量，僅略降5元至15元，絕大多數皆未調降，理由牽強、罔顧消費者權益，未善盡主管機關之責，行政怠惰。爰此，國家通訊傳播委員會應就審查之縣市有線電視費率調整及理由，向立法院交通委員會提出書面報告。
+提案人：魏明谷　　葉宜津　　林明溱　　蔡其昌
+8.關於有線電視數位化推動進度，依據行政院之「數位匯流方案」指標，係於2014年達成有線電視全面數位化目標，惟目前有線電視系統業者頭端及傳輸網路數位化比率雖達89.8%，但用戶端數位化普及仍低，97年度至101年度6月底為止用戶端數位端普及率分別4.06%、5.15%、7.70%、11.28%及14.93%，具達到全面數位化之目標顯有困難，就此國家通訊傳播委員會應提出相關配套措施，於2個月內提出書面報告送立法院交通委員會。
+提案人：羅淑蕾　　林明溱　　葉宜津
+9.中華民國消費者文教基金會於101年9月間辦理之網路調查顯示，79.3%民眾認為有線電視每月收視費過高，83.6%民眾認為有線電視重播情形嚴重；而我國有線電視頻道數量雖多，惟目前僅有收視率之調查，至節目播出品質尚無客觀之量化指標可供評量。鑒於行政院已訂定2014年有線電視達成全面數位化之目標，屆時可承載之頻道數量將更多，節目內容亦應更趨多元，國家通訊傳播委員會應於1個月內建立頻道評鑑機制，以促進電視產業良性競爭，及協助民眾選擇優良頻道作為實施分級付費之參考。
+提案人：楊麗環　　羅淑蕾　　林明溱
+10.有線廣播電視基金每年70%之經費僅轉手過渡性質，其中對公共電視捐贈經費，由於法規未訂定考核規定，致事前審查及事後考核機制闕如，而對地方政府可獲撥付款項之考核，因考核結果與分配款項未能相互連結，而流於形式、未具實效。為使資源配置更具效率，國家通訊傳播委員會應針對公共電視所獲捐贈款項及撥付各地方政府款項建立考核機制，俾促使基金使用效率確實改善。
+提案人：楊麗環　　羅淑蕾　　林明溱
+四、委員於質詢中要求提供相關書面資料或未及答復部分，請國家通訊傳播委員會、交通部儘速以書面答復。
+通過臨時提案1項：
+鑒於悠遊卡公司與五大電信成立TSM平台之事業結合，並向公平交易委員會申請許可，未來五大電信共同經營行動支付之服務，將全面壟斷電信網路，形成服務供應商或其他大三方授信平台之不公平競爭，進而破壞行動支付之交易秩序，顯係為一個不折不扣之壟斷行為，爰要求交通部要求中華電信停止與其他電信公司及悠遊卡公司之TSM平台之事業結合。
+提案人：魏明谷　　蔡其昌　　葉宜津
+散會
+<hr>
+主席：請問各位，上次會議議事錄有無錯誤？（無）無錯誤，確定。繼續報告。
+二、交通部部長毛治國率同桃園國際機場股份有限公司董事長郭蔡文就「臺灣桃園國際機場道面整建與助導航設施提升工程計畫」及「標竿國際機場考察」進行專案報告，並備質詢。
+主席：現在請交通部毛部長報告。
+毛部長治國：主席、各位委員。今天應邀列席貴委員會，就桃園國際機場「場面助導航燈光設施及NC備用跑道統包工程」招標案、「臺灣桃園國際機場道面整建及助導航設施提升工程計畫」暨桃園機場公司「101年標竿機場參訪考察情形」等提出專案報告。
+桃園國際機場南北跑道啟用迄今均已逾30年，考量國際間航空器大型化趨勢及道面維護經費日益增加，為維護跑滑道道面及提供良好服務品質，本部規劃對該機場跑、滑道進行全面性整修，並同步進行跑道延長及助航設施等級提升等工程，以避免未來施作時，對該機場營運造成嚴重影響。
+近期以來針對桃園國際機場跑道整建工程招標過程疑義部分，本部已於本（101）年12月5日邀集行政院公共工程委員會及本部政風處等相關單位，召開專案檢討會議，期有效釐清有關招標過程及外界疑義，查明所涉採購程序是否依法依約辦理。
+有關機場公司派員出國考察標竿機場相關事宜，機場公司同仁返國後依規定提報書面出國報告，並同時將學習心得公開分享，提高知識管理效益，以供國內各機場各項營運管理改善參考。
+針對以上三項專案報告，請桃園機場公司進行進一步的報告，謝謝！
+主席：請交通部桃機公司郭蔡董事長報告。
+郭蔡董事長文：主席、各位委員。今天應邀列席貴委員會，謹就本公司執行「標竿國際機場考察」提出簡要專案報告。
+壹、前言
+桃園國際機場公司最近已評選出第三航廈的總顧問，為應未來桃園國際機場各項建設發展、考察先進標竿國際機場各項場站設施、營運、管理、財務、規劃、人力運用、公司結構、安全管理等，期能融入第三航廈及航空城規劃開發建設，精進國際機場經營管理專業技能，並培育機場管理顧問技術服務優秀人才，針對國外先進標竿機場經營管理廉價航空航廈之卓著經驗進行實地觀摩，以積極追求機場品質改善決心，不斷累積服務觀念、專業知識與技能。考察成員將參與第三航廈規劃、建設、施工與營運接管等工作準備。謹就以下辦理過程事實，以及標竿國際機場考察情形，向諸位委員進行專案報告。
+貳、辦理過程事實：
+依據101年度出國計畫，辦理之馬來西亞、日本、香港及新加坡等三團標竿國際機場考察參訪行程，係分批分時辦理，三團共遴派25人，約占公司員額17分之一，並未影響機場正常業務運作，且不論考察地點、費用核算、考察準備，均於事前依照規定，本於覈實嚴謹態度及方式準備辦理。
+參、考察專案報告：
+<img SRC="//media.getchute.com/media/htK8Hfhvw" NAME="graphics3" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htK9uoghb" NAME="graphics4" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKbgoqxk" NAME="graphics5" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKbUmqvx" NAME="graphics6" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKcTxmde" NAME="graphics7" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKdwiebc" NAME="graphics8" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKfrhlrz" NAME="graphics9" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKggaylu" NAME="graphics10" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKgQbrdj" NAME="graphics11" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKhEnlcs" NAME="graphics12" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKiIplny" NAME="graphics13" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKjFpetr" NAME="graphics14" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKkVeavm" NAME="graphics15" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKlDsfci" NAME="graphics16" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKo4idqu" NAME="graphics17" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKpIacle" NAME="graphics18" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKq7verp" NAME="graphics19" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKqZpjgz" NAME="graphics20" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKrycapl" NAME="graphics21" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKs6sqic" NAME="graphics22" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKtNtpxe" NAME="graphics23" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKuDaudi" NAME="graphics24" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKwrihyq" NAME="graphics25" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKxvtqwe" NAME="graphics26" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKyIyozk" NAME="graphics27" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKzMatxk" NAME="graphics28" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKAwnywp" NAME="graphics29" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKB4ignu" NAME="graphics30" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKBzvfeq" NAME="graphics31" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKCpmufx" NAME="graphics32" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKE5hlvs" NAME="graphics33" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKELpyrg" NAME="graphics34" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKGNpwgn" NAME="graphics35" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKHyscux" NAME="graphics36" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKI2fanz" NAME="graphics37" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKJAegcb" NAME="graphics38" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+<img SRC="//media.getchute.com/media/htKJRxyzf" NAME="graphics39" ALIGN="BOTTOM" WIDTH="535" HEIGHT="883" BORDER="0">
+此外，當我們到香港機場的時候，他們的執行總監曾提醒我們一句話，他說，機場公司要找到一個非常好的顧問、規劃設計團隊是非常重要的，但是機場本身也要有一些人員、對應的團隊來參與，共同把這個工作做好，這是非常重要的。至於機場成功的要件，第一個是硬體建設，這部分會影響到機場服務旅客的效率與態度，同時也要重視旅客的感受，以上報告，敬請各位指教。接下來請總經理針對道面整建與助導航設施提升工程計畫進行報告。
+主席：請交通部桃機公司林總經理報告。
+林總經理鵬良：主席、各位委員。今天桃園國際機場公司應邀列席　貴委員會，就桃園國際機場「臺灣桃園國際機場道面整建及助導航設施提升工程計畫」提出專案報告，並得親聆各位委員的教益，深感榮幸。
+以下謹就本計畫執行內容依前言、計畫既要（計畫整建範圍、空側設施升級、道面整建主要施工階段）、執行情形（計畫辦理情形、先期工程進度、預算執行情形）、工法評估、建設計畫書第一次修正（計畫總經費修正、計畫期程修正、分年工程經費需求及預算修正）、結語等章節簡要說明如下：
+臺、前言
+桃園國際機場於民國68年啟用，營運至今已逾30年，機場現有空側設施多已老舊，現況無法滿足未來發展之需求。近年來實際飛機起降架次成長，民國98年起降總架次為每年139,000架次（每日為380架次），99年起降總架次為每年156,036架次，100年起降總架次為每年163,200架次，101年起降總架次預計達到每年178,000架次（每日為490架次）。在未來的二十幾年中，預期航運量成長將會從每年150,000架次，增加到2035年之每年400,000架次，航機之大小、重量與輪載，都將會比現有航運量對道面造成更為嚴重的衝擊。
+為了使臺灣桃園國際機場基礎設施滿足未來發展之需求，現有之道面與燈光系統將進行大規模的整建與更新。
+貳、計畫推動情形
+一、計畫概要
+本計畫於民國99年4月14日奉行政院核定，總經費為104.46億，執行期程為99年至104年底，本（101）年度可用預算為34.83億，以下謹就計畫概要說明如下。
+(一)計畫整建範圍
+桃園國際機場現有跑道，與滑行道的道面面積大約有100萬平方公尺，為因應未來航運量之成長，有必要就現有跑、滑道（WC與EC滑行道除外）道面進行大規模整建，以提供可靠度高且維修需求低的道面。
+<img SRC="//media.getchute.com/media/htKKowdbr" NAME="graphics40" ALIGN="BOTTOM" WIDTH="600" HEIGHT="358" BORDER="0">
+(二)空側設施升級
+道面整建是會對機場日常營運造成重大影響之工程，一旦完成後，在未來數十年間，可能都不會再有大規模之道面施工。因此，此次道面整建亦是將整個空側設施一併升級的時機。謹就本計畫空側設施升級內容簡要說明如下：
+1.將設施的幾何（例如：曲線加寬部份、跑道和滑行道的淨空等）升級至可容納F類航機如Airbus A380之等級。
+2.將南跑道延長至3800公尺，以增加跑道使用之彈性。
+3.增設快速出口滑行道，及延長SP滑行道，以增加跑道及滑行道之容量。
+4.改善地面排水系統。
+5.更新機場地面燈光系統，以增加系統之可靠性與效率。
+(三)道面整建五個主要施工階段
+本計畫之施工將採分階段施工之方式進行，為隨時有備用跑道可用，NC滑行道之局部整修、升級以作為備用跑道（離場功能）被列為第一施工階段（階段1）。
+當備用跑道完成時，為避免在施工期間將桃園國際機場目前可用之最大跑道長度縮減，或將目前可用之儀降等級降低，將先延長並整建南跑道（階段2）。
+當南跑道整建完成可供營運使用之後，接著將整建並升級機場南側的滑行道，完成所有航站南邊的施工（階段3）。
+當南跑道及機場南邊部份可投入營運後，就可以關閉北跑道並進行整建。（階段4）
+當北跑道整建完成可供營運使用之後，接著將整建並升級機場北側的滑行道（階段5）。
+當完成階段5後，所有整建和升級工作都已完成，整個機場就可恢復正常營運。
+<img SRC="//media.getchute.com/media/htKLyokfn" NAME="graphics41" ALIGN="BOTTOM" WIDTH="605" HEIGHT="808" BORDER="0">
+二、執行情形
+(一)計畫辦理情形
+本計畫目前已完成跑道更名工程、先期北跑道等緊急搶修工程，與先期NC滑行道等整修工程；另「場面土建施工委託細部設計」與「場面助導航燈光設施與整建NC滑行道具備用跑道功能工程」亦於本（101）年10月起陸續決標，道面整建計畫已穩定開展。
+(二)先期跑道、滑行道工程進度
+本計畫先期跑道、滑行道工程計已完成05L-23R跑道與N1、SS（610~611機坪）、NP（N1~WC）、NP（D1~A6）、NC（N4交叉口）、NC（N1~WC）、NC（N4~NN）等滑行道版塊翻修作業，全場破損嚴重之版塊已大幅減少。另先期WC滑行道與先期SP滑行道等整修工程業已決標，預計本（101）年12月下旬進場施作。
+<img SRC="//media.getchute.com/media/htKMWhbqu" NAME="graphics42" ALIGN="BOTTOM" WIDTH="607" HEIGHT="568" BORDER="0">
+(三)101年預算執行情形
+本（101）年度可用預算為34.83億，截至10月底總執行數為0.9億，預估至年底總執行數為5.24億，未執行數為29.59億，預算達成率15.04%。雖然本（101）年之預算執行達成率不足，但整體道面整建計畫於民國104年完成之目標不變。
+三、道面整建工法評估
+桃園國際機場近年之航機起降架次，自民國98年13.9萬架次成長為100年16.3萬架次（101年上半年8.8萬架次），依目前兩岸直航航班之發展態勢，預期未來幾年仍將持續成長。計畫施工期間，對機場營運之影響必須重新檢討。
+原本總顧問建議之水泥處理重建工法，於施工期間將分別封閉南、北兩條主要跑道其中一條，期間達到7個月，也就是形成單跑道營運期達到7個月的時間。但由於上述航機架次成長的情勢變更，形成不可抗力的影響因素，因此機場公司經過邀請專家學者討論與審慎評估後，決議採AC加鋪工法，將施工期跑道封閉時間，減少為4個月。如此一來，將使機場營運之安全風險降至最低，對於機場營運的干擾減至最少，另總建造費用亦可撙節。
+四、建設計畫書第一次修正
+上述工法變更獲交通部民國101年8月29日交航字第1015012816號函原則同意後，「場面土建施工委託細部設計技術服務」業於101年10月17日決標。本公司乃依據細設顧問所提方案，辦理建設計畫書第一次修正（101年10月15日桃機工字第101800320號函）。謹就主要修正內容說明如下：
+(一)計畫總經費修正
+因變更工法、新建機坪、追加先期工程、新增道面調查、取消先進場面導引及控制系統（ASMGCS）及教育訓練等，所造成之經費增減差異，於工程預備費項目中調整，總計畫金額減為新台幣10,446,235仟元。
+(二)計畫期程修正
+助導航燈光工程統包標已於101年11月21日決標，預計本計畫共需時28個月。其中NC備用跑道施工預計於民國102年第一季開始展開；全計畫含6個月驗收及缺失改善，預計於民國104年12月完工。
+(三)分年工程經費需求及預算修正
+本計畫因調整工法，依調整工法後之期程，同步調整分年工程預算需求（詳附件－分年工程預算需求表）。
+本計畫102年度以前之年度預算已無法修正，遂依分年工程預算需求表，調整編列103年度及104年度預算（詳附件－分年預算經費表）。
+參、結語
+本計畫「場面土建施工委託細部設計技術服務」案，已於101年10月17日決標；另「助導航燈光設施及整建NC滑行道具備用跑道功能工程」亦於101年11月21日決標，道面整建計畫已經穩定開展。
+本計畫變更，影響分年預算編列部份，懇請委員指正。
+<img SRC="//media.getchute.com/media/htKNHagnh" NAME="graphics43" ALIGN="BOTTOM" WIDTH="604" HEIGHT="722" BORDER="0">
+主席：今天上午的議程是專案報告，我們本來預估專案報告在中午12時截止，下午2時30分開始審查預算，現在本席建議調整時間，上午議程於12時截止，休息30分，於12時30分開始審查預算，請問各位，有無異議？既無異議，今日議程修改為中午12時30分開始審查預算，請作業單位準備中午的便當。
+報告委員會，今日登記質詢到10時截止，10時30分休息10分鐘，質詢時間為10分鐘，得延長2分鐘。
+請盧委員嘉辰質詢。
+盧委員嘉辰：主席、各位列席官員、各位同仁。本席今天有幾個問題要就教於桃機公司林總經理。
+林總經理，你負責執行機場道面整建工程及助導航燈光設施工程，那我請教你，經過報交通部核定以後，你在中途變更工法，在統包的時候，招標公告都已經貼出去了，你從廠商的資格到產品的規範一路更正，前後改了8個地方，連電纜數量都會算錯，我不是說你們不可以改，如果改是為了讓往後發現的問題能夠正本清源，我們可以理解，但是，交通部是主管全國交通的最高單位，而國際機場又具有指標意義，101年度可使用的預算34.83億元，年底執行數大約是5.24億元，達成率應該是15.04%，而你中途變更工法，在今年8月底才由交通部核定，導航燈光設施統包工程也是一樣，連電纜線也算錯，產品的規範也一路更正，前後改了8個地方，電纜線都算錯，需求只有3.6萬公尺，算成7.2萬公尺，這種問題雖小，不過也是滿大的，會讓你們這個單位令人質疑，且合理懷疑你們的螺絲是否鬆掉了？關於這一點，為什麼會有這樣的變化？難道當初規劃時沒有考慮到這一點，或是執行時沒有人監督，抑或是執行人員不太用心，讓整個團隊受到很大的質疑？利用這個機會讓總經理澄清一下，並做強化說明。
+主席：請交通部桃機公司林總經理答復。
+林總經理鵬良：主席、各位委員。謝謝委員指教，您的指教可分為兩部分，第一是預算的執行，誠如委員所提示與關切的，我方才也報告過，我們的預算執行的確落後。但是有兩項在今年10月17日及11月21日已分別決標，所以我們已經穩健展開，至於104億的工程經費預算跟預算執行，依我們工程處所列出來的詳細進度，將會在103年9月底，亦即103年第3季，即會追到原編預算與執形預算平衡，這一點可支持我們在104年完成的總目標不變，此其一。第二，委員提示關於招標過程所有技術資料的修改，請容許我請總工程師向委員報告。
+盧委員嘉辰：好。雖然你們有請交通部和公共工程委員會替你們背書，也查無任何不法情事，但是你們所呈現出來的瑕疵面，請總工程處說明一下，為什麼會差那麼多？大家都是內行人，也都是由工程師在規劃設計，為什麼差那麼多？
+主席：請交通部桃機公司工程處張總工程師答復。
+張總工程師垂龍：主席、各位委員。這一點要特別向各位委員先進報告，這個案子在整個標案的設計過程，我們是設計統包，在基本設計、也就是總顧問幫我們備標時，是採取基本設計完成百分之三十、我們的得標廠商必須要完成另外百分之七十的設計與施工，所以當總顧問在準備基本設計百分之三十的比例時候，對於數量的精算程度是要留給得標的廠商來做，因此根據FAA跟民航作業規定的規範，在數量計算上會因為它的彈性造成認定上有一些不同，我們總顧問在準備規格與數量時，因為如此所以造成一些數量上的瑕疵，這部分我們以後在監督及與總顧問共同工作的過程中，我們會檢討改善。以上特別提出來向委員說明。
+盧委員嘉辰：好。再請問總經理，如果讓你們以目前的進度，而且更改工法，會不會再有所改變？在執行時會不會又面臨瓶頸，或發現什麼瑕疵而導致工程窒礙難行或嚴重落後？這種情形會不會再發生？
+林總經理鵬良：報告委員，不會。因為從今年上半年開始，我們已經把所有可能干擾正常營運的因素全面拿出來檢討，現在採取的工法及所有進行的招標作業都是把干擾的因素排除，然後納入進去，所以如同我們方才的報告，兩個標案已經在10月17日及11月21日決標，所以我們現在已經穩定開展所有道面整建工程。
+盧委員嘉辰：這兩個工程預計何時可以完工？
+林總經理鵬良：104年年底。其中因北跑道已經加強完成，依據最早順序的計畫，道面整建是從南跑道開始，南跑道從明年（102）年6月開始，主跑道只關場6、7、8、9四個月，後面就要連續做到103年5月底，計畫在一年內把南場全部完成，其中南跑道只關閉四個月，使其對營運的衝擊減到最低。接著自103年6月做到104年5月底，一樣的，北跑道也只在103年6、7、8、9月關閉四個月，其他八個月就做其他的滑行道，現在所有工法改變的結果，對關閉主跑道讓單跑道營運的時間從七個月限縮到四個月，這是相當嚴謹的設計與規劃。
+盧委員嘉辰：希望你們要戰戰兢兢，經過這一次的更正與善後處理，不要再重蹈以前所發生問題的覆轍。
+林總經理鵬良：謝謝委員的鼓勵。
+盧委員嘉辰：其次請教毛部長，第一航廈的整修工程何時可以完工？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。第一航廈整修工程凡所有跟旅客有關的部分，將會在12月底全面開放。
+盧委員嘉辰：12月底開放之後就等於邁入一個新的里程碑。
+毛部長治國：對。將來後續還有一些小工程，但那都不影響大局，還會再繼續進行，我將之稱為收邊的工作。基本上，凡跟旅客進出有關的設施，到這個年底都可以全面開放。
+盧委員嘉辰：這對桃園機場在國際機場營運評比上有沒有幫助？
+毛部長治國：依我們自己的判斷，過去桃園機場第一航廈一直在施工中，因為一方面營運、一方面施工，所以大家的印象就好不了。但是在百分之八十至百分之八十五開放使用之後，大家已經可以感受到整個機場的氣氛不一樣，所以在評比方面，我們從上一次的第36名變為第11名，我們認為這一部分是絕對有幫助的。
+盧委員嘉辰：今年12月底全數完工開放之後，會讓人民的觀感提升。
+毛部長治國：是。而且應該可以更進一步，因為在入境部分將會增加很多賣店，並全面開放，這部分都很光鮮亮麗，所以應該會有進一步的加分作用，我們希望能發揮這個效果。
+盧委員嘉辰：那麼下一次世界國際機場的評比名次應該會往上提升，你有沒有把握？
+毛部長治國：因為評比並不是完全操之在我，但是我們認為這些改善對於名次的保持應該會有幫助。
+盧委員嘉辰：好，那我就看你的表現。
+毛部長治國：謝謝。
+盧委員嘉辰：最後請教部長，有關花東快速道路部分有沒有規劃？
+毛部長治國：目前我們在明年的預算中有一項1,500萬元的可行性研究方案。
+盧委員嘉辰：因為現在台灣在推動國際化，不管陸客或是各國的觀光潮也不斷提升，但東部地區的交通問題最為嚴重。
+毛部長治國：東部地區目前在執行中的已經有1,300億左右的案子，將來還要繼續投入，目前在研議中的會超過2,000億，106年以前應該都會陸續執行，「花東快」應該還在這部分之外。目前「花東快」是在可行性研究，將來對於這種重大工程的推動，一方面是環保問題能否克服，另一方面是財源問題，因為這個財源也很大，到時候財源從哪裡來，這些問題都要克服。所以這次在工程可行性方面倒不是大問題，而是環保跟財務方面的可行性如何，這是將來的重點。
+主席：請李委員昆澤質詢。
+李委員昆澤：主席、各位列席官員、各位同仁。現在部長重大施政目標的首要之務就是安全，這也是你當初施政報告中最為重要的政策目標。但是我們看到國內遊覽車事故頻傳，造成重大傷亡，現在連飛安也讓民眾深以為憂，就以遠航最近跟媒體互槓而言，媒體說遠航有三次空中熄火，並且隱匿不報，這是何等重大之事？遠航卻說是關車，不是熄火，也沒有隱匿不報。對於這樣的爭執，交通部在第一時間有沒有掌握實際狀況？有沒有在第一時間向社會大眾說明？我知道飛安會其實有接到相關資訊，但是飛安會認為遠航這三次空中熄火不足以影響飛航安全，只要求民航局檢討。是不是有這樣的事情？請簡單說明。
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。這個問題請民航局說明。
+主席：請交通部民航局陳副局長答復。
+陳副局長天賜：主席、各位委員。遠航三次的空中關車事件……
+李委員昆澤：是關車還是熄火？抑或關車就是熄火，熄火就是關車？
+陳副局長天賜：關車跟熄火不一樣，熄火是航空器在飛行中因為故障等原因，自己熄火；關車是駕駛……
+李委員昆澤：因為駕駛操作，強制執行關車？
+陳副局長天賜：對，駕駛因為儀表顯示而把引擎關掉一個。關於這三次，是去年有一次、今年有二次，都有跟民航局通報……
+李委員昆澤：有沒有隱匿不報的狀況？
+陳副局長天賜：沒有這個現象，都有跟民航局通報；民航局也做了調查，調查之後也有列管。這是牽涉到整個飛航安全的事件。
+李委員昆澤：當然關係到飛航安全，不管是關車或空中熄火，因為我們的飛機都是雙推動器，只要有一個引擎關車或熄火，雖然還能勉強維持飛行，但是它的推力、速度、操控，還是會受很大影響。這樣是不是以後台灣的飛機都要掛三個引擎？因為有一個常常會熄火、關車。這不只是遠航的問題，華航在今年也出現三次空中熄火事件，是GE的原廠引擎出問題，是不是請簡單說明？
+陳副局長天賜：在年初的時候有這類事項，……
+李委員昆澤：這樣的比率是不是很高？今年飛機滑出跑道這麼多次，又有這種空中熄火也好、空中關車也好的事件，雙引擎飛機的一個引擎就當掉了，讓我們民眾如何心安？我們搭乘的飛機在兩個引擎中，常常有一個會當掉，如果兩個同時當掉呢？民航局就只能列管、只能檢討而已嗎？
+陳副局長天賜：會要求遠航改善，也有加強對遠航的查核。
+李委員昆澤：我們這種一個引擎當機，或者說是空中關車、熄火的事件，是不是高於國際一般標準甚多？
+陳副局長天賜：關於遠航這件事，遠航是去年4月18日……
+李委員昆澤：不管是遠航或華航，這樣的空中熄火狀況，是不是高於國際飛航安全的標準？
+陳副局長天賜：這部分我們是按照原廠標準，確實要求航空公司執行，絕對不會打折扣。
+李委員昆澤：不要官腔官調，我在跟你討論專業的問題。華航這三次就是出現在引擎的原因，GE的引擎目前全世界只有一百四十多個，我們華航就有四十一個，並發生三次熄火，民航局跟華航已經共同成立檢討小組。我現在是替社會大眾要求民航局重視飛安問題，因為這讓民眾的心嚇壞了，搭飛機時，兩個引擎中的一個隨時有可能空中關車，雖然雙引擎雙推動飛機一般都有考慮到單引擎飛行的安全性跟路程，但這終究不是安全的。
+陳副局長天賜：遠航在去年4月18日開始營運以來，關車了三次，跟世界同樣機型相比，……
+李委員昆澤：遠航是在100年4月復航，就發生三次所謂空中關車事件也好、熄火事件也好，民航局到今年10月才發函要求其注意，速度會不會太慢了？
+陳副局長天賜：我們每次都發函要求他改善，還有派檢查員駐站檢查，追蹤其一定要改善完成，給民眾安心。
+李委員昆澤：部長，我們要特別注意飛航安全，因為遊覽車意外已經重創台灣觀光形象，我們對國內外旅客生命財產的保障要深自檢討，現在連飛機滑出跑道的狀況也已經屢見不鮮，而華航跟遠航又相繼出現空中熄火的狀況，這對旅客安全的衝擊非常大，部長要加強督促、檢討，不可以再發生這樣危及飛安的狀況。
+毛部長治國：關於滑出跑道，照我瞭解，中間有一部分原因是最近的雨比較多，視線有影響，跑道……
+李委員昆澤：部長，不能一直怪氣候，遊覽車出事也怪天氣、怪下雨，飛機滑出跑道還是怪氣候、怪下雨。
+毛部長治國：委員，請聽我講完，我們當然有對策。就是為了因應這種天候異常比較多的情形，所以我們最近在跑道、燈光各方面都有強化的措施。我的重點是講後面這一點，前面只是一個現象，這個現象跟過去比較異常，所以在因應上要有對策。關於空中關車的情形，我們先要確定原因是什麼……
+李委員昆澤：你過去也擔任過民航局局長，對於飛安及飛航相關的管制、要求，都非常嫻熟，這部分你有什麼具體政策與說明，以保障國內外旅客飛航的安全？
+毛部長治國：我剛剛已經講過，對於空中關車事件一定要先瞭解其原因，看看關車的理由是什麼，而這理由是否可以從維修來強化，以避免這類事件出現的頻率過高，這些都是民航局需要強化的部分。
+李委員昆澤：這次桃機公司分別到馬來西亞、日本及東南亞三個地方考察，也考察了廉價航空。據悉，這三個地方都有廉價航空航線，請教董事長，你們是搭一般的飛機去考察，還是搭廉價航空的飛機去？畢竟你們去考察廉價航空，所以應該以旅客立場試乘廉價航空才是。
+主席：請交通部桃機公司郭蔡董事長答復。
+郭蔡董事長文：主席、各位委員。我們是去考察廉價航空的設施……
+李委員昆澤：所以不需要搭廉價航空？也不需要站在旅客立場？你們根本就是觀光團！
+郭蔡董事長文：我們是去考察廉價航空的設施。
+李委員昆澤：所以你們更應該站在旅客立場才是。
+郭蔡董事長文：但是並沒有適當航班可以搭乘，所以航班也是一個問題。
+李委員昆澤：交通部真是一個旅遊部，有安全問題就說氣候，考察班機的安排則說沒有適合航班，真是莫名其妙！廉價航空來台灣已經八年了，目前有11家廉價航空，其中8家飛桃園國際機場。聽說交通部打算將舊圓山空廚改建為廉價航空航廈，預計兩年後正式營運。部長以推動廉價航空到其他機場，增加中南部旅客進出入，並活化當地機場為政策宣示，問題是，推動廉價航空竟然需要明年一整年來做評估，後年才有可能實施。光評估就要一整年，效率上會不會太差？
+毛部長治國：其實我們也注意到一個問題，那就是將來是否讓桃園機場繼續入駐很多的廉價航空！如果廉價航空塞滿了我們龍頭機場，那就根本沒有機會轉到其他機場去！由於這問題層級已經超過桃園機場公司可處理範圍，所以我要求民航局進行檢討。第一，國際廉價航空飛臺灣沒有任何障礙，這是首先要確認的，以避免廉價航空不進臺灣；第二，如果將來還有廉價航空要進入臺灣，屆時是全部收到桃園機場，還是鼓勵往其他機場去？最近就有航線要進來……
+李委員昆澤：當然是鼓勵他們到次要機場去啊！因為在國際上，廉價航空飛的，均非當地主要機場。
+毛部長治國：這就是我要講的。最近有幾家廉價航空想要進入桃園機場，對此我們有意見，同時也希望民航局能儘速調整相關的降落費、使用費，鼓勵廉價航空到其他機場。至於桃園機場的廉價航空是否要再增加，我們會在政策上有所管控。
+李委員昆澤：因為桃園機場的降落費是最便宜的，甚至只有小港機場的六折。
+毛部長治國：是這樣嗎？
+李委員昆澤：桃機公司的降落費可以自行規定，其他16個機場才由民航局統一……
+毛部長治國：這點我請民航局來說明。
+李委員昆澤：因為時間到了，所以我繼續請教部長。明年需要一整年的時間評估，到後年才能實施，我認為時間上應該更有效率，甚至可以先以小港機場來做評估、試辦，畢竟小港機場有高鐵、臺鐵還有捷運，擁有便利的交通網，更是一個都會區，最有條件成為廉價航空進駐的推動動點。不過我還是認為要到後年才能實施實在太久了！
+毛部長治國：向委員報告，首先，是否為進駐桃園機場的廉價航空設計航廈一事，我們會通盤考量；其次，其他機場發展廉價航空，這是馬上要做的事，這不會有一年、兩年的評估問題。
+李委員昆澤：對於大眾運輸安全，對於遊覽車及飛安，都請部長特別重視！因為今年已經出現太多狀況，我們已經無法承擔遊覽車或飛安再出現重大的安全事故。
+毛部長治國：瞭解，我的理念與委員完全一致。謝謝委員。
+李委員昆澤：謝謝部長。
+主席：請羅委員淑蕾質詢。
+羅委員淑蕾：主席、各位列席官員、各位同仁。葉匡時次長說應該多給機場人員出國考察的機會，以增加其國際能見度與學習機會，否則出國也無法與國外人士溝通。他還說，有很多國外人士到機場來，可是我們的人員無法溝通，所以必須派員出去考察。也因此，廉價航空考察之旅，幾乎機場公司的所有單位都有人參加，包括政風室、國會聯絡人、會計、財務都有人去，請問這樣做，就可以和國外人士溝通嗎？要與國外人士溝通，首先要加強英語能力訓練，你們是否安排機場人員下班後補習英文？是否輔導、測試機場人員的英語能力？或者讓他們報名參加英語檢定考試？難道只是讓他們多出去幾次，就可以與國外人士溝通？只因為無法溝通，以致幾乎所有行程都是以大陸為主，甚至去考察大陸的四川黃龍機場，花了五、六十萬，請問黃龍機場值得考察嗎？去那裡就可以與國際人士溝通嗎？這樣有助於提升機場公司人員與國外人士溝通的能力嗎？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。兩點向委員報告：第一，據我瞭解，考察廉價航空，並非他們這幾次考察的重點，只是項目之一，用以瞭解其他機場與廉價航空的運作方式；第二，有關政風、會計人員參加考察這點，其實公務系統都有經驗，很多時候政風、會計及人事等單位，如果不瞭解我們要做什麼，往往會造成經費編列與溝通的困難。所以有時會選擇適當情形，請這些單位一同前往，看看究竟在做些什麼事、在問些什麼問題、瞭解些什麼狀況，以確定這種考察是不是真對業務有幫助。雖然這些人不是直接的業務人員，但這樣一來，將在行政程序上會更理解為什麼必須編列這些預算。這點我必須替他們講話！
+羅委員淑蕾：部長，你會不會拗得太過份了
+毛部長治國：沒有，這點我可以大聲講，我們中央單位有時候也會請主計總處及相關單位一起參加我們的行程，這是少數的比例，是少數的比例，這是我要跟委員報告的！
+羅委員淑蕾：這根本就是假考察之名，行觀光之實！
+毛部長治國：這是有必要的！我要大聲地講，這是有必要的！
+羅委員淑蕾：這有必要嗎？
+毛部長治國：這可以讓他們瞭解業務單位在做些什麼，預算編列並沒有浪費公帑……
+羅委員淑蕾：也就是說，派他們去就是去監督他們……
+毛部長治國：沒有，這不是每一趟……
+羅委員淑蕾：難道他們的報告不可信嗎？
+毛部長治國：不是每一團都有，我必須替他們澄清。
+羅委員淑蕾：你自己看，這三團裡面有兩團都有排會計和財務人員，根據你們的報告，你說你們去考察馬來西亞，也有去參觀吉隆坡的航廈設施，並和機場設計公司做交流，也有跟廉價航空公司亞洲航空做討論，考察低成本航空的航廈設施和商業設施。在這整個考察團當中，與行程完全無關的，包括航務組、政風室、公共事務室及維護組。
+毛部長治國：航務組當然有關係啊！
+羅委員淑蕾：還有工程組。
+毛部長治國：維護組也有關係啊！
+羅委員淑蕾：那你告訴我，他們考察了哪些項目？有哪些心得？
+毛部長治國：細節讓……
+羅委員淑蕾：還有你們去香港機場參觀貨運發展、戰略發展、財務管理、資訊科技管理、員工績效考核及培訓計畫。第二站還去新加坡機場考察，可是會計、財務人員都沒有，請問你們會計處、財務處人力資源的考察心得，新加坡的財務管理、機場的會計制度有哪裡值得我們效法的地方？還有哪些財務規劃是值得臺灣學習的？人力資源運用有哪些值得我們效法的？請你告訴我。
+毛部長治國：這個問題請機場公司來說明。
+主席：請交通部桃機公司郭蔡董事長答復。
+郭蔡董事長文：主席、各位委員。財務部分，先請財會單位……
+羅委員淑蕾：新加坡機場的財務制度……
+毛部長治國：起碼可以澄清一點，他們出國不是都到大陸去，這一次報告所涵蓋的範圍事實上還是以國際為主啦！
+羅委員淑蕾：本席等一下再來問大陸的部分，請你們先就這三次考察回答本席，尤其是會計、財務部分，既然你們去考察了新加坡機場，請告訴本席，新加坡機場的會計制度有哪些值得我們效法的地方？
+郭蔡董事長文：我們是不是請……
+羅委員淑蕾：財務規劃有哪些地方是臺灣必須加強學習的？
+主席：請交通部桃機公司會計處汪處長答復。
+汪處長文寬：主席、各位委員。會計處這一次參訪的重點有三點，香港機場的部分，我們訪談了對方的會計單位，主要是瞭解金融資產和金融負債的整體管理方式，第二站是到樟宜機場……
+羅委員淑蕾：桃機公司也要去投資金融資產嗎？
+汪處長文寬：我先向委員報告我們所瞭解到的香港機港的管理方式，由於香港的金融環境比臺灣來得發達，所以我們看到他們主要的……
+羅委員淑蕾：這些東西網路都有啊！還要你講嗎？還要你去考察嗎？這是全世界都知道，網路都可以搜尋到的東西，難道網路上沒有嗎？
+汪處長文寬：每個產業有每個產業的財務特性，財會單位一定是根據產業特性去做後續的決定與判斷，因為臺灣……
+羅委員淑蕾：請你告訴我，你們考察了什麼？
+汪處長文寬：我們發現香港機管局的固定資產資金來源，占整體資金來源的93%，這一點跟臺灣的金融環境有很大的差異，他們為了規避利率上的風險，所以後來又透過利率交換IRS的方式來做負債轉換，將其中一半轉換成浮動利率。
+羅委員淑蕾：這些東西網路上早就有了，所有的書也都有提到，你們有必要花這麼多錢跑到那些地方去問人家？難道這樣才會瞭解嗎？我可以拿好幾本書給你看，我甚至可以幫你從網站上找出資料，這樣做有必要嗎？部長，你乾脆就承認你是因為你們的員工很辛苦，所以就藉這個機會讓他們出國旅遊，這算是員工福利。
+汪處長文寬：我要做個澄清……
+羅委員淑蕾：我最討厭這種掛羊頭賣狗肉的行為！你們到底去考察了什麼？你說香港機場的固定資產資金來源與臺灣的比例不一樣，香港的投資模式也不一樣。
+汪處長文寬：因為每個行業有每個行業的財務特性，桃園機場公司是臺灣唯一的機場公司，即便我們可以根據學理上提出我們的想法，但是如果要去印證它，還是要透過到國外實地進行面對面的直接訪談，才能夠印證我們的想法對不對。
+羅委員淑蕾：請問香港機場和新加坡機場的財務管理，與國際上其他機場的管理有哪些不一樣的地方？
+汪處長文寬：光是固定利率占資金主要來源這一點，就跟臺灣大部分的公司有很大的不同。
+羅委員淑蕾：那是因為臺灣資金規模的問題，全世界各地的機場幾乎都是大機場，所以他們可以去投資他們想要投資的東西，但臺灣卻限於法令規定，縱使你們去學習其他國家的做法，請問臺灣可以去投資金融資產嗎？臺灣允許機場公司的資金去投資金融資產嗎？
+毛部長治國：將來航空城的推動，機場公司整個要操作將近3,000億的投資啦！這中間哪些地方要用自有資金，哪些地方要融資，融資又要用什麼方式，然後哪些要開放民間投資，整個計畫是非常複雜的嘛！
+羅委員淑蕾：非常複雜？
+毛部長治國：有些東西教科書上寫的是一回事，面對面去溝通得到的心得還是會不一樣嘛！
+羅委員淑蕾：一定要到香港、新加坡去考察嗎？
+毛部長治國：面對面去溝通還是有其價值啊！你不能完全否定這個東西嘛！
+羅委員淑蕾：一定要到香港、新加坡去考察嗎？
+毛部長治國：因為他們是最近的地方，我們去瞭解一下他們的操作方式，面對面當然是有必要的。
+羅委員淑蕾：部長，你不要硬拗啦！那就請部長將這一次去考察的報告拿來給本席看，我想要知道財務部分到底考察了哪些東西，請你不要忘記，我是會計師公會理事長，請你把這一次會計、政風、公關人員去考察時跟哪些人會談，以及談了什麼、心得是什麼拿來給我看，但千萬不要去網路上抄。我覺得今天你乾脆就承認吧！你管不好機場已經被大家詬病了，漏水問題到今天……
+毛部長治國：漏水已經是歷史了，我要大聲講啦！那是施工期間的問題嘛！現在已經完工了，你還拿施工期間的問題出來談，我當然要生氣啊！
+羅委員淑蕾：你生氣什麼？
+毛部長治國：因為今天已經完工了，你還將過去施工過程期間的歷史拿出來講。
+羅委員淑蕾：危險道路沒有去調查、沒有去禁止，死掉13個人，結果你完全推給人為因素、推給司機，機場漏水問題修了多久？到現在還修不好！
+毛部長治國：現在完工了嘛！
+羅委員淑蕾：甚至偷渡客還偷渡進來，華航飛機的天花板，偷渡客接二連三的進來，你一點都不覺得羞愧，把一個機場管成這個樣子，把一個機場弄成這個樣子，你還好意思在這邊大聲講話、在這邊生氣，你要生氣也應該對機場的工作人員生氣啊！
+毛部長治國：我是針對你剛才講漏水這件事情，我當然不高興啊！
+羅委員淑蕾：我問你修多久了？
+毛部長治國：就要這個時間，就要兩年半啊！原來修的時間甚至還要更長啊！
+羅委員淑蕾：你將機場管理成這個樣子，員工明明是假考察之名行觀光之實，所有人都出去……
+毛部長治國：我覺得委員不能全盤否定啦！這一點我也要大聲講啦！
+羅委員淑蕾：請問你們到黃龍機場考察什麼？澳門的機場也是一樣，在座的人包括媒體朋友、委員在內，誰沒有去過澳門？澳門機場值得你去考察嗎？你們到底是去幹什麼？黃龍機場值得你去考察嗎？你們到四川去花了五、六十萬的經費，包括董事長、總經理在內，一共有6個人跑去黃龍機場，你不要以為黃龍機場沒有人去過哦！
+毛部長治國：據我的瞭解，他們是去北京，然後在整個行程裡面找一個時間再去順便看一下……
+羅委員淑蕾：你說根據你的瞭解，表示你並沒有把精神放在機場公司上面，什麼北京，大陸四川省機場公司在這邊，可是你們卻去黃龍機場……
+毛部長治國：那不是在這一批裡面，這是過去的行程，而且也有聯誼的意思在裡面，他們是去做訪查。
+羅委員淑蕾：究竟是去國外機場聯誼還是考察？
+毛部長治國：委員，我覺得你不要混在一起嘛！今天立法院質疑的是這一次年終出去的目的在哪裡。
+羅委員淑蕾：所以部長的意思是說只能質疑這三次，不能質疑以前的行程嗎？
+毛部長治國：沒有，都可以說明嘛！
+主席：時間到了。
+羅委員淑蕾：其他次都不能質疑嗎？
+毛部長治國：他們並不是專程到黃龍去的，而是去北京……
+羅委員淑蕾：政風室是去考察什麼？國會聯絡人是去考察什麼？包括你們的總務、會計，所有人的報告都拿出來給我看！
+部長，你說他們不是去黃龍機場，而是去北京，這表示部長真的太不用功了，機場公司今天會這樣子搞，就是因為你根本沒有把心思放在上面。
+毛部長治國：我請他們來說明。
+羅委員淑蕾：花了56萬3,692元，誰去呢？董事長郭蔡文去，副總經理魏勝之、候源連，還有林日揚！林日揚是誰呢？他就是航空站科學博物館的人！另外，還有劉光島、許均照，赴黃龍機場考察，花了50幾萬元，什麼時候去的？今年7月3日到7月7日，黃龍機場值得你們去考察嗎？
+主席：時間到了。
+毛部長治國：我修正一下，那是到成都去，順便到附近去瞭解。
+羅委員淑蕾：順便？順便去旅遊？順便到九寨溝嗎？
+毛部長治國：跟委員報告，公務員出國，我們不能全盤予以否定，說他們都是去旅遊，而是要肯定其主要的目的，如果他真的很離譜，我們當然會辦人。但是他有一定的目的在身，我們卻全盤否定，說他去旅遊，我覺得這樣不公道。
+羅委員淑蕾：這部分102年所編的預算大部分都是到大陸去，去哪些地方呢？大陸有那麼多機場值得你去考察嗎？大陸的二、三流機場……
+毛部長治國：黃龍機場是全世界最先進的高地機場。
+羅委員淑蕾：當然，你現在是不能去，但黃龍機場，本席已經去了四、五次，值得考察嗎？澳門機場值得考察嗎？
+毛部長治國：我們提書面給委員。
+主席：請楊委員麗環質詢。
+楊委員麗環：主席、各位列席官員、各位同仁。請問林總經理，你是什麼科系畢業？
+主席：請交通部桃機公司林總經理答復。
+林總經理鵬良：主席、各位委員。我是EMBA，學企管的，原本是學外文。
+楊委員麗環：哪種外文？
+林總經理鵬良：英文。
+楊委員麗環：郭蔡董事長，你是學什麼的？
+主席：請交通部桃機公司郭蔡董事長答復。
+郭蔡董事長文：主席、各位委員。第一個是營建，第二個是土木，另外還有都市計畫。
+楊委員麗環：你去哪裡學？你大學讀什麼科系？
+郭蔡董事長文：大學是唸土木系。
+楊委員麗環：你跟飛機、航運有關嗎？一點關係都沒有吧？
+郭蔡董事長文：機場跑道、航廈建設都有關。
+楊委員麗環：你是知道怎麼做工程而已？好。請教桃機公司魏副總，你是學什麼的？
+主席：請交通部桃機公司魏副總經理答復。
+魏副總經理勝之：主席、各位委員。我是中文系畢業。
+楊委員麗環：在機場方面，你曾經擔任過什麼工作？
+魏副總經理勝之：我擔任過人事主任、業務組組長、航空站副主任擔任了12年、民航局主任秘書……
+楊委員麗環：你在民航局服務多久？
+魏副總經理勝之：連機場部分算在內的話，總共是三十幾年。
+楊委員麗環：另外，請教侯副總，你是學什麼的？
+主席：請交通部桃機公司侯副總經理答復。
+侯副總經理源連：主席、各位委員。我學土木工程。
+楊委員麗環：你在民航局服務了多久？
+侯副總經理源連：這個工程從桃機第一期……
+楊委員麗環：你就一直在民航局？
+侯副總經理源連：不是，我中間有離開過，桃機第一期待了3年，然後第二期航站，我又回來做了3年。
+楊委員麗環：林總經理，你曾經在民航局擔任過任何職務嗎？
+林總經理鵬良：沒有。
+楊委員麗環：郭蔡董事長，你在民航局有擔任過任何職務嗎？
+郭蔡董事長文：第一，我在交通部內待過一年，但是…….
+楊委員麗環：你那是從桃園借調過來，你以前是副縣長，我很清楚。
+部長，我們當初在推航空城條例時，為了要延攬專業的人才，所以，成立一個桃園機場股份有限公司，你應該很清楚。當時我們大聲疾呼，其他立委都非常反彈，我們六位桃園的立委，當時卯足勁，一定要成立這樣的公司，就是為了希望將來能夠交給非常專業的CEO來營運，因為我們擔心行政體系中沒有專業的人才來帶領。今天羅委員的質詢就很明顯，無論什麼機場，你們都去看，次長還說，這樣可以增加語文能力，有利於與別人溝通。本席對此感到很悲哀，根本就沒有專業。
+毛部長治國：主席、各位委員。重點不是語言能力這部分，而是經驗的直接……
+楊委員麗環：對，你講到了重點。你們次長不應該這麼說，部長馬上就知道重點不在這裡。
+毛部長治國：語言訓練是用其他方式，倒不見得一定是透過訪談。
+楊委員麗環：所以說，你要找千百個理由都可以。部長，我很失望，今天你當一個部長，機場出了這麼多狀況，這不是現在才出狀況，以前就有，其實這不能都怪你，因為現在飛機的航班很多、機場需要擴建等等的因素很多，但這不是最好的理由，我們給你這樣的一個公司，包括即將升格為桃園市政府的桃園縣政府也另外成立了公司，目的也是為了延攬專業人才，那現在真是笑話一場。除了交通部的兩位副總經理曾經在民航局工作過，我們當時還信誓旦旦，把條件放寬以延攬國外的專業人才回來服務。
+毛部長治國：委員，請容許我說，像香港機場一度延攬一位台籍的經理，該經理根本是來自金融界，所謂找CEO、國際人才不見得……
+楊委員麗環：你提到金融界，剛才你們的財會人員不是說你們到香港……
+毛部長治國：我現在就要說明，像這種……
+楊委員麗環：部長，它確實需要……
+毛部長治國：我也要補充一點，我們現在能夠找像林總經理這種背景的人來，其實在薪水上是委屈的。現在一個肥貓條款就讓委員所講的那個精神喪失掉了，人家通常不願意來，可能連報名都不太願意來報。一個肥貓條款幾乎就把這些都打死了嗎？
+楊委員麗環：是嗎？
+毛部長治國：是。
+楊委員麗環：換言之，你們找來的這些都是不入流的人，所以，現在才出這麼多的問題？你們這一群都是應該讓機場出狀況的人，是嗎？
+毛部長治國：沒有，我不是從那個角度來講這個問題。我是從這個條款的效果來談。
+楊委員麗環：部長，我跟你一樣，我非常、非常期待臺灣經濟能夠發展，臺灣是一個海島，我們絕對有非常大的義務要在對外航空及海運上有很大的發展，我們委員尤其是桃園的立委卯足勁去拼了一個所謂的桃園航空城條例，也如你們所要求的，把所有的組織都盡可能放寬，今天你來告訴我，因為什麼條款云云，換言之，你找的都是二、三流的人。
+毛部長治國：不是這麼講，我是說他們願意來都是委屈了，這是我的重點，希望大家不要……
+楊委員麗環：是委屈嗎？很多公務機關的人還想進到那個肥缺。部長，我不想再跟你打口水仗……
+毛部長治國：因為他的待遇不能比我高，但是，國際行情他的薪水是要比我高才行。
+楊委員麗環：部長，你也算是一個我們相當肯定的部長，你的經驗也很豐富，但是，你千萬不要再用過去的思維及行政機關長久以來一些制式的想法，也許用人不是你可以完全主導的，但為了這個國家，你應該向上面的人建議，不要再把那些酬庸性質或尸位素餐的人塞進來，除了多編一些預算照顧底下的人封口、安排出去走走透透氣以外，還能做什麼？部長，這是攸關未來國家的發展，你位居龍頭，我們期待已久，……
+毛部長治國：瞭解。
+楊委員麗環：說實話，這個有什麼好去參訪的？哪一個大型的機場不都是最新的？你要用的是真正的人才……
+毛部長治國：跟委員報告一點我自己的心得，別人一直跟我說仁川機場如何如何，但很遺憾地，從我上任以後一直都沒有機會去，我後來是利用到俄國開會的機會，路過仁川機場，我去親眼看了一下，因為別人都把它講得非常神奇，我自己也很好奇，而光是從圖片看都不夠，唯有到現場走一遍，自己心裡可以評估，將來我們第三航廈如何做可以趕得上它，沒有問題。
+楊委員麗環：部長，一個專業的……
+毛部長治國：親身走一趟，跟看書面或聽別人講是完全不一樣的。
+楊委員麗環：部長，你錯了，一個專業的人不需要花公帑，我只要聽到哪個地方對臺灣有幫助的，我立刻就……
+毛部長治國：還是有差別，有時候親眼看到……
+楊委員麗環：你可以去啊！說實話，很多機場都是新的，本席也是一個講求國際化的人，但是，如果你這一群人根本就不是這方面的專業，就算他到現場走了十趟，還是聽不懂啦！這樣你瞭解嗎？今天本席就講到這裡，我認為你們這些人放在該去的位子的話，都是好人才，但是，如果丟到了不對的地方，就會影響我們臺灣未來的發展。本席言盡於此，國家花四千多億要打造航空城，你知道那是把多少民眾一毛錢一毛錢的稅收拿去給你們用的？
+毛部長治國：我們戒慎恐懼。
+楊委員麗環：你戒慎恐懼，還可以在這裡大聲疾呼？今天從你的基本條件，我就認為你應該要好好檢討，而不是在枝節末稍之處去幫他們維護。
+毛部長治國：完全同意。
+楊委員麗環：今天你所呈現的這些問題，包括熄火、跑道整修，到現在都還層出不窮。我知道一開始是有困難的，但是，千萬要用對人，不要用一些別人丟給你的人來經營這個公司，這是沒完沒了的浪費公帑，而且是草菅人命。
+另外，遊覽車的部分，嚴重影響我們的觀光業，有民眾來跟本席反映，你們現在的規定是，大貨車駕照滿一年，可以直接在監理站考照；大貨車駕照滿半年、持有小客車滿兩年，在訓練班合格即可直接考駕照。有很多駕駛員跟我說，尤其臺灣的道路有很多落差的情況，這樣的大客車駕駛，其實是很危險的，部長，本席建議，如果有這種狀況，他們的考照應該要有實況模擬訓練，過去我們就說應該要像飛機一樣有實況模擬，大客車的考照訓練部分，將來是否應該有這樣的路考，因為觀光發展是我們未來發展的重點，本席提醒你們一定要重視，否則一旦毀了我們的名譽，將來大家都賺不到錢。
+毛部長治國：我們之所以要規定遊覽車、大客車甚至是巴士等要有這些經驗才能考，最主要是他的等級高，相對地表示對其資格的要求高。
+楊委員麗環：希望你們注意來自專業的建言。謝謝。
+毛部長治國：謝謝。
+主席（魏委員明谷代）：請林委員明溱質詢。
+林委員明溱：主席、各位列席官員、各位同仁。我們公務人員出國考察，每個主管都會有這樣的心情，工作考察是主要的目的，然後，考察完畢到其他觀光地區去觀賞也是無可厚非。我自己當過行政首長，也很清楚，我以前帶公所的職員出去考察，也知道「摸蛤兼洗褲」，出去的時候，一方面考察，一方面觀光，這是難免的。所以，我們立法委員對於你們出國考察也不要這麼嚴苛，一定要如何如何，我認為這樣是比較不公道。請部長平息一下心情，不要動怒。
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。謝謝。沒有、沒有。
+林委員明溱：部長為桃機公司這些出國考察的人辯解是理所當然，我可以體會，現在本席想瞭解的是，你們這次出國考察，有沒有得到真正、好的改進構想或新的創意？首先請教張總工程師，你們此次到香港、新加坡，總工程師要瞭解的範圍很廣大，你在分別看過香港和新加坡機場之後，對我們桃園機場有無激發任何改進的措施或新方法？
+主席：請交通部桃機公司工程處張總工程師答復。
+張總工程師垂龍：主席、各位委員。在香港兩天、新加坡兩天的參訪行程中，香港部分給我最大的震撼是，香港的中長期發展計畫的規劃和擬定，這是剛才羅委員提到的部分，特別是中長期發展計畫和財務計畫，我感觸非常深。他們在香港和珠海、澳門之間快速公路的連結及香港和深圳之間快速公路的規劃上，未來他們會把香港和深圳、香港和澳門之間的競合關係計畫重新整合，這是一個非常巨大的計畫，非常難得。其次，在香港機場第三跑道未來的填築過程，其環評、因受地形限制在未來的發展及保護區平台上的運作，給我們臺灣很多的參考。再者，香港機場出境、入境的人車分流，在很小的空間做兩度到三度空間的分流，給我們很大的啟示。新加坡部分，它目前有兩條跑道，目前讓軍方使用的2,600公尺長的軍用跑道，正在規劃如何使其成為民用的第三跑道，這是他們滿有彈性的規劃、想法。在我們拜訪考察的過程中，新加坡的總裁也親口跟我們郭蔡董事長建議，未來我們臺灣國際機場在第三跑道的規劃的同時，如果能夠在徵收範圍的彈性下，盡量加寬我們第二和第三跑道的間距，這樣子可以使我們未來在航廈與機坪佈設的面積與空間上更具彈性。這是我在香港與新加波所看到頗為特殊、值得我們再深入追蹤與研究必要的部分。其次，新加坡剛啟用6年的第三航廈，其設計概念、環保、永續發展的概念是我們未來在發展第三航廈時非常重要的參考指標。以上是我在香港、新加坡參訪過程中感觸滿深之處，謹提出以上向各位委員先進說明。
+林委員明溱：看完之後對於桃園機場將來該如何推動進行改善工作，你有沒有新的腹案、構想？此次參訪有否給你任何啟發，對於桃園機場跑道要如何配合未來發展的需要，你有沒新的idea或構想？
+張總工程師垂龍：這部分比較明顯特殊的案例就是香港、新加坡現在的機場，整個系統跟次系統為迎接未來A380作為商業使用服務的準備跟運作上，給我們非常大的啟示。就是委員剛才所提到，我們現有的設施在次系統的部分要如何迎接A380，包括跑道、滑行道的重新布設、整修以及所有空廁、空橋的整理及upgrade，甚至包括行李輸送帶的延長以及旅客的輸運以及候機室的重新檢討，香港跟新加坡的作法都給我們非常大的啟示，特別是在我們現在使用的系統跟服務環境中，如何去提升我們的使用層級，給我們很大的參考價值。
+林委員明溱：張總工程師，你現在是總工程師，是否負責整個機場全部的工程？包括飛航安全是否也屬於你負責的範圍？
+張總工程師垂龍：報告委員，我直接負責的是工程處部分的重大資本支出，間接管理的是維護處，就是……
+林委員明溱：那飛航安全部分由誰負責？
+張總工程師垂龍：飛航安全部分，我們是配合航務處一起做道面的工作。
+林委員明溱：那是不是維護處負責？不是嗎？
+張總工程師垂龍：維護處是負責現有系統的整理跟管養。
+林委員明溱：那飛航安全呢？是不是跟導航有關？是否跟航務司有關？我現在想瞭解，雖然你們到國外考察，但目前國內的機場，大家都沒有注意到的一點就是飛機起飛時最怕鳥獸，萬一飛鳥接近有時會被吸進飛機引擎內，國內發生這類事件的次數相當多。你們到國外考察有沒有順便瞭解，類似這種狀況該如何防制？
+主席：請交通部桃機公司魏副總經理答復。
+魏副總經理勝之：主席、各位委員。對於這種狀況的防制，一般都採取幾種作法：一種是破壞鳥類棲息的生態，這部分我們有在做；另一種則是驅離。經過我們瞭解，有一些比較進步的機場會設置鳥擊防制雷達，我們目前正在辦這件事。所謂鳥擊防制雷達就是當出現鳥群時可以事先偵測到以避免飛機吸入鳥類，而且可以避免飛機碰到鳥類時再go around，發現鳥群時飛機可以先在上面等待，等驅離鳥類後飛機再進來，這是比較有效的方式，避免發生飛鳥被引擎吸入的狀況。
+林委員明溱：請問2011年鳥群被飛機吸入的事件大概有幾件？過去5年國內航空業發生的鳥擊事件大概有幾件？
+魏副總經理勝之：這部分請航務處答復。
+主席：請交通部桃機公司航務處但資深經理答復。
+但資深經理昭璧：主席、各位委員。去年機場內總共發生35件，今年的次數確實比去年高，我們也綜合研判其原因，按照國際民航組織給我們的文件，飛機的速度加快、引擎的噪音減少、航空公司安全通報的意識提高等等都是鳥擊事件通報次數增加的原因。經過機場公司從7月份開始，努力地在機場內進行鳥擊防制工作，10月及11月機場內的鳥擊事件都減少到各只有2次，當然，我們不會以此為滿，我們會繼續往零鳥擊事件的目標來努力。
+林委員明溱：現在大家都重視硬體設施，但是外來的東西也應該重視，否則鳥群若被吸到引擎中，一旦引擎停下來馬上就會造成飛安事故……
+但資深經理昭璧：是，跟委員報告，上星期我們剛跟海軍桃園基地簽署一份共同防制鳥擊的協議書，在他們的機場跟我們的機場，我們會在相同的時間採取相同的方式來驅離飛鳥，這樣可以讓鳥群在機場內的影響減到最少。
+林委員明溱：希望桃園機場要注意盡量避免鳥擊事件發生，一定要注意如何防範鳥群。像本席每天搭乘高鐵，高鐵的速度那麼快，每次快到達高鐵烏日站時，我看到高鐵的前面都有一灘一灘的血跡，那都是鳥群碰撞所致，每次從高雄到臺中就有至少6個痕跡，至少有6隻鳥被撞死。桃園國際機場飛機起降頻率非常高，應該加強防止鳥擊事件。
+但資深經理昭璧：是，謝謝委員指教。
+主席：現在休息10分鐘。
+休息
+繼續開會
+主席（林委員明溱）：現在繼續開會。請管委員碧玲質詢。
+管委員碧玲：主席、各位列席官員、各位同仁。我倒覺得滿替這次的考察感到憐憫，因為行前被用放大鏡檢視之後，這次所有的團幾乎就是關禁閉，被關在機場的團，每天從早到晚一關進去機場，就是在機場裡面繞來繞去、然後座談交流。由於你們的時間變成這麼乾，所以你們的座談交流跟一般出國訪問團的座談交流時間都不一樣，有那種一場座談交流時間都長達3小時、4小時，最長還有一場5小時的座談交流。本席其實不相信一個機場那麼忙碌，他們真正有經驗的工作同仁可以陪你們一聊聊五個小時、四個小時、三個小時，為什麼呢？因為變成你們每天都必須關在機場裡面。
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。他們是分組的。
+管委員碧玲：對不起，行程沒有分組，如果他們是分組，那這個行程就是騙人。
+毛部長治國：不是，來簡報的人是分組過來的，不是同一批人一待待五個小時，從頭待到尾，我的瞭解是這樣。
+管委員碧玲：你不要替他們在這裡撒謊，你這樣說出來，將來我們一檢驗只怕最後變成你說謊，這是沒有必要的。我舉一個例子，譬如12月1日早上9點出發到羽田機場，下午5點55分上飛機回來，我看這一天應該是沒什麼人陪，因為你們整天的行程，早上是「研究國際航廈之設施」；然後吃午餐還說是「瞭解機場餐飲之現況」，把吃午餐都必須任務型化，這其實滿值得同情的；然後下午的行程是「考察羽田機場商業設施及候機廊廳之設施」，考察這些設施就是走馬看花、逛逛看看。其實這種體驗也不錯，增廣見聞、瞭解人家的佈局，但說起來是很乾的行程，被關禁閉一樣關在機場的行程，也實在值得你們往後在處理國際交流或國際考察的時候，真正專業化地去規劃。我寧願你們派一個財務的專家、工程的專家或管理的專家以工作訪視的方式去那裡學習一個禮拜，就一個人、兩個人或三個人一組針對一個目標去學習，不要這樣一大團。一大團裡面，剛剛有一位財務人員，一位工程人員來報告你們的考察心得，比如在考察商業設施時，大概都在逛這些百貨店，請問考察商業設施時工程人員或財務人員是用什麼專業去考察呢？這次放大鏡式的檢驗造成這樣的現象，其實這是滿畸形的，你們也為難了，我看全國所有的考察行程，沒有人像你們這樣被檢視，然後改成這種行程，真的相當難為你們。但本席希望你們藉此痛加檢討，有太多需要學習，需要開展國際化眼界的部分，好好地、深入地、真正地做，好不好？這次考察團的結構，其實不是好的結構，這一點我希望部長能夠承認，這樣你才能領導他們……
+毛部長治國：好，謝謝委員。
+管委員碧玲：才能改正他們的未來，好不好？不要在這裡那麼大聲說「有必要」，這種行程真的拿不出去的。
+第二，本席很關心桃園機場改建的進度，部長或是董事長一直告訴本委員會，表示主要是工法改變所以延宕了2年，對不對？從所謂的水泥重建法改成碎化加鋪工法，對不對？
+主席：請交通部桃機公司郭蔡董事長答復。
+郭蔡董事長文：主席、各位委員。報告委員，不是因為改變工法而延宕兩年，不是，這是……
+管委員碧玲：是啊，之前部長是這樣講的喔！
+郭蔡董事長文：機場的跑道總共是9年的計畫，現在已經進入第6年，原來的工法到底要採用混凝土或是瀝青在過程中就討論了2年，所以不是……
+管委員碧玲：當初都不是這樣講的。請問部長，你們不斷的重發包，不斷地延宕，不斷地改計畫……
+郭蔡董事長文：現在是這樣，跟委員報告，原來的工法……
+管委員碧玲：你不要講太多，我要問部長，因為是部長在這裡講的，不是你在這裡講的。
+郭蔡董事長文：原來的工法是把整條跑道統統挖掉，然後再灌混凝土……
+管委員碧玲：對，那是什麼時候決定的？重挖嘛對不對？
+郭蔡董事長文：這個應該是在民國100年中、年初那時候決定的。
+管委員碧玲：然後什麼時候改成碎石工法？
+郭蔡董事長文：調整的部分是在今年3月份開始有……
+管委員碧玲：今年3月份才改成碎石加鋪法，是不是？
+郭蔡董事長文：不是，原來的跑道不挖掉，在上面直接鋪瀝青……
+管委員碧玲：對，那個叫做碎化加AC加鋪。
+郭蔡董事長文：沒有，不是碎化，就是AC加鋪工法，直接把它鋪上去。
+管委員碧玲：對啦，原本是挖除重建，對不對？然後改成AC加鋪工法。
+郭蔡董事長文：是。AC直接加鋪上去。
+管委員碧玲：請問AC直接加鋪這個工法是何時改的？
+郭蔡董事長文：大概今年3月份開始，到4月份……
+管委員碧玲：好嘛，你們就全部都來這裡說謊，全部都來這裡說謊，漫天大謊！2009年你們的資料當時就已經是AC加鋪工法了。
+郭蔡董事長文：跟委員報告，當初的AC加鋪工法是把跑道全部挖掉，然後灌水泥，水泥鋪上去以後，上面再加鋪AC，現在是底下的水泥不挖掉，直接……
+管委員碧玲：錯了，你們當初就是分兩種：一種叫做挖除重建；一種是AC加鋪，當時你們就沒有挖除，就是用AC加鋪，2009年就是這種工法，然後現在跟我們講說延宕或是重新改變計畫是因為工法改變。
+郭蔡董事長文：報告委員，2009年之前有這兩種工法，到最後是決定挖掉重新做。
+管委員碧玲：錯了，這就是你們2009年的計畫，藍色的部分就是跑道，藍色的部分叫做碎化工法，所以2009年你們的計畫跑道就是碎化工法，就是AC加鋪工法。
+郭蔡董事長文：現在不是碎化工法，我們現在是直接鋪上去，這部分請魏副總說明，因為2009年在討論的過程中，魏副總……
+管委員碧玲：就是碎化AC加鋪啊，什麼叫碎化工法？就是AC加鋪啊！
+郭蔡董事長文：請魏副總說明。
+管委員碧玲：來啦，本席告訴你們，黑箱作業，然後給部長這些訊息，隨便來這裡呼弄，以為我們都不會追查。我還要問下一個議題，你們整個計畫最後少了3億，可是你們少掉什麼呢？你們只省3億，可是你們少掉所有最先進的智慧型監控系統，你們少掉所有最先進系統的設置，包括Follow the Greens這種最先進的綠色燈光跑道導引，稱為A-SMGCS（先進場面導引及控制系統），它總共有六大功能，整個機場會全面變成智慧型，它可以全面導引車載、導引警示、導引飛機的速度，可以全面監控機場場面當中飛機與飛機之間的整體互動，它可以用燈光去導引所有機場跑道並顯示出來，這六大功能你們全部都取消，取消最重要的部分，然後只省3億，這是什麼計畫？
+主席：請交通部桃機公司航務處但資深經理答復。
+但資深經理昭璧：主席、各位委員。能否向委員報告一下，先進……
+管委員碧玲：為什麼把它取消？你們知不知道這套系統的功能是提升營運安全，提升營運效率……
+但資深經理昭璧：跟委員報告，這個並沒有取消。
+管委員碧玲：尤其確保低能見度下可以繼續營運，在濃霧、低能見度的時候，跑道受到入侵的時候，塔台監控的整個系統，你們全部把它取消。
+但資深經理昭璧：對不起，委員剛才講的這個稱為先進場面導引及控制系統，這個系統我們並沒有取消。國際上把這個系統分成一、二、三、四，四個階段，去年民航局完成的CNS/ATM案，還有現在我們要進行的道面整建以及助導航燈光系統……
+管委員碧玲：有啊！你們全部減掉了，你告訴我們減掉這個6座，減掉那個幾座，全部都減掉啦！今天的報告明明白白就是取消先進場面導引及控制系統及教育訓練。
+但資深經理昭璧：這都是在A-SMGCS裡面的一部分。
+管委員碧玲：部長，你來回答，你們的報告第10頁告訴我們，你的計畫取消整個系統，他剛剛說沒有取消，到底有沒有取消？
+毛部長治國：細節部分要他們來說明。
+管委員碧玲：全部都兜不攏啊，全部都呼弄嘛，所以部長也不知道細節嘛！
+但資深經理昭璧：在A-SMGCS裡面分成四個階段，一個是監視，監視在飛航……
+管委員碧玲：本席不想聽，回去後給我一個報告，為什麼這個系統要取消？那我問你，你原來要最先進的Follow the Greens還有沒有？那種我們看到非常先進的，飛機一降落時，綠色的燈光就馬上顯示出來……
+主席：請交通部桃機公司魏副總經理答復。
+魏副總經理勝之：主席、各位委員。報告委員，不是將這個計畫取消，而是由民航局那邊執行這個A-SMGCS系統。
+管委員碧玲：本來是包含在你的系統中，本來是包含在你的107.4億元中耶，現在只減了3億元，這整個系統要拿去民航局那邊用民航局的錢，我要進一步檢視啦！
+主席：請交通部民航局陳副局長答復。
+陳副局長天賜：主席、各位委員。這部分跟新塔台的建設一起……
+管委員碧玲：我不要你回答，民航局的部分以後再說。你們的新計畫都選擇那種退步的東西，然後最進步的東西取消，還有，你的跑道的係數……
+毛部長治國：我們再提書面資料給委員。
+管委員碧玲：你知不知道跑道有一個PCN，就是鋪面承載係數，我們現在是最後一名，我們的鋪面承載係數與鄰近世界各國的機場全部比較起來我們才60，最好的有到140、130。為什麼我們的跑道會那麼爛？因為飛機降落時有一個壓面係數（ACN），波音747-400的ACN就達62，我們的PCN才60；波音777-300的ANC是82，我們的PCN才60；波音787的ACN是71，我們的PCN才60。你的計畫告訴我們，你們改好之後的PCN只想做到75，還是在後段班，一百多億花下去，跑道鋪面承載係數還是選擇後段班，只做到75，然後最先進的先進場面導引及控制系統取消。這個機場縫縫補補，補來補去就是一個落後的機場。
+魏副總經理勝之：報告委員，我們的PCN值要提升，所以才要趕快來建這個機場，PCN值跟它的年限有關，如果是5年期的話，就是您剛才唸的那個PCN值，如果我們2年、3年之內要把這個機場重新改換的話，它的PCN值是提高的。
+管委員碧玲：對，所以這就跟南投的豆腐渣工程一樣，我現在做這種品質，然後兩、三年來一次洪水全部壞掉了就重做，現在你們花一百多億只做承載係數75，可以用5年，5年以後反正再重做一次，還是我們要做可以用10年或者20年的？你們到底怎麼想的？
+魏副總經理勝之：新建的當然一定是要做20年以上的。
+管委員碧玲：那你做的跑道鋪面承載係數只有75可以用幾年？一定很快又是坑坑洞洞嘛！
+魏副總經理勝之：現在在過渡期間嘛。
+管委員碧玲：對嘛，所以他只是想把它當過渡，今天在這裡終於知道了。
+魏副總經理勝之：這個跑道30年沒有做大翻修，才會造成PCN值的情況是這樣。
+管委員碧玲：所以嘛，所以他只想要做75，只想要做75也是過渡啦，只想要做75也是階段性的而已啦！我們不想要你們這樣花國家的錢啦！
+毛部長治國：跟委員報告，我的了解是兩階段，目前有一部分的工程做的是過渡期的工程，有一部分是徹底翻修的工程。
+管委員碧玲：我們不想要你們這樣子花國家的錢，縫縫補補，越補越落伍啦！
+毛部長治國：跟委員報告，這是兩部分，過渡期當然是以能撐過過渡期的工程標準來做，……
+管委員碧玲：為什麼10年一次的大修，你還把它修成是過渡期的規模呢？
+毛部長治國：中間一定會有過渡期，因為整個的整修需要好幾年，主跑道將來當然是用長期方案。
+管委員碧玲：你要修成75，就是過渡期的標準，我不同意的啦！部長，這種計畫對不起國人。
+毛部長治國：跟委員報告，因為整個機場，包括主跑道、滑行道都是幾十年沒有做澈底大翻修，現在主跑道要做大翻修，但是我們發現滑行道等，在主跑道修好之前，也需要做過渡期的翻修。
+管委員碧玲：對不起，你的滑行道在99年的計畫是全部重挖，都包括在裡面，是全部重挖哦！計畫中的綠色部分就是全部重挖……
+毛部長治國：我提書面資料來好好說明，好不好？
+管委員碧玲：滑行道還是重挖，有在計畫裡面？這我一定要翻給大家看，因為部長又在亂講了，綠色的部分就是滑行道，2009年計畫裡面就是綠色，綠色的部分就是要挖除重建，2009年的計畫包括滑行道要挖除重建、跑道用AC加鋪法，這原本都在裡面，你現在變更了，我剛才一聽才知道，原來滑行道部分又不包括在裡面了，唉！
+毛部長治國：最後整體都會做全面的翻修，基本上是如此，但中間會有過渡期，在施工期間過渡期必須要渡過，我的了解是這樣。
+管委員碧玲：就是越補越落伍啦！你們出國再怎麼考察，回來如果還是要替這種計畫辯護的話，考察就是白跑的。
+主席：本席在此要澄清，剛才管委員說南投縣的工程都是豆腐渣，其實在3,000多件中只有一件，怎麼可以說南投縣的工程都是豆腐渣？我們南投縣的工程還有得過金質獎的，其他的工程，工程會去抽驗的10件，PSI應力都夠，只是厚度不夠，不是全部都是豆腐渣，在此特別向管委員說明，不要把南投縣的工程講得那麼不好。
+請魏委員明谷質詢。
+魏委員明谷：主席、各位列席官員、各位同仁。請問部長，明年春節即將到來，有關兩岸包機及定期航班的增班，上週協商的結果如何？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。基本上春節包機在幾個比較有航班限制的城市，都有明確的班次約定。
+魏委員明谷：總量是多少？
+毛部長治國：總量很難算，因為其他二線城市的航班是不限制的，其他有關春節以外的定點航班等問題，請民航局作一說明。
+主席：請交通部民航局陳副局長答復。
+陳副局長天賜：主席、各位委員。向委員報告，此次兩岸第七次工作會議的協商結果，有春節加班機、定班、不定期旅遊包機及季節性包機等四部分，春節加班機的……
+魏委員明谷：你告訴我，總量上是今年多，還是明年較多？
+陳副局長天賜：國籍航空今年申請的數額是116班，去年兩岸春節加班機的申請是145班。
+魏委員明谷：那就是減少？
+陳副局長天賜：是的。
+魏委員明谷：為什麼減少？
+陳副局長天賜：是由航空公司來申請，航空公司的需求減少，……
+魏委員明谷：怎麼會需求減少？台商去大陸越來越多，怎會減少？今年年初是145班，明年是116班，中間差了約30班，你知道癥結在哪嗎？
+陳副局長天賜：向委員報告，今年加班機限航的部分，北京是限9班、浦東是限50班、廣州是限15班、深圳是限14班、杭州是限9班、南京是限19班，其他的航點都不限制。
+魏委員明谷：今年年初是145班，明年是116班，為什麼會減少了大概30班？
+陳副局長天賜：這是他們來申請的結果。
+魏委員明谷：對呀！你知道為什麼嗎？
+陳副局長天賜：可是我們協商出來的結果，並沒有減少。
+魏委員明谷：我跟你講，是今年有補助，明年沒有補助啦！你協商沒有列入補助，今年年初回來過年有補助，明年為什麼沒有補助呢？你為什麼沒跟他們講要補助呢？明年應比照今年辦理呀！
+陳副局長天賜：民航局沒有做任何補助……
+魏委員明谷：你要跟對岸講呀！今年年初可以補助，明年為什麼沒有補助？
+陳副局長天賜：我們沒有補助啊！
+魏委員明谷：你要跟對岸講，叫他補助啊！不能說今年年初有補助，明年就不補助啊！
+陳副局長天賜：我們對於票價……
+魏委員明谷：你沒有補助的話，大家當然返台過春節的意願就較低，所以班次就會減少，約少了30班，對不對？
+陳副局長天賜：向委員報告，去年……
+魏委員明谷：不要再報告了，數字明顯的就減少了約30班。
+陳副局長天賜：選舉回來一次，過年的時候，可能還有些旅客還會回來過年，整個的話是跨在春節過年的輸運期間。
+魏委員明谷：本席再請問部長，是因為沒有補助的關係，台商向本席反映沒有補助，所以他們回來的意願就低了，幹部們也因為沒有補助就不想回來，今年年初過年時有補助一半的機票。
+毛部長治國：向委員報告，有沒有補助的事，我真的不知道，但是我認為應從供需兩面來看，去年在需求面上，可能有兩次要回來，中間一定會加多，今年沒有必要來回兩次，則需求相對可能減少，此其一；其二，以交通部的立場來看這個問題，從總供給量來講，會不會比去年少？我們現在看到的情形是，剛才陳副局長已報告過，有限航的部分是北京、上海、廣州、深圳、杭州等，在春節加班機有明確的數目議定，除此之外，其他的城市不管是誰要飛，航班都不限制，所以，就相對性而言，這是一個突破。
+魏委員明谷：部長，這都不是核心，因為今年年初回來是有選舉的原因，所以都有補助。
+毛部長治國：補助的問題，我沒有辦法來回答。
+魏委員明谷：要跟對岸講，今年年初有，明年也應該要有。
+毛部長治國：這部分我沒有辦法替他們回答，究竟有沒有這個事實，我想我也沒有辦法回答。
+魏委員明谷：有沒有事實？其實大家都知道有事實。但現在我們不要講選舉了，只講今年年初有，明年也應該要有。這也應列入兩岸溝通協商的一部分呀！
+毛部長治國：我們這邊是一毛錢都沒有。
+魏委員明谷：我知道我們沒有，但是我們可以跟對岸講，因為是對岸補助的。不然也可以向對岸台商協會要求，因為是透過他們來補助台商及台籍幹部返鄉，今年若沒有補助，台籍幹部就不想回來，沒辦法回來，也沒有錢。所以，我們認為政府既然要拼「有感」，這部分也應列入兩岸溝通協商的項目。
+毛部長治國：我們的操作，交通部的政策是，基本上要尊重市場機制。
+魏委員明谷：再請教部長一個問題，飛安事件方面，依照國際慣例是10年統計一次，這10年來，我們的大大小小飛安事件中只要有機毀及人亡的有90件，請問這樣的數目，在國內或國際的航空公司中，哪一家航空公司的出事率較高？
+毛部長治國：這個問題請民航局作一說明。
+主席：請交通部民航局飛航標準組張組長答復。
+張組長羚悌：主席、各位委員。向委員報告，最近的一次，從民國92年……
+魏委員明谷：我是問10年的統計，按照國際慣例是10年統計，哪一家航空公司在台灣發生飛安事故，你們有沒有統計？
+張組長羚悌：我們是統計10年來，西方製造的大型客機的失事率，嚴格講起來，我國的比率較世界上的比率為高，是很有改善的空間。
+魏委員明谷：對呀！在我們台灣是很高，哪一家航空公司較高，台灣有很多民用航空公司，哪一家比較高？
+張組長羚悌：我要這麼說，每家航空公司對安全都非常重視，最近的一次……
+魏委員明谷：有了90件的數據，一定會有一家比較高嘛！
+張組長羚悌：最近的數據看起來，華航在馬公有一次空難事件，造成……
+魏委員明谷：華航就有29件。部長，我們是華航最大的股東！
+毛部長治國：我想是有事故發生，但委員講的90件都有機毀人亡，沒有啦！
+魏委員明谷：我是說29件……
+毛部長治國：我的了解是，沒有29件是機毀人亡，請民航局再講清楚。
+陳副局長天賜：並沒有這樣，我們對於飛安事故有一個明確的定義。
+魏委員明谷：你也沒有辦法給我數據呀！
+張組長羚悌：我們會後會把最近10年來，所有國際航空公司的有關失事案件提供委員參考，但事件大概沒有如委員所說的次數那麼高，並沒有那麼多。
+魏委員明谷：好，你拿給我就好。再請教部長，我們是華航最大的股東，最近華航發生偷渡客躲在機艙上面的天花板，偷渡到美國的事件，美國給我們免簽證，我們的飛安安全措施卻讓人質疑，這對華航的形象是不佳的，交通部身為華航的最大股東，則不論在安檢或飛安方面，都應督促華航，這是本席的要求。
+毛部長治國：是，我們會要求他們。事實上，依我的了解，華航本身也已採取一些措施了，這部分我會要求民航局來確認這件事情。
+魏委員明谷：有關花東的交通，因為台九線坍方，我們上週去考察了，其實那些人還蠻理性的。在鐵路部分，普悠瑪要在明年七月後才能上線營運，公路已經封閉了，空運部分呢？
+毛部長治國：空運部分，已安排了加班機，但是起碼到前天為止，正班的載客率都在合理範圍之內；不過，我注意到這兩天有幾班的載客率在九成以上，所以，我已請民航局研議加班機可以開始運作了，因為原先是安排好，但沒有正式飛，我們隨時在盯著，我要求他們針對每一班飛機及每一列火車的實際載客率，不要只算平均值，是以這樣的方式來運作。
+另外，再向委員補充報告，原來公路局預計春節前蘇花只能通20噸以下的車子，現在他們改變整個搶修的方式，目標是希望能在春節之前，要讓所有的車子都可以……
+魏委員明谷：春節之前就可以通車？
+毛部長治國：春節之前所有的車子都可以通行，前兩天他們向我提報，在整個搶修的方式上做了些調整，應該有這個機會。
+魏委員明谷：好，因為花東都是靠旅遊業，若交通不好，對任何觀光旅遊及其他產業的影響都很大。
+毛部長治國：是，我想最後講一句，事實上這次蘇花的封路，我們所有的應變措施都馬上啟動，從鐵路及航空來說，並沒有一票難求的現象，它的交通是可以維持的，所以，花東的觀光業者大可以說鐵路及航空沒有問題，大家不需要退房，唯一受影響的是自行開車前往的旅客。我們希望在元旦之前能夠通小車，春節之前全面恢復大車的通行。
+魏委員明谷：所以，這方面的宣傳也要講得很清楚，像我們從中部到花蓮，可以從台北去，也可以從高雄去，其實距離是等距，沒有什麼差別。所以沒有如想像中，花蓮是個孤島，讓大家都不想去玩了，其實沒有那麼嚴重。
+毛部長治國：是的，絕非事實。謝謝委員。
+主席：請葉委員宜津質詢。
+葉委員宜津：主席、各位列席官員、各位同仁。本席在11月份揭露了一個弊案，要求部長去查，你也答應了要做，進行專案討論及調查，結果今天交通部提出了這本報告，是部長寫的嗎？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。這本報告是桃機公司寫的。
+葉委員宜津：表示你們交通部願意替桃機公司背書喔？
+毛部長治國：屬於招標部分，後來我們找了公共工程委員會等做了進一步的了解，……
+葉委員宜津：你真的有去查嗎？
+毛部長治國：我責成次長對這問題去……
+葉委員宜津：部長，你幫他背書，你也會很慘。本席上次給你的資料，他們完全抄人家公司的規格，這本書還告訴我們，你還幫他背書說，這個燈光系統規範至少有四家商品符合，誰說有四家？告訴你，就只有一家，沒有四家，為什麼寫四家？哪四家？而且你們來跟我報告說兩家，我告訴你是一家！次長來報告時是兩家，報告中寫的是四家，有四家去投標，但符合規格的只有一家，要不然你告訴我，全世界還有哪三家？你們的資料提供是呼攏！你們至少要提供我是哪四家！
+此外，你沒有解釋為什麼產品要在3公斤以內？我只有這樣很具體地告訴你，部長，你們應該很內行，全世界全自動的燈光導航系統，在先進國家都已做好了，先不談歐美，就只看亞洲好了，已經有31個機場是全自動導航，有這麼多已做好的案例，你們卻去讓一家從來沒有成功過的公司，照他的規格去綁標，這家叫做ADB的公司，不但沒做成功過，而且還失敗。上海浦東機場、南寧機場及北京機場都做失敗，甚至連JFK都做失敗，你偏偏要綁他的規格，他做的從來沒有成功過，部長，我們還要再犧牲一次嗎？
+主席：請交通部桃園機場公司侯副總經理答復。
+侯副總經理源連：主席、各位委員。關於葉委員所提到的問題，認為只有ADB公司，沒有其他家。實際上，我們確實有四家，總顧問提供的名單，有四家以上符合規範的規定。例如……
+葉委員宜津：哪四家？提供給我。部長，請你們到本席辦公室報告說有兩家的那個人上來。
+侯副總經理源連：除了ADB以外，還有……
+葉委員宜津：你們為什麼告訴次長有兩家？
+侯副總經理源連：應該不是，還有……
+葉委員宜津：我去查過，不要呼攏我！請把資料提供給我，這個案子今天還是不能過。部長，他們在那麼多地方失敗，你們還要照他的規格去綁標！
+侯副總經理源連：他這個規格是世界性通用的規格，……
+葉委員宜津：那你告訴我ADB的全自動導航在哪個地方成功過？在哪個機場成功過？
+侯副總經理源連：總顧問的規範並不是抄ADB的規範，……
+葉委員宜津：還不是？這一張這麼清楚，完全照抄。而且連最基本的「不能同等級」都不願意寫，你就只是照抄！
+侯副總經理源連：沒有照抄，我們有四家以上……
+葉委員宜津：怎會沒有照抄呢？我上次已提供資料給部長了，所謂8波段、小於3公斤等都照抄。我就只問你兩個問題，全世界已有這麼多成功的全自動導航系統，你都不用，偏偏要用這一家，好，你也至少告訴我，這家做的系統，在哪裡成功過！從來沒有成功過，失敗那麼多次，你還要再用，你拿我們納稅人的錢當什麼？難怪我們的飛安會這麼糟糕！
+侯副總經理源連：不是只有ADB一家，有四家以上。剛才委員說的8波段等，都是基本的要求……
+葉委員宜津：很簡單嘛！就結果論，這一家有沒有能力？你們找不到別人做嗎？全世界有八、九十個，近百個成功的案例，不是沒有耶，結果你們卻隨便找一家失敗的，而且不止失敗一次！這是很簡單的邏輯。
+部長，我要問你，這個邏輯夠清楚吧！
+毛部長治國：我稍後會要求他們，把委員所提究竟是一家、兩家還是四家的資料，向葉委員作一說明。另外，針對ADB究竟有沒有成功安裝的案例，也要向委員報告。
+葉委員宜津：我接著要問部長及公共工程委員會，他們在合約中的分包廠商切結書，根本沒有切結書，但是就因為這樣刷掉沒有寫切結書的廠商，結果得標者的分包廠商切結書寫在投標廠商的切結書上面，等於是說分包廠商與投標廠商的地位一樣，對不對？你們沒有給人家，只有給一家得標，乖乖的不知道要寫在哪裡的人全部出局，只有一家。
+請問公共工程委員會，依政府採購法第二十五條、第六十七條的規定，什麼叫分包廠商？什麼叫得標廠商？
+主席：請行政院公共工程委員會張專門委員答復。
+張專門委員兆琦：主席、各位委員。有關分包廠商的部分……
+葉委員宜津：因時間有限，本席直接說了，第二十五條、第六十七條的規定很清楚，其實是得標廠商再去跟分包廠商訂契約，要負責任的還是得標廠商，對不對？
+張專門委員兆琦：是的。
+葉委員宜津：好，很清楚。部長，那他們是什麼意思？分包廠商切結書、得標廠商切結書都要附上去，現在是怎樣？一個婆婆，二十四個媳婦嗎？請部長說，可以這樣做嗎？
+毛部長治國：我想還是要他們說明，分包廠商切結書的意義是什麼？
+侯副總經理源連：報告委員，這個時候的分包廠商有兩個，因為這個工程包括所有燈光的設計，設計廠商非常重要，還有燈光的安裝也影響將來的品質，所以我們特別要求……
+葉委員宜津：如果是這樣，你為什麼不叫他也是得標廠商呢？為什麼不給它切結書呢？你為什麼故意設計，讓他在得標廠商下面，再自己附上來呢？不應一視同仁，讓大家都有切結書呢？為什麼你們不附切結書給人家？為什麼只讓一家通過呢？
+侯副總經理源連：報告委員，事實上這四家投標廠商中，其他三家廠商是切結書及聲明書都有附的。判不合格標的這一家是附了聲明書，但是……
+葉委員宜津：你在上面還寫，叫人家不可以自製，結果呢？是自製人得標，沒有自製的在第一關就出局。
+侯副總經理源連：他們沒有自製，是用同一個表單去簡併，沒有自製。
+葉委員宜津：好，我不跟你說這個。本席在此清楚地告訴部長，依照法律，即政府採購法第二十五條、第六十七條的規定，政府部門面對的就只有得標廠商，公共工程委員會對不對？
+張專門委員兆琦：報告委員，依採購法施行細則第三十六條的規定，它可以允許投標廠商資格與分包廠商的資格代替，所以，其實在審標時，這種情形也會將分包廠商的資格一併審查。
+葉委員宜津：好，你的意思是說，他這樣也可以嗎？那麼以後我們可以一個得標，如果它分包給三十個，就是三十個得標？
+張專門委員兆琦：這個案子，交通部剛才已說明了，他是基於個案中的分包設計，認為它很重要，所以一併要求在得標時……
+葉委員宜津：好，就算這樣，部長，他們的地位非常重要，跟得標廠商一樣重要，那是不是應該每一個都要來切結？請公共工程委員會先說，要不要每一個都切結？
+張專門委員兆琦：我想這要看個案，……
+葉委員宜津：好，看個案。那麼這個個案要求每一個都切結，但是它沒有給切結書，結果就有人這麼厲害，會自製切結書，就照得標廠商的切結書寫一寫就算了；然後有人就傻傻地想你們說不可以自製，一定要照你們的表單，他就沒有，所以他就出局了。
+侯副總經理源連：報告委員，如果他有分包商，他就必須要一併切結，如果他這個公司投標時，……
+葉委員宜津：如果必須要切結，你為什麼不給人家切結書？不給人家表格？理由是什麼？為什麼得標廠商你就給切結書？你又說它與得標廠商一樣重要，又不給切結書！
+侯副總經理源連：我們不是得標廠商給切結書，而是投標時大家都有同樣的切結書，不是在得標後才要求它的切結書。
+葉委員宜津：對嘛！只要得標的那個公司就特別聰明，會應你的要求，讓分包的簽……
+侯副總經理源連：這倒不是，因為投標來講，四家是一併提送聲明書，切結書部分，則是一家有漏了切結書。
+葉委員宜津：這是你們的重大瑕疵，部長，我再說一次，你們沒有提供表格，為什麼有人就會？有人不會，為什麼不會？
+侯副總經理源連：每一家都有提供，他們用……
+葉委員宜津：胡說八道，什麼每一家都有！
+侯副總經理源連：我講的是同樣的情況，聲明書四家都有……
+葉委員宜津：部長，我要你回答，不要他繼續呼攏我們！你根本沒有去調查，因為你答不出來！還要讓他們繼續呼攏下去！
+毛部長治國：因為這件事情基本上是法律問題，所以我請部裡負責法律業務的次長處理，……
+葉委員宜津：這不但是法律問題，還牽涉到我們飛行安全！部長，我這樣講，邏輯不夠清楚嗎？在第一關把好的公司刷掉，採用一個沒有成功例子的公司，本席還沒問到跑道的部分呢！我只要再一分鐘就好。
+主席：好，延長一分鐘。
+葉委員宜津：為什麼一開始跑道工程只有30幾億元，現在　一樣是OAC沒有挖起來，為何變成100多億元，為什麼又回到原點，金額跳成100多億元？那是土木的部分，另外，在助導航部分也亂搞！
+侯副總經理源連：向委員報告，不是從30幾億元變成100多億元，這個計畫原先核定的是107億元，……
+葉委員宜津：你又要呼攏我們！99年是35億元。
+侯副總經理源連：那是分年的費用，不是這個計畫，計畫原來就是107億元，……
+葉委員宜津：什麼叫做分年的計畫？一個跑道還可以分年完成哦！
+侯副總經理源連：不是，跑道我們是分區做，沒有問題。現在是說我們每年要做的部分，……
+葉委員宜津：部長，我真的很不希望他回答，因為我覺得他根本都在呼攏。部長，你剛才說是過渡期，現在又說……
+毛部長治國：沒有，以我的了解，目前的預算是主計畫，在主計畫之外，另外有過渡期的計畫。
+葉委員宜津：到底是主計畫還是過渡？
+毛部長治國：還是由桃機來說明。
+侯副總經理源連：這個標是主計畫裡的一部分，……
+葉委員宜津：部長，不要都讓他們回答，你要進入狀況，要不然你會被他們害死，會被他們呼攏。監察院都已經糾正了，35億元變成107億元，還跟我說是分年或者是主計畫！監察院糾正你們，你們跟監察院怎麼說的？
+毛部長治國：跟委員報告，就我的了解，這個案子就是一個分年預算，總的預算就是100多億元，然後是分區分期來執行。
+葉委員宜津：部長要幫他們回答，就請告訴我，為什麼我們要讓一個一再失敗的公司來做工程？
+毛部長治國：這部分我會要求他們查明後，再向委員報告。
+主席：請蔡委員其昌質詢。
+蔡委員其昌：主席、各位列席官員、各位同仁。部長這次沒跟他們去考察嗎？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。沒有，不可能。
+蔡委員其昌：本席看了標竿國際機場的考察報告，有幾個問題要請教，部長覺得由董事長或副總經理回答都可以。第一、報告的第33頁中，本席對通關時間CIQS很有興趣，請問你們考察的機場有幾個？
+主席：請交通部桃機公司魏副總經理答復。
+魏副總經理勝之：主席、各位委員。一共有六個機場。
+蔡委員其昌：第33頁中的圖表第64，為什麼只有兩個機場？為什麼只列香港及新加坡的樟宜機場？然後就與桃園機場做比較，你們所考察的其他機場，為何沒有做比較？
+主席：請交通部郭蔡董事長答復。
+郭蔡董事長文：主席、各位委員。向委員報告，在這團分工上，有一個分工是要調查入關所走的距離及時間。
+蔡委員其昌：這個工作應該是每團都可以做吧！怎麼只讓香港及新加坡機場的這一組做這個調查，而去吉隆坡及關西機場不做這個，這基本上是同一件事嘛！你的實測是到了機場，從空橋走到海關是花了幾分鐘，我在排隊要排多久？接著我出關之後，再走路到行李轉盤又要多久？為什麼只有香港及新加坡機場的這一組做，其他組不必做，為什麼？
+郭蔡董事長文：這部分最主要是因為這兩個機場值得我們學習，而且……
+蔡委員其昌：另外兩個機場不值得我們學習？
+郭蔡董事長文：不是，當然每個機場都值得我們學習，這兩個機場是我們特別需要去了解，到底通關需時幾分幾秒。
+蔡委員其昌：我的意思是這都是同一件事，為什麼有的機場不必做？政府都已花錢了，為什麼有的機場要做，有的機場不必做？這並沒有增加你的成本嘛！你都是一樣要出關，要走到行李轉盤嘛，為什麼其他的機場不做？
+郭蔡董事長文：因為每個機場的分工不同，……
+蔡委員其昌：我知道你要說什麼，我只是告訴你……
+葉委員宜津：（在席位上）我抗議！剛才本席問的跑道問題，根本不是分年編列，在這裡公然撒謊！太過份了！
+蔡委員其昌：主席，要不要讓葉委員再發言幾分鐘？
+葉委員宜津：（在席位上）太過份了！公然撒謊！這裡是國會殿堂，為什麼預算是107億元？告訴我！
+主席：葉委員，妳等一下私下再請教。
+蔡委員其昌：我看等本席質詢完後，再給葉委員一些時間好嗎？她那麼生氣，讓她問得澈底些。
+所以，董事長，政府同樣花了這筆錢，為什麼一件可以同時做的事，你卻讓這一組做，另一組不做？
+郭蔡董事長文：委員的建議我認為很好，我們當初……
+蔡委員其昌：這是第一個缺失。
+郭蔡董事長文：我們當初每個團沒有賦予同樣的任務，每個團的任務不太一樣。所以，……
+蔡委員其昌：部長，我必須要跟你講，關於這次考察，本席認為沒有事先規劃好，他們如果要做CIQS的時間測試，則到每個機場都要做同樣的事，每一組人不管到機場的目的是什麼，都可以測從空橋走到海關的時間、出關排隊的時間，接著再從出關走到行李轉盤的時間，每一組人到不同的機場，都可以做這件事。這表示桃機公司在出國考察的規劃上不夠縝密，因為既然這是重要的主題之一，應該是每一組都可以做，這是不是應該要改進？
+毛部長治國：好，我要他們將來改進。
+蔡委員其昌：這一定要改進，表示我們出國前並沒有做好詳細的規劃。接著再請教董事長，報告中說，海關檢查的平均時間是12秒，是什麼意思？我想有出國的人都有經驗，12秒恐怕是在三更半夜，機場空無一人時才能達到，以本席出國多次的經驗，沒有在12秒完成過。不知你們走哪條通道可以花12秒完成？
+郭蔡董事長文：向委員報告，請委員看一下，當時的排隊人數只有三人，因為不在尖峰時間。
+蔡委員其昌：是人很少，對不對？
+郭蔡董事長文：對，人很少，因為我們進來的時間正好是那個時間點。
+蔡委員其昌：你們幾點進來？
+郭蔡董事長文：六點多。
+蔡委員其昌：那時候剛好只有三個人？
+郭蔡董事長文：因為還有……
+蔡委員其昌：平常三個人的時間多不多？
+郭蔡董事長文：我們進來的時間正好是三個人，所以……
+蔡委員其昌：本席認為報告不應該這樣寫。因為這樣寫會讓人家誤以為我們的機場在12秒就可以通關，報告的寫法應該要據實以報，如果只有三個人在排隊，當然可以在12秒進關，但這樣寫會有誇大之嫌，因為你又跟其他的機場做比較，所以會讓人家誤以為我們的通關只要12秒。
+再請問，我們的同仁通關12秒，是自動通關，還是人工通關？
+郭蔡董事長文：是排隊的人工通關。
+蔡委員其昌：當時開的窗口可能多，而排隊的人少，所以立刻就可以通關。
+郭蔡董事長文：是的。
+蔡委員其昌：這不是常態性的情況，把它列在考察報告中，本席認為這就是誇大。董事長，你認為這樣寫，會讓人家覺得這樣的比較有意義嗎？
+郭蔡董事長文：我們是將實測的結果，全部呈現出來。
+蔡委員其昌：對，你在總結還寫，你們總共是10分5秒，你知道全世界評比第一的仁川機場，它要花多少時間嗎？你沒有去考察仁川機場，本席告訴你，仁川機場入境要12分鐘，這是全世界第一，而我們的桃園機場入關只要10分5秒，是超越仁川了，這應該請部長登大廣告，告知全世界，我們的速度已贏過仁川機場了。你覺得現在有沒有可能在這方面贏過仁川機場？
+郭蔡董事長文：我覺得海關及移民署是非常認真的。
+蔡委員其昌：沒關係，移民署的部分，稍後再討論。現在是站在機場公司的角度，我們入境的速度已經破世界紀錄了，仁川機場都要12分鐘了，我們在10分5秒就完成入境了。
+郭蔡董事長文：向委員報告，我們這個數字只是單一的案子，仁川的數字是總平均。
+蔡委員其昌：你現在承認它是單一個案，你們將單一的個案放在向立法院的報告中，而且你的考察還將其他的機場來做比較，我認為這就是誇大。本席認為交通部、桃園機場公司不應該做這種事，這是誇大投機的寫法。
+郭蔡董事長文：我們希望經由這次出去，在入境的時候實際測量一下時間。
+蔡委員其昌：你這個實測沒有意義嘛！就如同你剛才講的，桃園機場不是常常只有三個人，以本席個人的經驗，就不曾有12秒通關的，就算是立法院的出國考察團，有所謂的公務門，通關都不止12秒。所以，以單一個案放大到報告中，我認為這是不老實的做法。我們要做實事就不應該這樣，幾秒就幾秒，是我們改進的目標，你們在考察報告中將單一個案放大處理，我一看到報告就嚇一跳，我想說桃園機場要放鞭炮了，因為我們已贏過仁川機場了，人家是12分鐘，我們只要10分5秒就完成入境了。這不老實，報告不要這樣寫，必須改進。
+郭蔡董事長文：我剛才向委員報告過，我們是實際上去測……
+蔡委員其昌：對，你這樣測沒有意義，是沒有代表性的，就像是統計，你把最偏差的數字拿來當樣本，當作是結論，學過基本統計的人都知道，應該將最偏差的數字扣掉，取決於大多數。不然就做個民調，看看國人的出國經驗中，以12秒通關的次數有多少，那是極為少數的案例，你卻把它當成常態，這樣的寫法是不合道理的，寫這個只讓人覺得你們很心虛，因為你們做得不好，好像要造假的樣子。
+郭蔡董事長文：不是，最主要是我們利用機會了解其他機場的情況怎樣，……
+蔡委員其昌：你要去了解，我沒有意見，但你們考察行程也安排得不好，你每一個都應該去了解的，但你們沒有每個都做，表示你們事先沒有詳細規劃，才會導致順道可做的工作沒有落實。而在報告中，又誇大了機場在相關的時間預測上，將一個偏差的數值，當成平均數來處理，這是誇大的，讓人覺得很投機，必須改進。
+郭蔡董事長文：好，謝謝。
+蔡委員其昌：最後一個問題，這不是你的業務，但是因為在機場公司設置，請問自動查驗通關系統，目前有哪些相關規定？國人中有哪種人不可以用自動查驗通關系統？部長知道嗎？
+毛部長治國：這部分是移民署的業務。
+蔡委員其昌：對，部長知道嗎？
+毛部長治國：我不清楚。
+蔡委員其昌：我要告訴部長及董事長，目前年齡的限制是14歲，身高是140公分。請問移民署為何要訂這個規定？為什麼14歲以下或身高未滿140公分者，不可以走自動查驗通關系統？
+郭蔡董事長文：是不是因為辨識系統的關係？太低的話照不到。
+主席：請交通部桃園機場公司營業安全處陳處長答復。
+陳處長志嘉：主席、各位委員。有關移民署部分的限制，因為它是屬於臉部辨識系統，把人的臉切了好幾千片來辨識，它的好處大概就是，像雙胞胎……
+蔡委員其昌：就是它用臉部辨識系統？
+陳處長志嘉：是。
+蔡委員其昌：你看過那個機器嗎？
+陳處長志嘉：是。
+蔡委員其昌：機器裏面，這個叫臉部辨識系統，上面有個攝影機，因為攝影機架得太高，所以140公分的就照不到。董事長、部長，可不可以建議加一個台子，讓140公分的人可以站上去？這是很簡單的道理，我不知道你們有沒有去考察……
+郭蔡董事長文：我們協調一下，跟委員講……
+蔡委員其昌：以日本為例，日本並沒有什麼140公分、14歲的限制……
+郭蔡董事長文：委員，非常感謝，因為它就像個小球放在這個上面，剛剛委員建議底下擺個台子，我們來協調移民署看能不能做。
+蔡委員其昌：我的意思是，這當然不是你們買的，但是我覺得交通部作為管理機場的機關，如果要提升通關的效率，這個就要去建議。要嘛，是採購有問題，買了一個140公分以下不能照的，要嘛，就是頭腦很差，沒有在想怎麼便民。部長，我跟你講，我要去辦，他跟我講，14歲以下的不行，但我出國都帶孩子，我根本不能辦自動通關，因為我的孩子一樣要去排隊，我自己通關也沒有用。日本並沒有限制，更何況我們還有指紋的設計，如果父母親願意讓孩子用指紋的方式處理，為什麼要有140公分及14歲的限制？這雖然不是你們的業務，但交通部作為機場管理機關，效率是交通部的事情，並不是移民署的，對於每個來配合的相關單位、部門，你們都要去要求，如果這麼簡單，人家都可以解決的事情，我們卻沒有辦法解決，連將140公分墊高都不願意去處理，你說要將通關速度變快，這很困難，部長，你覺得呢？
+毛部長治國：我們會跟他們反映。謝謝。
+蔡委員其昌：謝謝。
+主席：請劉委員櫂豪質詢。
+葉委員宜津：（在席位上）我剛剛那個呢？在唬弄我？
+主席：沒有，等一下再處理好不好？請先質詢完。
+葉委員宜津：（在席位上）……等一下再處理，說謊話！
+主席：你時間要借他嗎？
+劉委員櫂豪：（在席位上）我借5分鐘給他。
+主席：好，借5分鐘。請葉委員宜津質詢。
+葉委員宜津：主席、各位列席官員、各位同仁。部長，你要調查要真的去調查，然後要站上這個位子就要有準備，不要唬弄，你認為立法委員都不用功、不長進是不是？監察院都糾察你們了，結果你們一大堆人不知道人家糾察你們，連監察院你們也沒放在眼裏，明明就是35億、全部鋪設，後來你們說這樣不行，要全面挖除，所以經費就增加到107億，後來又說，全面挖除這個跑道就不能使用，而且起降頻繁，會來不及，所以不行，還是用全面鋪設，既然又回到全面鋪設，就應該是35億，而不是107億。剛才總工程師跟我講，這樣要到明年5月才知道到底要多少錢，總工程師這樣講我還可以接受，就是你們據實，可是你們一個一個上來報告的還是說要104億，這是我沒有辦法接受的地方，這是第一個問題，你們不要隨便唬弄，副總經理還唬弄我說這叫做分年編列，在這裏公然說謊，我再說一次，這是第一個問題。
+第二個問題，就是我說的弊案，你們明明就是可以要求得標廠商、分包廠商切結，公共工程委員會說可以，如果可以，你們就給每個人一張切結書，要求他們切結，那就沒有話講，但你們不是，你們只有一張得標廠商的切結書，然後要所有的分包廠商去copy那張得標廠商的切結書，再寫上分包廠商的名字跟切結，有人會這樣做，也有人不會，不會的在第一關就被淘汰，這不是作弊是什麼？如果分包廠商真的這麼重要，需要切結，好啊，OK，你們就給切結書嘛，但你們不給，然後用不給來淘汰，只有某家會知道，而每一次都失敗的這一家你們要他。歐洲國家有59個機場，全自動助導航成功的在亞洲有31個機場，加起來有90家，90家成功的你們不用，要用一家失敗的，而且用這樣子綁標、圖利的方式，我沒有辦法接受，因為這不是只有弊案，也不是只有納稅人的錢的問題，還牽涉到將來的飛航安全問題，偏偏我在這裏披露以後，還強行通過決標。部長，上次質詢時還沒有決標，我希望部長反省一下，是不是因為你寫了這本幫他們背書以後，加速他們的決標。我也要求公共工程委員會去調查，是不是可以用這樣的方式？你剛剛說的第三十六條可以分包廠商，如果有必要時，但他沒有告訴我們有必要，只有在招標須知上寫，有必要，但不提供切結書給人家，又告訴人家不可以自製，然後偏偏讓自製的說他有切結書，所以他可以，沒有自製的就把人家淘汰，我要求就這兩個重點去調查。謝謝。
+主席：請劉委員櫂豪質詢。
+劉委員櫂豪：主席、各位列席官員、各位同仁。上個禮拜普悠瑪號試乘，部長風塵僕僕到了花蓮，很辛苦，許多委員也一同前往，花蓮傅縣長崐萁也在場強烈表達東部人對火車票的需求。部長，這是一個老話題，台東、花蓮的人每到逢年過節時火車票一票難求都會成為話題，問題大到連總統都就此表示意見。除了元旦假期之外，接下來春節即將到臨，對於花東地區火車票問題，部裏有沒有什麼方法、具體措施可以解決一票難求的情形？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。跟委員報告，一票難求本身就是一個長期慢性病，所以我們要長期努力，普悠瑪號到明年底全部進場，全部上線，由於花蓮電器完成了，所以花蓮火車票一票難求的情形到明年底會全面解決，這個支票我要開，然後到台東，只要電器化可以一路通到台東，普悠瑪號就一路開到台東，到全部電器化都可以通時，從台北到台東一票難求的問題我也要全面解決，好不好？我開這個支票。
+劉委員櫂豪：部長，你在這裏就是具體承諾只要……
+毛部長治國：然後，就像今年普悠瑪號還沒有完全上線，電器化沒有完成，所以針對花東我對鐵路局的要求是，不論是元旦也好、春節也好，火車站那邊不能留人，統統要運光，這是我的承諾。
+劉委員櫂豪：就這一點，我表達我的欣賞，身為一個部會首長，至少你有作具體承諾，就花蓮站來講，只要普悠瑪號全部到位，你可以具體承諾，開這個支票說，一票難求的現象會解決，然後，對台東來講，只要鐵路電器化通車，普悠瑪上線，一票難求的現象也會解決，我們在這裏欣然接受部長這樣的具體承諾。
+毛部長治國：謝謝。但要有一段時間給我們。
+劉委員櫂豪：部長，你現在的工作是，就台東來講，102年12月31日以前，務必要讓鐵路電器化通車。
+毛部長治國：是，我們朝這個目標來努力。
+劉委員櫂豪：即便現在自強隧道有點困難，不過也有替代方案，我們有些都市計畫的問題，也期待部長在這一年內一定要全力解決。
+毛部長治國：是，是我們的目標。
+劉委員櫂豪：昨天馬總統到花蓮視察也提到花東快速道路可行性評估的問題，我們感謝總統重視這個問題，兩、三個禮拜前本席在這裏詢問過部長，部長也提到部裏已經編了這樣的預算，以1,500萬進行可行性評估。部長，所謂畢其功於一役，整體台灣交通基礎建設，高鐵有、鐵路有，公路也有，但是就缺東部這一塊，對於花東快速道路現在進行……
+毛部長治國：有，我們有通盤規劃。
+劉委員櫂豪：就你的了解，台灣鐵路主線沒有雙軌化只剩下哪兩段？
+毛部長治國：目前就是從花蓮到屏東那邊，這段路我們會優先電器化，瓶頸路段我們會陸續雙軌化。
+劉委員櫂豪：部長，既然要一次到位予以解決，那就要全盤規劃，這是遲早要做的事時，而且，火車運輸較節能減碳，我相信絕大多數人都會贊成這樣的運輸方式，對東部來講，也是能長期解決、縮短行車速度的，既然這樣，就把全面雙軌化……
+毛部長治國：我這樣講，從花東到屏東的鐵路現在大概有這樣的順序，第一個，我們當然先把花東鐵路電器化，這一定要做到，接下來我們重疊來做南迴的電器化，這個做完以後，對於從花蓮到屏東後續的雙軌化，就是你關切的雙軌化，我們也賡續來規劃。
+劉委員櫂豪：這是你的步驟，不過，問題是南迴鐵路的電器化如果一切順利的話，設計完工大概要六、七年的時間，如果你們六、七年之後再來考慮雙軌化的問題，我們就要等很久了。
+毛部長治國：我們可以提早來做雙軌化的規劃。
+劉委員櫂豪：部長，我們當然不是要求你今天講，明天就動工，但可以提早規劃，好不好？
+毛部長治國：是，這部分已經在我們的時間表上了。
+劉委員櫂豪：什麼時候可以開始規劃？
+毛部長治國：明年預算沒有編，但後年可以來編相關規劃的可行性方面的預算。
+劉委員櫂豪：謝謝部長，我們希望這幾年在你擔任部長時，能將東部的基礎建設定下來。
+毛部長治國：對，我們現在已經執行1,200億，加上將近定案的大概已經2,000億以上了。
+劉委員櫂豪：台東到台北的飛機，除了返鄉、洽公、旅遊之外，還有很大宗的一種人要搭飛機北上或回來台東，部長知道嗎？
+毛部長治國：你講的是當地居民跟遊客之外的嗎？
+劉委員櫂豪：對。
+毛部長治國：商務是很大宗的。
+劉委員櫂豪：商務以外，還有一個最大宗的，我常搭飛機，一個禮拜要搭8到10趟的飛機，我發現有很大的一個區塊是搭飛機來台北看醫生的，特別是重大疾病的病人。台東到台北是全台灣島內飛機票最貴的，一個人生重病往返台東、台北就醫，要負擔費用這麼高的飛機票，生病心情就不好了，還每來回一趟要負擔四千多元的飛機票，身為父母官，你們有什麼立場可以給予關心？除了衛生署、醫生以外，對於這種因為重大疾病而要往返台北、台東的鄉親，政府可以提供什麼樣的關心？
+毛部長治國：如果只是針對病患這一塊，當然我們可以跟衛生署進一步來研究，對整體花東居民這部分我們現在也要求民航局研議有沒有什麼其他的方案。
+劉委員櫂豪：雖然衛生署、醫生這塊不是你主管業務，但我認為交通部也可以給生重大疾病的鄉親一個關心，當然我們的目標是要全面將機票費用下降，但短期內，本席在此強烈要求政府真的要給這些長期忍受醫療不方便的鄉親在機票上……
+毛部長治國：對，這部分有針對性，一定要跟衛生署配合。
+劉委員櫂豪：我希望部裏面擔起這樣的責任，錢也不會多，但我覺得那會帶給病人溫暖，不然，病人不得不就醫，身心負荷已經很重了，然而每次想到就醫來回機票錢就要花四千多元，心理上的壓力更大，所以政府應該給身處在低谷的人關心，除了督促衛生署改善醫療設備以外，也希望部裏能擔起這樣的協調責任，給病人關心。
+毛部長治國：因為那是特定的對象，所以這部分要有什麼樣特別的措施，還是要跟相關目的事業結合在一起。
+劉委員櫂豪：部長，希望你將這件事情放在對台東的關心上，好不好？
+毛部長治國：我們來研議。
+劉委員櫂豪：謝謝。
+主席：報告委員會，今天質詢到王委員進士為止。
+請李委員鴻鈞質詢。
+李委員鴻鈞：主席、各位列席官員、各位同仁。部長，剛剛劉委員提到蘇花的部分，現在坍塌的部分是在哪一段？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。在蘇澳以南，如果蘇澳那邊算是110公里的話，那邊大概是5公里之外，是115.9K的地方，那下面的路基有淘空，但整個路面我們是用鋼筋混泥土做的，所以整個路面沒有坍掉。
+李委員鴻鈞：我沒有到現場，但從電視上看到它的落差滿大的。
+毛部長治國：對，那是因為下面的河谷有點以向源侵蝕的方式淘空。
+李委員鴻鈞：整個淘空後，要再復原回來的難度是非常高的，如果沒有砸很大的錢下去，只是暫時補救，將來還是會坍。
+毛部長治國：將來要從河谷下面做攔沙壩將基礎弄穩，讓下面的侵蝕能夠克服。
+李委員鴻鈞：對，現在如果河谷做擋土上來要花很多錢。
+毛部長治國：那個大概也變成要第二步了，我們先把上面做初步的穩固，下面才可以施工。
+李委員鴻鈞：我現在要跟部長講一個原則，當然花東有行的權益，也要有安全的路，但從工程的角度來看這個問題，我講真的，這真的是一個非常大的挑戰，現在即使你們可以暫時讓它恢復通車，但因為那邊地震頻繁，地質本來就非常鬆動，若再來個風雨，隨時說坍就坍，而就車輛管制來講，那邊通行的不只是一般的轎車，重型車進出也非常頻繁，這些都是因素，由於這些因素的累積，即使現在短暫修復，早晚還是會坍，這問題我們都非常明瞭，若要做得澈底，就必須砸大錢，而砸大錢究竟要花多少錢？我覺得交通部應該不要隱瞞這種事情。
+毛部長治國：不會穩瞞。
+李委員鴻鈞：就大刺刺地講出來，也讓花蓮人、社會大眾知道，你們是要做，可是必須要有幾個過程，而且要花很多錢，甚至現在即使短暫地做下去也要花一筆很大的經費，可是這個道路是不是安全的？還是不安全，而且不是只有這一段，類似的應該還很多段。
+毛部長治國：目前那邊最嚴重，照他們的估計，整個做起來大概要8,000萬。
+李委員鴻鈞：8,000萬其實不多啦！
+毛部長治國：就是連下面的攔沙壩等等在內。
+李委員鴻鈞：對啦！但也只是暫時這樣下來，要讓它永遠安全的話，就不是那麼單純的。因此，本席建議部長針對這個部分作一通盤檢討，好不好？
+毛部長治國：是。
+李委員鴻鈞：另外，今天很多委員也提到，在機場的發包過程中，沒有得標的廠商當然會很不舒服，而且會講出很多理由問說為什麼他無法得標。其實我發現這陣子桃園機場有許多問題，不禁懷疑董事長和總經理在領導方面，是否出了問題？否則的話，黑函也不會那麼多！為什麼委員們會得到這麼多資訊？我想這也不是無中生有，一定是發包部分，沒有得標的廠商投訴所致，當然，這也是合法的，因為他們只是主張他們該有的權益嘛！但是員工方面，為什麼也有人投訴？問題又出在哪裡？我覺得這才是桃園機場必須好好檢討的。以機場跑道來說，早從民進黨執政時代就一直規劃到現在，但幾乎沒有在做，現在我們也執政5年了，所以還是必須面對這個問題。也就是說，現在的機場跑道，不論是工法或是各方面，其實都是我們要好好面對的。部長以為如何？
+毛部長治國：有關跑道的部分，在我們上任以前，原本有一套想法，我們上任之後，包括航廈等等又再重新檢討，所以我們現在要執行的是一個分年計畫，在這個計畫當中，針對主跑道的部分要進行大翻修，因此會牽涉到必須封閉跑道一段時間的問題。像這些地方，後來在工法上，大概也做了一些修正和調整，所以才會發生101年度預算、102年度預算在程序上有點青黃不接：……
+李委員鴻鈞：我想委員們講的都有一定的道理……
+毛部長治國：是。
+李委員鴻鈞：那你們現在的預算從三十幾億到一百多億……
+毛部長治國：這部分要進一步了解。剛才我說一百多億是分年預算，就是我們現在執行中確實是分年預算，但是前面那三十幾億怎樣變成一百多億，我的初步了解是，因為前面另外有一個案，後來整體修正為我們現在的案……
+李委員鴻鈞：好啦！我現在不需要你解釋。我是覺得你應該親自去查一下，了解它整個狀況……
+毛部長治國：對，很抱歉，我大概是針對我們上任之後的執行方案在做……
+李委員鴻鈞：桃園機場只有兩條跑道，所以必須用一條、修一條，兩者互換，其實包括滑行跑道也是要有替代的。現在既然有這樣的質疑，部長就應好好了解它的內容，尤其是第三跑道，未來牽扯到土地徵收的問題，據我所知，對於大園鄉的那些民眾，你們到現在都還搞不定啊！
+毛部長治國：就我初步了解，現在跟大園那邊的溝通，狀況應該還好啦！
+李委員鴻鈞：但我收到的訊息不是這樣。像郭蔡文董事長以前就是桃園縣的副縣長，可是到了大園鄉，也是跟人家吵了一架。當然，這都不是重點，重點在於第三跑道的土地徵收問題，早就應該落實，這樣未來桃園航空城才有辦法……
+毛部長治國：照副局長的說法，我們辦了4場說明會，整個情況都是非常正面的。
+李委員鴻鈞：舉例來說，羽田機場在建設之初，是跑道先走在前面的，然後才著手進行航站大廈等全面的建設，所以只要跑道一通，很快就完成了。可見我們很多方面也是應該走在前面的，雖然以前我們常說：「穿著西裝改西裝」，可是現在這個已經不能成為藉口了，你們該做的還是要做啦！
+毛部長治國：那一部分已經過去了。
+李委員鴻鈞：另外，針對機場捷運方面，請問部長，機場捷運哪時候可以通車？
+毛部長治國：有關機場捷運，在工程的施工上，土木部分幾乎已經完成，現在最主要是進行機電部分。這部分在執行上，最近出現的是材料方面的狀況，現在還在處理。所以我們希望在明年初可以重新估計它的通車時程……
+李委員鴻鈞：本來是預計明年10月要通到三重，就是從三重到機場，可是照這樣下去，我看明年10月是通不了了。
+毛部長治國：有關車輛部分，大概都已陸陸續續到了，現在最主要是機電控制系統的問題……
+李委員鴻鈞：現在有兩個問題：第一，丸紅本身是商社，並不具有整合的能力，而當初為什麼把這個標給丸紅？當然那也是過去式了，但是給了它以後，它又沒有能力來整合土木和機電，所以現在的情況是，土木部分並不難做，但在設計上，必須要和機電能夠融合，這樣施工才能順利進行，可是現在機電和土木完全合不起來，而且機電系統本身也是整合不起來，所以進度大幅落後……
+毛部長治國：其實還包括包商的能力問題，為此我們派了次長到日本，請求他們國土交通省的協助，所以到目前為止，丸紅在整個工作的推動上，已經比以前順利。現在遭遇的大概是以技術面的問題居多，而不是管理面的問題。
+李委員鴻鈞：就像我之前跟部長提的，機場捷運是重運量，走的是鋼輪，因此噪音很大，可是機場兩邊的噪音有一定的規格管制，所以為了降低噪音，就必須吸震，而吸震的重點就在於彈簧部分，必須有所緩衝，可是因為整個土木和軌道之間預留的空間不夠，導致吸震效果出不來，在此情形下，如果要硬著頭皮幹，即使可以走了，未來的噪音問題還是解決不了。
+毛部長治國：這個案子在過去曾經討論很久，據我們了解，最主要爭論不休的就在於設備規格上，也就是有兩套設備規格，究竟要用哪一套的問題。可是這個問題後來已經獲得一定的解決……
+李委員鴻鈞：我想要用哪一套是另外一個層次的問題，現在的重點在於要把整個設計規範，包括未來要考量到軌道兩旁的住戶，把噪音降到最低，這才是最基本的……
+毛部長治國：依照他們的回報，這部分基本上是可以滿足規格的……
+李委員鴻鈞：你不要說他們回報，到時候你看著辦就好了。
+毛部長治國：是，我們當然會追蹤……
+李委員鴻鈞：最重要的是，部長要去了解，因為整個噪音才是未來真正的問題。
+毛部長治國：對，將來還是要以結果來論的。謝謝。
+主席：請王委員進士質詢。
+王委員進士：主席、各位列席官員、各位同仁。請教郭董事長，根據最近5年桃園機場累積營運量的統計資料來看，桃園機場提供的飛機作業總數和載客人數，好像沒有什麼特別顯著的提升，只有2010年兩岸航線全面開展之後，才達到一個高峰，對嗎？
+主席：請桃機公司郭蔡董事長答復。
+郭蔡董事長文：主席、各位委員。那時候是達到2,500萬。
+王委員進士：只有那個高峰，後來又下來……
+郭蔡董事長文：2010年，也就是民國99年，達到最高峰時是2,500萬，到了100年時，是2,494萬，跟99年只差了一點點，最主要是因為100年時，日本的羽田機場和我們的松山機場對飛，在沒有對飛之前，它的量原本是在桃園機場的，所以影響的量大概是110萬左右，這個量移到松山機場之後，它跟日本對飛的量已經飽和了，所以再來的話，桃園機場的量應該可以直接往上升。我們預估今年會到2,800萬左右。
+王委員進士：去年是2,494萬……
+郭蔡董事長文：對，今年大概可以提升300萬左右。
+王委員進士：這當然和兩岸航線全面開展有關。目前除了兩岸直航的部分之外，其他國際航班每個禮拜有幾班？
+郭蔡董事長文：我們每天大概有四百九十幾個航班，其中大陸旅客的量差不多占我們機場的百分之二十幾到百分之三十。長班的量也是類似這種比例。
+王委員進士：如果我們要發展亞太營運中心，不能單靠兩岸航班……
+郭蔡董事長文：那當然，我們是希望……
+王委員進士：你們有沒有其他新的航點？
+郭蔡董事長文：有，包括日本線、包括復興和長榮……
+王委員進士：我看你們這次考察回來，也有提出拓展新航點的優惠……
+郭蔡董事長文：對，我們希望……
+王委員進士：你們準備怎麼做？
+郭蔡董事長文：香港的部分是這樣，新航線在第一年的第1到第6個月，降落費減75%；第6到第9個月是減50%；第9到第12個月是減25%；再來就不減了。這是對新航線降落費的一個減免。
+王委員進士：我們這邊要學習香港嗎？
+郭蔡董事長文：香港是有這樣的計畫，所以我們提出報告，希望以此鼓勵航空公司增闢新的航線和航點。
+王委員進士：現在你們機場還在擴建，如果下次政黨輪替，兩岸關係又趨不穩，到時候兩岸航線是否會因此減少？所以機場擴建之後，如果不拓展新的航線和航點，光是靠兩岸航線，恐怕未來前途堪慮……
+郭蔡董事長文：這是我們努力的目標，我們希望鼓勵航空公司多開闢新的航線。
+王委員進士：對啊！我們不能只靠兩岸航線，必須拓展國際新的航線。
+郭蔡董事長文：是，謝謝委員。
+主席：請邱委員志偉質詢，詢答時間為3分鐘。
+邱委員志偉：主席、各位列席官員、各位同仁。請教部長，高雄捷運路竹延伸線，何時可以核定？
+主席：請交通部毛部長答復。
+毛部長治國：主席、各位委員。目前這個應該是在……
+邱委員志偉：昨天通車到南岡山站，對嗎？
+毛部長治國：對。
+邱委員志偉：也就是第一階段從南岡山站到岡山站，這具有優先必要性；而從岡山站再往北延伸到路竹、湖內這部分，是第二階段。交通部的政策是整體核定、分段施工，其中第一階段的區塊大概只需20億經費，但它是當地岡山區區民殷殷期盼的，這部分能不能優先核定？
+毛部長治國：交通部的責任，基本上就是審核地方提來的案子，然後把案子提報到行政院……
+邱委員志偉：部長，我們已經送14次了耶！
+毛部長治國：對啦！但是過去送來時，大家都沒有共識，甚至更早的那個……
+邱委員志偉：我們完全按照部裡面的意思進行修改……
+毛部長治國：但前面很多次並不是這個內容嘛！最後才收斂到目前這個內容，交通部的責任就是把它報到行政院，所以真正的核定不在交通部……
+邱委員志偉：什麼時候可以出交通部？
+毛部長治國：好像還沒有完全報上來。
+邱委員志偉：已經報上來了啊！
+毛部長治國：那可能是最近的事情，我們會儘快處理，好不好？
+邱委員志偉：希望在明年初就能出交通部，送經建會核定。
+毛部長治國：我們會儘快！
+邱委員志偉：不能再拖了！
+毛部長治國：現在已經有共識，就會比較容易處理。以前因為一直沒有共識，我們等於也出不了手。
+邱委員志偉：另外，有關小港機場轉型方面，目前全世界最賺錢的航空公司就是廉價航空，譬如Right Air和EG jet，就比傳統的航空公司賺錢，因為它有彈性且成本低。現在小港機場面臨運量不足、航點不夠的問題，這都是基於成本考量，所以我們希望小港機場未來能夠轉型成為廉價航空的基地，畢竟台灣也要扶植一個本土性的國內廉價航空。依本席之見，我們可以參酌Right Air和EG jet的經驗，或者可以把亞洲，包括東南亞和東北亞幾個國家的廉價航空集合起來，了解他們關心什麼問題，為什麼不敢飛高雄？比如亞航、Tiger Airways或是釜山航空，還有日本好幾家航空公司，都是廉價航空，他們為什麼不考量飛台灣航線，甚至飛高雄小港航線？我想最主要就是基於成本考量。因此，我們能不能提供一些誘因，讓他們提高飛航動機？包括調降降落費和相關規費等，讓他們有意願、有動機和有利潤來經營這條廉價航空的路線，這樣也才能讓我們小港機場有翻身的機會。部長，交通部有沒有這個規劃？
+毛部長治國：目前台灣的廉價航空都集中在桃園，大概只有一、兩家在松山，基本上，我們希望這兩個機場的廉價航空能夠暫時凍結，所以最近也有其他新的廉價航空想要進來桃園機場，但我們都不受理。
+邱委員志偉：可不可以政策性的轉移到小港機場？
+毛部長治國：我們之所以凍結，主要也是認為這些廉價航空應該多多利用台中、高雄等其他機場，因此，我們希望明年在這部分能夠有所突破。
+邱委員志偉：小港機場具有地理位置的優勢，不論是飛東南亞、中國或東北亞，都很方便啊！
+毛部長治國：廉價航空基本上並不是做轉運，而是做點對點的……
+邱委員志偉：沒有錯。
+毛部長治國：所以我們希望明年在這個部分有所突破。
+邱委員志偉：我給部長兩個建議：第一，我們要在政策上去扶植台灣的廉價航空公司……
+毛部長治國：目前我們在政策上也在做一些修正。
+邱委員志偉：好，有這個調整之後，就可以把小港機場做為base，然後讓其他廉價航空公司的需求能夠獲得滿足，也就是降低成本，讓他們願意飛到高雄。所以最主要的就是必須提供誘因，讓小港機場在落地費以及相關規費上具有差別性的待遇。
+毛部長治國：對啦！我們希望明年能夠有所突破。
+邱委員志偉：謝謝。
+主席：現在休息，下午1時繼續開會。
+休息（12時39分）
+繼續開會（13時）
+主席：現在繼續開會。
+開始審查102年度中央政府總預算案桃園機場股份有限公司附屬單位預算書，請唸預算內容。
+桃園國際機場股份有限公司
+請參閱102年度中央政府總預算案桃園國際機場股份有限公司附屬單位預算書
+一、業務計畫部分：第9－19頁業務計畫
+二、營業收支部分：第20－21頁營業收支及損益之預計（詳見第39－40頁損益預計表）
+(一)營業總收入：129億8,985萬5,000元
+(二)營業總支出（不含所得稅費用）：101億6,491萬1,000元
+(三)稅前淨利：28億2,494萬4,000元
+三、服務成本部分：第50－57頁營業成本明細表
+四、轉投資計畫部分：無列數
+五、重大之建設事業部分：45億8,954萬4,000元，第10－18頁固定資產之建設、改良、擴充與其資金來源及其投資計畫之成本與效益分析（詳見第72－73頁固定資產建設改良擴充資金來源明細表）
+六、資金運用部分：第22頁現金流量之預計（詳見第42頁現金流量預計表）
+七、補辦預算部分：無列數
+主席：預算內容一、業務計畫部分，二、營業收支部分，三、服務成本部分，四、轉投資計畫部分，五、重大之建設事業部分，六、資金運用部分等項之審查結果，隨同調整。
+營業收支部分有委員提案，請唸提案內容，並同時進行協商。
+(二)桃園機場公司
+總收入1
+桃園國際機場股份有限公司，由於其尚有圓山空廚等面積2萬2977.19平方公尺（約6950坪）之場所或廳舍處於閒置狀態，其中圓山空廚部分雖擬評估改建為廉價航空航廈，但其102年預算中均無編列相關經費，其餘閒置場所廳舍大部分之改善設施均為納入園區實施計畫，顯見短期內機場公司並無積極活化利用之打算，爰此提案增加其他營業收入1668萬元（即每坪以每月租金200元計算），以督促其活化利用閒置之場所或廳舍。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出1
+針對桃園國際機場（股）公司成立以來，漏水、跑道坑洞等問題不斷，且未能有即時改善，造成國家門面受損，因此就預算中「獎金」，117,882,000元，績效獎金部分，全數刪除。
+提案人：羅淑蕾　　葉宜津　　陳根德　　蔡其昌　　李昆澤
+總支出2
+桃園機場公司編列預算時，都說是要考察美國、新加坡、香港等知名機場，結果實際上卻都去大陸機場考察，提案將102年旅費全部凍結，P90各項費用「旅運費」，「12,829,000元」，由桃園機場公司提出101年共花費多少旅費？出差地點，次數，出差人及出差報告書供交通委員會委員審核後，始得解凍。
+提案人：羅淑蕾　　葉宜津　　王進士　　李昆澤　　盧嘉辰　　陳根德
+總支出3
+桃園國際機場股份有限公司，其102年度預算案，其預計增加100人，「用人費用」總計編列6億6,413萬7千元，其用人費率提升至4.68%。其大量增加人員，理由係業務量漸增、及第三航站、第三跑道等重大建設計畫之開發所致。然其預算書明確表明因松山機場增開國際航線，導致桃園機場對日之旅客在100年度即減少101萬670人次，因此其業務量並無大增。另其102年度之一般建築及設備計畫項目中，除有「桃園國際機場第三航站區規劃」委託技術服務外，並無第三航站或第三跑道之相關預算，且該規劃案亦係委外，並無大量增加人力必要。爰依行政院訂定之「公營事業機構員工待遇授權訂定基本原則」，對用人費比率以不超過最近3年度用人費占其事業營業收入之平均比例為原則，其100年度決算用人費比率3.58%與101年度預算用人費比率4.22%之平均數計算，應為3.9%，故其用人費用應為5億599萬7千元，其他用人費用若無刪除者，此項應減列1億5,814萬元，若有刪除者，總計未超過此數者，應追加刪減至此數額。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出4
+桃園國際機場股份有限公司（以下簡稱機場公司）102年度『用人費用』預算6億6,413萬7千元，比上年度增加5,527萬5千元、增幅9%，主要是因102年度預計增加100名員額所致。惟查，根據機場公司本年度的營運目標與上年度比較：旅客服務目標預計成長3.6%、航空器服務目標預計成長0.35%。該公司營運預計僅成長0.35~3.6%，然而人事費用卻成長9%，其人事預算編列過於寬列。另，機場公司本年度用人費用佔營業收入5%，業已違反行政院102年度之附屬單位預算編製作業規定，事業機構之年度用人費用，不宜超過最近三年用人費占事業營業收入之平均比率的要求。
+綜上，關於102年度『用人費用』預算6億6,413萬7千元，爰予刪減4,000萬元。
+說明：
+◆機場公司本年度與上年度營運目標增減情況
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="169"><col WIDTH="140"><col WIDTH="140"><col WIDTH="140"><tr><td WIDTH="169" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="140" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">101<font FACE="華康細明體, monospace"><span LANG="en-US">年（數量）</span></font></p></td><td WIDTH="140" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">102<font FACE="華康細明體, monospace"><span LANG="en-US">年（數量）</span></font></p></td><td WIDTH="140" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">營運目標（增減）</span></font></p></td></tr><tr><td WIDTH="169" VALIGN="TOP" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">機場旅客服務（人次）</span></font></p></td><td WIDTH="140" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">23,979,920</p></td><td WIDTH="140" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">24,860,254</p></td><td WIDTH="140" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">+3.6%</p></td></tr><tr><td WIDTH="169" VALIGN="TOP" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: 0.24in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">航空器服務（架次）</span></font></p></td><td WIDTH="140" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">171,400</p></td><td WIDTH="140" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">172,000</p></td><td WIDTH="140" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">+0.35%</p></td></tr></table>
+◆機場公司近年人事費用占營業收入的比率
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="168"><col WIDTH="141"><col WIDTH="141"><col WIDTH="141"><tr><td WIDTH="168" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="141" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">100<font FACE="華康細明體, monospace"><span LANG="en-US">年</span></font></p></td><td WIDTH="141" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">101<font FACE="華康細明體, monospace"><span LANG="en-US">年</span></font></p></td><td WIDTH="141" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">102<font FACE="華康細明體, monospace"><span LANG="en-US">年</span></font></p></td></tr><tr><td WIDTH="168" VALIGN="TOP" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">用人費占營業收入比率</span></font></p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">4%</p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">4.9%</p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">5.1%</p></td></tr></table>
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+總支出5
+桃園機場公司102年度預算員額編列541人，較上年度預算441人，增列100人；所編以非人事費進用之派遣人員及臨時人員情形，派遣人員預計進用937人，臨時人員則預計進用20人，故如加計派遣人員及臨時人員後，102年度預算案編列之工作人員達1,498人，在加計派遣人員及臨時人員後，業具相當人力規模，其增列員額應考量財務狀況及未來重大工程辦理時程合理進用。
+另該公司目前採單一比率衡量用人費之預算編列，過於簡化且欠缺嚴謹性，為避免嗣後年度發生用人費用居高不下情形，應將機場開發需求及人員進用之特殊性納入考量。爰刪除桃園國際機場股份有限公司102年度預算所編正式員額薪資352,531千元之1/5，桃園機場公司並應就預算員額增列100人之明細及緣由、用人費比率標準調整方案等，向本委員會提送書面報告。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出6
+本院100年度及101年度決議事項要求各機關應完整揭露以非人事費進用之臨時人員、勞務採購派遣人力、承攬人力等詳細資料，然桃園機場公司102年度預算書僅表達臨時人力進用經費，未依行政院規定充分揭露非正式員工之進用計畫，應予譴責。
+該公司102年度預算案以非人事費進用之臨時人員及勞務承攬人員人數達957人，超逾正式員工員額541人。鑒於渠等人員所辦理之部分業務與機場安全、服務事項密切相關，若人員更迭頻仍、欠缺職前訓練或不諳作業規定，恐將影響機場作業之順遂，而損及國家門面形象。爰凍結桃園國際機場股份有限公司102年度預算所編超時工作報酬67,044千元之1/3，矣該公司就臨時人員、派遣人員、承攬人力等進用計畫明細與整體人力資源運用之管控措施改進計劃，向本委員會提出書面報告經審查同意後始得動支。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出7
+為提升國家整體競爭力，及帶動區域產業及經濟繁榮，行政院於97年間開始推動桃園航空城國家級旗艦計畫，98年1月間通過國際機場園區發展條例，該條例第5條規定：「主管機關應擬訂園區綱要計畫，報行政院核定；……機場公司應依前項園區綱要計畫及第9條園區特定區計畫，擬訂園區實施計畫，報主管機關核定…。」第6條規定：「機場公司依前條第1項園區綱要計畫、第9條之園區特定區計畫及前條第2項之園區實施計畫，擬訂園區重大建設計畫，應報主管機關核定；重大變更時，亦同。」
+查園區綱要計畫及園區實施計畫已分別於100年4月及101年6月奉核定，惟園區重大建設計畫僅第三航站展開相關規劃作業，且迄未完成招標程序，其餘重大計畫仍尚未實際進行，致未能據以執行相關建設，嚴重影響機場之國際競爭力，顯見行政效率及業務執行能力低落。爰刪除桃園國際機場股份有限公司102年度預算編列獎金117,882千元之1/2。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出8
+桃園國際機場股份有限公司102年度「獎金」預算1億1,788萬2千元，比上年度預算數（8,951萬2千）增加2,837萬元、增幅高達31%。
+所謂獎金係企業對於員工優良表現之一種獎勵方式。查桃園機場跑道破爛不堪使用，不僅是國際笑話，更可能影響飛航安全。針對機場跑道整建計畫進度嚴重落後（今年整年執行進度不到20%），卻傳出機場公司總經理竟想拜託立法院某黨團提案大砍跑道整建預算的荒謬行徑。該種表現不值得鼓勵，爰此，關於桃園機場公司總經理102年獎金（2.24個月的績效獎金和2個月的考核獎金）預算全數刪除，餘數凍結三分之一，俟交通部及機場公司向立法院交通委員會報告桃園機場跑道整建情況後，始得動支。
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+總支出9
+桃園國際機場股份有限公司，其102年度預算案，其用人費用科目下之獎金中之「績效獎金」，共計編列5,668萬7千元，其係以2.24個月之薪給標準計算，其與上限之2.6個月相差無幾。然而桃園國際機場股份有限公司其成立迄今意外事件頻仍，造成外界觀感不佳。雖然其中原因係因第一航廈整建工程所導致，但第二航廈之事故亦接連不斷、甚至有滑行道破損、空橋操作不當撞傷客機、闖進管制區如入無人之地等其他事故。而且桃園國際機場營運量大增，係因旅客無其他選擇餘地及開放中國觀光客旅遊等政策因素，並非公司員工努力所致，其績效獎金不應高達2.24個月，且其員工亦均有考核獎金一至二個月，並有年終獎金1.5個月，其獎金領取業已足夠，故其績效獎金以1個月已足，爰提案刪除其績效獎金至2,530萬7千元，即刪除3,138萬元。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出10
+查桃園機場公司之公務員退休後轉任該公司從業人員情形，計有14位係退休公務員轉任，其中9位任主管職（包含4位副總經理、1位總工程師、4位單位主管）、5位為非主管職。
+桃園機場公司因人力編配及運用未盡完善，導致業務未有效銜接而狀況連連，顯見由公務員退休轉任該公司之9位高階主管人員，未能確實發揮管理專才及經驗傳承功能，爰凍結桃園國際機場股份有限公司102年度預算所編退休及卹償金54,532千元之1/3，矣該公司就其退休公務員轉任該公司所任職務與其專業能力之合理性及改進計劃，向本委員會提送書面報告經審查同意後始得動支。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出11
+桃園機場公司自99年11月成立迄今，各種意外事件未曾間斷，除滲漏水情況持續發生外，手扶梯、時刻表等設施亦曾發生故障，甚至危及飛航安全，如：機場管制區遭外人闖入、滑行道破損、地勤作業不當等事件，亦重複發生；究其發生原因主要係設備規劃設計欠佳，或未確實辦理相關設施維護作業，或工程施工品質及管理欠當所致。該公司對意外事件發生雖加以檢討並研提改善措施，但由意外事件接連發生結果觀之，改善效果欠佳，相關檢討流於形式。爰刪除桃園國際機場股份有限公司102年度預算所編福利費70,040千元之1/2。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出12
+桃園機場公司102年度『用人費用－福利費』預算1,946萬1千元，係依照「職工福利金條例」等規定編列照顧企業內員工的福利經費，計算方式係以每月營業收入總額內提撥0.15%。
+然而，機場公司102年度541人的預算員額，除了公司成立後進用的正式從業人員外，尚有70位從原有航空站移撥的公務人員。該些公務人員之子女教育補助經費、結婚生育喪葬補助費等福利經費，已經特別提撥編列，若整個機場公司的福利金再全部編足，則無異是重複編列，是以，關於上述預算應依照從業人員占全部員工之比例，爰予酌減251萬8千元。
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+總支出13
+桃園國際機場股份有限公司，其102年度預算案，其用人費用科目下之福利費中之「其他福利費」，共計編列1,039萬3千元，此筆費用用途不明，且桃園國際機場股份有限公司屬國營事業，其員工待遇相較一般公務人員高，亦無民營事業面臨倒閉風險，故無編列之必要，爰予刪除此筆1,039萬3千元之其他福利費。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出14
+桃園國際機場股份有限公司，其102年度預算案，其用人費用科目下之福利費中之「退休福利費」共計編列18萬6千元，此筆費用用途不明，且退休人員其法律上之照顧甚且較一般在職工作人員為高，不需再予額外福利費用，爰刪除此項18萬6千元之退休福利費。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出15
+桃園國際機場股份有限公司，其102年度預算案，其用人費用科目下之福利費中之「提撥福利金」1,946萬1千元，係以最高提撥上限之0.15%計算。但桃園國際機場股份有限公司係國營事業，其待遇相較一般公務人員高，亦無民營事業面臨倒閉風險，福利金之提列不宜也無需過於優渥。且其中具公務人員及工員，其業已享有公務人員相關福利，其範圍及項目與福利金大致相同。因此其所編列之福利費應扣除具公務人員及工員之70人，並依0.05%之下限提撥，即為564萬8千元（1,297,400萬 X 0.05% / 541 X 471），故此部分應減列1,381萬3千元。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出16
+桃園國際機場股份有限公司，其102年度預算案其「服務費用」，扣除公共關係費外，高達21億5,974萬8千元，其費用項目為水電費、郵電費等消耗性、經常性支出，其較101年度扣除公共關係費外之17億8,506萬3千元，高出3億7,468萬5千元，增加比例高達21%，但其營業總收入卻僅增加4%，完全不成比例支出。故本項扣除公共關係費已刪減外，應依營業總收入之成長比例成長，其以18億5,646萬6千元為適當，故除公共關係費外，應再刪減3億3,328萬2千元。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出17
+桃園機場公司102年度預算案編列服務費用內之水電費5億2,822萬8千元、郵電費1,142萬7千元、印刷及裝訂費478萬元、廣告費1,066萬元及業務宣導費940萬4千元，較改制前98年度大幅增加（參下表）。鑒於未來如推動第三航廈、第三跑道等後續重大機場建設，將需龐大資金支應，相關經常性支出應本撙節原則編列。爰刪除桃園機場公司102年度預算案編列服務費用內之廣告費、業務宣導費、印刷及裝訂費共20,000千元，水電及郵電費各刪除1/10。
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="122"><col WIDTH="92"><col WIDTH="93"><col WIDTH="92"><col WIDTH="93"><col WIDTH="95"><tbody><tr><td COLSPAN="6" WIDTH="606" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.73in; margin-top: 0.07in; margin-bottom: 0.07in"><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">桃園機場</span></font></font><font FACE="華康楷書體W5, cursive"><font SIZE="4">98-102</font></font><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">年度消耗性支出項目預、決算概況表</span></font></font></p><p CLASS="western" ALIGN="RIGHT" STYLE="margin-left: 0.15in; text-indent: 0.15in"><a NAME="TA3731629"></a><font FACE="華康細明體, monospace"><span LANG="en-US">單位：新台幣千元</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="122" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">消耗性支出項目</span></font></p></td><td WIDTH="92" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">98<font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="93" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">99<font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="92" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">100<font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="93" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">101<font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="95" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">102<font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="122" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">水電費</span></font></p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">461,928</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">509,526</p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">459,896</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">522,828</p></td><td WIDTH="95" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">528,228</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="122" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">郵電費</span></font></p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">6,421</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">7,062</p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">6,660</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">10,841</p></td><td WIDTH="95" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">11,427</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="122" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">印刷及裝訂費</span></font></p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">944</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,011</p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">3,915</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">4,381</p></td><td WIDTH="95" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">4,780</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="122" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">廣告費</span></font></p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,586</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,362</p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">5,162</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">10,142</p></td><td WIDTH="95" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">10,660</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="122" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">業務宣導費</span></font></p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">345</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">256</p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">641</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">17,435</p></td><td WIDTH="95" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">9,404</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="122" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: 0.24in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">合計</span></font></p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">471,224</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">519,217</p></td><td WIDTH="92" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">476,274</p></td><td WIDTH="93" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">565,627</p></td><td WIDTH="95" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">564,499</p></td></tr></tbody></table>
+※註：1.資料來源，立法院預算中心。98年度至100年度為決算數，101年度及102年度為預算案數。
+2.表列98年度決算數係民航作業基金決算，99年度決算數包含民航作業基金及桃園機場公司之決算總和。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出18
+桃園國際機場股份有限公司（以下簡稱機場公司）102年度『旅運費』預算1,282萬9千元，雖較上年度（101年）2,019萬7千元未增加。
+惟查機場公司在今年11月底，為消耗過剩預算，竟變更資產門經費，支應近半數員工出國考察國際機場，五天花費700萬元，濫用預算之情事。且本年度『旅運費』亦較前年度決算數增加24%，綜上，為避免機場公司浪費情況頻頻發生，關於102年度『旅運費』預算1,282萬9千元應予刪減700萬元。
+提案人：李昆澤　　蔡其昌　　葉宜津　　魏明谷　　管碧玲　　劉櫂豪
+總支出19
+查桃園機場公司迄101年8月底閒置場所或廳舍情形，目前尚有圓山空廚等9筆建物、面積2萬2,977.19平方公尺（約6,950坪），尚處閒置狀態；而據該公司所擬改善措施，其中圓山空廚等1處將評估改建為廉價航空航廈，開放式機車棚等5處納入機場園區實施計畫檢討，作為第三航廈或地勤作業區使用，地下室行李庫房規劃為維護廠商辦公室，3號焚化爐為5號焚化爐預定地，至變電所則擬報廢（詳下表）
+桃園機場公司土地需支付租金予民航局，建物則係政府之投資，實應妥善運用、創造收益，不應任其閒置，爰凍結桃園國際機場股份有限公司102年度預算所編修理保養及保固費932,038千元之1/2，凍結部分矣該公司將具體改善計畫書面報告送本委員會審查通過後始得動支。
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="146"><col WIDTH="76"><col WIDTH="376"><tbody><tr><td COLSPAN="3" WIDTH="606" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-left: 0.73in; margin-top: 0.07in; margin-bottom: 0.07in"><font FACE="華康楷書體W5, cursive"><font SIZE="4"><span LANG="en-US">桃園機場公司閒置場所或廳舍概況表</span></font></font></p><p CLASS="western" ALIGN="RIGHT" STYLE="margin-left: 0.15in; text-indent: 0.15in"><a NAME="TA9256276"></a><font FACE="華康細明體, monospace"><span LANG="en-US">單位：平方公尺</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">場所或廳舍名稱</span></font></p></td><td WIDTH="76" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">閒置面積</span></font></p></td><td WIDTH="376" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">閒　　置　　原　　因</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">開放式機車棚</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">868.80</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">供停放機車，惟使用率偏低</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">舊污水處理廠辦公室</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">87.88</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">原為污水處理辦公據點，嗣後因集中處理污水而不再使用</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">加油站</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">310.30</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">地點欠佳、廠商承租意願低</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">保稅倉庫</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">4,136.28</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">格局不符廠商需求</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">航警宿舍</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,742.34</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">航警因預算不足，未再承租</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">圓山空廚</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">10,787.17</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">開放航空業者加入空廚業後而</span></font>?<font FACE="華康細明體, monospace"><span LANG="en-US">落</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">地下室行李庫房</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">944.38</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">房舍形狀及出入口位置不易利用</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">變電所</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1,952.49</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">為新建變電站取代</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in">3<font FACE="華康細明體, monospace"><span LANG="en-US">號焚化爐</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">2,147.55</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">為</span></font>4<font FACE="華康細明體, monospace"><span LANG="en-US">號焚化爐取代</span></font></p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="146" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: 0.24in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">合計</span></font></p></td><td WIDTH="76" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">22,977.19</p></td><td WIDTH="376" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><br></p></td></tr></tbody></table>
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出20
+桃園國際機場股份有限公司每年度編列『公共關係費』預算600萬元，主要供管理階層使用包括公司董事長、總經理、副總經理及總工程師在內的七人使用，核算每個月公關費高達50萬元，較主管機關交通部之部長特別費每個月5萬3千元、副首長特別費2萬6千元高出甚多，公關費預算寬裕且未有控管程序。
+查其100年度公共關係費使用情形，不僅有重複編列的情況，而且該公關費主要支應的項目為年節和禮品，一年181萬元（占全部的45%），於全球經濟環境停滯、機場經營環境艱困之際，明顯浪費公帑。綜上，機場公司102年度『公共關係費』應予刪除480萬元。
+說明：
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="262"><col WIDTH="96"><col WIDTH="237"><tr VALIGN="TOP"><td WIDTH="262" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><a NAME="TA6639093"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span>100<font FACE="華康細明體, monospace"><span LANG="en-US">年度機場公司公共關係費使用項目</span></font></p></td><td WIDTH="96" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">金<font FACE="Times New Roman, serif"></font>額</span></font></p></td><td WIDTH="237" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">備　　　　　註</span></font></p></td></tr><tr><td WIDTH="262" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">年節活動暨禮品</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">181<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font></p></td><td WIDTH="237" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">總經理被爆買一條</span></font>6,000<font FACE="華康細明體, monospace"><span LANG="en-US">元的名牌領帶疑似自用</span></font></p></td></tr><tr><td WIDTH="262" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">國外專家出席公司諮詢相關費用、整體服務推動工作會報相關費用、機場內文化表演活動、敦親睦鄰</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">226<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font>6<font FACE="華康細明體, monospace"><span LANG="en-US">千</span></font></p></td><td WIDTH="237" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">每年度均編列專業服務費、宣傳費、服務費用等</span></font></p></td></tr><tr><td WIDTH="262" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: 0.24in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">合計</span></font></p></td><td WIDTH="96" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">407<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font>6<font FACE="華康細明體, monospace"><span LANG="en-US">千</span></font></p></td><td WIDTH="237" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace">(</font><font FACE="華康細明體, monospace"><span LANG="en-US">預算金額</span></font>600<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font><font FACE="華康細明體, monospace">)</font></p></td></tr></table>
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+總支出21
+桃園機場公司102年度編列公共關係費600萬元，該公司正、副首長包括董事長、總經理、副總經理及總工程師在內，共有7人，每月可共用之公共關係費額度達50萬元，較主管機關交通部之部長特別費每月5萬3千元、副首長特別費2萬6千元為高，相當不合理。
+查該公司並未對公共關係費之支用訂定規範，各業務單位得視業務實際需要提出需求，循程序經副總經理層級以上之長官核可後動支，並檢據核銷。鑒於日前該公司公共關係費之使用曾遭外界質疑其用途及對象，為使公共關係費支用得以制度化且更趨健全，爰刪除102年度公共關係費之1/2，桃園國際機場公司並應於一個月內訂定相關支用規範，以建立完善稽核機制。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+總支出22
+桃園國際機場股份有限公司102年度勞務成本相關經費54億971萬1,000元，包括獎金所需經費5,599萬3,000元。
+惟桃園機場公司自99年11月1日成立至今，各種意外事件未曾間斷，除滲漏水情況持續發生外，手扶梯、時刻表等設施也曾發生故障，甚至危及飛航安全。桃機公司雖加以檢討並提改善措施，但意外事件還是接連發生，改善效果欠佳，檢討恐流於形式。其獎金本為勉勵員工之用，惟該公司卻未曾痛下苦心改善，不停發生各項意外事件，應予譴責。
+爰此，關於該公司獎金應予凍結五分之一，俟主管機關就上述問題向立法院交通委員會提書面報告後，始得動支。
+提案人：魏明谷　　葉宜津　　李昆澤　　管碧玲　　蔡其昌　　劉櫂豪
+總支出23
+桃園國際機場（股）公司101年度預算「勞務收入－空橋或接駁車使用費」編列3億2,681萬6,000元，「勞務成本－空橋操作等外包費」編列1億2,976萬4,000元，外包費用占收入僅約39.70%；而102年度預算「勞務收入－空橋或接駁車使用費」編列2億8,680萬元，較101年減少4,001萬6,000元，102年「勞務成本－空橋操作、接駁作業等外包費」編列2億3,435萬8,000元，外包費支出較101年增加1億5,703萬6,000元，外包費占收入暴增到81.71%，顯然桃園國際機場（股）公司外包費預算編列過於浮濫，勞務收入減少約4,000萬餘元，勞務成本又暴增約1億5,700萬餘元，且勞務支出占勞務收入8成以上，殊不合理，應比照101年度預算將支出減列至收入4成，方符常理，爰此桃園國際機場（股）公司102年度預算「勞務成本－空橋操作、接駁作業等外包費」編列2億3,435萬8,000元擬刪減1億1,963萬8,000元。
+提案人：劉櫂豪　　李昆澤　　葉宜津
+總支出24
+桃園國際機場股份有限公司102年度『勞務成本－棧儲、包裝、代理及加工費』預算2億6,930萬6千元，比上年度預算數（1億6,471萬2千元）增加1億459萬4千元、增幅高達63%，主要是因空橋操作、接駁作業等外包費用大幅增加所致。
+經查，機場公司102年度的機場旅客服務人次和航空器服務的營運目標和上年度相較僅成長0.35%~3.6%，惟相關費用卻增加63%，預算明顯浮編，是以上述預算應予刪除1億元。
+說明：
+◆機場公司本年度與上年度營運目標增減情況
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="165"><col WIDTH="151"><col WIDTH="137"><col WIDTH="138"><tr VALIGN="TOP"><td WIDTH="165" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><a NAME="TA3721429"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="151" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">101<font FACE="華康細明體, monospace"><span LANG="en-US">年（數量）</span></font></p></td><td WIDTH="137" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">102<font FACE="華康細明體, monospace"><span LANG="en-US">年（數量）</span></font></p></td><td WIDTH="138" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">營運目標（增減）</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="165" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">機場旅客服務（人次）</span></font></p></td><td WIDTH="151" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">23,979,920</p></td><td WIDTH="137" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">24,860,254</p></td><td WIDTH="138" STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">+3.6%</p></td></tr><tr VALIGN="TOP"><td WIDTH="165" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: 0.24in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">航空器服務（架次）</span></font></p></td><td WIDTH="151" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">171,400</p></td><td WIDTH="137" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">172,000</p></td><td WIDTH="138" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">+0.35%</p></td></tr></table>
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+總支出25
+桃園國際機場股份有限公司102年度『勞務成本－水電費』預算3億5,410萬9千元，比上年度增加1,861萬1千元、增幅5.5%。雖101年4月電費有調漲，惟漲幅實際上是4.8%，機場公司本年度的水電費明顯寬列，且與政府鼓勵節能減碳的政策相違，爰此，上述預算爰予刪減350萬元。
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+總支出26
+桃園國際機場股份有限公司102年度『其他營業成本－租賃成本』預算33億6,491萬7千元。無上年度之預算數，僅有前年度的決算數，且本年度預算數比前年度決算數增加1.5%。
+鑒於該科目列為營業成本，而影響機場公司的營業毛利，但關於其業務內容卻未有任何說明，致使機場公司本年度的營業毛利是公司成立以來最低的。爰此，上述預算爰予刪減3,300萬元，餘數凍結五分之一，俟向立法院交通委員會報告後始得動支。
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+總支出27
+桃園國際機場股份有限公司102年度其他營業成本相關經費33億6,491萬1,000元，包括獎金所需經費3,028萬4,000元。
+惟桃園機場公司自99年11月1日成立至今，各種意外事件未曾間斷，除滲漏水情況持續發生外，手扶梯、時刻表等設施也曾發生故障，甚至危及飛航安全。桃機公司雖加以檢討並提改善措施，但意外事件還是接連發生，改善效果欠佳，檢討恐流於形式。其獎金本為勉勵員工之用，惟該公司卻未曾痛下苦心改善，不停發生各項意外事件，應予譴責。
+爰此，關於該公司獎金應予凍結五分之一，俟主管機關就上述問題向立法院交通委員會提書面報告後，始得動支。
+提案人：魏明谷　　葉宜津　　李昆澤　　管碧玲　　蔡其昌　　劉櫂豪
+總支出28
+桃園國際機場於100年發生婦人闖入桃園機場管制區，登上停機坪一架華航波音七四七巨無霸客機，甚至謊稱是華航人員騙過工作人員，躲在駕駛休息室的離譜事件，顯示人員教育訓練與保安措施出現重大漏洞。爰此，予以凍結「其他營業成本」－「服務費用」－「專業服務費」計畫20%，俟桃園國際機場針對安全管制提出改善報告後，始得動支。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津　　管碧玲　　劉櫂豪
+總支出29
+桃園國際機場股份有限公司102年度業務費用相關經費9億493萬5,000元，包括獎金所需經費741萬5,000元。
+惟桃園機場公司自99年11月1日成立至今，各種意外事件未曾間斷，除滲漏水情況持續發生外，手扶梯、時刻表等設施也曾發生故障，甚至危及飛航安全。桃機公司雖加以檢討並提改善措施，但意外事件還是接連發生，改善效果欠佳，檢討恐流於形式。其獎金本為勉勵員工之用，惟該公司卻未曾痛下苦心改善，不停發生各項意外事件，應予譴責。
+爰此，關於該公司獎金應予凍結五分之一，俟主管機關就上述問題向立法院交通委員會提書面報告後，始得動支。
+提案人：魏明谷　　葉宜津　　李昆澤　　管碧玲　　蔡其昌　　劉櫂豪
+總支出30
+桃園國際機場股份有限公司102年度『業務費用－旅運費』預算564萬2千元，係支應國內、大陸地區及國外出差之費用，然而本年度的旅運費不僅是上年度預算數的三倍，更是前年度決算數的四倍，明顯浪費公帑，上述預算應予刪減300萬元。
+說明：
+◆『業務費用－旅運費』歷年編列情況
+<table WIDTH="611" CELLPADDING="2" CELLSPACING="0"><col WIDTH="169"><col WIDTH="141"><col WIDTH="141"><col WIDTH="141"><tr VALIGN="TOP"><td WIDTH="169" HEIGHT="17" STYLE="border-top: 1.50pt solid #000000; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="141" STYLE="border-top: 1.50pt solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">100<font FACE="華康細明體, monospace"><span LANG="en-US">年決算</span></font></p></td><td WIDTH="141" STYLE="border-top: 1.50pt solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">101<font FACE="華康細明體, monospace"><span LANG="en-US">年預算</span></font></p></td><td WIDTH="141" STYLE="border-top: 1.50pt solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">102<font FACE="華康細明體, monospace"><span LANG="en-US">年預算</span></font></p></td></tr><tr><td WIDTH="169" HEIGHT="18" VALIGN="TOP" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">預（決）算金額</span></font></p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">133<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font>6<font FACE="華康細明體, monospace"><span LANG="en-US">千</span></font></p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">179<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font></p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">564<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font>2<font FACE="華康細明體, monospace"><span LANG="en-US">千</span></font></p></td></tr></table>
+提案人：李昆澤　　蔡其昌　　葉宜津　　劉櫂豪　　管碧玲　　魏明谷
+總支出31
+桃園國際機場股份有限公司102年度『業務費用－印刷裝訂與廣告費』預算1,755萬2千元，雖僅比上年度預算數增加11%，惟查卻是前年度決算五倍，顯見該筆預算並未根據實際支應狀況編列，明顯浪費公帑，上述預算應予刪減1,000萬元。
+說明：
+◆『業務費用－印刷裝訂與廣告費』歷年編列情況
+<table WIDTH="610" CELLPADDING="2" CELLSPACING="0"><col WIDTH="168"><col WIDTH="141"><col WIDTH="141"><col WIDTH="141"><tr VALIGN="TOP"><td WIDTH="168" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in"><a NAME="TA6645558"></a><span CLASS="sd-abs-pos" STYLE=" top: -0.01in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">年度</span></font></p></td><td WIDTH="141" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">100<font FACE="華康細明體, monospace"><span LANG="en-US">年決算</span></font></p></td><td WIDTH="141" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">101<font FACE="華康細明體, monospace"><span LANG="en-US">年預算</span></font></p></td><td WIDTH="141" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0in; padding-bottom: 0.02in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="CENTER" STYLE="margin-left: 0.07in; margin-right: 0.07in">102<font FACE="華康細明體, monospace"><span LANG="en-US">年預算</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="168" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p STYLE="margin-left: 0.07in; margin-right: 0.07in"><span CLASS="sd-abs-pos" STYLE=" top: 0.24in; left: -0.03in; width: 610px"><hr></span><font FACE="華康細明體, monospace"><span LANG="en-US">預（決）算金額</span></font></p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">306<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font>1<font FACE="華康細明體, monospace"><span LANG="en-US">千</span></font></p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: none; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1575<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font>6<font FACE="華康細明體, monospace"><span LANG="en-US">千</span></font></p></td><td WIDTH="141" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.02in; padding-bottom: 0in; padding-left: 0.02in; padding-right: 0.02in"><p ALIGN="RIGHT" STYLE="margin-left: 0.07in; margin-right: 0.07in">1755<font FACE="華康細明體, monospace"><span LANG="en-US">萬</span></font>2<font FACE="華康細明體, monospace"><span LANG="en-US">千</span></font></p></td></tr></table>
+提案人：李昆澤　　蔡其昌　　葉宜津　　劉櫂豪　　管碧玲　　魏明谷
+總支出32
+桃園國際機場（股）公司101年度預算「業務費用－廣告費」編列426萬9,000元，而102年度預算「業務用費－廣（公）告費」卻暴增至1,054萬元，增幅達146.90%，惟桃園國際機場（股）公司102年並無新增計畫需求必須增加廣告費用，反而應加強的國際行銷部分，101年「業務費用－業務宣導費」編列1,112萬5,000元辦理國際行銷，102年卻減列至700萬元而已，顯然桃園國際機場（股）公司廣告宣導經費不僅未依實際需求編列，且過於浮濫，爰此桃園國際機場（股）公司102年度預算「業務費用－廣（公）告費」編列1,054萬元擬刪減500萬元。
+提案人：劉櫂豪　　李昆澤　　葉宜津
+總支出33
+桃園國際機場股份有限公司102年度『業務費用－會費、捐助與分攤』預算199萬5千元，主要係支應國際機場協會（ACI）之會費。經查，國際機場協會（ACI）每一季都會針對受評比的機場服務品質，進行旅客調查與評比，評比共分36項，其各項分數的高低可作為機場服務品質改進的參考，亦可作為監督桃園機場標準。然而，機場公司對外僅公布機場整體排名（我國2012年第3季機場評比排名第11），但外界卻無從得知評比項目，無從檢視該排名的意義，致使該排名與全國民眾感受落差甚大。若該評比預算無法達到監督與促進我國機場進步的用意，而是作為文宣和廣告使用，則該筆預算有檢討必要，是以，關於桃園國際機場股份有限公司102年度『業務費用－會費、捐助與分攤』預算199萬5千元全數凍結，俟向立法院交通委員會報告後始得動支。
+提案人：李昆澤　　蔡其昌　　葉宜津　　劉櫂豪　　管碧玲　　魏明谷
+總支出34
+桃園國際機場股份有限公司102年度其他營業成本相關經費7,553萬3,000元，包括獎金所需經費2,419萬元。
+惟桃園機場公司自99年11月1日成立至今，各種意外事件未曾間斷，除滲漏水情況持續發生外，手扶梯、時刻表等設施也曾發生故障，甚至危及飛航安全。桃機公司雖加以檢討並提改善措施，但意外事件還是接連發生，改善效果欠佳，檢討恐流於形式。其獎金本為勉勵員工之用，惟該公司卻未曾痛下苦心改善，不停發生各項意外事件，應予譴責。
+爰此，關於該公司獎金應予凍結五分之一，俟主管機關就上述問題向立法院交通委員會提書面報告後，始得動支。
+提案人：魏明谷　　葉宜津　　李昆澤　　管碧玲　　蔡其昌　　劉櫂豪
+總支出35
+桃園機場公司102年度編列公共關係費600萬元，與上年度預算數相同，其占營業收入129億7,426萬8千元之比率為0.046%，亦低於所得稅法規定比率。
+惟該公關費用大多仍供管理階層使用，而該公司正、副首長包括董事長、總經理、副總經理及總工程師在內，共有7人，每月可共用之公共關係費額度達50萬元，竟然比主管機關交通部之部長特別費每月5萬3千元、副首長特別費2萬6千元還高，顯然不符比例。爰此，建議將管理費用項下之公共關係費用三分之一，予以全數刪除之。
+提案人：魏明谷　　葉宜津　　李昆澤　　管碧玲　　蔡其昌　　劉櫂豪
+總支出36
+桃園國際機場股份有限公司，其102年度預算案管理費用項下編列600萬元之公共關係費，依該公司於今年3月9日發布之說明稿，其表示102年度編列之公共關係費將減列2/3，即編列200萬元，但預算書呈現內容仍為600萬元。且其占營業收入129億7,426萬8千元之比率為0.046%，亦較100年度25家國營事業之公關費用比例之0.006%為高，依此比例其公關費用以77萬8千元為適當，爰予以刪除522萬2千元。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+總支出37
+桃園國際機場股份有限公司102年度『利息費用』預算6,257萬8千元，是上年度預算數（1,327萬8千）將近五倍。主要因機場公司預計在102年度舉債支應業務發展及固定資產建設所需資金。惟查機場公司的固定資產執行率嚴重低落，100年度的執行率61%，甚至101年度10月底的預算執行率僅有9.7%。綜上，機場公司之固定資產建設改良每年的執行率甚低，公司卻持續舉債籌措資金，徒生不必要的利息費用，爰此要求機場公司應配合實際工作進度分期辦理舉債，桃園國際機場股份有限公司102年度『利息費用』預算6,257萬8千元應予刪除5,000萬元。
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+固定資產之建設改良1
+桃園航空城計畫內容主要分為「桃園國際機場區及附近地區特定區用地取得」及「未來機場擴建工程」兩部分；桃園機場公司係負責推動「未來機場擴建工程」部分，主要項目包括第三航廈、第三跑道、客貨停機位、衛星廊廳、旅客運輸系統、貨運站區、維修區等，目前僅第三航站區委託規劃案正式編列預算辦理。
+查第三航站區委託規劃案計畫總額2億8,166萬3千元，辦理期間自101年1月至103年6月，其中101年度編列4,225萬元，102年度編列1億2,674萬8千元，103年度編列1億1,266萬5千元。該案業於101年8月間辦理公開閱覽，9月間上網辦理公開招標，預計12月間進行評選作業。準此，第三航站區委託規劃案最快僅能於101年底評選出規劃廠商，101年度所編預算恐無法依預定時程執行。為避免造成鉅額經費保留而使資源閒置，應緩編102年度預算。
+爰將102年度編列1億2,674萬8千元之第三航站區委託規畫案全數凍結，矣桃園機場公司依預算法第34條規定，將成本效益分析報告、財源籌措及資金運用之說明送本院備查後，再行審議。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+固定資產之建設改良2
+桃園機場公司102年度預算案，有關一般建築及設備計畫之分年性項目計編列21項、共18億4,281萬2千元；其中6項工程，目前進度嚴重落後。
+查102年度編列「桃園機場停車場暨陸側交通設施改善計畫」6,517萬9千元，迄101年8月底工程執行進度27%，預算則僅支用8千元；「第一、二航廈廁所改善工程」編列2億1,840萬元，8月底工程尚未發包施工，預算僅支用571萬2千元；、「配合第一航廈改善專案公共區域整體改善工程」編列1億3,952萬8千元，工程進度32%，預算支用339萬8千元；「第二航廈室內標誌新增及整體汰換工程」編列1,763萬7千元，工程尚未決標，預算全數未動支；「第二航廈空調系統整建」編列6,000萬元，正辦理規劃設計標案上網公告作業，預算全數未動支；「整建第一航廈空調系統設備計畫」編列4,922萬4千元，正辦理規劃設計標案上網公告作業，預算全數未動支。
+鑒於上述六項工程進度嚴重落後，爰刪除102年度該六項工程預算合計549,968千元之1/2。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+固定資產之建設改良3
+桃園機場公司102年度預算案於機械及設備項下賡續編列「橋電橋氣設備採購計畫」3億元，然經該公司檢視現有設備狀況後，該項計畫內容將辦理變更，卻未依預算法規定附具變更後之全部計畫供國會審查。
+監察院101年4月間對民航局及桃園機場公司之空橋附設延伸電纜設備（簡稱橋電）及空調設備（簡稱橋氣）閒置及使用率偏低提出糾正案。桃園機場公司為改善橋電橋氣設備使用效益，遂編列「橋電橋氣設備採購計畫」，該計畫辦理期間自101年度至102年度，總經費3億8,273萬元，其中101年度編列8,273萬元、102年度編列3億元，預計採購24套橋電設備（第一航廈4套、第二航廈20套）、38套橋氣設備（第一航廈18套、第二航廈20套）。但依據桃園機場公司提供資料顯示，鑒於近來空橋損壞事件頻傳，該公司除採購上述24套橋電設備及38套橋氣設備外，尚需汰換第二航廈40座空橋，故辦理期間將變更為101年度至104年度，而103年度及104年度亦將增編約6億元，總經費則增加為9億7,771萬元。
+該項計畫內容不僅將增列購置空橋經費，亦延長原訂辦理時程，卻未依預算法規定附具變更後之全部計畫供國會審查，應予譴責，爰將102年度編列之300,000千元全數凍結，矣該公司向本委員會提送修正計畫再行審議。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+固定資產之建設改良4
+根據審計部100年度中央政府總決算審核報告：「民用航空局及桃園機場公司購置橋電及橋氣設備，提供停機坪飛機電力及維持空調系統，惟使用率偏低，仍陸續購置設備，造成閒置及投資效益偏低情事……經依審計法第69條規定，於民國100年10月7日函請交通部查明妥處，並報告監察院，業經監察院提案糾正」惟桃園機場公司102年度仍編列3億元辦理橋電橋氣設備採購計畫、6,000萬元辦理第二期航廈空調系統整建、4,922萬4千元辦理整建第一期航廈空調系統設備計畫，另依據立法院預算中心評估報告所述「鑒於近來空橋損壞事件頻傳，該公司除採購上述24套橋電設備及38套橋氣設備外，尚須汰換第二航廈40座空橋，故辦理期間將變更為101年度至104年度，而103年度及104年度亦將增編約6億元，總經費則增加為9億7,771萬元，惟102年度預算仍照原訂計畫內容送國會審議，並未予以變更。」顯然桃園國際機場（股）公司針對監察院糾正案未能確實檢討，並且預算編列亦未按照核定計畫內容編列，有逃避監督之嫌，爰此桃園國際機場（股）公司102年預算「一般建築及設備計畫－機械及設備」編列11億9,098萬5,000元，其中橋電橋氣設備採購計畫3億元、第二期航廈空調系統整建6,000萬元、整建第一期航廈空調系統設備計畫4,922萬4,000元，擬全數凍結，俟桃園國際機場（股）公司就監察院糾正案檢討及相關計畫內容必要性向交通委員會專案報告同意後，始得動支。
+提案人：劉櫂豪　　李昆澤　　葉宜津
+固定資產之建設改良5
+桃園國際機場股份有限公司102年度『一般建築及設備計畫』之「機械及設備」預算11億9,098萬5千元，比上年度預算數6億607萬8千元，增加5.85億元、增幅高達96%。經查缺失如下：
+(一)「橋電橋氣設備採購計畫」係提供停機坪電力以維持空調系統，經審計部指出，該設備使用率偏低，但卻仍陸續購置設備，造成閒置及投資效益偏低，有檢討必要。
+(二)「第二航廈空調系統整建」，截至今年（101年）八月底才辦理上網公告標案作業，以至於預算全數未動支，執行進度嚴重落後。
+(三)「整建第一航廈室空調系統設備計畫」迄今年八月底，才辦理上網公告標案作業，以至於預算全數未動支，執行進度嚴重落後。
+綜上，102年度『一般建築及設備計畫』之「機械及設備」預算11億9,098萬5千元應予凍結五分之一，俟向立法院交通委員會報告後，始得動支。
+提案人：李昆澤　　蔡其昌　　葉宜津　　管碧玲　　魏明谷　　劉櫂豪
+固定資產之建設改良6
+桃園國際機場股份有限公司102年度『一般建築及設備計畫』之「房屋及建築」預算編列6億9,742萬9千元，比上年度預算數4億1,885萬元，增加2.28億元、增幅高達67%。經查缺失如下：
+(一)「第一、二航廈廁所改善工程」2億1,840萬元之整建工程費用比一般廁所整建高出許多，似有浪費公帑之嫌。
+(二)「配合第一航廈改善專案公共區域整體改善工程」截至今年（101年）八月底的執行進度僅32%，進度有落後現象。
+(三)「第二航廈室內標誌新增及整體汰換工程」迄今年八月底，該工程尚未決標。
+綜上，102年度『一般建築及設備計畫』之「房屋及建築」預算6億9,742萬9千元應予凍結五分之一，俟向立法院交通委員會報告後，始得動支。
+提案人：李昆澤　　蔡其昌　　葉宜津　　劉櫂豪　　管碧玲　　魏明谷
+固定資產之建設改良7
+桃園國際機場股份有限公司，102年固定資產建設改良擴充繼續計畫「台灣桃園國際機場道面整建及助導航設施提升工程計畫，由於其101年度編列預算目前僅執行約5億，甚且要求立法院刪除其中之23億元，其發言人表示係因檢討採用新工法將節省一半以上之經費，故依其檢討結果，爰刪除本項預算半數即10億9,945萬6千元。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+固定資產之建設改良8
+桃園國際機場股份有限公司，102年固定資產建設改良擴充繼續計畫「台灣桃園國際機場道面整建及助導航設施提升工程計畫，由於其101年度編列執行之計畫中之場面助導航燈光設施及整建NC滑行道具備用跑道功能工程標案，疑有規格綁標、為特定廠商訂定投標資格、以具瑕疵招標文件排除其他廠商等弊案，由於其攸關後續年度繼續工程之系統甚至將來第三跑道之助導航系統，與桃園機場日後發展有重大影響，爰予以凍結102年本項計畫之21億9,891萬3千元，待本案釐清，並至交通委員會報告、經過同意後，始得動支。
+提案人：葉宜津　　李昆澤　　魏明谷　　管碧玲　　蔡其昌　　劉櫂豪
+固定資產之建設改良9
+桃園機場計有南、北各1條跑道，及北滑行道15條、南滑行道11條、聯絡南、北滑行道2條等28條滑行道。一般道面設計年限約為20年，惟桃園機場北跑道係於68年啟用，南跑道亦於72年啟用，迄今已30餘年，監察院於100年8月9日對桃園機場道面整建工程提出糾正，整建預算亦由全面加鋪之35億元增為全面性挖除重建之107億元，其道面整建工程將分為5階段進行，首先整建NC滑行道，其次整建及延長南（05R－23L）跑道至3,800公尺，第3階段整建南邊滑行道，第4階段則整建北（05L－23R）跑道，最後再整建北側滑行道。
+惟迄101年8月底，桃園機場公司僅完成先期整修，主要5階段整建計畫均尚未執行，原預計於101年度施作之NC滑行道及南（05R－23L）跑道整建等主要工程項目，迄今尚未完成招標程序，預算執行率未及2%，執行進度嚴重落後。為避免造成鉅額經費保留而使資源閒置，爰刪除102年編列台灣桃園國際機場道面整建及助導航設施提升工程計畫2,198,913千元之1/2。
+提案人：管碧玲　　葉宜津　　蔡其昌　　李昆澤　　魏明谷　　劉櫂豪
+固定資產之建設改良10
+一般道面設計年限約為20年，惟桃園機場跑道迄今已30餘年，交通部卻於跑道超過使用年限後，方進行道面整建計畫之評估，故監察院以於100年8月9日對桃園機場道面整建工程提出糾正。經查，道面整建工程正式施工後旋即發生承商倒閉、工程停擺情事，之後又因工法變更及招標策略調整等因素，致預計於101年度施作之NC滑行道及南跑道整建等主要工程項目，尚未完成招標程序，故截至8月底預算執行率未及2%，執行進度嚴重落後。爰此，予以刪除20%，以避免造成鉅額經費保留而使資源閒置。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津　　管碧玲　　劉櫂豪
+固定資產之建設改良11
+鑑於「臺灣桃園國際機場道面整建及助導航設施提升工程計畫」自去（100）年由民用航空局交由桃園國際機場股份有限公司辦理後，發生國際機場跑道工程，承包之營造商施工不到50天倒閉，造成機場跑道整建停擺，顯示桃園國際機場股份有限公司招標能力不足，不僅使機場黑暗期變長，更有損國家形象。如今該計畫不僅進度嚴重落後，卅三億元預算只執行五億元，又於102年度再度編列21億9,891萬3,000元，顯有嚴重浪費公帑之嫌。爰此，建議將本年度該計畫預算全數刪除。
+提案人：魏明谷　　葉宜津　　李昆澤　　管碧玲　　蔡其昌　　劉櫂豪
+（通案）決議1
+針對101年度桃園機場公司因機場跑道整建計畫執行不力，總經理更要求執政黨出面大砍預算以拉高執行率之荒謬行為；及今日（11月26日）媒體頭版更踢爆桃機公司為消耗預算，變更預算科目名稱，招待近半數員工出國考察國際機場。桃機公司目無法紀，背棄人民對國際機場為國家門面之期待，自成立機場公司以來，不但頻頻出包，讓國人感到失望、丟臉外，現今更要虛耗公帑、隻手遮天，企圖掩蓋過錯，逃避監督。爰此，要求暫緩102年度桃園國際機場股份有限公司之預算審查，待桃機公司向立法院交通委員會作機場跑道整建計畫預算執行情形專案報告後，再擇期審議。
+提案人：葉宜津　　蔡其昌　　李昆澤　　魏明谷　　管碧玲　　劉櫂豪
+決議2
+針對機場公司將預備花五億多元蓋廉價航空站，惟國內都沒有一家廉價航空公司，且廉價航空站將興建航廈、通關設備等100多個單位，請機場公司將廉價航空站等相關費用明細提交於交通委員審查。
+提案人：羅淑蕾　　陳根德　　蔡其昌　　李鴻鈞　　王進士
+決議3
+鑒於桃園機場相關建設皆是民航作業基金投入大筆建設基金，但在機場降落費用之分配上卻是由機場公司獨享，導致機場公司坐享其成享有每年約20億元，甚至還大於102年民航作業基金支出的建置導航設備（桃園機場塔臺暨整體園區新建工程（民航作業基金102年度預算書p.1-10）總經費12億7,172萬元，）！此舉顯然不公同時對於基金收入產生影響是以主管機關應比照發展觀光條例機場服務費之分配比例，機場公司在降落費用此項目之收取分配比例為40%，其他60%則繳回民航作業基金，並自102年度起實施，以符公平正義原則。是否有當，敬請公決！
+提案人：李鴻鈞　　林明溱　　王進士
+決議4
+為有效提昇桃園國際機場形象，關於桃園國際機場第一期、第二期航廈出入境併排停車亂象嚴重，對於停車壅塞所衍生的大小客車併排停車、旅行團遊覽車塞爆出境大廳門口及人車擠道等問題，請桃園國際機場公司於一個月內完成管制大型客車直接在出入境大廳上下客，有效引導車流分散以及實施大型客車停放停車場接送旅客的改善方案。
+提案人：羅淑蕾　　陳根德　　蔡其昌　　李鴻鈞　　王進士
+決議5
+桃園國際機場股份有限公司，其102年度預算案，其係以損益預計表方式呈現，其支出係以營業成本、營業費用、營業外費用為主要項目，但在營業成本項目外於102度新增其他營業成本，而各項支出項目亦均有用人費用、服務費用、材料及用費、利息與利息、折舊與攤銷，其區分並無明確標準，亦欠缺合理編列說明，導致預算審查困難。因此要求其於往後之預算書，於各項費用彙計表中應比照公務預算之方式詳列說明其支出，於固定資產建設改良擴充明細表，亦需詳列各項項目之計畫明細說明，而非僅列出項目名稱方式含糊帶過。至102年度部分，須於交通委員會審查2個星期內補送相關資料。
+提案人：葉宜津　　李昆澤　　管碧玲　　蔡其昌　　魏明谷　　劉櫂豪
+決議6
+飛機是離島交通的命脈，離島居民與本島的交通往來，除了船舶，最方便的交通工具就是飛機。
+但近日卻傳出交通部同意航空公司以八年沒有調漲機票造成虧損為由，調高離島機票售價5%~30%。
+離島機票調漲，不僅對離島居民的交通權造成影響，更嚴重影響離島居民的生存權，蓋近來政府積極推展離島觀光，若機票一漲再漲，以台北到東京為例，廉價航空來回機票才台幣4,600元，但台北到馬公來回機票需要4,000，而台北馬公距離才300公里，台北東京距離2,400公里，這距離有八倍之差，機票來回才差600元，則離島的觀光業將難以與外界競爭。
+綜上，為保障離島居民的通行權與生存權，要求交通部杜絕離島交通壟斷漲價，開放廉價航空以促進離島觀光發展。
+提案人：李昆澤　　蔡其昌　　魏明谷　　葉宜津　　管碧玲　　劉櫂豪
+決議7
+機場公司在編列預算時，都說要考察美國、新加坡等地，但實際上卻都去考察大陸機場，因此請機場公司提供101年考察經費明細，考察地點、考察人員等相關詳細報告，送交通委員會審查。
+提案人：羅淑蕾　　陳根德　　蔡其昌　　李鴻鈞
+決議8
+民國99年9月2日，長榮航空BR-701班機於桃園機場著陸後偏離跑道中心線，致左翼主輪偏出跑道。根據飛安會調查報告對桃園國際機場提出飛安改善建議既有以下4項：(1)有關跑道地帶、道肩、週遭設施、鋪面抗滑及平坦度檢測等業務應以民航局「民用機場設計暨運作規範」標準及建議或相關法規辦理；(2)加強跑滑道維護管理機制，並強化相關組織與人力配當；(3)加強化06/24跑道之鋪面排水功能及摩擦效能，如考量設置全鋪面之刮槽或刮痕；(4)依據國際民航組織「跑道入侵預防手冊」之各項建議，設置「跑道安全小組」強化防治跑道入侵功能並定期舉行會議，以降低跑道入侵事件之發生機率。爰此，建請桃園國際機場股份有限公司確遵飛安會的飛安改善建議，針對上述4點問題進行改善。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津　　管碧玲　　劉櫂豪
+決議9
+桃園國際機場目前已編列預算分五階段進行跑滑道整建，自100年起進行跑道先期補強工程，101年12月亦著手進行南跑道整建工程。經查，桃園國際機場僅兩條跑道，南跑道整修期間將由北跑道一肩扛起接送航機全部責任，屆時不但航機等待起降時間拉長，也可能出現空中塞機情況，嚴重考驗飛安。爰此，建請桃園國際機場股份有限公司提出相關配套措施方案，確保整建工程不致造成民眾不便與飛航安全。
+提案人：蔡其昌　　李昆澤　　魏明谷　　葉宜津　　管碧玲　　劉櫂豪
+決議10
+鑑於「臺灣桃園國際機場道面整建及助導航設施提升工程計畫」自去（100）年由民用航空局交由桃園國際機場股份有限公司辦理後，發生國際機場跑道工程，承包之營造商施工不到50天倒閉，造成機場跑道整建停擺，顯示桃園國際機場股份有限公司招標能力不足，不僅使機場黑暗期變長，更有損國家形象。如今該計畫不僅進度嚴重落後，卅三億元預算只執行五億元，又於102年度再度編列21億9,891萬3,000元，顯有嚴重浪費公帑之嫌。爰要求桃園機場公司應於一個月內，向交通委員會報告該預算執行情況。
+提案人：魏明谷　　葉宜津　　李昆澤　　管碧玲　　蔡其昌　　劉櫂豪
+決議11
+主旨：由於桃園國際機場公司編列跑道路面整建計畫預算執行一再延宕，請桃園國際機場公司提供最新修訂的全部北跑道、南跑道及所有滑行道整建計畫修訂內容、修訂計畫預算金額、支出項目別、執行單位、預訂與實際工程進度及（封閉跑道）對飛機起降飛安的影響及因應跑道封閉衝擊方案向交通委員會提出專案報告。
+提案人：羅淑蕾
+連署人：葉宜津　　林明溱
+決議12
+桃園國際機場股份有限公司其成立以來狀況連連，甚至有執行力太差，消耗預算出國考察，並有招標工程發生弊案之嫌，因此要求將101年度桃園國際機場股份有限公司之工程全面清查，若有疑義，即應移送檢調單位偵查。
+提案人：陳根德　　葉宜津　　管碧玲
+決議13
+為了解桃園機場改善情形，作為未來監督參考，擬請桃園國際機場公司提供國際航站理事會（ACI）從2007年到2012年10月為止，總排名及各項指標實際排名與桃園機場努力改善做法。
+提案人：羅淑蕾　　楊麗環　　陳根德　　林明溱
+總支出38
+1.為有效提昇國際機場形象，關於桃園機場二期航廈出入境併排停車亂象（每天有450輛大客車進出），請桃園國際機場公司及航空警察局針對停車壅塞所衍生的大小客車併排停車、旅行團塞爆出境大廳門口及人車搶道等問題，嚴格管制大型客車直接在二期三樓出境大廳上下客，有效管理車輛分流，並將大客車引導到P4停車場停放、接送旅客。2.在桃園機場完成二期航廈三樓出境大廳車輛分流改善計畫之前，102年度預算「勞務成本」及「其他營業成本」項下「什項設備維護費」5,190千元及5,463千元凍結1/2，前開車輛分流改善計畫完成後始得動支。
+提案人：羅淑蕾　　楊麗環　　陳根德　　林明溱
+決議14
+鑒於近年來商赴中國投資及就業的人數眾多，往來頻繁，惟春節期間包機返台航班數由明年年初之116班較今年145減少29班。經查，其航班減少之原因在於今年返台機票對岸機構已無補助，導致許多台商及台籍幹部經濟負擔增加，降低返台之意願。爰要求交通部就返台機票價格比照今年價格，盡速與對岸協商，以確保我國赴中之民眾得以較優惠之價格返鄉，與家人共享天倫之樂。
+提案人：魏明谷　　劉櫂豪　　葉宜津
+（進行協商）
+主席：現在協商第一案。
+郭蔡董事長文：第一案提案增加總收入1,668萬元。
+主席：有無困難？
+郭蔡董事長文：可以增加394萬元。
+主席：好，本案就增列394萬元。
+總支出是不是用統刪的方式比較好，統刪要刪多少，有沒有評估一下，說個數字？
+郭蔡董事長文：1,000萬元
+主席：去年是刪多少？
+郭蔡董事長文：800萬元。
+主席：增加200萬元？
+郭蔡董事長文：因為我們今年的總收入是增加5億元，但是總支出今年比去年，我們已經減了三億多了，預算編出時已經減掉了。
+主席：就總刪1,000萬元，好不好？
+郭蔡董事長文：謝謝。
+主席：總支出刪1,000萬元，項目自行調整。
+在場人員：還有重大之建設事業部分第11案。
+主席：重大之建設事業部分第11案，是否請說明。
+毛部長治國：是固定資產之建設、改良、擴充。
+在場人員：固定資產在102年度預算的部分，我們有一些部分都已經發包出去了，在102年度能夠執行完畢。
+主席：這部分就不算？
+在場人員：是。
+主席：這個不予處理，預算照列。
+請問各位，對主決議的部分，有無異議？
+陳委員根德：機場公司有沒有意見？
+在場人員：總支出的部分，因為我們在調整工法，102年度編列22億是不是緩列1/2？
+陳委員根德：那個不要去提。
+主席：現在協商決議部分，主決議第1案，不予處理。
+請問各位，對第2案，有無異議？
+在場人員：是不是保留？
+陳委員根德：這個沒有問題，廉價航空公司……
+主席：改為書面報告。
+郭蔡董事長文：改為建請案，改為書面報告。
+主席：把「審查」二個字拿掉，改為提書面報告。
+請說明第3案。
+郭蔡董事長文：我們建議第3案是不是維持原來的分配機場公司60%，民航作業基金40%。
+主席：不予處理就好了。
+郭蔡董事長文：好，謝謝。
+主席：第4案不予處理。
+請說明第5案。
+郭蔡董事長文：我們有按照行政院的格式編列提出來。
+主席：第5案不予處理。
+請問各位，對第6案，有無異議？
+郭蔡董事長文：第6案是民航局的，不是機場公司的。
+主席：第6案不予處理。
+請問各位，對第7案，有無異議？
+郭蔡董事長文：第7案剛才已經報告過了，是不是不予處理？
+主席：第7案不予處理。
+請問各位，對第8案，有無異議？（無）無異議，通過。
+請問各位，對第9案，有無異議？（無）無異議，通過。
+請問各位，對第10案，有無異議？
+在場人員：剛才已經報告過了。
+陳委員根德：這個應該不予處理。
+主席：好，不予處理。
+請問各位，對第11案，有無異議？
+郭蔡董事長文：是不是不予處理？
+主席：好，不予處理。
+請問各位，對第12案，有無異議？
+郭蔡董事長文：這個剛才已經報告過了。
+陳委員根德：這是那天講的。
+主席：第12案不予處理。
+請問各位，對第13案，有無異議？（無）無異議，通過。
+請問各位，對第14案，有無異議？（無）無異議，通過。
+請問各位，對協商結論免予宣讀，授權議事人員整理作成決議，列入紀錄，有無異議？（無）無異議，通過。
+宣讀的以書面為主，就不用再宣讀了。
+（繼續開會）
+主席：針對今天的會議作如下決議：一、報告及詢答完畢。二、「中華民國102年度中央政府總預算案附屬單位預算」營業部分有關交通部主管桃園國際機場股份有限公司營業預算，處理完畢。三、委員於質詢中要求提供相關書面資料或未及答復部分，請交通部及相關單位儘速以書面答復。
+現在散會。
+散會（13時11分）
