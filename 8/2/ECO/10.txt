@@ -13,7 +13,15 @@
 委員出席15人
 列席委員：吳秉叡　　陳亭妃　　陳歐珀　　邱議瑩　　賴士葆　　許添財　　李桐豪　　吳育仁　　鄭天財　　江啟臣　　廖正井　　孔文吉　　邱文彥　　盧秀燕　　林德福　　陳淑慧　　姚文智　　林世嘉　　林正二　　蔣乃辛　　黃文玲　　李貴敏　　管碧玲　　蕭美琴　　葉宜津　　王惠美　　蘇清泉　　翁重鈞　　楊麗環　　吳育昇　　張慶忠　　徐欣瑩　　鄭汝芬　　呂玉玲　　江惠貞　　邱志偉　　高金素梅
 委員列席37人
-<table WIDTH="609" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="249"><col WIDTH="282"><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席人員：</font></p></td><td WIDTH="249" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院農業委員會主任委員</p></td><td WIDTH="282" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳保基暨相關人員</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="249" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院環境保護署水質保護處副處長</p></td><td WIDTH="282" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">沈一夫</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="249" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財政部賦稅署署長</p></td><td WIDTH="282" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許虞哲</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="249" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.39cm; margin-right: 0.19cm">關政司副司長</p></td><td WIDTH="282" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝鈴媛</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="249" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">中華民國養豬協會理事長</p></td><td WIDTH="282" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">楊冠章</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="249" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">副理事長</p></td><td WIDTH="282" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">林秋桂</p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="249" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">常務監事</p></td><td WIDTH="282" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">潘連周</p></td></tr></table>
+
+| 列席人員： |         行政院農業委員會主任委員 | 陳保基暨相關人員
+| ---------- | -------------------------------- | ----------------
+| 　　　　　 | 行政院環境保護署水質保護處副處長 |           沈一夫
+| 　　　　　 |                 財政部賦稅署署長 |           許虞哲
+| 　　　　　 |                     關政司副司長 |           謝鈴媛
+| 　　　　　 |           中華民國養豬協會理事長 |           楊冠章
+| 　　　　　 |                         副理事長 |           林秋桂
+| 　　　　　 |                         常務監事 |           潘連周
 主　　席：蘇召集委員震清
 專門委員：黃素惠
 主任秘書：鄧陽僖
@@ -160,7 +168,7 @@
 (二)拓展與各國競爭法主管機關雙邊或多邊的合作關係，持續規劃與外國競爭法主管機關雙邊會談事宜，增進國際交流互動，共創公平競爭之交易秩序。
 (三)協助開發中國家建立競爭法制，提供講師派遣、訓練課程、競爭法參考資料及舉行研討會等技術援助，回饋國際社群，使我國之執法經驗及成果成為開發中國家之執行競爭法之典範。
 (四)安排國際組織或先進國家競爭法主管機關官員來臺分享執法經驗，邀請專家學者講授國外實務案例探討，辦理本會出國人員心得分享，以汲取最新國外競爭法資訊，開創同仁國際視野。
-、結語
+叁、結語
 各位委員、各位先進，去年下半年以來，全球經濟受歐債危機、先進國家高失業率及財政緊縮造成需求疲弱等因素影響，全球經濟景氣成長趨緩，連帶影響國內經濟發展。本會身為我國競爭法主管機關，面對國內、外經濟不景氣的嚴峻挑戰，將秉持「維護公平競爭，端正交易秩序」之理念，嚴謹且積極的執行公平交易法，確保市場交易秩序與消費者權益，同時全力以赴促使公平交易規章制度日益完備，使公平交易理念更為落實。本會將持續扮演好競爭秩序守門員的角色，為國內樹立更自由、更公平的市場交易秩序與競爭環境。今後，尚祈各位　委員繼續給予本會批評與指教。以上報告，敬請　指教。謝謝！
 主席：現在進行詢答，每位委員發言時間為8分鐘，得延長2分鐘，上午11時截止發言登記。
 請丁委員守中質詢。

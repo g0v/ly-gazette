@@ -13,14 +13,18 @@
 委員出席25人
 列席委員：林佳龍　　李桐豪　　林德福　　吳秉叡　　賴士葆　　江啟臣　　邱文彥　　陳歐珀　　江惠貞　　徐欣瑩　　紀國棟　　許添財　　張慶忠　　邱志偉　　薛　凌　　黃文玲　　蕭美琴　　姚文智　　張嘉郡　　蘇清泉　　翁重鈞　　羅明才　　蔣乃辛　　鄭汝芬
 委員列席24人
-<table WIDTH="608" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="535"><tr VALIGN="TOP"><td WIDTH="66" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康中黑體, monospace"><span LANG="en-US">列席人員：</span></font></p></td><td WIDTH="535" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">經濟部部長施顏祥、智慧財產局局長王美花暨相關人員</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="66" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="535" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">司法院調院辦事法官林欣蓉</span></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="66" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="535" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">法務部參事陳文琪、主任檢察官簡美慧</span></font></p></td></tr></table>
+
+| 列席人員： | 經濟部部長施顏祥、智慧財產局局長王美花暨相關人員
+| ---------- | ------------------------------------------------
+| 　　　　　 |                         司法院調院辦事法官林欣蓉
+| 　　　　　 |               法務部參事陳文琪、主任檢察官簡美慧
 主　　席：蘇召集委員震清
 專門委員：黃素惠
 主任秘書：鄧陽僖
 紀　　錄：簡任秘書　葉義生
 簡任編審　黃殿偉
-科 長　朱莉華
-專 員　楊雅如
+科    長　朱莉華
+專    員　楊雅如
 速　　記：公報處記錄人員
 討　論　事　項
 審查行政院函請審議「營業秘密法增訂部分條文草案」案。

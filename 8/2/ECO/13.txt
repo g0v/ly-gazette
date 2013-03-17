@@ -14,7 +14,10 @@
 委員出席14人
 列席委員：葉宜津　　陳亭妃　　吳秉叡　　廖正井　　邱議瑩　　蕭美琴　　林德福　　許添財　　林佳龍　　吳育仁　　陳淑慧　　江啟臣　　楊麗環　　盧嘉辰　　賴士葆　　陳歐珀　　盧秀燕　　鄭天財　　薛　凌　　林正二　　李桐豪　　邱文彥　　劉櫂豪　　費鴻泰　　江惠貞　　蔣乃辛　　李貴敏　　張慶忠　　蘇清泉　　翁重鈞　　管碧玲　　孔文吉　　黃文玲　　蔡其昌　　王惠美　　王進士　　林明溱　　田秋堇　　劉建國　　馬文君　　高金素梅　呂學樟　　徐欣瑩　　呂玉玲　　林世嘉　　楊　曜　　羅明才　　吳育昇
 委員列席48人
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="248"><col WIDTH="464"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席人員：</font></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">經濟部政務次長</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">梁國新暨相關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處科長</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">巫忠信</p></td></tr></table>
+
+| 列席人員： |     經濟部政務次長 | 梁國新暨相關人員
+| ---------- | ------------------ | ----------------
+| 　　　　　 | 行政院主計總處科長 |           巫忠信
 主　　席：林召集委員滄敏
 專門委員：黃素惠
 主任秘書：鄧陽僖

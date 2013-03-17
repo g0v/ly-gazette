@@ -15,9 +15,13 @@
 （出席委員28人）
 列席委員：廖正井　　吳秉叡　　林佳龍　　林正二　　李桐豪　　鄭天財　　江惠貞　　陳歐珀　　李貴敏　　許添財　　邱文彥　　呂學樟　　徐耀昌　　徐欣瑩　　顏清標
 （列席委員15人）
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="299"><col WIDTH="413"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席人員：</font></p></td><td WIDTH="299" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">外交部政務次長</p></td><td WIDTH="413" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">柯森耀及相關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: -0.19cm"><br></p></td><td WIDTH="299" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">經濟部常務次長兼任經貿談判代表辦公室總談判代表</p></td><td WIDTH="413" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">卓士昭</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" STYLE="margin-right: -0.19cm"><br></p></td><td WIDTH="299" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院公共工程委員會副主任委員</p></td><td WIDTH="413" STYLE="border: none; padding: 0cm"><p LANG="zh-TW" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳純敬</p></td></tr></table>
+
+| 列席人員： |                                 外交部政務次長 | 柯森耀及相關人員
+| ---------- | ---------------------------------------------- | ----------------
+| 　　　　　 | 經濟部常務次長兼任經貿談判代表辦公室總談判代表 |           卓士昭
+| 　　　　　 |                 行政院公共工程委員會副主任委員 |           陳純敬
 主　　席：林召集委員郁方
-專門委員：紀珠
+專門委員：紀綉珠
 主任秘書：劉錦章
 紀　　錄：簡任秘書　趙弘靜
 簡任編審　劉慧琪

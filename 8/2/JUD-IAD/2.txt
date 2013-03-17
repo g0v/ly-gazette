@@ -13,7 +13,33 @@
 委員出席26人
 列席委員：林佳龍　　蕭美琴　　劉建國　　邱議瑩　　陳明文　　黃偉哲　　賴士葆　　王育敏　　吳秉叡　　吳育仁　　許添財　　陳雪生　　薛　凌　　盧秀燕　　林德福　　田秋堇　　李桐豪　　孔文吉　　徐耀昌　　馬文君　　陳歐珀　　林世嘉　　蔣乃辛　　江惠貞　　管碧玲　　蘇清泉　　陳亭妃　　林滄敏　　邱志偉　　羅明才　　鄭汝芬　　呂玉玲　　簡東明　　顏清標　　張嘉郡　　陳鎮湘
 委員列席36人
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="337"><col WIDTH="374"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部部長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李鴻源</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部警政署署長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王卓鈞</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部營建署副署長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許文龍</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部消防署署長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">葉吉堂</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部役政署署長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">林國演</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部入出國及移民署署長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝立功</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">中央警察大學校長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">謝秀能</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部建築研究所所長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">何明錦</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部空中勤務總隊總隊長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">龔昶仁</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部兒童局主任秘書</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳坤皇</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部土地重劃工程處處長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">李舜民</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部國土測繪中心主任</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">劉正倫</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院大陸委員會主任委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王郁琦</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.74cm; margin-right: 0.19cm">副主任委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">劉德勳</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院研究發展考核委員會副主任委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">戴豪君</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院人事行政總處副人事長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">顏秋來</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">銓部常務次長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">其梅</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">蒙藏委員會參事兼主任秘書</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳明仁</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">外交部條約法律司科長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳首翰</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國防部作戰及計畫參謀次長室助理次長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">曾復興</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">僑務委員會僑民處專門委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">薛台君</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">中央選舉委員會法政處處長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">賴錦珖</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院災害防救辦公室參議</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王吉良</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國家安全局國內處副處長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">王春益</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="337" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處公務預算處專門委員</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">許永議</p></td></tr></table>
+
+| 列席官員： |                         內政部部長 | 李鴻源
+| ---------- | ---------------------------------- | ------
+| 　　　　　 |                   內政部警政署署長 | 王卓鈞
+| 　　　　　 |                 內政部營建署副署長 | 許文龍
+| 　　　　　 |                   內政部消防署署長 | 葉吉堂
+| 　　　　　 |                   內政部役政署署長 | 林國演
+| 　　　　　 |           內政部入出國及移民署署長 | 謝立功
+| 　　　　　 |                   中央警察大學校長 | 謝秀能
+| 　　　　　 |               內政部建築研究所所長 | 何明錦
+| 　　　　　 |           內政部空中勤務總隊總隊長 | 龔昶仁
+| 　　　　　 |               內政部兒童局主任秘書 | 陳坤皇
+| 　　　　　 |           內政部土地重劃工程處處長 | 李舜民
+| 　　　　　 |             內政部國土測繪中心主任 | 劉正倫
+| 　　　　　 |           行政院大陸委員會主任委員 | 王郁琦
+| 　　　　　 |                         副主任委員 | 劉德勳
+| 　　　　　 | 行政院研究發展考核委員會副主任委員 | 戴豪君
+| 　　　　　 |         行政院人事行政總處副人事長 | 顏秋來
+| 　　　　　 |                     銓敍部常務次長 | 凃其梅
+| 　　　　　 |           蒙藏委員會參事兼主任秘書 | 陳明仁
+| 　　　　　 |               外交部條約法律司科長 | 陳首翰
+| 　　　　　 | 國防部作戰及計畫參謀次長室助理次長 | 曾復興
+| 　　　　　 |           僑務委員會僑民處專門委員 | 薛台君
+| 　　　　　 |           中央選舉委員會法政處處長 | 賴錦珖
+| 　　　　　 |           行政院災害防救辦公室參議 | 王吉良
+| 　　　　　 |             國家安全局國內處副處長 | 王春益
+| 　　　　　 |   行政院主計總處公務預算處專門委員 | 許永議
 主　　席：廖召集委員正井
 專門委員：陳清雲
 主任秘書：劉彥麟
@@ -38,17 +64,17 @@
 (一)草案名稱、第一條、第二條、第五條至第九條、第十一條，均照案通過。
 (二)草案第三條，照案通過; 並註記在場委員七人（不含主席），第五款、第七款、第八款，經記名表決如下：
 1.第五款：
-照委員吳宜臻等3人之修正動議，刪除第五款，贊成三人：陳其邁、吳宜臻、尤美女，反對四人：李貴敏、邱文彥、張慶忠、吳育昇。
-表決結果：照行政院提案通過。
+（1）照委員吳宜臻等3人之修正動議，刪除第五款，贊成三人：陳其邁、吳宜臻、尤美女，反對四人：李貴敏、邱文彥、張慶忠、吳育昇。
+（2）表決結果：照行政院提案通過。
 2.第七款：
-照委員林正二等7人之修正動議：「蒙族、藏（圖博）族及少數民族事務之政策研究、法規、規劃及交流、聯繫、服務。」贊成：無。
-照委員吳宜臻等3人、尤美女等5人及潘孟安等3人之修正動議，刪除第七款，贊成三人：陳其邁、吳宜臻、尤美女。
-照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
-表決結果：照行政院提案通過。
+（1）照委員林正二等7人之修正動議：「蒙族、藏（圖博）族及少數民族事務之政策研究、法規、規劃及交流、聯繫、服務。」贊成：無。
+（2）照委員吳宜臻等3人、尤美女等5人及潘孟安等3人之修正動議，刪除第七款，贊成三人：陳其邁、吳宜臻、尤美女。
+（3）照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
+（4）表決結果：照行政院提案通過。
 3.第八款：
-照委員吳宜臻等3人、尤美女等5人及潘孟安等3人之修正動議，刪除第八款，贊成三人：陳其邁、吳宜臻、尤美女。
-照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
-表決結果：照行政院提案通過。
+（1）照委員吳宜臻等3人、尤美女等5人及潘孟安等3人之修正動議，刪除第八款，贊成三人：陳其邁、吳宜臻、尤美女。
+（2）照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
+（3）表決結果：照行政院提案通過。
 (三)委員尤美女等5人所提草案第三條增列第七款、第八款之修正動議，保留，送院會處理。
 (四)草案第四條及委員吳宜臻等3人所提修正動議，均保留，送院會處理。
 (五)草案第十條及委員潘孟安等3人、鄭天財等3人所提修正動議，均保留，送院會處理。
@@ -63,13 +89,13 @@
 (一)草案名稱、第一條、第三條至第九條，均照行政院提案通過。
 (二)草案第二條，除第六款照委員王育敏等25人提案通過外，餘照行政院提案通過; 並註記在場委員六人（不含主席），第五款、第六款，經記名表決如下：
 1.第五款：
-照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
-照委員尤美女等6人之修正動議，將「集會遊行」等字修正為「保障集會遊行」，贊成二人：尤美女、吳宜臻。
-表決結果：照行政院提案通過。
+（1）照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
+（2）照委員尤美女等6人之修正動議，將「集會遊行」等字修正為「保障集會遊行」，贊成二人：尤美女、吳宜臻。
+（3）表決結果：照行政院提案通過。
 2.第六款：
-照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
-照委員尤美女等6人之修正動議，將「保護婦幼安全」修正為「保障婦幼安全」，贊成二人：吳宜臻、尤美女。
-表決結果：照行政院提案，維持第六款條文中「保護婦幼安全」等字。
+（1）照行政院提案，贊成四人：李貴敏、邱文彥、張慶忠、吳育昇。
+（2）照委員尤美女等6人之修正動議，將「保護婦幼安全」修正為「保障婦幼安全」，贊成二人：吳宜臻、尤美女。
+（3）表決結果：照行政院提案，維持第六款條文中「保護婦幼安全」等字。
 (三)通過附帶決議2項：
 1.按警政署統計數據，今（101）年1至8月份酒駕違規取締8萬7,591 件，其中移送法辦3萬6,693件，酒駕肇事造成253人死亡，嚴重危害民眾交通安全，更造成家庭悲劇。
 呼籲中央及地方政府首長、民意代表不要關說警察取締民眾酒駕違規案件，支持警察嚴正執法，讓全民反酒駕共識能澈底落實執行。
@@ -249,46 +275,46 @@
 呂委員學樟：現在內政部的主任秘書是十二職等，這樣會不會造成將來內政部要去督導五都或縣市首長時，變成是低職等的人去督導高職等的人？人家會理嗎？會不會造成這樣的問題？
 李部長鴻源：確實會造成這樣的困擾，不過現在行政院每個部會都是這樣安排，不止是內政部。
 呂委員學樟：所以針對這部分，請銓敘部涂次長來說明一下。涂次長，針對這個部分，要如何解決？低職等的要去督導、考核高職等的，不是很奇怪嗎？要協調的時候，人家會理嗎？你如何解決這個問題？
-主席：請銓敘部次長說明。
-次長其梅：主席、各位委員。確實有這樣的情況，但是牽一髮而動全身，對於這個部分，我們要就整體的衡平性來考量。
+主席：請銓敘部凃次長說明。
+凃次長其梅：主席、各位委員。確實有這樣的情況，但是牽一髮而動全身，對於這個部分，我們要就整體的衡平性來考量。
 呂委員學樟：你不要講那個屁話！什麼叫衡平性？你要說出很實際的做法，告訴我你們要怎麼做，你們要怎麼打算？
-次長其梅：有，關於職務列等的調整案，我們……
+凃次長其梅：有，關於職務列等的調整案，我們……
 呂委員學樟：你要怎麼調整？現在怎麼調整？
-次長其梅：現在因為牽涉到的層面滿廣的……
+凃次長其梅：現在因為牽涉到的層面滿廣的……
 呂委員學樟：朱立倫要怎麼調整？
-次長其梅：因為牽涉層面很廣，所以這部分……
+凃次長其梅：因為牽涉層面很廣，所以這部分……
 呂委員學樟：當然很廣，你們現在要怎麼做？要提高職等，還是……
-次長其梅：因為牽涉層面很廣，所以這部分除了銓敘部以外，我們還邀請人事總處、研考會等一起商討，我們有一個工作小組，等我們定完辦法以後，會送到考試院，甚至會跟行政院來協商。
+凃次長其梅：因為牽涉層面很廣，所以這部分除了銓敘部以外，我們還邀請人事總處、研考會等一起商討，我們有一個工作小組，等我們定完辦法以後，會送到考試院，甚至會跟行政院來協商。
 呂委員學樟：那你們的規畫是怎麼樣？要如何解決這個問題？
-次長其梅：目前辦法還沒有推出來，我們還在研究之中。
+凃次長其梅：目前辦法還沒有推出來，我們還在研究之中。
 呂委員學樟：要研究到什麼時候？
-次長其梅：原則上第一階段可能會到行政院……
+凃次長其梅：原則上第一階段可能會到行政院……
 呂委員學樟：現在這個問題已經迫在眉稍，已經擺在眼前了！
-次長其梅：原則上可能會在行政院組改完以後，大勢底定以後，我們就會統一來規劃。
+凃次長其梅：原則上可能會在行政院組改完以後，大勢底定以後，我們就會統一來規劃。
 呂委員學樟：是不是可以利用現在正在審訂組織法，你就把主任秘書提高一個職等，變成十三職等？
-次長其梅：因為這部分涉及的不是只有一個單一職位，可能……
+凃次長其梅：因為這部分涉及的不是只有一個單一職位，可能……
 呂委員學樟：那就最新的29個部會所有主任秘書都加一個職等，可不可以？
-次長其梅：這部分確實不是只以一個單一的職位來考量，實際上涉及的職位不止是在中央部會，在地方也都有。
+凃次長其梅：這部分確實不是只以一個單一的職位來考量，實際上涉及的職位不止是在中央部會，在地方也都有。
 呂委員學樟：現在就很亂嘛！低職等的去督導、考核高職等的，去居中協調，人家也不願意理。目前遇到的問題就是這樣，我們現在正在修組織法，組織法就是在定組織的定位，如果自己的組織法都把自己定位為低階的人，那要怎麼去督導人家？是不是？我問了老半天，你還是沒有答案。
-次長其梅：我們確實在考量。
+凃次長其梅：我們確實在考量。
 呂委員學樟：你考量什麼？
-次長其梅：我們在研究，還沒有一個定案。
+凃次長其梅：我們在研究，還沒有一個定案。
 呂委員學樟：「我們」是哪些人？
-次長其梅：包括我們銓敘部，還包括財主單位、研考會、人事總處，我們有一個小組在研究。研究完了以後，部裡有定案，會送到考試院，由於這部分牽涉的層面很廣，所以我們可能還要再跟行政院協商。
+凃次長其梅：包括我們銓敘部，還包括財主單位、研考會、人事總處，我們有一個小組在研究。研究完了以後，部裡有定案，會送到考試院，由於這部分牽涉的層面很廣，所以我們可能還要再跟行政院協商。
 呂委員學樟：朝哪個方向走？是從最高十三職等變成十四職等或十五職等？還是重新調高？還是最高十四職等變成十五職等？還是在各部會裡面重新排序，重新定位？還是要怎樣？
-次長其梅：大概有幾個規劃的……
+凃次長其梅：大概有幾個規劃的……
 呂委員學樟：最起碼中央部會不要發生低階的去管高階的事情吧！
-次長其梅：目前我們有一個規劃構想，包括……
+凃次長其梅：目前我們有一個規劃構想，包括……
 呂委員學樟：現在有點紊亂。
-次長其梅：針對委員提到的主任秘書和業務的司、處，我們有規劃要進行調整。
+凃次長其梅：針對委員提到的主任秘書和業務的司、處，我們有規劃要進行調整。
 呂委員學樟：我之前有建議各部會的主任秘書變成十三職等，最起碼是十二到十三。
-次長其梅：目前我們有這樣的規劃。
+凃次長其梅：目前我們有這樣的規劃。
 呂委員學樟：可是後來就不了了之，原來說好了，後來又是一句話就把它撤掉了，到底是要還是不要？我認為可以利用修組織法和組改的過程來讓職等的排序合理化。
-次長其梅：是。
+凃次長其梅：是。
 呂委員學樟：如果沒有合理化，就會變得很紊亂。
-次長其梅：對，我贊成。
+凃次長其梅：對，我贊成。
 呂委員學樟：文官體制整個都變得很紊亂。
-次長其梅：是，我贊同委員的意見。謝謝。
+凃次長其梅：是，我贊同委員的意見。謝謝。
 主席：第四條通過，請問各位，有無異議？（無）無異議，通過。
 現行條文第二條、第三條及第四條刪除。
 針對第五條，吳委員宜臻有修正意見，好幾個委員都有提出修正意見，我們一項一項來處理。
@@ -311,9 +337,17 @@
 主席：現在進行第五條。
 關於本條有委員提出修正動議及決議。
 【修正動議】
-<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA3887750"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">內政部組織法第五條修正如下：</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>鄭天財修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院修正條文</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.54cm; margin-right: 0.19cm; text-indent: -0.35cm; margin-bottom: 0cm"><span CLASS="sd-abs-pos" STYLE=" top: 7.83cm; left: -0.09cm; width: 820px"><hr></span>第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、<u>國土及都市發展署：規劃與執行國土及都市之利用、管理、建設等事項。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、災害防救及消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、役政署：規劃與執行兵役行政及替代役事務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">五、移民署：規劃與執行有關入出國（境）及移民事務等事項。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">二、<u>國土管理署：規劃與執行國土規劃、利用及管理等事項。</u></p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">三、災害防救及消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">四、役政署：規劃與執行兵役行政及替代役事務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm">五、移民署：規劃與執行有關入出國（境）及移民事務等事項。</p></td></tr></tbody></table>
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                   內政部組織法第五條修正如下： | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                                                                                                                                                                                                                                                                                                 鄭天財修正條文 |                                                                                                                                                                                                                                                                                                                                                                                                                   行政院修正條文
+| 第五條　本部之次級機關及其業務如下：<br>一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。<br>二、國土及都市發展署：規劃與執行國土及都市之利用、管理、建設等事項。<br>三、災害防救及消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。<br>四、役政署：規劃與執行兵役行政及替代役事務等事項。<br>五、移民署：規劃與執行有關入出國（境）及移民事務等事項。 | 第五條　本部之次級機關及其業務如下：<br>一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。<br>二、國土管理署：規劃與執行國土規劃、利用及管理等事項。<br>三、災害防救及消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。<br>四、役政署：規劃與執行兵役行政及替代役事務等事項。<br>五、移民署：規劃與執行有關入出國（境）及移民事務等事項。
 提案人：鄭天財　　尤美女　　林正二
-<table WIDTH="820" CELLPADDING="3" CELLSPACING="0"><col WIDTH="403"><col WIDTH="406"><tbody><tr><td COLSPAN="2" WIDTH="814" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 1.86cm; margin-top: 0.19cm"><a NAME="TA8667675"></a><font FACE="華康楷書體W5, cursive"><font SIZE="4">內政部組織法第五條條文修正動議</font></font></p></td></tr><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm"><span CLASS="sd-abs-pos" STYLE=" top: -0.02cm; left: -0.08cm; width: 820px"><hr></span>修正條文</p></td><td WIDTH="406" STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" ALIGN="JUSTIFY" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">行政院版</p></td></tr></tbody><tbody><tr VALIGN="TOP"><td WIDTH="403" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1.50pt solid #000000; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.56cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">二、國土管理署：規劃與執行國土規劃、利用及管理等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">三、消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm; margin-bottom: 0cm">四、役政署：規劃與執行兵役行政及替代役事務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.37cm">五、移民署：規劃與執行有關入出國（境）及移民事務等事項。</p></td><td WIDTH="406" STYLE="border-top: 1px solid #000000; border-bottom: none; border-left: 1px solid #000000; border-right: 1.50pt solid #000000; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0.05cm; padding-right: 0.05cm"><p LANG="" CLASS="cjk" STYLE="margin-left: 0.19cm; margin-right: 0.19cm; margin-bottom: 0cm">第五條　本部之次級機關及其業務如下：</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">二、國土管理署：規劃與執行國土規劃、利用及管理等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">三、<u>災害防救及</u>消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm; margin-bottom: 0cm">四、役政署：規劃與執行兵役行政及替代役事務等事項。</p><p LANG="" CLASS="cjk" STYLE="margin-left: 0.93cm; margin-right: 0.19cm; text-indent: -0.74cm">五、移民署：規劃與執行有關入出國（境）及移民事務等事項。</p></td></tr></tbody></table>
+
+|                                                                                                                                                                                                                                                                                                                                                                                         內政部組織法第五條條文修正動議 | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                                                                                                                                                                                                                                                                               修正條文 |                                                                                                                                                                                                                                                                                                                                                                                                                         行政院版
+| 第五條　本部之次級機關及其業務如下：<br>一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。<br>二、國土管理署：規劃與執行國土規劃、利用及管理等事項。<br>三、消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。<br>四、役政署：規劃與執行兵役行政及替代役事務等事項。<br>五、移民署：規劃與執行有關入出國（境）及移民事務等事項。 | 第五條　本部之次級機關及其業務如下：<br>一、警政署：規劃與執行全國警察行政事務，統一指揮、監督全國警察機關，執行警察任務等事項。<br>二、國土管理署：規劃與執行國土規劃、利用及管理等事項。<br>三、災害防救及消防署：規劃與執行全國災害防救及消防行政事務，統一指揮、監督全國消防機關，執行災害防救任務等事項。<br>四、役政署：規劃與執行兵役行政及替代役事務等事項。<br>五、移民署：規劃與執行有關入出國（境）及移民事務等事項。
 提案人：黃文玲
 連署人：李俊俋　　陳其邁
 <hr>

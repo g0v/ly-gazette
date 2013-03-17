@@ -13,9 +13,12 @@
 （出席委員11人）
 列席委員：林佳龍　　楊麗環　　吳育仁　　廖正井　　段宜康　　江啟臣　　林正二　　鄭天財　　葉宜津　　黃文玲　　蔡其昌　　劉櫂豪　　盧嘉辰　　陳歐珀　　孔文吉　　吳秉叡　　賴士葆　　林世嘉　　許添財　　廖國棟　　薛　凌　　邱文彥　　盧秀燕　　李貴敏　　呂學樟　　紀國棟　　江惠貞　　蔣乃辛　　楊瓊瓔　　簡東明　　林國正　　王惠美　　高金素梅　管碧玲　　吳育昇　　林明溱　　李桐豪　　邱志偉　　林滄敏　　王進士　　蘇清泉　　蔡正元　　張慶忠　　姚文智　　呂玉玲　　徐欣瑩　　潘維剛　　黃偉哲
 （列席委員48人）
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="248"><col WIDTH="464"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席人員：</font></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">國防部部長</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">高華柱及相關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處專門委員</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳鈞富</p></td></tr></table>
+
+| 列席人員： |             國防部部長 | 高華柱及相關人員
+| ---------- | ---------------------- | ----------------
+| 　　　　　 | 行政院主計總處專門委員 |           吳鈞富
 主　　席：林召集委員郁方
-專門委員：紀珠
+專門委員：紀綉珠
 主任秘書：劉錦章
 紀　　錄：簡任秘書　趙弘靜
 簡任編審　劉慧琪

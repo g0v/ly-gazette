@@ -41,7 +41,10 @@
 委員出席14人
 列席委員：陳亭妃　　吳秉叡　　李桐豪　　楊麗環　　江啟臣　　廖正井　　林德福　　賴士葆　　盧秀燕　　許添財　　江惠貞　　鄭天財　　蔡其昌　　李昆澤　　邱文彥　　陳歐珀　　吳育仁　　黃偉哲　　黃文玲　　簡東明　　呂學樟　　徐耀昌　　薛　凌　　林正二　　潘孟安　　吳育昇　　徐欣瑩　　蘇清泉　　陳超明　　林世嘉　　蔡錦隆
 委員列席31人
-<table WIDTH="608" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="252"><col WIDTH="279"><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康中黑體, monospace"><span LANG="en-US">列席人員：</span></font></p></td><td WIDTH="252" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">教育部部長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">蔣偉寧率同有關人員</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="252" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院勞工委員會勞資關係處副處長</span></font></p></td><td WIDTH="279" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">王厚偉</span></font></p></td></tr></table>
+
+| 列席人員： |                       教育部部長 | 蔣偉寧率同有關人員
+| ---------- | -------------------------------- | ------------------
+| 　　　　　 | 行政院勞工委員會勞資關係處副處長 |             王厚偉
 主　　席：陳召集委員淑慧
 專門委員：劉其昌
 主任秘書：阮　森

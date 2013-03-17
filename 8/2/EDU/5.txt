@@ -13,7 +13,11 @@
 委員出席13人
 列席委員：徐欣瑩　　陳歐珀　　楊麗環　　江啟臣　　楊瓊瓔　　林滄敏　　李桐豪　　賴士葆　　薛　凌　　林德福　　廖正井　　鄭天財　　劉櫂豪　　蔡煌瑯　　蔡其昌　　李昆澤　　蘇清泉　　邱文彥　　黃昭順　　劉建國　　盧秀燕　　吳秉叡　　段宜康　　黃偉哲　　林正二　　廖國棟　　紀國棟　　江惠貞　　盧嘉辰　　徐耀昌　　吳育仁　　林世嘉　　簡東明　　林明溱　　許添財　　陳亭妃　　蔡錦隆　　李貴敏　　王惠美　　管碧玲　　高金素梅　呂學樟　　蕭美琴　　黃文玲　　田秋堇　　鄭汝芬　　姚文智　　羅明才
 委員列席48人
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="248"><col WIDTH="464"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席人員：</font></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">教育部部長</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">蔣偉寧率同有關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">財政部專門委員</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">李貞芳</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院主計總處專門委員</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">鄭淑芳</p></td></tr></table>
+
+| 列席人員： |             教育部部長 | 蔣偉寧率同有關人員
+| ---------- | ---------------------- | ------------------
+| 　　　　　 |         財政部專門委員 |             李貞芳
+| 　　　　　 | 行政院主計總處專門委員 |             鄭淑芳
 主　　席：鄭召集委員麗君
 專門委員：劉其昌
 主任秘書：阮　森

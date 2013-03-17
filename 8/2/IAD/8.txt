@@ -13,7 +13,13 @@
 委員出席14人
 列席委員：林佳龍　　陳歐珀　　葉宜津　　黃偉哲　　鄭天財　　蔡煌瑯　　蕭美琴　　廖正井　　王育敏　　邱議瑩　　李貴敏　　許添財　　楊瓊瓔　　林正二　　薛　凌　　陳節如　　陳鎮湘　　管碧玲　　李桐豪　　吳秉叡　　賴士葆　　盧秀燕　　江惠貞　　陳亭妃　　林世嘉　　蔡其昌　　簡東明　　邱志偉　　馬文君　　蘇清泉　　潘維剛　　徐耀昌　　李昆澤　　呂學樟　　田秋堇　　黃昭順　　廖國棟　　林德福　　林淑芬　　陳明文　　鄭麗君　　吳育仁　　陳根德　　顏清標
 委員列席44人
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="338"><col WIDTH="374"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">內政部部長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">李鴻源</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.39cm; margin-right: 0.19cm">地政司司長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">蕭輔導</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.39cm; margin-right: 0.19cm">科長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">游適銘</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.39cm; margin-right: 0.19cm">營建署署長</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">葉世文</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="338" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.39cm; margin-right: 0.19cm">資訊中心主任</p></td><td WIDTH="374" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">沈金祥</p></td></tr></table>
+
+| 列席官員： |   內政部部長 | 李鴻源
+| ---------- | ------------ | ------
+| 　　　　　 |   地政司司長 | 蕭輔導
+| 　　　　　 |         科長 | 游適銘
+| 　　　　　 |   營建署署長 | 葉世文
+| 　　　　　 | 資訊中心主任 | 沈金祥
 主　　席：姚召集委員文智
 專門委員：鄭世榮
 主任秘書：李秋美
@@ -1981,7 +1987,7 @@
 3.繼續協助外交部、內政部入出國及移民署審核海外藏僧來臺簽證與大陸藏傳佛教專業人士入臺許可之申請。賡續更新「藏傳佛學團體及在臺藏僧資料管理系統」，促進藏傳佛教在臺健全發展。
 4.核發獎助學金，鼓勵在臺藏籍學子努力向學，培養優秀藏籍人才。
 5.鼓勵國內學術單位、學者、學生撰寫蒙藏研究論文或從事研究，提升藏學研究風氣，培養藏學研究人才。
-、102年度預算配合施政計畫編列情形
+叁、102年度預算配合施政計畫編列情形
 本會依行政院核定之歲出預算額度，本於零基預算精神，檢討本會各項業務基本需求之優先緩急及實施效益，編定102年度預算，其重點說明如下：
 一、歲入部分
 歲入預算編列2萬元，較上（101）年度增加5千元，主要係增列出版品出售收入5千元。

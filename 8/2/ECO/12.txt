@@ -13,7 +13,12 @@
 委員出席15人
 列席委員：林佳龍　　孔文吉　　廖正井　　李桐豪　　賴士葆　　薛　凌　　蕭美琴　　紀國棟　　林明溱　　江啟臣　　李昆澤　　鄭天財　　許添財　　吳秉叡　　楊麗環　　陳亭妃　　陳歐珀　　吳育仁　　林世嘉　　林德福　　劉櫂豪　　盧嘉辰　　盧秀燕　　林正二　　李貴敏　　蔣乃辛　　邱文彥　　張慶忠　　江惠貞　　吳育昇　　蘇清泉　　邱志偉　　許智傑　　黃文玲　　馬文君　　田秋堇　　蔡錦隆　　王惠美　　葉宜津　　王進士　　呂學樟　　陳超明　　高金素梅　顏清標　　楊　曜　　呂玉玲　　羅明才　　魏明谷　　徐欣瑩　　孫大千　　陳碧涵　　蔡其昌　　翁重鈞　　林淑芬　　潘孟安　　陳淑慧　　張曉風
 委員列席57人
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="248"><col WIDTH="464"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席官員：</font></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">經濟部部長</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">施顏祥</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">政務次長</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">梁國新暨相關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-right: 0.19cm">行政院主計總處專門委員</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">潘清鴻</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="248" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.37cm; margin-right: 0.19cm">科長</p></td><td WIDTH="464" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">巫忠信</p></td></tr></table>
+
+| 列席官員： |             經濟部部長 |           施顏祥
+| ---------- | ---------------------- | ----------------
+| 　　　　　 |               政務次長 | 梁國新暨相關人員
+| 　　　　　 | 行政院主計總處專門委員 |           潘清鴻
+| 　　　　　 |                   科長 |           巫忠信
 主　　席：林召集委員滄敏
 專門委員：黃素惠
 主任秘書：鄧陽僖

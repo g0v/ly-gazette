@@ -14,9 +14,14 @@
 請假委員：邱議瑩
 列席委員：葉宜津　　楊麗環　　李貴敏　　林佳龍　　鄭天財　　吳秉叡　　孔文吉　　許添財　　江啟臣　　盧秀燕　　李桐豪　　邱志偉　　陳歐珀　　江惠貞　　邱文彥　　黃偉哲　　蔣乃辛　　黃文玲　　徐耀昌　　簡東明　　陳其邁　　呂學樟　　林正二　　吳育昇　　田秋堇　　蔡其昌　　張曉風　　徐欣瑩　　蘇清泉　　林世嘉　　蔡錦隆　　劉建國　　吳育仁　　廖正井
 （列席委員34人）
-<table WIDTH="608" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="198"><col WIDTH="333"><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康中黑體, monospace"><span LANG="en-US">列席人員：</span></font></p></td><td WIDTH="198" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">外交部部長</span></font></p></td><td WIDTH="333" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">林永樂及相關人員</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="198" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院大陸委員會副主任委員</span></font></p></td><td WIDTH="333" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">劉德勳</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="198" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">僑務委員會委員長</span></font></p></td><td WIDTH="333" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">吳英毅及相關人員</span></font></p></td></tr><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western"><br></p></td><td WIDTH="198" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">行政院主計總處專門委員</span></font></p></td><td WIDTH="333" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">黃鴻文</span></font></p></td></tr></table>
+
+| 列席人員： |                 外交部部長 | 林永樂及相關人員
+| ---------- | -------------------------- | ----------------
+| 　　　　　 | 行政院大陸委員會副主任委員 |           劉德勳
+| 　　　　　 |           僑務委員會委員長 | 吳英毅及相關人員
+| 　　　　　 |     行政院主計總處專門委員 |           黃鴻文
 主　　席：陳召集委員亭妃
-專門委員：紀珠
+專門委員：紀綉珠
 主任秘書：劉錦章
 紀　　錄：簡任秘書　趙弘靜
 簡任編審　劉慧琪

@@ -15,9 +15,11 @@
 請假委員：邱議瑩
 列席委員：李貴敏　　楊麗環　　李昆澤　　廖正井　　林佳龍　　盧嘉辰　　林正二　　管碧玲　　鄭天財　　李桐豪　　江惠貞　　江啟臣　　紀國棟　　賴士葆　　邱文彥　　林明溱　　蘇清泉　　許添財　　王進士　　劉櫂豪　　簡東明　　黃文玲　　蔡其昌　　姚文智　　呂學樟　　陳歐珀　　徐欣瑩　　高金素梅　黃偉哲　　王惠美
 （列席委員30人）
-<table WIDTH="608" CELLPADDING="2" CELLSPACING="0"><col WIDTH="66"><col WIDTH="153"><col WIDTH="377"><tr><td WIDTH="66" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" STYLE="margin-right: -0.07in"><font FACE="華康中黑體, monospace"><span LANG="en-US">列席人員：</span></font></p></td><td WIDTH="153" VALIGN="TOP" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="JUSTIFY" STYLE="margin-left: 0.01in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">國防部副部長</span></font></p></td><td WIDTH="377" STYLE="border: none; padding: 0in"><p CLASS="western" ALIGN="LEFT" STYLE="margin-left: 0.07in; margin-right: 0.07in"><font FACE="華康細明體, monospace"><span LANG="en-US">高廣圻及相關人員</span></font></p></td></tr></table>
+
+| 列席人員： | 國防部副部長 | 高廣圻及相關人員
+| ---------- | ------------ | ----------------
 主　　席：林召集委員郁方
-專門委員：紀珠
+專門委員：紀綉珠
 主任秘書：劉錦章
 紀　　錄：簡任秘書　趙弘靜
 簡任編審　劉慧琪

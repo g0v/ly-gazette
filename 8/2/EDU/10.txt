@@ -14,7 +14,13 @@
 委員出席14人
 列席委員：林德福　　江啟臣　　吳秉叡　　劉建國　　蕭美琴　　姚文智　　費鴻泰　　陳雪生　　廖國棟　　廖正井　　李貴敏　　陳明文　　黃偉哲　　黃文玲　　李昆澤　　盧秀燕　　陳歐珀　　李桐豪　　田秋堇　　許添財　　邱文彥　　賴士葆　　吳育仁　　蔡煌瑯　　林世嘉　　薛　凌　　江惠貞　　林正二　　呂學樟　　徐耀昌　　蘇清泉　　林滄敏　　管碧玲　　徐欣瑩　　蔡錦隆　　陳亭妃　　鄭汝芬　　蔡其昌　　羅明才　　吳育昇　　王惠美　　簡東明　　顏清標　　潘孟安　　高金素梅
 委員列席45人
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="307"><col WIDTH="405"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席人員：</font></p></td><td WIDTH="307" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">教育部部長</p></td><td WIDTH="405" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">蔣偉寧率同有關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="307" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院國家科學委員會主任委員</p></td><td WIDTH="405" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">朱敬一率同有關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="307" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院青年輔導委員會主任委員</p></td><td WIDTH="405" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">陳以真率同有關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="307" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院經濟建設委員會副主任委員</p></td><td WIDTH="405" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">吳明機率同有關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="307" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">行政院勞工委員會主任秘書</p></td><td WIDTH="405" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: 0.19cm; margin-right: 0.19cm">黃秋桂</p></td></tr></table>
+
+| 列席人員： |                     教育部部長 | 蔣偉寧率同有關人員
+| ---------- | ------------------------------ | ------------------
+| 　　　　　 |   行政院國家科學委員會主任委員 | 朱敬一率同有關人員
+| 　　　　　 |   行政院青年輔導委員會主任委員 | 陳以真率同有關人員
+| 　　　　　 | 行政院經濟建設委員會副主任委員 | 吳明機率同有關人員
+| 　　　　　 |       行政院勞工委員會主任秘書 |             黃秋桂
 主　　席：鄭召集委員麗君
 專門委員：劉其昌
 主任秘書：阮　森

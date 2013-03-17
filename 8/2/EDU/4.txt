@@ -13,7 +13,10 @@
 委員出席13人
 列席委員：薛　凌　　林德福　　江啟臣　　吳秉叡　　鄭天財　　段宜康　　李桐豪　　楊瓊瓔　　吳育仁　　盧秀燕　　廖正井　　劉櫂豪　　黃昭順　　陳明文　　管碧玲　　王進士　　許添財　　楊麗環　　蕭美琴　　李昆澤　　黃偉哲　　劉建國　　賴士葆　　陳歐珀　　林正二　　姚文智　　江惠貞　　紀國棟　　邱文彥　　林明溱　　徐欣瑩　　簡東明　　吳育昇　　蔡錦隆　　費鴻泰　　陳亭妃　　林國正　　林世嘉　　蘇清泉　　王惠美　　李貴敏　　高金素梅　黃文玲　　羅明才　　蔡其昌　　林滄敏　　呂學樟　　鄭汝芬　　潘孟安　　徐耀昌
 委員列席50人
-<table WIDTH="818" CELLPADDING="3" CELLSPACING="0"><col WIDTH="88"><col WIDTH="144"><col WIDTH="568"><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" STYLE="margin-right: -0.19cm"><font FACE="華康中黑體, monospace">列席人員：</font></p></td><td WIDTH="144" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm">文化部部長</p></td><td WIDTH="568" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm">龍應台率同有關人員</p></td></tr><tr><td WIDTH="88" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk"><br></p></td><td WIDTH="144" VALIGN="TOP" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="JUSTIFY" STYLE="margin-left: 0.02cm; margin-right: 0.19cm"><br></p></td><td WIDTH="568" STYLE="border: none; padding: 0cm"><p LANG="" CLASS="cjk" ALIGN="LEFT" STYLE="margin-left: -0.19cm; margin-right: 0.19cm"><br></p></td></tr></table>
+
+| 列席人員： | 文化部部長 | 龍應台率同有關人員
+| ---------- | ---------- | ------------------
+| 　　　　　 | 　　　　　 | 　　　　　　　　　
 主　　席：鄭召集委員麗君
 專門委員：劉其昌
 主任秘書：阮　森
